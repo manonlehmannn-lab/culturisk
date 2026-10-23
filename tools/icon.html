@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Culturisk — icône</title>
+  <!-- Rendu de l'icône d'application (capturée en PNG par tools/make-icons.sh). ?safe=1 : version « maskable ». -->
+  <style>
+    html, body { margin: 0; width: 1024px; height: 1024px; overflow: hidden; background: #0b0a2a; }
+    svg { display: block; }
+  </style>
+</head>
+<body>
+  <script type="module">
+    import { ringSegments } from '../js/ui/art.js';
+    const safe = new URLSearchParams(location.search).has('safe');
+    const s = safe ? 0.72 : 0.9; // zone de sécurité des icônes « maskable »
+    document.body.innerHTML = `<svg width="1024" height="1024" viewBox="0 0 200 200">
+      <defs>
+        <radialGradient id="bg" cx="38%" cy="28%" r="85%">
+          <stop offset="0" stop-color="#3b2a9e"/><stop offset=".55" stop-color="#16124a"/><stop offset="1" stop-color="#090824"/>
+        </radialGradient>
+        <radialGradient id="buzz" cx="40%" cy="34%" r="70%">
+          <stop offset="0" stop-color="#fff8dc"/><stop offset=".42" stop-color="#ffd25a"/><stop offset="1" stop-color="#ee8418"/>
+        </radialGradient>
+        <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+          <stop offset="0" stop-color="#ffcf5a" stop-opacity=".5"/><stop offset="1" stop-color="#ffcf5a" stop-opacity="0"/>
+        </radialGradient>
+        <filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="2.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+      </defs>
+      <rect width="200" height="200" fill="url(#bg)"/>
+      <g opacity=".08">${Array.from({ length: 24 }, (_, i) => `<path d="M100 100 L${100 + 160 * Math.cos((i * 15 * Math.PI) / 180)} ${100 + 160 * Math.sin((i * 15 * Math.PI) / 180)} L${100 + 160 * Math.cos(((i * 15 + 6) * Math.PI) / 180)} ${100 + 160 * Math.sin(((i * 15 + 6) * Math.PI) / 180)}Z" fill="#fff"/>`).join('')}</g>
+      <g transform="translate(100 100) scale(${s}) translate(-100 -100)">
+        <circle cx="100" cy="100" r="66" fill="url(#halo)"/>
+        <g filter="url(#glow)">${ringSegments({ r: 72, width: 24, cls: 'seg' })}</g>
+        <circle cx="100" cy="100" r="41" fill="#0c0a2c"/>
+        <circle cx="100" cy="100" r="34" fill="url(#buzz)"/>
+        <ellipse cx="90" cy="87" rx="15" ry="8" fill="#fff" opacity=".55"/>
+      </g>
+    </svg>`;
+    document.body.dataset.ready = '1';
+  </script>
+</body>
+</html>

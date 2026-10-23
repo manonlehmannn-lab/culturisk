@@ -1,0 +1,10 @@
+{
+  "name": "culturisk",
+  "private": true,
+  "type": "module",
+  "description": "Quiz de culture générale à deux équipes sur un seul téléphone, 100 % hors ligne.",
+  "scripts": {
+    "test": "node tests/run.mjs",
+    "verifier": "node tools/verifier.mjs"
+  }
+}

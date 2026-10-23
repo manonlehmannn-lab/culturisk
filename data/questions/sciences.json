@@ -1,0 +1,1070 @@
+{
+  "categorie": "sciences",
+  "questions": [
+    {
+      "id": "sci-01-1",
+      "categorie": "sciences",
+      "niveau": 1,
+      "question": "Quel organe pompe le sang dans tout le corps humain ?",
+      "reponse": "Cœur",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Poumon",
+          "Poumons",
+          "Foie",
+          "Cerveau",
+          "Rein"
+        ]
+      },
+      "explication": "Le cœur est un muscle creux, à peu près de la taille d'un poing, divisé en quatre cavités : deux oreillettes et deux ventricules. Le ventricule droit envoie le sang vers les poumons pour qu'il s'y charge en oxygène, puis le ventricule gauche le propulse dans tout l'organisme. Au repos, il bat environ 60 à 80 fois par minute chez l'adulte, soit autour de 100 000 battements par jour.",
+      "anecdote": "Le cœur possède son propre stimulateur électrique, le nœud sinusal : il peut continuer à battre un moment hors du corps s'il reste alimenté en oxygène.",
+      "source": "Wikipédia (fr) — « Cœur »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-01-2",
+      "categorie": "sciences",
+      "niveau": 1,
+      "question": "Quel insecte fabrique le miel à partir du nectar des fleurs ?",
+      "reponse": "Abeille",
+      "variantes": [
+        "Abeille mellifère",
+        "Abeille domestique",
+        "Apis mellifera",
+        "Abeilles"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Guêpe",
+          "Frelon",
+          "Fourmi"
+        ]
+      },
+      "explication": "Les ouvrières butinent le nectar, le stockent dans leur jabot, puis le déposent dans les alvéoles de cire de la ruche. Grâce à des enzymes et à la ventilation de leurs ailes, qui fait évaporer l'eau, le nectar se transforme peu à peu en miel. Une colonie peut compter plusieurs dizaines de milliers d'individus, organisés autour d'une seule reine pondeuse.",
+      "anecdote": "Les abeilles indiquent l'emplacement des fleurs à leurs sœurs par une « danse frétillante », décodée par Karl von Frisch, prix Nobel de médecine en 1973.",
+      "source": "Wikipédia (fr) — « Miel »",
+      "verification": {
+        "statut": "relue",
+        "note": "« Bourdon » retiré des pièges : les bourdons stockent aussi un peu de miel."
+      }
+    },
+    {
+      "id": "sci-01-3",
+      "categorie": "sciences",
+      "niveau": 1,
+      "question": "Combien de pattes possède une araignée ?",
+      "reponse": "8",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 8,
+        "tolerance": 0
+      },
+      "explication": "Les araignées ne sont pas des insectes mais des arachnides, comme les scorpions, les acariens et les tiques. Les insectes ont six pattes et un corps en trois parties, alors que celui des araignées n'en compte que deux : le céphalothorax, qui porte les pattes, et l'abdomen, au bout duquel les filières produisent la soie.",
+      "anecdote": "La plupart des araignées ont huit yeux, mais certaines espèces n'en ont que six, voire moins, et quelques espèces vivant dans les grottes n'en ont plus du tout.",
+      "source": "Wikipédia (fr) — « Araneae »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-01-4",
+      "categorie": "sciences",
+      "niveau": 1,
+      "question": "À quelle température, en degrés Celsius, l'eau bout-elle au niveau de la mer ?",
+      "reponse": "100 °C",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 100,
+        "tolerance": 0
+      },
+      "explication": "Le Suédois Anders Celsius a proposé son échelle en 1742, en prenant pour repères la fusion de la glace et l'ébullition de l'eau. Comme la température d'ébullition baisse quand la pression de l'air diminue, l'eau bout moins chaud en montagne : vers 3 000 mètres d'altitude, elle bout à environ 90 °C, ce qui allonge la cuisson des pâtes.",
+      "anecdote": "Dans sa version d'origine, l'échelle de Celsius était inversée : 0 désignait l'ébullition de l'eau et 100 la fusion de la glace. Elle a été retournée peu après sa mort.",
+      "source": "Wikipédia (fr) — « Degré Celsius »",
+      "verification": {
+        "statut": "relue",
+        "note": "Doute tranché : vers 3 000 m l'eau bout à environ 90 °C."
+      }
+    },
+    {
+      "id": "sci-02-1",
+      "categorie": "sciences",
+      "niveau": 2,
+      "question": "Quelle planète est surnommée la planète rouge ?",
+      "reponse": "Mars",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Jupiter",
+          "Vénus",
+          "Mercure",
+          "Saturne"
+        ]
+      },
+      "explication": "Sa couleur vient des oxydes de fer, une sorte de rouille, qui recouvrent ses roches et sa poussière. Son nom est celui du dieu romain de la guerre, associé au sang. Mars possède deux petites lunes, Phobos et Deimos, découvertes en 1877 par l'astronome américain Asaph Hall, et abrite Olympus Mons, le plus grand volcan connu du Système solaire.",
+      "anecdote": "Une journée martienne, appelée « sol », ne dure qu'environ 40 minutes de plus qu'une journée terrestre : 24 heures et 39 minutes.",
+      "source": "Wikipédia (fr) — « Mars (planète) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-02-2",
+      "categorie": "sciences",
+      "niveau": 2,
+      "question": "Quel astronaute américain a été le premier homme à marcher sur la Lune, en 1969 ?",
+      "reponse": "Neil Armstrong",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Buzz Aldrin",
+          "Aldrin",
+          "Michael Collins",
+          "Collins",
+          "Youri Gagarine",
+          "Gagarine",
+          "Louis Armstrong"
+        ],
+        "nomSeul": true
+      },
+      "explication": "Il a posé le pied sur la Lune le 21 juillet 1969 à 2 h 56 UTC, lors de la mission Apollo 11, soit encore le 20 juillet au soir aux États-Unis. Buzz Aldrin l'a rejoint une vingtaine de minutes plus tard, tandis que Michael Collins restait en orbite lunaire. Au total, douze astronautes ont marché sur la Lune entre 1969 et 1972.",
+      "source": "Wikipédia (fr) — « Neil Armstrong »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul: true (Louis Armstrong est en piège, l'énoncé lève l'ambiguïté)."
+      }
+    },
+    {
+      "id": "sci-02-3",
+      "categorie": "sciences",
+      "niveau": 2,
+      "question": "Quel félin est l'animal terrestre le plus rapide ?",
+      "reponse": "Guépard",
+      "variantes": [
+        "Acinonyx jubatus"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Léopard",
+          "Lion",
+          "Jaguar",
+          "Panthère",
+          "Lévrier",
+          "Puma"
+        ]
+      },
+      "explication": "Le guépard peut dépasser 90 km/h en pointe et atteindre sa vitesse maximale en quelques secondes. Ce sprint épuisant ne dure que quelques centaines de mètres : l'animal doit ensuite reprendre son souffle avant de manger. Sa colonne vertébrale très souple, ses longues pattes et sa queue, qui lui sert de balancier dans les virages, en font un chasseur taillé pour la vitesse.",
+      "anecdote": "Contrairement au lion, le guépard ne rugit pas : il ronronne, miaule et pousse des cris aigus qui ressemblent à des gazouillis d'oiseau.",
+      "source": "Wikipédia (fr) — « Guépard »",
+      "verification": {
+        "statut": "relue",
+        "note": "Doute tranché : « peut dépasser 90 km/h » est une formulation prudente et exacte."
+      }
+    },
+    {
+      "id": "sci-02-4",
+      "categorie": "sciences",
+      "niveau": 2,
+      "question": "Quel est le plus grand organe du corps humain ?",
+      "reponse": "Peau",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Foie",
+          "Intestin",
+          "Intestin grêle",
+          "Poumon",
+          "Poumons",
+          "Cerveau"
+        ]
+      },
+      "explication": "Chez l'adulte, la peau couvre environ 1,5 à 2 m² et pèse plusieurs kilos. Elle forme une barrière contre les microbes, limite la perte d'eau, aide à réguler la température grâce à la transpiration et produit de la vitamine D sous l'effet du soleil. Sa couche superficielle, l'épiderme, se renouvelle sans cesse : nous perdons chaque jour des millions de cellules mortes.",
+      "source": "Wikipédia (fr) — « Peau »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-03-1",
+      "categorie": "sciences",
+      "niveau": 3,
+      "question": "Quelle planète est la plus proche du Soleil ?",
+      "reponse": "Mercure",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Vénus",
+          "Mars",
+          "Terre"
+        ]
+      },
+      "explication": "Mercure fait le tour du Soleil en seulement 88 jours, à une distance moyenne d'environ 58 millions de kilomètres. Faute d'atmosphère épaisse pour retenir la chaleur, sa surface passe d'environ 430 °C le jour à près de −180 °C la nuit. C'est aussi la plus petite planète du Système solaire, un peu plus grande que la Lune.",
+      "anecdote": "Malgré sa proximité avec le Soleil, ce n'est pas la planète la plus chaude : Vénus, étouffée par un effet de serre intense, l'est davantage, avec environ 460 °C.",
+      "source": "Wikipédia (fr) — « Mercure (planète) »",
+      "verification": {
+        "statut": "relue",
+        "note": "« À peine plus grande que la Lune » corrigé en « un peu plus grande » (diamètre environ 1,4 fois celui de la Lune)."
+      }
+    },
+    {
+      "id": "sci-03-2",
+      "categorie": "sciences",
+      "niveau": 3,
+      "question": "Combien d'os compte le squelette d'un adulte humain ?",
+      "reponse": "206",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 206,
+        "tolerance": 0
+      },
+      "explication": "Un nouveau-né possède environ 300 pièces osseuses, dont beaucoup sont encore en partie cartilagineuses. Au fil de la croissance, plusieurs fusionnent, notamment au niveau du crâne et du bassin, pour aboutir à 206 os chez l'adulte. Plus de la moitié se trouvent dans les mains et les pieds. Le plus long est le fémur, qui mesure environ un quart de la taille d'une personne.",
+      "anecdote": "L'os hyoïde, situé dans le cou à la base de la langue, est le seul os du corps qui ne s'articule avec aucun autre.",
+      "source": "Wikipédia (fr) — « Squelette humain »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-03-3",
+      "categorie": "sciences",
+      "niveau": 3,
+      "question": "Quel est le symbole chimique du sodium ?",
+      "reponse": "Na",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "exact": true,
+        "pieges": [
+          "So",
+          "S",
+          "N",
+          "Sd",
+          "Sn",
+          "Nd"
+        ]
+      },
+      "explication": "Ce symbole vient du latin natrium, dérivé du natron, un sel minéral que les Égyptiens utilisaient pour momifier les corps. Le sodium est un métal si réactif qu'il réagit violemment avec l'eau : on ne le trouve jamais pur dans la nature. Associé au chlore, il forme le chlorure de sodium, c'est-à-dire notre sel de table.",
+      "anecdote": "À l'état pur, le sodium est un métal argenté si mou qu'on peut le couper au couteau, comme du beurre froid.",
+      "source": "Wikipédia (fr) — « Sodium »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-03-4",
+      "categorie": "sciences",
+      "niveau": 3,
+      "question": "Quel gaz, rejeté par notre respiration, est le principal gaz à effet de serre émis par les activités humaines ?",
+      "reponse": "Dioxyde de carbone",
+      "variantes": [
+        "CO2",
+        "Gaz carbonique",
+        "Anhydride carbonique"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Méthane",
+          "Monoxyde de carbone",
+          "CO",
+          "Oxygène",
+          "Ozone",
+          "Vapeur d'eau",
+          "Protoxyde d'azote"
+        ]
+      },
+      "explication": "Sa concentration dans l'atmosphère a augmenté d'environ 50 % depuis le début de l'ère industrielle, principalement à cause de la combustion du charbon, du pétrole et du gaz. Elle est mesurée en continu depuis 1958 à l'observatoire du Mauna Loa, à Hawaï, à l'initiative du chercheur Charles David Keeling : la courbe obtenue porte son nom.",
+      "anecdote": "Sous forme solide, c'est la « glace carbonique » : à −78 °C, elle passe directement de l'état solide à l'état gazeux, sans jamais fondre.",
+      "source": "Wikipédia (fr) — « Dioxyde de carbone »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-04-1",
+      "categorie": "sciences",
+      "niveau": 4,
+      "question": "Quel savant anglais a énoncé la loi de la gravitation universelle en 1687 ?",
+      "reponse": "Isaac Newton",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Galilée",
+          "Kepler",
+          "Johannes Kepler",
+          "Einstein",
+          "Albert Einstein",
+          "Robert Hooke",
+          "Hooke"
+        ],
+        "nomSeul": true
+      },
+      "explication": "Newton l'a publiée dans ses « Principia Mathematica », où il montre qu'une même force explique la chute des objets sur Terre et le mouvement de la Lune et des planètes. L'histoire de la pomme vient de Newton lui-même : il l'a racontée à la fin de sa vie à son ami William Stukeley, qui l'a rapportée dans ses mémoires.",
+      "anecdote": "Newton a dirigé la Monnaie royale à Londres et y a traqué en personne les faux-monnayeurs, dont certains ont fini sur la potence.",
+      "source": "Wikipédia (fr) — « Isaac Newton »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul: true (homonymes Newton, l'énoncé lève l'ambiguïté)."
+      }
+    },
+    {
+      "id": "sci-04-2",
+      "categorie": "sciences",
+      "niveau": 4,
+      "question": "Quel médecin écossais a découvert la pénicilline en 1928 ?",
+      "reponse": "Alexander Fleming",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Louis Pasteur",
+          "Pasteur",
+          "Robert Koch",
+          "Koch",
+          "Howard Florey",
+          "Florey",
+          "Ernst Chain"
+        ],
+        "nomSeul": true
+      },
+      "explication": "De retour de vacances en septembre 1928, Alexander Fleming remarqua qu'une moisissure du genre Penicillium avait contaminé une culture de staphylocoques et empêchait les bactéries de se développer autour d'elle. Il fallut attendre les travaux d'Howard Florey et d'Ernst Chain, à Oxford, pour produire le médicament en quantité. Les trois hommes reçurent ensemble le prix Nobel de médecine en 1945.",
+      "anecdote": "Dès le début des années 1920, Fleming avait déjà découvert le lysozyme, une enzyme antibactérienne présente notamment dans les larmes et la salive.",
+      "source": "Wikipédia (fr) — « Alexander Fleming »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul: true (Ian Fleming, l'énoncé lève l'ambiguïté)."
+      }
+    },
+    {
+      "id": "sci-04-3",
+      "categorie": "sciences",
+      "niveau": 4,
+      "question": "Quel gaz représente environ 78 % de l'air que nous respirons ?",
+      "reponse": "Azote",
+      "variantes": [
+        "Diazote",
+        "N2",
+        "Nitrogène",
+        "Nitrogen"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Oxygène",
+          "Dioxygène",
+          "O2",
+          "Dioxyde de carbone",
+          "Argon",
+          "Hydrogène"
+        ]
+      },
+      "explication": "L'air sec contient environ 78 % de diazote, 21 % de dioxygène et près de 1 % d'argon. Le nom « azote » a été proposé par Lavoisier à partir du grec, au sens de « privé de vie », car ce gaz n'entretient ni la respiration ni la combustion. Il est pourtant indispensable au vivant : on le retrouve dans toutes les protéines et dans l'ADN.",
+      "source": "Wikipédia (fr) — « Azote »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-04-4",
+      "categorie": "sciences",
+      "niveau": 4,
+      "question": "Quel est le seul mammifère capable de voler en battant des ailes, comme les oiseaux ?",
+      "reponse": "Chauve-souris",
+      "variantes": [
+        "Chauves-souris",
+        "Chiroptère",
+        "Chiroptères"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Écureuil volant",
+          "Polatouche",
+          "Phalanger volant",
+          "Galéopithèque",
+          "Ptérodactyle"
+        ]
+      },
+      "explication": "Les chauves-souris forment l'ordre des chiroptères, un mot qui signifie « main ailée » : leur aile est une fine membrane de peau tendue entre des doigts très allongés. Avec plus de 1 400 espèces, elles représentent environ un mammifère sur cinq. Beaucoup chassent la nuit grâce à l'écholocation, en émettant des ultrasons dont elles analysent l'écho.",
+      "anecdote": "Les écureuils dits « volants » ne volent pas vraiment : ils planent grâce à une membrane de peau tendue entre leurs pattes avant et arrière.",
+      "source": "Wikipédia (fr) — « Chiroptera »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-05-1",
+      "categorie": "sciences",
+      "niveau": 5,
+      "question": "Quel élément chimique a pour symbole Ag ?",
+      "reponse": "Argent",
+      "variantes": [
+        "Silver"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Argon",
+          "Or",
+          "Aluminium",
+          "Arsenic",
+          "Mercure",
+          "Astate"
+        ]
+      },
+      "explication": "Le symbole vient du latin argentum. De numéro atomique 47, l'argent est le meilleur conducteur d'électricité et de chaleur de tous les métaux, devant le cuivre et l'or. Ses sels sensibles à la lumière, comme le bromure d'argent, ont longtemps servi de base à la photographie, d'où l'expression de photographie « argentique ».",
+      "anecdote": "L'Argentine doit son nom à ce métal : les premiers explorateurs espéraient trouver des gisements d'argent en remontant le Río de la Plata, le « fleuve de l'argent ».",
+      "source": "Wikipédia (fr) — « Argent »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-05-2",
+      "categorie": "sciences",
+      "niveau": 5,
+      "question": "Arrondie au millier, quelle est la vitesse de la lumière dans le vide, en kilomètres par seconde ?",
+      "reponse": "300 000 km/s",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 300000,
+        "tolerance": 300
+      },
+      "explication": "La valeur exacte est de 299 792 458 mètres par seconde. Elle est fixée par définition depuis 1983 : le mètre est la distance parcourue par la lumière dans le vide en 1/299 792 458 de seconde. La lumière du Soleil met environ 8 minutes et 20 secondes à nous parvenir, et celle de la Lune un peu plus d'une seconde.",
+      "anecdote": "En 1676, le Danois Ole Rømer a montré le premier que la lumière ne se propage pas instantanément, en observant les éclipses de Io, une lune de Jupiter.",
+      "source": "Wikipédia (fr) — « Vitesse de la lumière »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-05-3",
+      "categorie": "sciences",
+      "niveau": 5,
+      "question": "Quelle glande produit l'insuline, l'hormone qui fait baisser le taux de sucre dans le sang ?",
+      "reponse": "Pancréas",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Foie",
+          "Thyroïde",
+          "Rate",
+          "Surrénales",
+          "Hypophyse",
+          "Rein"
+        ]
+      },
+      "explication": "L'insuline est fabriquée par les cellules bêta des îlots de Langerhans, de petits amas de cellules dispersés dans le pancréas. Elle a été isolée en 1921 à Toronto par Frederick Banting et Charles Best. Dès 1922, ses injections sauvaient les premiers malades diabétiques, et Banting reçut le prix Nobel de médecine en 1923 avec John Macleod.",
+      "anecdote": "Le pancréas est une glande double : en plus de ses hormones, il déverse chaque jour dans l'intestin un suc pancréatique qui aide à digérer les aliments.",
+      "source": "Wikipédia (fr) — « Insuline »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-05-4",
+      "categorie": "sciences",
+      "niveau": 5,
+      "question": "Quelle échelle, créée en 1935 en Californie, mesure la magnitude des séismes ?",
+      "reponse": "Échelle de Richter",
+      "variantes": [
+        "Richter"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Mercalli",
+          "Échelle de Mercalli",
+          "Beaufort",
+          "Mohs",
+          "MSK",
+          "Échelle de Beaufort"
+        ]
+      },
+      "explication": "Mise au point par Charles Richter avec Beno Gutenberg, à Caltech, cette échelle est logarithmique : chaque degré correspond à des ondes dix fois plus amples et à environ 32 fois plus d'énergie libérée. Pour les très grands séismes, les sismologues utilisent désormais la magnitude de moment, plus fiable, même si le nom de Richter reste couramment employé.",
+      "anecdote": "Le séisme le plus puissant jamais enregistré a frappé le Chili, près de Valdivia, en 1960, avec une magnitude de moment de 9,5.",
+      "source": "Wikipédia (fr) — « Échelle de Richter »",
+      "verification": {
+        "statut": "relue",
+        "note": "Doute tranché : séisme de Valdivia (1960), magnitude de moment 9,5."
+      }
+    },
+    {
+      "id": "sci-06-1",
+      "categorie": "sciences",
+      "niveau": 6,
+      "question": "Quel chimiste russe a présenté en 1869 sa classification périodique des éléments ?",
+      "reponse": "Dmitri Mendeleïev",
+      "variantes": [
+        "Mendeleev",
+        "Mendeleiev",
+        "Mendeleyev",
+        "Mendelejev",
+        "Dmitri Mendeleev",
+        "Dimitri Mendeleïev",
+        "Dmitri Mendeleiev"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Mendel",
+          "Gregor Mendel",
+          "Lavoisier",
+          "Lomonossov",
+          "Meyer"
+        ]
+      },
+      "explication": "Mendeleïev a rangé les 63 éléments alors connus selon leur masse atomique et leurs propriétés, en laissant des cases vides. Il a prédit les caractéristiques d'éléments encore inconnus, confirmées par la découverte du gallium en 1875, du scandium en 1879 et du germanium en 1886. Ce succès a imposé sa classification, base du tableau périodique moderne.",
+      "anecdote": "L'élément 101, synthétisé en 1955 aux États-Unis, a été baptisé mendélévium en son honneur.",
+      "source": "Wikipédia (fr) — « Dmitri Mendeleïev »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-06-2",
+      "categorie": "sciences",
+      "niveau": 6,
+      "question": "Combien de chromosomes contient le noyau d'une cellule humaine ordinaire ?",
+      "reponse": "46",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 46,
+        "tolerance": 0
+      },
+      "explication": "Ils sont répartis en 23 paires, dont une paire de chromosomes sexuels : XX chez la femme, XY chez l'homme. Ce nombre n'a été établi qu'en 1956 par Joe Hin Tjio et Albert Levan ; on pensait auparavant qu'il y en avait 48. Les ovules et les spermatozoïdes n'en possèdent que 23, si bien que la fécondation reconstitue le total.",
+      "anecdote": "En 1959, le Français Jérôme Lejeune et ses collègues ont montré que la trisomie 21 est due à la présence d'un chromosome 21 supplémentaire.",
+      "source": "Wikipédia (fr) — « Chromosome »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-06-3",
+      "categorie": "sciences",
+      "niveau": 6,
+      "question": "Comment s'appelle le supercontinent qui réunissait presque toutes les terres émergées il y a environ 250 millions d'années ?",
+      "reponse": "Pangée",
+      "variantes": [
+        "Pangaea",
+        "Pangea"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Gondwana",
+          "Laurasia",
+          "Rodinia",
+          "Panthalassa",
+          "Atlantide"
+        ]
+      },
+      "explication": "Son nom, qui signifie « toutes les terres » en grec, a été popularisé par l'Allemand Alfred Wegener, qui défendit dès 1912 l'idée d'une dérive des continents. Faute de mécanisme convaincant, sa théorie fut longtemps rejetée, jusqu'à l'essor de la tectonique des plaques dans les années 1960. La fragmentation de la Pangée a notamment donné naissance à l'océan Atlantique.",
+      "anecdote": "Wegener avait remarqué que les côtes de l'Amérique du Sud et de l'Afrique s'emboîtent comme des pièces de puzzle, et qu'on y trouve les mêmes fossiles.",
+      "source": "Wikipédia (fr) — « Pangée »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-06-4",
+      "categorie": "sciences",
+      "niveau": 6,
+      "question": "Quel ingénieur écossais a donné son nom à l'unité de puissance ?",
+      "reponse": "James Watt",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "James Joule",
+          "Joule",
+          "Newton",
+          "Volta",
+          "Ampère",
+          "Kelvin"
+        ]
+      },
+      "explication": "James Watt n'a pas inventé la machine à vapeur, mais il l'a profondément améliorée : son condenseur séparé, breveté en 1769, réduisait fortement la consommation de charbon. Ses machines ont accompagné la révolution industrielle. Pour les vendre, il comparait leur travail à celui des chevaux, ce qui l'a conduit à définir le cheval-vapeur, encore utilisé pour les moteurs.",
+      "source": "Wikipédia (fr) — « James Watt »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-07-1",
+      "categorie": "sciences",
+      "niveau": 7,
+      "question": "Quel organite, présent dans nos cellules, produit l'essentiel de leur énergie et possède son propre ADN ?",
+      "reponse": "Mitochondrie",
+      "variantes": [
+        "Mitochondries"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Chloroplaste",
+          "Ribosome",
+          "Noyau",
+          "Appareil de Golgi",
+          "Lysosome",
+          "Réticulum endoplasmique"
+        ]
+      },
+      "explication": "Les mitochondries fabriquent l'ATP, la molécule qui sert de carburant aux cellules, grâce à la respiration cellulaire. Elles descendraient de bactéries absorbées il y a plus d'un milliard d'années par une cellule ancestrale, selon la théorie de l'endosymbiose défendue par Lynn Margulis en 1967. Chez l'être humain, l'ADN mitochondrial se transmet presque exclusivement par la mère.",
+      "source": "Wikipédia (fr) — « Mitochondrie »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-07-2",
+      "categorie": "sciences",
+      "niveau": 7,
+      "question": "Quel médecin anglais a mis au point le premier vaccin, contre la variole, en 1796 ?",
+      "reponse": "Edward Jenner",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Louis Pasteur",
+          "Pasteur",
+          "Fleming",
+          "Robert Koch",
+          "Koch"
+        ],
+        "nomSeul": true
+      },
+      "explication": "Edward Jenner avait remarqué que les trayeuses ayant attrapé la vaccine, ou variole de la vache, une maladie bénigne, semblaient protégées de la variole humaine. En 1796, il inocula du pus prélevé sur une trayeuse au jeune James Phipps, puis vérifia qu'il résistait à la variole. Le mot « vaccin » vient d'ailleurs du latin vacca, la vache.",
+      "anecdote": "Grâce à la vaccination, la variole est devenue la première maladie humaine déclarée éradiquée par l'Organisation mondiale de la santé, en 1980.",
+      "source": "Wikipédia (fr) — « Edward Jenner »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul: true (homonymes Jenner, l'énoncé lève l'ambiguïté)."
+      }
+    },
+    {
+      "id": "sci-07-3",
+      "categorie": "sciences",
+      "niveau": 7,
+      "question": "Quel physicien néo-zélandais a mis en évidence le noyau de l'atome en 1911 ?",
+      "reponse": "Ernest Rutherford",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Niels Bohr",
+          "Bohr",
+          "Thomson",
+          "J. J. Thomson",
+          "Chadwick",
+          "Hans Geiger",
+          "Geiger"
+        ]
+      },
+      "explication": "Ses collaborateurs Hans Geiger et Ernest Marsden bombardaient une fine feuille d'or avec des particules alpha. La plupart la traversaient, mais quelques-unes rebondissaient presque en arrière. Rutherford en conclut que la masse de l'atome est concentrée dans un minuscule noyau chargé positivement, entouré de beaucoup de vide. Ce modèle a ouvert la voie à la physique nucléaire.",
+      "anecdote": "Rutherford, qui se considérait avant tout comme physicien, avait reçu en 1908 le prix Nobel… de chimie, pour ses travaux sur la radioactivité.",
+      "source": "Wikipédia (fr) — « Ernest Rutherford »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-07-4",
+      "categorie": "sciences",
+      "niveau": 7,
+      "question": "Quelle unité du Système international mesure la quantité de matière ?",
+      "reponse": "Mole",
+      "variantes": [
+        "mol"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Molécule",
+          "Kilogramme",
+          "Gramme",
+          "Molarité",
+          "Candela",
+          "Kelvin"
+        ]
+      },
+      "explication": "Une mole contient exactement 6,022 140 76 × 10²³ entités, atomes ou molécules : c'est le nombre d'Avogadro, fixé par définition lors de la refonte du Système international en 2019. Cette unité fait le lien entre l'échelle des atomes et celle du laboratoire : une mole d'eau, soit environ 18 grammes, contient ce nombre gigantesque de molécules.",
+      "anecdote": "Chaque 23 octobre, de 6 h 02 à 18 h 02, des chimistes américains célèbrent le « Mole Day », clin d'œil au nombre 6,02 × 10²³.",
+      "source": "Wikipédia (fr) — « Mole (unité) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-08-1",
+      "categorie": "sciences",
+      "niveau": 8,
+      "question": "Quel métal a pour symbole chimique Sn ?",
+      "reponse": "Étain",
+      "variantes": [
+        "Tin"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Soufre",
+          "Strontium",
+          "Sodium",
+          "Sélénium",
+          "Zinc",
+          "Antimoine",
+          "Scandium"
+        ]
+      },
+      "explication": "Le symbole vient du latin stannum. Allié au cuivre, l'étain forme le bronze, dont la maîtrise a donné son nom à l'âge du bronze, il y a plus de 5 000 ans. Peu toxique et résistant à la corrosion, il sert aussi à souder les composants électroniques et à recouvrir l'acier du fer-blanc des boîtes de conserve.",
+      "anecdote": "En dessous d'environ 13 °C, l'étain blanc peut lentement se transformer en une poudre grise : ce phénomène porte le nom de « peste de l'étain ».",
+      "source": "Wikipédia (fr) — « Étain »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-08-2",
+      "categorie": "sciences",
+      "niveau": 8,
+      "question": "Quel minéral occupe le degré 1, le plus tendre, de l'échelle de dureté de Mohs ?",
+      "reponse": "Talc",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Gypse",
+          "Calcite",
+          "Diamant",
+          "Kaolin",
+          "Graphite",
+          "Craie"
+        ]
+      },
+      "explication": "Proposée en 1812 par le minéralogiste allemand Friedrich Mohs, l'échelle classe dix minéraux de référence, chacun rayant ceux qui le précèdent. Elle va du talc, que l'on raye avec l'ongle, jusqu'au diamant, au degré 10. C'est une échelle de rang et non de mesure : le diamant est bien plus de dix fois plus dur que le talc.",
+      "source": "Wikipédia (fr) — « Échelle de Mohs »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-08-3",
+      "categorie": "sciences",
+      "niveau": 8,
+      "question": "À quelle espèce de conifère appartient Hyperion, plus haut arbre vivant connu en 2024 avec plus de 115 mètres ?",
+      "reponse": "Séquoia à feuilles d'if",
+      "variantes": [
+        "Séquoia",
+        "Sequoia sempervirens",
+        "Séquoia sempervirens",
+        "Séquoia côtier",
+        "Séquoia toujours vert",
+        "Coast redwood"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Séquoia géant",
+          "Sequoiadendron",
+          "Sequoiadendron giganteum",
+          "Eucalyptus",
+          "Douglas",
+          "Sapin de Douglas",
+          "Cèdre"
+        ]
+      },
+      "explication": "Hyperion a été découvert en 2006 dans le parc national de Redwood, en Californie. Cette espèce, qui profite des brouillards marins de la côte pacifique, détient les records de hauteur, tandis que son cousin le séquoia géant, comme le célèbre General Sherman, est l'arbre le plus massif. L'emplacement exact d'Hyperion n'est pas rendu public afin de le protéger du piétinement.",
+      "source": "Wikipédia (en) — « Hyperion (tree) »",
+      "verification": {
+        "statut": "relue",
+        "note": "Doute tranché : Hyperion (Sequoia sempervirens) dépasse 115 m ; le séquoia géant est une autre espèce, piège cohérent. Variante « Redwood » retirée (ambiguë)."
+      }
+    },
+    {
+      "id": "sci-08-4",
+      "categorie": "sciences",
+      "niveau": 8,
+      "question": "Quelle biologiste américaine a dénoncé les ravages des pesticides dans « Printemps silencieux », en 1962 ?",
+      "reponse": "Rachel Carson",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Jane Goodall",
+          "Goodall",
+          "Dian Fossey",
+          "Fossey"
+        ],
+        "nomSeul": true
+      },
+      "explication": "Dans ce livre, Rachel Carson décrit les effets du DDT et d'autres pesticides sur les oiseaux, les poissons et la santé humaine. Malgré une violente campagne de l'industrie chimique, l'ouvrage connut un immense succès et contribua à la naissance du mouvement écologiste moderne. Les États-Unis interdirent l'usage agricole du DDT en 1972. Carson était morte d'un cancer dès 1964.",
+      "anecdote": "Le titre évoque un printemps imaginaire où l'on n'entend plus aucun chant d'oiseau, faute d'oiseaux survivants.",
+      "source": "Wikipédia (fr) — « Printemps silencieux »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul: true (homonymes Carson, l'énoncé lève l'ambiguïté)."
+      }
+    },
+    {
+      "id": "sci-09-1",
+      "categorie": "sciences",
+      "niveau": 9,
+      "question": "Quel élément chimique a été repéré dans la lumière du Soleil avant d'être identifié sur Terre ?",
+      "reponse": "Hélium",
+      "variantes": [
+        "He"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Hydrogène",
+          "Néon",
+          "Argon",
+          "Coronium",
+          "Sodium"
+        ]
+      },
+      "explication": "Lors de l'éclipse totale de 1868, le Français Jules Janssen observa dans le spectre du Soleil une raie jaune inconnue. L'Anglais Norman Lockyer l'attribua à un nouvel élément, baptisé d'après Hélios, le dieu grec du Soleil. Il fallut attendre 1895 pour que le chimiste écossais William Ramsay isole ce gaz sur Terre, à partir d'un minerai d'uranium.",
+      "anecdote": "C'est le deuxième élément le plus abondant de l'Univers, mais il est rare dans l'air : trop léger, il finit par s'échapper de l'atmosphère vers l'espace.",
+      "source": "Wikipédia (fr) — « Hélium »",
+      "verification": {
+        "statut": "relue",
+        "note": "Doute tranché : raie observée par Janssen lors de l'éclipse de 1868, attribuée par Lockyer à un nouvel élément ; isolé par Ramsay en 1895."
+      }
+    },
+    {
+      "id": "sci-09-2",
+      "categorie": "sciences",
+      "niveau": 9,
+      "question": "Quelle est la plus grande lune de Neptune ?",
+      "reponse": "Triton",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Titan",
+          "Néréide",
+          "Protée",
+          "Titania",
+          "Charon",
+          "Obéron"
+        ]
+      },
+      "explication": "Triton a été découvert le 10 octobre 1846 par l'Anglais William Lassell, dix-sept jours seulement après Neptune. Il tourne autour de sa planète dans le sens inverse de la rotation de celle-ci : cette orbite rétrograde suggère qu'il s'agit d'un objet de la ceinture de Kuiper capturé. En 1989, la sonde Voyager 2 y a photographié des geysers actifs.",
+      "anecdote": "Avec environ −235 °C mesurés par Voyager 2, sa surface est l'une des plus froides observées dans le Système solaire.",
+      "source": "Wikipédia (fr) — « Triton (lune) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-09-3",
+      "categorie": "sciences",
+      "niveau": 9,
+      "question": "Quel pigment respiratoire à base de cuivre donne au sang des pieuvres sa couleur bleue ?",
+      "reponse": "Hémocyanine",
+      "variantes": [
+        "Hemocyanine"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Hémoglobine",
+          "Hémérythrine",
+          "Myoglobine",
+          "Chlorophylle",
+          "Phycocyanine"
+        ]
+      },
+      "explication": "Là où notre hémoglobine utilise du fer, l'hémocyanine fixe l'oxygène grâce à des atomes de cuivre : incolore sans oxygène, elle devient bleue une fois oxygénée. On la trouve chez de nombreux mollusques, comme les pieuvres, les seiches et les escargots, ainsi que chez des arthropodes tels que les limules et beaucoup de crustacés.",
+      "anecdote": "Les pieuvres possèdent trois cœurs : deux envoient le sang vers les branchies, le troisième le fait circuler dans le reste du corps.",
+      "source": "Wikipédia (fr) — « Hémocyanine »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-09-4",
+      "categorie": "sciences",
+      "niveau": 9,
+      "question": "Quelle unité de distance astronomique vaut environ 3,26 années-lumière ?",
+      "reponse": "Parsec",
+      "variantes": [
+        "pc"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Année-lumière",
+          "Unité astronomique",
+          "UA",
+          "Mégaparsec",
+          "Kiloparsec"
+        ]
+      },
+      "explication": "Le parsec, contraction de « parallaxe-seconde », est la distance à laquelle une étoile présenterait une parallaxe d'une seconde d'arc, c'est-à-dire un minuscule décalage apparent dû au déplacement de la Terre sur son orbite. Il vaut environ 30 900 milliards de kilomètres. L'étoile la plus proche du Soleil, Proxima du Centaure, se trouve à environ 1,3 parsec.",
+      "anecdote": "Dans « La Guerre des étoiles » (1977), Han Solo se vante d'avoir couru le raid de Kessel en moins de douze parsecs, comme s'il s'agissait d'une durée.",
+      "source": "Wikipédia (fr) — « Parsec »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-10-1",
+      "categorie": "sciences",
+      "niveau": 10,
+      "question": "Quel physicien autrichien a énoncé en 1925 le principe d'exclusion qui porte son nom ?",
+      "reponse": "Wolfgang Pauli",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Heisenberg",
+          "Werner Heisenberg",
+          "Schrödinger",
+          "Erwin Schrödinger",
+          "Niels Bohr",
+          "Fermi",
+          "Linus Pauling",
+          "Pauling"
+        ]
+      },
+      "explication": "Selon ce principe, deux électrons d'un même atome ne peuvent pas se trouver dans le même état quantique. Il explique la répartition des électrons en couches, donc la structure du tableau périodique et la stabilité de la matière. Wolfgang Pauli reçut pour cette découverte le prix Nobel de physique en 1945. Il postula aussi, dès 1930, l'existence du neutrino.",
+      "anecdote": "Ses collègues plaisantaient sur un « effet Pauli » : les expériences tombaient mystérieusement en panne lorsque ce théoricien entrait dans un laboratoire.",
+      "source": "Wikipédia (fr) — « Wolfgang Pauli »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-10-2",
+      "categorie": "sciences",
+      "niveau": 10,
+      "question": "Comment appelle-t-on la discontinuité qui sépare la croûte terrestre du manteau ?",
+      "reponse": "Moho",
+      "variantes": [
+        "Discontinuité de Mohorovičić",
+        "Mohorovičić",
+        "Mohorovicic",
+        "Discontinuité de Moho"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Gutenberg",
+          "Discontinuité de Gutenberg",
+          "Lehmann",
+          "Discontinuité de Lehmann",
+          "Asthénosphère",
+          "Lithosphère",
+          "Conrad"
+        ]
+      },
+      "explication": "Elle doit son nom au sismologue croate Andrija Mohorovičić, qui l'a mise en évidence en 1909 en étudiant un séisme survenu près de Zagreb : les ondes sismiques accélèrent brusquement en passant de la croûte au manteau. Le Moho se trouve à environ 5 à 10 kilomètres de profondeur sous les océans, mais peut dépasser 70 kilomètres sous les grandes chaînes de montagnes.",
+      "anecdote": "Le projet américain Mohole visait à forer jusqu'au Moho à travers le fond océanique ; il fut abandonné en 1966, bien avant d'y parvenir.",
+      "source": "Wikipédia (fr) — « Discontinuité de Mohorovičić »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-10-3",
+      "categorie": "sciences",
+      "niveau": 10,
+      "question": "Quel élément chimique porte le numéro atomique 118 ?",
+      "reponse": "Oganesson",
+      "variantes": [
+        "Og",
+        "Ununoctium"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Tennessine",
+          "Moscovium",
+          "Nihonium",
+          "Livermorium",
+          "Oganessian",
+          "Radon"
+        ]
+      },
+      "explication": "Ses premiers atomes ont été produits en 2002 à Doubna, en Russie, par une équipe russo-américaine, avant qu'il soit officiellement nommé en 2016 en l'honneur du physicien Iouri Oganessian. Il clôt la septième période du tableau périodique. Seule une poignée d'atomes en a été obtenue, et leur demi-vie est de l'ordre de la milliseconde.",
+      "anecdote": "Oganessian est la deuxième personne, après l'Américain Glenn Seaborg, à avoir vu un élément chimique baptisé de son nom de son vivant.",
+      "source": "Wikipédia (fr) — « Oganesson »",
+      "verification": {
+        "statut": "relue",
+        "note": "Piège corrigé (« Tennessine ») ; durée de vie reformulée (demi-vie de l'ordre de la milliseconde)."
+      }
+    },
+    {
+      "id": "sci-10-4",
+      "categorie": "sciences",
+      "niveau": 10,
+      "question": "Quel astrophysicien d'origine indienne a donné son nom à la masse maximale d'une naine blanche, environ 1,4 masse solaire ?",
+      "reponse": "Subrahmanyan Chandrasekhar",
+      "variantes": [
+        "Chandrasekhar"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Eddington",
+          "Arthur Eddington",
+          "Raman",
+          "C. V. Raman",
+          "Hubble",
+          "Bose"
+        ]
+      },
+      "explication": "Chandrasekhar a établi ce résultat en 1930, à 19 ans, pendant son voyage en bateau de l'Inde vers l'Angleterre. Au-delà de cette limite, la pression des électrons ne suffit plus à empêcher l'effondrement de l'étoile. L'idée fut d'abord vivement contestée par l'astronome Arthur Eddington, avant d'être reconnue ; Chandrasekhar reçut le prix Nobel de physique en 1983.",
+      "anecdote": "Il était le neveu du physicien C. V. Raman, lui-même prix Nobel de physique en 1930 pour la découverte de l'effet qui porte son nom.",
+      "source": "Wikipédia (fr) — « Limite de Chandrasekhar »",
+      "verification": {
+        "statut": "relue",
+        "note": "Variantes « Chandra » (surnom) et « Limite de Chandrasekhar » (nom de la limite, pas de la personne) retirées."
+      }
+    }
+  ]
+}

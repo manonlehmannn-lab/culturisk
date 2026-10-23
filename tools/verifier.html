@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Culturisk — vérification de la banque</title>
+  <style>
+    body { font: 14px/1.5 ui-monospace, Menlo, monospace; margin: 24px; background: #0d0f2e; color: #e8e9ff; }
+    pre { white-space: pre-wrap; }
+  </style>
+</head>
+<body>
+  <pre id="out">Analyse de la banque…</pre>
+  <script type="module">
+    import { CATEGORY_IDS } from '../js/engine/categories.js';
+    import { verifyBank, formatReport } from './verify.js';
+    const out = document.getElementById('out');
+    try {
+      const files = await Promise.all(
+        CATEGORY_IDS.map((c) => fetch(`../data/questions/${c}.json`).then((r) => (r.ok ? r.json() : null)).catch(() => null)),
+      );
+      const report = verifyBank(files.filter(Boolean));
+      out.textContent = formatReport(report);
+      document.body.dataset.done = report.errors ? 'ko' : 'ok';
+    } catch (e) {
+      out.textContent = 'Erreur : ' + e.message;
+    }
+  </script>
+</body>
+</html>

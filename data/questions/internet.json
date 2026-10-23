@@ -1,0 +1,950 @@
+{
+  "categorie": "internet",
+  "questions": [
+    {
+      "id": "web-01-1",
+      "categorie": "internet",
+      "niveau": 1,
+      "question": "Quel réseau social Elon Musk a-t-il renommé X en juillet 2023 ?",
+      "reponse": "Twitter",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Threads",
+          "Facebook",
+          "Tumblr"
+        ]
+      },
+      "explication": "Fondé en 2006 à San Francisco, Twitter a popularisé les messages courts et les fils d'actualité en temps réel. Elon Musk l'a racheté en octobre 2022 pour environ 44 milliards de dollars, puis a remplacé le célèbre oiseau bleu par un X noir l'été suivant. Les « tweets » sont depuis officiellement devenus des « posts », même si l'ancien vocabulaire reste très employé.",
+      "anecdote": "L'oiseau du logo était surnommé Larry, en clin d'œil au basketteur Larry Bird, légende des Boston Celtics.",
+      "source": "Wikipédia (en) — « Acquisition of Twitter by Elon Musk »",
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote Larry Bird formulée comme surnom (largement rapporté)."
+      }
+    },
+    {
+      "id": "web-01-2",
+      "categorie": "internet",
+      "niveau": 1,
+      "question": "Quel plombier moustachu à casquette rouge est la mascotte de Nintendo ?",
+      "reponse": "Mario",
+      "variantes": [
+        "Super Mario"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Luigi",
+          "Wario"
+        ]
+      },
+      "explication": "Mario apparaît en 1981 dans le jeu d'arcade Donkey Kong, où il s'appelle encore Jumpman et exerce le métier de charpentier. Il devient plombier dans Mario Bros. en 1983, puis vedette de Super Mario Bros. en 1985 sur la console NES. Sa moustache et sa casquette avaient une raison pratique : avec si peu de pixels, elles évitaient de dessiner une bouche et des cheveux.",
+      "source": "Wikipédia (en) — « Mario »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-01-3",
+      "categorie": "internet",
+      "niveau": 1,
+      "question": "Quel réseau social Mark Zuckerberg a-t-il lancé en 2004 depuis sa chambre d'étudiant à Harvard ?",
+      "reponse": "Facebook",
+      "variantes": [
+        "TheFacebook"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Myspace",
+          "Meta",
+          "Instagram"
+        ]
+      },
+      "explication": "Le site s'appelait d'abord « TheFacebook » et était réservé aux étudiants de Harvard, avant de s'ouvrir à d'autres universités, puis à tout internaute de plus de 13 ans en 2006. Il a franchi le cap du milliard d'utilisateurs actifs mensuels en 2012. En 2021, l'entreprise a pris le nom de Meta, mais le réseau social a conservé le sien.",
+      "anecdote": "Le nom vient des « face books », ces annuaires illustrés de photos que des universités américaines distribuaient à leurs étudiants.",
+      "source": "Wikipédia (fr) — « Facebook »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-01-4",
+      "categorie": "internet",
+      "niveau": 1,
+      "question": "Quel jeu mobile de 2016 faisait chasser des créatures dans les rues grâce à la géolocalisation ?",
+      "reponse": "Pokémon Go",
+      "variantes": [
+        "Pokémon"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Ingress",
+          "Minecraft"
+        ]
+      },
+      "explication": "Développé par le studio américain Niantic en partenariat avec Nintendo et The Pokémon Company, le jeu sort en juillet 2016 et provoque une véritable ruée dans les parcs et les centres-villes. Il reprenait la carte d'Ingress, un précédent jeu de Niantic, dont les portails sont devenus les PokéStops et les arènes. En quelques mois, il a été téléchargé des centaines de millions de fois.",
+      "source": "Wikipédia (fr) — « Pokémon Go »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-02-1",
+      "categorie": "internet",
+      "niveau": 2,
+      "question": "Quelle plateforme de vidéos, fondée en 2005, a été rachetée par Google l'année suivante ?",
+      "reponse": "YouTube",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Dailymotion",
+          "Vimeo"
+        ]
+      },
+      "explication": "YouTube a été créé par trois anciens employés de PayPal : Chad Hurley, Steve Chen et Jawed Karim. En 2006, moins de deux ans après sa création, Google l'a racheté pour 1,65 milliard de dollars en actions. La plateforme a ensuite bouleversé la télévision, la musique et la publicité, et fait naître un nouveau métier, celui de youtubeur.",
+      "source": "Wikipédia (fr) — « YouTube »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-02-2",
+      "categorie": "internet",
+      "niveau": 2,
+      "question": "Quel jeu vidéo de construction en cubes, créé par le Suédois Markus Persson, a été racheté par Microsoft en 2014 ?",
+      "reponse": "Minecraft",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Roblox",
+          "Terraria",
+          "Fortnite"
+        ]
+      },
+      "explication": "Markus Persson, surnommé « Notch », publie une première version de Minecraft en 2009, avant la sortie officielle en 2011. Microsoft rachète son studio, Mojang, pour 2,5 milliards de dollars en 2014. Avec plus de 300 millions d'exemplaires vendus selon le chiffre annoncé en 2023, c'est le jeu vidéo le plus vendu de l'histoire.",
+      "anecdote": "Le Creeper, monstre vert explosif devenu emblème du jeu, est né d'une erreur : en modélisant un cochon, Notch avait inversé hauteur et longueur.",
+      "source": "Wikipédia (fr) — « Minecraft »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-02-3",
+      "categorie": "internet",
+      "niveau": 2,
+      "question": "Quel réseau social de partage de photos Facebook a-t-il racheté en 2012 pour un milliard de dollars ?",
+      "reponse": "Instagram",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Snapchat",
+          "Pinterest",
+          "Flickr",
+          "WhatsApp"
+        ]
+      },
+      "explication": "Lancée en octobre 2010 par Kevin Systrom et Mike Krieger, l'application n'existait d'abord que sur iPhone. Ses filtres rétro et ses photos carrées, inspirées des Polaroid, séduisent des millions d'utilisateurs en quelques mois. Facebook la rachète en avril 2012, alors que la jeune entreprise ne compte que treize salariés et ne gagne pas encore d'argent.",
+      "source": "Wikipédia (fr) — « Instagram »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-02-4",
+      "categorie": "internet",
+      "niveau": 2,
+      "question": "Quelle disposition de clavier, nommée d'après ses premières lettres, est la norme en France ?",
+      "reponse": "AZERTY",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "QWERTY",
+          "QWERTZ",
+          "BÉPO"
+        ]
+      },
+      "explication": "Le clavier AZERTY est une adaptation française du QWERTY, conçu aux États-Unis dans les années 1870 pour les machines à écrire de Christopher Latham Sholes. Chaque pays a ses variantes : la Belgique utilise un AZERTY légèrement différent. En 2019, l'Afnor a publié une nouvelle norme AZERTY qui facilite la saisie des majuscules accentuées, des guillemets français et de nombreux symboles.",
+      "source": "Wikipédia (fr) — « AZERTY »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-03-1",
+      "categorie": "internet",
+      "niveau": 3,
+      "question": "Quelle entreprise, fondée par Jeff Bezos en 1994, ne vendait à ses débuts que des livres en ligne ?",
+      "reponse": "Amazon",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "eBay",
+          "Alibaba",
+          "Fnac"
+        ]
+      },
+      "explication": "Jeff Bezos lance son entreprise dans un garage de Bellevue, près de Seattle. Les livres lui semblent idéaux pour la vente en ligne : un catalogue immense, des produits standardisés et faciles à expédier. Le site ouvre en juillet 1995, puis s'étend à la musique, aux DVD et à presque tout. Amazon est aussi devenu un géant de l'hébergement informatique avec sa filiale AWS.",
+      "anecdote": "L'entreprise s'est d'abord appelée Cadabra, un nom abandonné car il évoquait trop le mot anglais « cadaver ».",
+      "source": "Wikipédia (fr) — « Amazon (entreprise) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-03-2",
+      "categorie": "internet",
+      "niveau": 3,
+      "question": "En quelle année Steve Jobs a-t-il présenté le premier iPhone ?",
+      "reponse": "2007",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 2007,
+        "tolerance": 0
+      },
+      "explication": "Le 9 janvier 2007, à la conférence Macworld de San Francisco, Steve Jobs annonce un iPod, un téléphone et un appareil de communication internet réunis dans un seul objet. Le premier iPhone sort aux États-Unis le 29 juin 2007, sans 3G ni App Store, qui n'arrive qu'en 2008. Son grand écran tactile multipoint a imposé le modèle du smartphone moderne.",
+      "source": "Wikipédia (fr) — « iPhone »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-03-3",
+      "categorie": "internet",
+      "niveau": 3,
+      "question": "Quel terminal télématique français, généralisé dans les années 1980, a été débranché le 30 juin 2012 ?",
+      "reponse": "Minitel",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Télétel",
+          "Vidéotex",
+          "Bi-Bop"
+        ]
+      },
+      "explication": "Expérimenté à partir de 1980 puis déployé par les PTT, le Minitel était prêté gratuitement aux abonnés du téléphone, notamment pour remplacer l'annuaire papier. Des millions de foyers l'ont utilisé pour consulter des horaires de train, des résultats d'examen ou des messageries, grâce à des services comme le 3615, facturés à la durée de connexion.",
+      "anecdote": "Plusieurs entrepreneurs ont bâti leur fortune sur les messageries du Minitel, dont Xavier Niel, futur fondateur de Free.",
+      "source": "Wikipédia (fr) — « Minitel »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-03-4",
+      "categorie": "internet",
+      "niveau": 3,
+      "question": "Comment appelle-t-on l'escroquerie en ligne qui imite une banque ou une administration pour voler des identifiants ?",
+      "reponse": "Hameçonnage",
+      "variantes": [
+        "Phishing",
+        "Filoutage"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Spam",
+          "Pourriel",
+          "Rançongiciel",
+          "Ransomware",
+          "Piratage"
+        ]
+      },
+      "explication": "Le mot anglais « phishing » mêle « fishing », la pêche, et le « ph » de l'argot des premiers pirates du téléphone. Le principe : un faux courriel ou un faux SMS pousse la victime vers un site imitant celui de sa banque, des impôts ou d'un livreur. Le terme apparaît au milieu des années 1990, quand des escrocs volaient ainsi des comptes du fournisseur d'accès américain AOL.",
+      "source": "Wikipédia (fr) — « Hameçonnage »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-04-1",
+      "categorie": "internet",
+      "niveau": 4,
+      "question": "En quelle année l'encyclopédie collaborative Wikipédia a-t-elle été lancée ?",
+      "reponse": "2001",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 2001,
+        "tolerance": 0
+      },
+      "explication": "Jimmy Wales et Larry Sanger ouvrent la version anglophone le 15 janvier 2001, en complément de Nupedia, un projet plus classique dont les articles étaient rédigés par des experts. Des versions dans d'autres langues, dont le français, suivent dès 2001. Le principe du wiki, un site que chacun peut modifier, a permis une croissance fulgurante. Depuis 2003, l'ensemble est géré par la Wikimedia Foundation, organisation à but non lucratif.",
+      "anecdote": "« Wiki » vient d'un mot hawaïen signifiant « rapide », repéré par l'informaticien Ward Cunningham sur une navette de l'aéroport d'Honolulu.",
+      "source": "Wikipédia (fr) — « Wikipédia »",
+      "verification": {
+        "statut": "relue",
+        "note": "Date de lancement de la version francophone retirée (incertaine)."
+      }
+    },
+    {
+      "id": "web-04-2",
+      "categorie": "internet",
+      "niveau": 4,
+      "question": "Dans quel pays sont nés les emojis, à la fin des années 1990 ?",
+      "reponse": "Japon",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Chine",
+          "Corée du Sud",
+          "États-Unis"
+        ]
+      },
+      "explication": "Le mot « emoji » est japonais : il associe « e », l'image, et « moji », le caractère, sans lien avec le mot « émotion ». En 1999, Shigetaka Kurita dessine pour l'opérateur NTT Docomo un jeu de 176 pictogrammes de 12 pixels sur 12, souvent présenté comme fondateur. Leur intégration au standard Unicode, en 2010, a permis leur diffusion sur les téléphones du monde entier.",
+      "anecdote": "Le Museum of Modern Art de New York a fait entrer ces 176 emojis originaux dans ses collections en 2016.",
+      "source": "Wikipédia (fr) — « Émoji »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-04-3",
+      "categorie": "internet",
+      "niveau": 4,
+      "question": "Quel champion du monde d'échecs a perdu un match contre l'ordinateur Deep Blue d'IBM en 1997 ?",
+      "reponse": "Garry Kasparov",
+      "variantes": [
+        "Garri Kasparov",
+        "Gary Kasparov"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Anatoli Karpov",
+          "Karpov",
+          "Magnus Carlsen",
+          "Carlsen"
+        ]
+      },
+      "explication": "En mai 1997, à New York, Deep Blue s'impose 3,5 à 2,5 en six parties : pour la première fois, un champion du monde en titre perd un match contre une machine dans des conditions de tournoi. Kasparov avait pourtant battu une première version de l'ordinateur en 1996. Deep Blue pouvait évaluer environ 200 millions de positions par seconde.",
+      "source": "Wikipédia (fr) — « Deep Blue »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-04-4",
+      "categorie": "internet",
+      "niveau": 4,
+      "question": "Quel chanteur sud-coréen a signé « Gangnam Style », première vidéo YouTube à dépasser le milliard de vues ?",
+      "reponse": "Psy",
+      "variantes": [
+        "Park Jae-sang"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "BTS"
+        ],
+        "exact": true
+      },
+      "explication": "Mis en ligne en juillet 2012, le clip franchit le milliard de vues le 21 décembre 2012, une première sur YouTube. Sa danse du cheval invisible, imitée jusque dans les mariages et les stades, en fait l'un des premiers grands phénomènes mondiaux de la K-pop. La chanson se moque du mode de vie ostentatoire de Gangnam, quartier huppé de Séoul.",
+      "anecdote": "En 2014, YouTube a dû modifier son compteur : la vidéo approchait la limite de 2 147 483 647 vues prévue par son code.",
+      "source": "Wikipédia (fr) — « Gangnam Style »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-05-1",
+      "categorie": "internet",
+      "niveau": 5,
+      "question": "Quel informaticien britannique a inventé le World Wide Web au CERN en 1989 ?",
+      "reponse": "Tim Berners-Lee",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Vint Cerf",
+          "Robert Cailliau"
+        ],
+        "nom": "Berners-Lee"
+      },
+      "explication": "En mars 1989, Tim Berners-Lee rédige au CERN, près de Genève, une proposition pour partager les documents entre chercheurs grâce à des liens hypertextes. Il crée ensuite le langage HTML, le protocole HTTP et le premier navigateur. En 1993, le CERN verse le Web dans le domaine public, sans brevet ni redevance, ce qui permet son essor fulgurant.",
+      "anecdote": "Son supérieur, Mike Sendall, avait simplement annoté la proposition : « vague, mais excitant ».",
+      "source": "Wikipédia (fr) — « Tim Berners-Lee »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-05-2",
+      "categorie": "internet",
+      "niveau": 5,
+      "question": "De quel pays est originaire le service de musique en streaming Spotify ?",
+      "reponse": "Suède",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Suisse",
+          "Norvège",
+          "Finlande",
+          "Danemark"
+        ]
+      },
+      "explication": "Spotify a été fondé à Stockholm en 2006 par Daniel Ek et Martin Lorentzon, puis lancé en 2008 dans plusieurs pays européens, dont la France. Il proposait une alternative légale au piratage, très répandu depuis Napster, avec une offre gratuite financée par la publicité. Le service a profondément changé l'économie de la musique, dominée depuis les années 2010 par l'écoute en streaming.",
+      "source": "Wikipédia (fr) — « Spotify »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-05-3",
+      "categorie": "internet",
+      "niveau": 5,
+      "question": "Quel canular du web piège un internaute avec un lien menant au clip « Never Gonna Give You Up » ?",
+      "reponse": "Rickroll",
+      "variantes": [
+        "Rickrolling"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Trollface",
+          "Troll",
+          "Clickbait"
+        ]
+      },
+      "explication": "Le principe : promettre un lien intéressant qui mène en réalité au tube de Rick Astley, sorti en 1987. Né en 2007 sur le forum 4chan, le gag devient planétaire en 2008, quand YouTube piège tous ses visiteurs le 1er avril. Rick Astley lui-même a joué le jeu la même année, surgissant par surprise lors de la grande parade de Thanksgiving de Macy's, à New York.",
+      "source": "Wikipédia (en) — « Rickrolling »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-05-4",
+      "categorie": "internet",
+      "niveau": 5,
+      "question": "Quelle plateforme de diffusion de jeux vidéo en direct Amazon a-t-elle rachetée en 2014 ?",
+      "reponse": "Twitch",
+      "variantes": [
+        "Twitch.tv"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Kick",
+          "YouTube Gaming",
+          "Justin.tv"
+        ]
+      },
+      "explication": "Twitch est née en 2011 de la section consacrée aux jeux vidéo de Justin.tv, un site qui diffusait au départ la vie de son cofondateur Justin Kan en continu. Face au succès, cette rubrique a pris toute la place, et Amazon l'a rachetée pour environ 970 millions de dollars. Elle a popularisé le métier de streamer et la retransmission des compétitions d'e-sport.",
+      "source": "Wikipédia (fr) — « Twitch »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-06-1",
+      "categorie": "internet",
+      "niveau": 6,
+      "question": "Quel réseau de l'armée et des universités américaines, lancé en 1969, est considéré comme l'ancêtre d'internet ?",
+      "reponse": "ARPANET",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "ARPA",
+          "DARPA",
+          "Usenet",
+          "Cyclades"
+        ]
+      },
+      "explication": "Financé par l'ARPA, l'agence de recherche du Pentagone, ARPANET relie le 29 octobre 1969 un ordinateur de l'université de Californie à Los Angeles à un autre de l'institut de recherche de Stanford. Le premier message devait être « LOGIN », mais le système a planté après deux lettres. À la fin de l'année 1969, le réseau comptait quatre ordinateurs connectés.",
+      "source": "Wikipédia (fr) — « ARPANET »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-06-2",
+      "categorie": "internet",
+      "niveau": 6,
+      "question": "Quel petit État du Pacifique possède le domaine internet « .tv », prisé des chaînes de télévision ?",
+      "reponse": "Tuvalu",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Tonga",
+          "Nauru",
+          "Vanuatu",
+          "Tokelau"
+        ]
+      },
+      "explication": "Chaque pays dispose d'un domaine de deux lettres tiré de son code international : « .tv » revient à Tuvalu, archipel d'à peine plus de 10 000 habitants. Depuis le tournant des années 2000, l'État en confie l'exploitation commerciale à des sociétés privées, et ces revenus pèsent lourd dans son budget. L'essor de plateformes comme Twitch, dont l'adresse finit en « .tv », a encore accru sa valeur.",
+      "anecdote": "Autre exemple : le domaine « .me », très prisé des sites personnels, appartient au Monténégro.",
+      "source": "Wikipédia (fr) — « .tv »",
+      "verification": {
+        "statut": "relue",
+        "note": "Population et date d'exploitation du .tv formulées prudemment."
+      }
+    },
+    {
+      "id": "web-06-3",
+      "categorie": "internet",
+      "niveau": 6,
+      "question": "De quel terme mathématique, désignant 10 puissance 100, le nom de Google est-il dérivé ?",
+      "reponse": "Googol",
+      "variantes": [
+        "Gogol"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Googolplex",
+          "Gogolplex"
+        ]
+      },
+      "explication": "Le mot « googol » a été inventé en 1920 par Milton Sirotta, neveu de neuf ans du mathématicien américain Edward Kasner, qui l'a ensuite popularisé dans un livre. Larry Page et Sergey Brin l'ont choisi, avec une orthographe modifiée, pour évoquer l'immense quantité d'informations à organiser. Leur moteur de recherche, développé à l'université Stanford, s'appelait d'abord BackRub.",
+      "anecdote": "Le siège de l'entreprise s'appelle le Googleplex, clin d'œil au googolplex, qui vaut 10 puissance googol.",
+      "source": "Wikipédia (fr) — « Google »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-06-4",
+      "categorie": "internet",
+      "niveau": 6,
+      "question": "Sous quel pseudonyme le créateur du bitcoin a-t-il publié son article fondateur en 2008 ?",
+      "reponse": "Satoshi Nakamoto",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Vitalik Buterin",
+          "Hal Finney"
+        ]
+      },
+      "explication": "Le 31 octobre 2008, un mystérieux Satoshi Nakamoto diffuse un document de neuf pages décrivant une monnaie électronique sans banque ni autorité centrale. Le réseau bitcoin démarre le 3 janvier 2009. Son auteur cesse toute communication publique vers 2011, et son identité réelle n'a jamais été établie avec certitude, malgré de nombreuses enquêtes et revendications.",
+      "anecdote": "Le 22 mai 2010, un programmeur a payé deux pizzas 10 000 bitcoins, premier achat connu d'un bien réel avec cette monnaie.",
+      "source": "Wikipédia (fr) — « Satoshi Nakamoto »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-07-1",
+      "categorie": "internet",
+      "niveau": 7,
+      "question": "Quel biologiste britannique a inventé le mot « mème » dans son livre « Le Gène égoïste », en 1976 ?",
+      "reponse": "Richard Dawkins",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Charles Darwin",
+          "Darwin",
+          "Stephen Jay Gould"
+        ]
+      },
+      "explication": "Pour Richard Dawkins, un mème est une unité culturelle, comme un air de musique, une mode ou une expression, qui se transmet d'esprit en esprit à la manière d'un gène. Il a forgé le mot à partir du grec « mimêma », l'imitation, en le raccourcissant pour qu'il sonne comme « gene ». Internet a ensuite donné au terme son sens courant d'image ou de vidéo humoristique virale.",
+      "source": "Wikipédia (fr) — « Mème »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-07-2",
+      "categorie": "internet",
+      "niveau": 7,
+      "question": "Quel cofondateur de Twitter a publié le tout premier tweet, le 21 mars 2006 ?",
+      "reponse": "Jack Dorsey",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Evan Williams",
+          "Biz Stone",
+          "Noah Glass",
+          "Elon Musk"
+        ],
+        "nomSeul": true
+      },
+      "explication": "Son message, « just setting up my twttr », reprenait le premier nom du service, écrit sans voyelles comme c'était alors la mode chez les start-up. Twitter est né au sein d'Odeo, une entreprise de podcasts cofondée par Evan Williams. Jack Dorsey a dirigé Twitter à deux reprises, avant de quitter définitivement son poste de PDG en novembre 2021.",
+      "anecdote": "En 2021, ce premier tweet a été vendu sous forme de NFT pour environ 2,9 millions de dollars.",
+      "source": "Wikipédia (fr) — « Jack Dorsey »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul explicite."
+      }
+    },
+    {
+      "id": "web-07-3",
+      "categorie": "internet",
+      "niveau": 7,
+      "question": "Quel « effet » décrit une tentative de censure qui, au contraire, accroît la diffusion d'une information ?",
+      "reponse": "Effet Streisand",
+      "variantes": [
+        "Streisand"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Effet Barnum",
+          "Effet papillon",
+          "Effet Dunning-Kruger"
+        ]
+      },
+      "explication": "En 2003, la chanteuse Barbra Streisand poursuit un photographe qui avait publié, parmi des milliers de clichés aériens du littoral californien, une vue de sa villa de Malibu. Avant le procès, l'image n'avait été téléchargée que six fois ; la médiatisation de l'affaire lui vaut plus de 400 000 visites en un mois. L'expression a été forgée en 2005 par le blogueur Mike Masnick.",
+      "anecdote": "Barbra Streisand a perdu son procès et a été condamnée à payer les frais d'avocat du photographe.",
+      "source": "Wikipédia (fr) — « Effet Streisand »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-07-4",
+      "categorie": "internet",
+      "niveau": 7,
+      "question": "En 2013, quel terme la France a-t-elle officiellement recommandé pour remplacer l'anglais « hashtag » ?",
+      "reponse": "Mot-dièse",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Mot-clic",
+          "Mot-clé",
+          "Croisillon"
+        ]
+      },
+      "explication": "Publié au Journal officiel en janvier 2013, « mot-dièse » désigne un mot précédé du signe #, qui permet de regrouper les messages portant sur un même sujet. L'usage de ce symbole sur Twitter avait été proposé en août 2007 par le designer américain Chris Messina. Malgré cette recommandation, l'anglicisme est resté largement majoritaire dans l'usage courant en France.",
+      "anecdote": "Au Québec, l'Office québécois de la langue française recommande plutôt « mot-clic ».",
+      "source": "Wikipédia (fr) — « Hashtag »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-08-1",
+      "categorie": "internet",
+      "niveau": 8,
+      "question": "Quel ingénieur américain a envoyé en 1971 le premier courrier électronique entre deux ordinateurs ?",
+      "reponse": "Ray Tomlinson",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Vint Cerf",
+          "Shiva Ayyadurai"
+        ],
+        "nomSeul": true
+      },
+      "explication": "Ingénieur chez BBN, Ray Tomlinson relie en 1971 deux machines posées côte à côte via ARPANET et invente l'adressage « utilisateur@machine ». Il choisit l'arobase parce que ce symbole, présent sur les claviers, n'apparaissait dans aucun nom et se lisait « at », c'est-à-dire « chez ». Il a raconté ne plus se souvenir du premier message, sans doute une suite de lettres comme « QWERTYUIOP ».",
+      "source": "Wikipédia (fr) — « Ray Tomlinson »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul explicite."
+      }
+    },
+    {
+      "id": "web-08-2",
+      "categorie": "internet",
+      "niveau": 8,
+      "question": "Quel ingénieur américain a présenté la souris d'ordinateur lors de la « mère de toutes les démos », en 1968 ?",
+      "reponse": "Douglas Engelbart",
+      "variantes": [
+        "Doug Engelbart"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Steve Jobs",
+          "Alan Kay",
+          "Bill English"
+        ]
+      },
+      "explication": "Le 9 décembre 1968, à San Francisco, Douglas Engelbart dévoile en 90 minutes la souris, le traitement de texte, les liens hypertextes, le partage d'écran et la visioconférence. Son prototype de souris était un boîtier en bois monté sur deux roues perpendiculaires. Le nom viendrait du fil sortant à l'arrière, qui évoquait une queue de rongeur.",
+      "source": "Wikipédia (fr) — « Douglas Engelbart »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-08-3",
+      "categorie": "internet",
+      "niveau": 8,
+      "question": "Quel roi danois du Xe siècle a donné son nom à la technologie sans fil Bluetooth ?",
+      "reponse": "Harald à la Dent bleue",
+      "variantes": [
+        "Harald",
+        "Harald Ier",
+        "Harald Blåtand",
+        "Harald Bluetooth",
+        "Harald Dent bleue"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Knut",
+          "Gorm",
+          "Sven",
+          "Canut"
+        ]
+      },
+      "explication": "Harald Ier, dit « à la Dent bleue », a unifié le Danemark et régné sur une partie de la Norvège au Xe siècle. En 1997, l'ingénieur d'Intel Jim Kardach propose son surnom anglais comme nom de code du projet : la technologie devait unir les appareils comme le roi avait uni des peuples. Le logo superpose les runes correspondant à ses initiales, H et B.",
+      "source": "Wikipédia (fr) — « Bluetooth »",
+      "verification": {
+        "statut": "relue",
+        "note": "Réponse longue conservée (forme usuelle) ; « Harald » seul accepté, l'énoncé suffisant à identifier le roi."
+      }
+    },
+    {
+      "id": "web-08-4",
+      "categorie": "internet",
+      "niveau": 8,
+      "question": "Quel créateur japonais de Nintendo a imaginé les séries Super Mario et The Legend of Zelda ?",
+      "reponse": "Shigeru Miyamoto",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Satoru Iwata",
+          "Hideo Kojima",
+          "Gunpei Yokoi"
+        ],
+        "nomSeul": true
+      },
+      "explication": "Entré chez Nintendo en 1977 comme graphiste, Shigeru Miyamoto est devenu le concepteur de jeux le plus célèbre du monde. Pour The Legend of Zelda, sorti en 1986, il dit s'être inspiré de ses explorations d'enfance dans les forêts, les champs et les grottes autour de sa maison, près de Kyoto. Il a aussi imaginé Pikmin, né de sa passion pour le jardinage.",
+      "anecdote": "La France l'a fait chevalier des Arts et des Lettres en 2006.",
+      "source": "Wikipédia (fr) — « Shigeru Miyamoto »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul explicite."
+      }
+    },
+    {
+      "id": "web-09-1",
+      "categorie": "internet",
+      "niveau": 9,
+      "question": "Quel informaticien américain a proposé en 1982 le smiley « :-) » pour signaler une plaisanterie ?",
+      "reponse": "Scott Fahlman",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Harvey Ball",
+          "Franklin Loufrani"
+        ]
+      },
+      "explication": "Le 19 septembre 1982, sur un forum électronique de l'université Carnegie Mellon, Scott Fahlman suggère de marquer les messages humoristiques par « :-) », à lire en penchant la tête, et les messages sérieux par « :-( ». Une blague sur une fausse fuite de mercure dans un ascenseur venait d'être prise au sérieux. Ces émoticônes se sont ensuite répandues sur les réseaux universitaires.",
+      "anecdote": "Le visage jaune souriant est plus ancien : le Français Franklin Loufrani en a déposé la marque « Smiley » au début des années 1970.",
+      "source": "Wikipédia (fr) — « Émoticône »",
+      "verification": {
+        "statut": "relue",
+        "note": "Date du dépôt de la marque Smiley rendue moins précise."
+      }
+    },
+    {
+      "id": "web-09-2",
+      "categorie": "internet",
+      "niveau": 9,
+      "question": "Quel étudiant américain a lancé en 1988 l'un des premiers vers informatiques à paralyser internet ?",
+      "reponse": "Robert Tappan Morris",
+      "variantes": [
+        "Robert Morris"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Kevin Mitnick"
+        ],
+        "nom": "Morris",
+        "nomSeul": true
+      },
+      "explication": "Le 2 novembre 1988, Robert Tappan Morris, étudiant à Cornell, libère un programme censé mesurer la taille d'internet. Une erreur de conception le pousse à se recopier sans cesse, ralentissant des milliers de machines, environ un dixième du réseau de l'époque. Il devient le premier condamné en vertu de la loi fédérale américaine de 1986 sur la fraude informatique, puis professeur au MIT.",
+      "anecdote": "Il a ensuite cofondé l'incubateur de start-up Y Combinator, qui a soutenu Airbnb et Dropbox.",
+      "source": "Wikipédia (en) — « Morris worm »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul explicite."
+      }
+    },
+    {
+      "id": "web-09-3",
+      "categorie": "internet",
+      "niveau": 9,
+      "question": "Quel protocole d'origine ARPANET a-t-il abandonné le 1er janvier 1983, au profit de TCP/IP ?",
+      "reponse": "NCP",
+      "variantes": [
+        "Network Control Program",
+        "Network Control Protocol"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "TCP",
+          "IP",
+          "UDP",
+          "FTP",
+          "NNTP",
+          "SMTP",
+          "TCP/IP"
+        ],
+        "exact": true
+      },
+      "explication": "Le Network Control Program assurait les échanges entre machines d'un même réseau, mais ne savait pas relier des réseaux différents. Vint Cerf et Bob Kahn décrivent dès 1974 la solution qui deviendra TCP/IP : découper les données en paquets acheminés d'un réseau à l'autre. Le basculement imposé à tout ARPANET le 1er janvier 1983, surnommé « flag day », marque pour beaucoup la naissance de l'internet moderne, un « réseau de réseaux ».",
+      "source": "Wikipédia (fr) — « ARPANET »",
+      "verification": {
+        "statut": "relue",
+        "note": "Question TCP/IP jugée trop facile pour le niveau 9 : réécrite sur NCP, le protocole remplacé en 1983."
+      },
+      "anecdote": "Vint Cerf et Bob Kahn ont reçu le prix Turing au titre de 2004 pour la conception de TCP/IP."
+    },
+    {
+      "id": "web-09-4",
+      "categorie": "internet",
+      "niveau": 9,
+      "question": "Quel objet de l'université de Cambridge fut, dès 1991, filmé par l'une des toutes premières webcams ?",
+      "reponse": "Cafetière",
+      "variantes": [
+        "Machine à café",
+        "Pot de café",
+        "Cafetière du Trojan Room"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Aquarium",
+          "Bouilloire",
+          "Théière"
+        ]
+      },
+      "explication": "Au laboratoire d'informatique de Cambridge, des chercheurs lassés de trouver la cafetière vide en se déplaçant pour rien installent une caméra qui la filme et diffuse l'image sur leur réseau interne. En 1993, cette image devient accessible sur le Web et attire des curieux du monde entier. Surnommée la « cafetière de la Trojan Room », elle a été débranchée en 2001.",
+      "anecdote": "Mise aux enchères sur eBay en 2001, la cafetière a été achetée par le site du magazine allemand Der Spiegel.",
+      "source": "Wikipédia (en) — « Trojan Room coffee pot »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-10-1",
+      "categorie": "internet",
+      "niveau": 10,
+      "question": "Quelle entreprise informatique a déposé, le 15 mars 1985, le tout premier nom de domaine en « .com » ?",
+      "reponse": "Symbolics",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "IBM",
+          "Xerox",
+          "Apple",
+          "Microsoft"
+        ]
+      },
+      "explication": "Installée dans le Massachusetts, Symbolics fabriquait des ordinateurs spécialisés dans le langage Lisp, très utilisé alors en intelligence artificielle. Son adresse symbolics.com est restée le plus ancien domaine en « .com » encore enregistré. Le système des noms de domaine, conçu en 1983 par Paul Mockapetris, remplaçait un simple fichier central qui recensait à la main toutes les machines du réseau et devenait ingérable.",
+      "source": "Wikipédia (en) — « Symbolics »",
+      "verification": {
+        "statut": "relue",
+        "note": "Correction : le DNS remplaçait le fichier HOSTS.TXT, pas des adresses numériques."
+      }
+    },
+    {
+      "id": "web-10-2",
+      "categorie": "internet",
+      "niveau": 10,
+      "question": "Quel ingénieur français a dirigé dans les années 1970 le réseau Cyclades, précurseur d'internet ?",
+      "reponse": "Louis Pouzin",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Vint Cerf",
+          "Hubert Zimmermann"
+        ]
+      },
+      "explication": "Lancé en 1971 à l'IRIA, l'ancêtre de l'Inria, Cyclades reposait sur le datagramme : des paquets de données autonomes, transmis sans circuit préétabli, la fiabilité étant assurée par les ordinateurs aux extrémités. Ce principe a directement inspiré les concepteurs de TCP/IP. Faute de soutien politique face au réseau Transpac des PTT, le projet a perdu ses crédits à la fin des années 1970.",
+      "anecdote": "En 2013, il a reçu le prix Reine-Élisabeth d'ingénierie, aux côtés de Vint Cerf, Robert Kahn, Tim Berners-Lee et Marc Andreessen.",
+      "source": "Wikipédia (fr) — « Louis Pouzin »",
+      "verification": {
+        "statut": "relue",
+        "note": "Fin de Cyclades formulée plus prudemment."
+      }
+    },
+    {
+      "id": "web-10-3",
+      "categorie": "internet",
+      "niveau": 10,
+      "question": "Dans quel pays les frères Alvi ont-ils créé Brain, premier virus pour PC compatible IBM, en 1986 ?",
+      "reponse": "Pakistan",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Inde",
+          "Bangladesh",
+          "Afghanistan"
+        ]
+      },
+      "explication": "Basit et Amjad Farooq Alvi tenaient une boutique informatique à Lahore. Leur virus se logeait dans le secteur de démarrage des disquettes et se propageait à chaque échange. Selon eux, il devait dissuader les copies pirates de leur logiciel médical. Fait rare, le code contenait leurs noms, l'adresse de leur boutique et leurs numéros de téléphone.",
+      "anecdote": "En 2011, le chercheur finlandais Mikko Hyppönen les a retrouvés à la même adresse, où ils dirigeaient un fournisseur d'accès à internet.",
+      "source": "Wikipédia (en) — « Brain (computer virus) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-10-4",
+      "categorie": "internet",
+      "niveau": 10,
+      "question": "Quel ingénieur d'IBM a conçu le raccourci clavier Ctrl+Alt+Suppr au début des années 1980 ?",
+      "reponse": "David Bradley",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Bill Gates",
+          "Larry Tesler"
+        ],
+        "nomSeul": true
+      },
+      "explication": "Membre de l'équipe qui a créé l'IBM PC, sorti en 1981, David Bradley imagine cette combinaison pour redémarrer l'ordinateur sans le couper, ce qui faisait gagner du temps aux développeurs. Il choisit des touches éloignées pour éviter tout déclenchement accidentel. Windows l'a ensuite reprise pour ouvrir le gestionnaire des tâches ou l'écran de connexion.",
+      "anecdote": "En 2013, Bill Gates a reconnu que cette combinaison était une erreur et qu'un bouton unique aurait été préférable.",
+      "source": "Wikipédia (en) — « Control-Alt-Delete »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul explicite."
+      }
+    }
+  ]
+}

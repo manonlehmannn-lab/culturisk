@@ -1,0 +1,984 @@
+{
+  "categorie": "art",
+  "questions": [
+    {
+      "id": "art-01-1",
+      "categorie": "art",
+      "niveau": 1,
+      "question": "Quel artiste italien a peint La Joconde ?",
+      "reponse": "Léonard de Vinci",
+      "variantes": [
+        "Leonardo da Vinci",
+        "De Vinci",
+        "Da Vinci"
+      ],
+      "validation": {
+        "type": "personne",
+        "nom": "Vinci",
+        "prenomSeul": true,
+        "pieges": [
+          "Michel-Ange",
+          "Raphaël",
+          "Botticelli"
+        ]
+      },
+      "explication": "Léonard de Vinci a commencé ce portrait vers 1503 à Florence et l'a gardé avec lui jusqu'à sa mort, en France, en 1519. Le modèle serait Lisa Gherardini, épouse du marchand florentin Francesco del Giocondo, d'où le nom du tableau. Peinte à l'huile sur un panneau de peuplier, l'œuvre est entrée dans les collections royales françaises avant de rejoindre le Louvre.",
+      "anecdote": "En 1911, la Joconde fut volée au Louvre par Vincenzo Peruggia, un vitrier italien. Elle ne fut retrouvée qu'en 1913, à Florence.",
+      "source": "Wikipédia (fr) — « La Joconde »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-01-2",
+      "categorie": "art",
+      "niveau": 1,
+      "question": "Quelle couleur obtient-on en mélangeant de la peinture bleue et de la peinture jaune ?",
+      "reponse": "Vert",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Violet",
+          "Orange",
+          "Marron"
+        ]
+      },
+      "explication": "Pour les peintres, le bleu, le jaune et le rouge sont traditionnellement les trois couleurs primaires. Le mélange de deux d'entre elles donne une couleur secondaire : le vert (bleu et jaune), l'orange (rouge et jaune) ou le violet (rouge et bleu). Les pigments absorbent une partie de la lumière : on parle de synthèse soustractive, à l'inverse des écrans qui combinent des lumières rouges, vertes et bleues.",
+      "anecdote": "Le vert de Scheele, un pigment inventé en 1775, contenait de l'arsenic. Très utilisé au XIXe siècle dans les papiers peints, il a provoqué de nombreuses intoxications.",
+      "source": "Wikipédia (fr) — « Couleur primaire »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-01-3",
+      "categorie": "art",
+      "niveau": 1,
+      "question": "Quelle viennoiserie doit son nom à sa forme de lune ?",
+      "reponse": "Croissant",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Pain au chocolat",
+          "Chocolatine",
+          "Brioche"
+        ]
+      },
+      "explication": "Le croissant descend du kipferl autrichien, une pâtisserie en forme de croissant de lune. Il aurait été popularisé à Paris vers 1838 par August Zang, un ancien officier autrichien qui ouvrit une « boulangerie viennoise » rue de Richelieu. La version feuilletée au beurre que l'on connaît ne s'est imposée qu'au début du XXe siècle, ce qui en fait une création bien française.",
+      "anecdote": "Une légende tenace relie sa forme au croissant ottoman, après le siège de Vienne de 1683, mais aucun document d'époque ne l'atteste.",
+      "source": "Wikipédia (fr) — « Croissant (viennoiserie) »",
+      "verification": {
+        "statut": "relue",
+        "note": "« ancien officier » ; source vérifiée."
+      }
+    },
+    {
+      "id": "art-01-4",
+      "categorie": "art",
+      "niveau": 1,
+      "question": "Quelle fleur offre-t-on traditionnellement en France le 1er mai ?",
+      "reponse": "Muguet",
+      "variantes": [
+        "Brin de muguet",
+        "Muguet de mai"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Coquelicot",
+          "Jonquille",
+          "Lilas",
+          "Rose"
+        ]
+      },
+      "explication": "La tradition rapporte que le roi Charles IX, ayant reçu un brin de muguet en 1561, décida d'en offrir chaque printemps aux dames de sa cour. La coutume populaire de s'en offrir le 1er mai s'est surtout diffusée au début du XXe siècle, et la petite fleur blanche en clochettes est devenue un porte-bonheur. Ce jour-là, des particuliers en vendent dans la rue, une pratique tolérée.",
+      "source": "Wikipédia (fr) — « Muguet de mai »",
+      "verification": {
+        "statut": "relue",
+        "note": "Charles IX présenté comme une tradition ; source conservée."
+      }
+    },
+    {
+      "id": "art-02-1",
+      "categorie": "art",
+      "niveau": 2,
+      "question": "Pour quel événement la tour Eiffel a-t-elle été construite en 1889 ?",
+      "reponse": "Exposition universelle",
+      "variantes": [
+        "Exposition universelle de 1889",
+        "Expo universelle"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Jeux olympiques",
+          "Exposition coloniale"
+        ]
+      },
+      "explication": "Haute de 300 mètres à l'origine, la tour servait d'entrée monumentale à l'Exposition universelle de 1889, qui célébrait aussi le centenaire de la Révolution française. Conçue par les ingénieurs Maurice Koechlin et Émile Nouguier pour l'entreprise de Gustave Eiffel, elle a été montée en un peu plus de deux ans. Prévue pour être démontée au bout de vingt ans, elle a été sauvée notamment par son intérêt pour la radio.",
+      "anecdote": "En 1887, Maupassant, Gounod et Charles Garnier signèrent une protestation d'artistes contre « l'inutile et monstrueuse tour Eiffel ».",
+      "source": "Wikipédia (fr) — « Tour Eiffel »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-02-2",
+      "categorie": "art",
+      "niveau": 2,
+      "question": "Quel peintre néerlandais s'est mutilé l'oreille à Arles en 1888 ?",
+      "reponse": "Vincent van Gogh",
+      "variantes": [
+        "Van Gogh"
+      ],
+      "validation": {
+        "type": "personne",
+        "nom": "van Gogh",
+        "prenomSeul": true,
+        "pieges": [
+          "Paul Gauguin",
+          "Gauguin",
+          "Theo van Gogh"
+        ],
+        "nomSeul": true
+      },
+      "explication": "Le 23 décembre 1888, après une violente dispute avec Paul Gauguin, venu le rejoindre dans la Maison jaune d'Arles, Vincent van Gogh se mutila l'oreille gauche. Il peignit ensuite deux autoportraits à l'oreille bandée. Interné à sa demande à Saint-Rémy-de-Provence en 1889, il mourut en 1890 à Auvers-sur-Oise, après avoir vendu très peu de toiles de son vivant.",
+      "anecdote": "La Nuit étoilée, l'une de ses toiles les plus célèbres, a été peinte en 1889 à Saint-Rémy, d'après la vue depuis la fenêtre de sa chambre à l'asile.",
+      "source": "Wikipédia (fr) — « Vincent van Gogh »",
+      "verification": {
+        "statut": "relue",
+        "note": "Énoncé : « mutilé l'oreille » (l'ampleur de la blessure est discutée) ; nomSeul explicite (Theo van Gogh)."
+      }
+    },
+    {
+      "id": "art-02-3",
+      "categorie": "art",
+      "niveau": 2,
+      "question": "Quelle pâtisserie à la frangipane partage-t-on traditionnellement à l'Épiphanie ?",
+      "reponse": "Galette des rois",
+      "variantes": [
+        "Galette"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Gâteau des rois",
+          "Couronne des rois",
+          "Bûche de Noël"
+        ]
+      },
+      "explication": "L'Épiphanie, fêtée le 6 janvier, commémore la visite des Rois mages à l'Enfant Jésus. Celui qui trouve la fève dans sa part devient roi ou reine et porte la couronne. La fève était à l'origine une véritable graine de fève ; les petites figurines en porcelaine se sont répandues à la fin du XIXe siècle. Dans le sud de la France, on lui préfère souvent une brioche aux fruits confits.",
+      "anecdote": "À l'Élysée, la galette offerte au président de la République ne contient pas de fève : on ne tire pas les rois dans le palais de la République.",
+      "source": "Wikipédia (fr) — « Galette des rois »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-02-4",
+      "categorie": "art",
+      "niveau": 2,
+      "question": "Comment s'appelle le petit signe placé sous le c de « ça » ou de « garçon » ?",
+      "reponse": "Cédille",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Accent",
+          "Tréma",
+          "Tilde",
+          "Apostrophe"
+        ]
+      },
+      "explication": "La cédille indique que le c se prononce « s » devant a, o ou u. Son nom vient de l'espagnol zedilla, « petit z », car le signe dérive d'un z écrit sous la lettre. Elle s'est imposée dans l'imprimerie française au XVIe siècle, notamment sous l'influence de l'imprimeur Geoffroy Tory, qui a aussi promu les accents et l'apostrophe.",
+      "source": "Wikipédia (fr) — « Cédille »",
+      "verification": {
+        "statut": "relue",
+        "note": "Rôle de Geoffroy Tory formulé prudemment (« notamment sous l'influence »), conforme."
+      }
+    },
+    {
+      "id": "art-03-1",
+      "categorie": "art",
+      "niveau": 3,
+      "question": "Quel artiste a peint Guernica en 1937, après le bombardement de cette ville basque ?",
+      "reponse": "Pablo Picasso",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Salvador Dalí",
+          "Joan Miró",
+          "Georges Braque"
+        ]
+      },
+      "explication": "Le 26 avril 1937, en pleine guerre d'Espagne, des avions allemands de la légion Condor et des avions italiens bombardèrent la petite ville de Guernica. Picasso, qui préparait une commande de la République espagnole pour l'Exposition internationale de Paris, peignit en quelques semaines cette immense toile en noir, gris et blanc, longue de près de huit mètres. Elle est exposée au musée Reina Sofía de Madrid.",
+      "anecdote": "Picasso refusa que Guernica entre en Espagne avant le retour de la démocratie : longtemps gardée au MoMA de New York, la toile n'y arriva qu'en 1981.",
+      "source": "Wikipédia (fr) — « Guernica (tableau) »",
+      "verification": {
+        "statut": "relue",
+        "note": "Source « Guernica (tableau) » conservée."
+      }
+    },
+    {
+      "id": "art-03-2",
+      "categorie": "art",
+      "niveau": 3,
+      "question": "Quel sculpteur français a créé Le Penseur ?",
+      "reponse": "Auguste Rodin",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Camille Claudel",
+          "Aristide Maillol",
+          "Michel-Ange"
+        ]
+      },
+      "explication": "Le Penseur est né vers 1880 comme un élément de La Porte de l'Enfer, monumental portail inspiré de La Divine Comédie : il représentait d'abord Dante méditant sur son poème. Agrandie et exposée seule à partir de 1904, la figure est devenue l'une des sculptures les plus reproduites au monde. Un grand exemplaire en bronze se trouve dans le jardin du musée Rodin, à Paris.",
+      "anecdote": "En 1906, un exemplaire fut installé devant le Panthéon grâce à une souscription publique, avant d'être déplacé vers le musée Rodin en 1922.",
+      "source": "Wikipédia (fr) — « Le Penseur »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-03-3",
+      "categorie": "art",
+      "niveau": 3,
+      "question": "Quel dessinateur belge a créé Tintin et Milou ?",
+      "reponse": "Hergé",
+      "variantes": [
+        "Georges Remi"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Franquin",
+          "Edgar P. Jacobs",
+          "Peyo",
+          "Goscinny"
+        ]
+      },
+      "explication": "Hergé est le pseudonyme de Georges Remi : ses initiales inversées, R.G., prononcées à la française. Tintin apparaît en 1929 dans Le Petit Vingtième, supplément pour la jeunesse d'un quotidien bruxellois, avec Tintin au pays des Soviets. La série compte vingt-quatre albums, dont le dernier, Tintin et l'Alph-Art, est resté inachevé à la mort de l'auteur en 1983. Son style épuré a été baptisé « ligne claire ».",
+      "source": "Wikipédia (fr) — « Hergé »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-03-4",
+      "categorie": "art",
+      "niveau": 3,
+      "question": "Quel prénom porte la figure allégorique de la République française ?",
+      "reponse": "Marianne",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Jeanne",
+          "Liberté",
+          "Marie"
+        ]
+      },
+      "explication": "Coiffée d'un bonnet phrygien, symbole de liberté hérité de la Révolution, Marianne incarne la République française. Son buste trône dans les mairies et son profil apparaît sur les timbres, les pièces de monnaie et, depuis 1999, sur le logo du gouvernement. Au fil des années, plusieurs actrices et personnalités ont prêté leurs traits aux bustes officiels, comme Catherine Deneuve ou Laetitia Casta.",
+      "anecdote": "Brigitte Bardot fut la première célébrité à servir de modèle à un buste de Marianne, réalisé en 1969 par le sculpteur Aslan.",
+      "source": "Wikipédia (fr) — « Marianne »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-04-1",
+      "categorie": "art",
+      "niveau": 4,
+      "question": "Quel artiste a peint la voûte de la chapelle Sixtine, au Vatican ?",
+      "reponse": "Michel-Ange",
+      "variantes": [
+        "Michelangelo",
+        "Michelangelo Buonarroti",
+        "Michel-Ange Buonarroti",
+        "Buonarroti"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Raphaël",
+          "Léonard de Vinci",
+          "Botticelli",
+          "Le Bernin"
+        ]
+      },
+      "explication": "Commandée par le pape Jules II, la voûte a été peinte par Michel-Ange de 1508 à 1512, alors qu'il se considérait avant tout comme sculpteur. On y voit neuf scènes de la Genèse, dont La Création d'Adam et ses deux doigts presque joints. Plus de vingt ans plus tard, l'artiste revint dans la chapelle pour peindre Le Jugement dernier sur le mur de l'autel, achevé en 1541.",
+      "anecdote": "Contrairement à une idée reçue, Michel-Ange ne peignait pas couché : il travaillait debout sur un échafaudage, la tête renversée, ce qu'il raconte dans un poème.",
+      "source": "Wikipédia (fr) — « Plafond de la chapelle Sixtine »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-04-2",
+      "categorie": "art",
+      "niveau": 4,
+      "question": "Quel peintre norvégien a réalisé Le Cri ?",
+      "reponse": "Edvard Munch",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Egon Schiele",
+          "James Ensor",
+          "Edvard Grieg"
+        ]
+      },
+      "explication": "Edvard Munch a décliné Le Cri en plusieurs versions, peintures, pastels et lithographies, à partir de 1893. Le motif lui aurait été inspiré par un coucher de soleil au-dessus d'un fjord, près de la ville alors appelée Kristiania, l'actuelle Oslo, où il aurait ressenti « un cri infini traversant la nature ». Ce visage halluciné est devenu une icône de l'angoisse moderne et un précurseur de l'expressionnisme.",
+      "anecdote": "En 2012, une version au pastel du Cri a été vendue près de 120 millions de dollars chez Sotheby's, à New York, un record aux enchères à l'époque.",
+      "source": "Wikipédia (fr) — « Le Cri »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-04-3",
+      "categorie": "art",
+      "niveau": 4,
+      "question": "Combien d'étoiles un restaurant peut-il obtenir, au maximum, dans le Guide Michelin ?",
+      "reponse": "3",
+      "variantes": [
+        "Trois"
+      ],
+      "validation": {
+        "type": "nombre",
+        "valeur": 3,
+        "tolerance": 0
+      },
+      "explication": "Le guide a été lancé en 1900 par les frères André et Édouard Michelin pour encourager les automobilistes à voyager, et donc à user leurs pneus. La première étoile est apparue en 1926, puis le système à trois niveaux au début des années 1930. Trois étoiles signalent une cuisine qui « vaut le voyage », deux une table qui « mérite un détour ».",
+      "source": "Wikipédia (fr) — « Guide Michelin »",
+      "verification": {
+        "statut": "relue",
+        "note": "Formule des deux étoiles corrigée (« mérite un détour »)."
+      }
+    },
+    {
+      "id": "art-04-4",
+      "categorie": "art",
+      "niveau": 4,
+      "question": "Quelle créatrice de mode a lancé en 1921 le parfum N° 5 ?",
+      "reponse": "Coco Chanel",
+      "variantes": [
+        "Gabrielle Chanel"
+      ],
+      "validation": {
+        "type": "personne",
+        "prenomSeul": true,
+        "pieges": [
+          "Elsa Schiaparelli",
+          "Jeanne Lanvin",
+          "Christian Dior"
+        ]
+      },
+      "explication": "Le N° 5 a été composé en 1921 par le parfumeur Ernest Beaux pour Gabrielle « Coco » Chanel. Selon le récit le plus répandu, elle aurait choisi le cinquième échantillon qui lui était présenté, le 5 étant son chiffre fétiche. Novateur par son usage massif d'aldéhydes de synthèse, il a été présenté dans un flacon géométrique très sobre, à rebours des flacons ornés de l'époque.",
+      "source": "Encyclopædia Britannica — « Coco Chanel »",
+      "verification": {
+        "statut": "relue",
+        "note": "Source remplacée (titre de l'article sur le parfum incertain)."
+      }
+    },
+    {
+      "id": "art-05-1",
+      "categorie": "art",
+      "niveau": 5,
+      "question": "Quel peintre a exposé en 1874 Impression, soleil levant, tableau qui a donné son nom à l'impressionnisme ?",
+      "reponse": "Claude Monet",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Édouard Manet",
+          "Manet",
+          "Auguste Renoir",
+          "Camille Pissarro",
+          "Eugène Boudin"
+        ]
+      },
+      "explication": "Peinte au Havre en 1872, cette vue du port noyée dans la brume a été présentée en 1874 lors d'une exposition organisée par un groupe d'artistes indépendants dans l'ancien atelier du photographe Nadar, à Paris. Le critique Louis Leroy s'en moqua dans Le Charivari en qualifiant ces peintres d'« impressionnistes ». Le surnom moqueur fut finalement adopté par le mouvement. La toile est conservée au musée Marmottan Monet.",
+      "source": "Wikipédia (fr) — « Impression, soleil levant »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-05-2",
+      "categorie": "art",
+      "niveau": 5,
+      "question": "Quel architecte a conçu la Sagrada Família de Barcelone ?",
+      "reponse": "Antoni Gaudí",
+      "variantes": [
+        "Antonio Gaudí"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Lluís Domènech i Montaner",
+          "Josep Puig i Cadafalch",
+          "Le Corbusier"
+        ]
+      },
+      "explication": "Les travaux de la basilique ont commencé en 1882 sous la direction d'un autre architecte ; Gaudí a repris le chantier dès 1883 et y a consacré plus de quarante ans. À sa mort en 1926, renversé par un tramway, seule une petite partie était bâtie. Financée par les dons et les billets des visiteurs, la construction s'est poursuivie, et l'église a été consacrée en 2010 par le pape Benoît XVI.",
+      "source": "Wikipédia (fr) — « Sagrada Família »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-05-3",
+      "categorie": "art",
+      "niveau": 5,
+      "question": "Quel musée parisien, installé dans une ancienne gare, abrite une grande collection impressionniste ?",
+      "reponse": "Musée d'Orsay",
+      "variantes": [
+        "Orsay"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Musée de l'Orangerie",
+          "Louvre",
+          "Musée Marmottan Monet",
+          "Centre Pompidou",
+          "Petit Palais"
+        ]
+      },
+      "explication": "La gare d'Orsay a été construite par l'architecte Victor Laloux pour l'Exposition universelle de 1900, afin d'amener les voyageurs au cœur de Paris. Ses quais devenus trop courts pour les trains modernes, elle a échappé de peu à la démolition. Transformée en musée, elle a ouvert ses portes en 1986 et présente l'art de 1848 à 1914 : peinture, sculpture, arts décoratifs et photographie.",
+      "source": "Wikipédia (fr) — « Musée d'Orsay »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-05-4",
+      "categorie": "art",
+      "niveau": 5,
+      "question": "Quel couturier a présenté en 1947 la collection surnommée « New Look » ?",
+      "reponse": "Christian Dior",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Cristóbal Balenciaga",
+          "Yves Saint Laurent",
+          "Pierre Balmain",
+          "Hubert de Givenchy"
+        ]
+      },
+      "explication": "Le 12 février 1947, Christian Dior présente sa première collection dans sa maison de l'avenue Montaigne. Taille de guêpe, épaules arrondies et jupes amples descendant à mi-mollet rompent avec la sobriété imposée par les restrictions de la guerre. La rédactrice en chef de Harper's Bazaar, Carmel Snow, se serait alors exclamée : « Your dresses have such a new look ! », formule qui a baptisé le style.",
+      "source": "Wikipédia (fr) — « Christian Dior »",
+      "verification": {
+        "statut": "relue",
+        "note": "Citation de Carmel Snow rétablie dans sa forme usuelle ; longueur des jupes précisée."
+      }
+    },
+    {
+      "id": "art-06-1",
+      "categorie": "art",
+      "niveau": 6,
+      "question": "Quel peintre a fait scandale au Salon des refusés de 1863 avec Le Déjeuner sur l'herbe ?",
+      "reponse": "Édouard Manet",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Claude Monet",
+          "Monet",
+          "Gustave Courbet",
+          "Edgar Degas"
+        ]
+      },
+      "explication": "Écarté par le jury du Salon officiel, le tableau fut montré au Salon des refusés, créé par Napoléon III pour apaiser la colère des artistes rejetés. Le public fut choqué par cette femme nue, au regard direct, assise auprès d'hommes en habits modernes, alors que le nu n'était admis que dans un cadre mythologique ou allégorique. La toile appartient au musée d'Orsay.",
+      "anecdote": "Claude Monet entreprit en 1865 son propre Déjeuner sur l'herbe, une toile immense qu'il finit par découper : deux fragments sont conservés au musée d'Orsay.",
+      "source": "Wikipédia (fr) — « Le Déjeuner sur l'herbe »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-06-2",
+      "categorie": "art",
+      "niveau": 6,
+      "question": "Quel peintre de Delft a réalisé La Jeune Fille à la perle ?",
+      "reponse": "Johannes Vermeer",
+      "variantes": [
+        "Jan Vermeer",
+        "Vermeer de Delft"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Rembrandt",
+          "Frans Hals",
+          "Pieter de Hooch"
+        ]
+      },
+      "explication": "Peinte vers 1665, La Jeune Fille à la perle n'est pas un portrait mais une « tronie », une étude de visage et d'expression, ici coiffée d'un turban exotique. L'identité du modèle reste inconnue. Le tableau est conservé au Mauritshuis de La Haye. On ne connaît qu'environ trente-cinq tableaux attribués à Vermeer, mort criblé de dettes en 1675.",
+      "source": "Wikipédia (fr) — « La Jeune Fille à la perle »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-06-3",
+      "categorie": "art",
+      "niveau": 6,
+      "question": "Quel architecte a conçu la pyramide de verre du Louvre ?",
+      "reponse": "Ieoh Ming Pei",
+      "variantes": [
+        "I. M. Pei",
+        "IM Pei"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Jean Nouvel",
+          "Renzo Piano",
+          "Frank Gehry",
+          "Norman Foster"
+        ]
+      },
+      "explication": "Commandée par François Mitterrand dans le cadre du projet du Grand Louvre, la pyramide a été conçue par l'architecte sino-américain Ieoh Ming Pei et ouverte au public en 1989. Haute d'un peu plus de 21 mètres, elle sert d'entrée principale au musée. Son style contemporain, au cœur d'un palais historique, a suscité une vive polémique avant de devenir l'un des symboles de Paris.",
+      "anecdote": "Une rumeur tenace prétend que la pyramide compte 666 losanges de verre. Le décompte officiel en donne 673, losanges et triangles confondus.",
+      "source": "Wikipédia (fr) — « Pyramide du Louvre »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-06-4",
+      "categorie": "art",
+      "niveau": 6,
+      "question": "Quel artiste japonais a créé l'estampe La Grande Vague de Kanagawa ?",
+      "reponse": "Katsushika Hokusai",
+      "variantes": [
+        "Hokusai",
+        "Hokusaï"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Hiroshige",
+          "Utagawa Hiroshige",
+          "Utamaro"
+        ]
+      },
+      "explication": "Gravée sur bois vers 1830-1831, La Grande Vague appartient à la série des Trente-six vues du mont Fuji : le volcan, minuscule, apparaît au loin, entre les creux de la vague. Tirée à plusieurs milliers d'exemplaires, cette estampe a fasciné les artistes européens du XIXe siècle et nourri le japonisme. Hokusai a utilisé plusieurs dizaines de noms d'artiste au cours de sa longue carrière.",
+      "anecdote": "Le bleu intense de l'estampe vient du bleu de Prusse, un pigment synthétique d'origine européenne, alors nouveau au Japon.",
+      "source": "Wikipédia (fr) — « La Grande Vague de Kanagawa »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-07-1",
+      "categorie": "art",
+      "niveau": 7,
+      "question": "Quelle école d'art et d'architecture Walter Gropius a-t-il fondée à Weimar en 1919 ?",
+      "reponse": "Bauhaus",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Werkbund",
+          "De Stijl"
+        ]
+      },
+      "explication": "Le Bauhaus voulait réunir artistes et artisans pour créer des objets et des bâtiments à la fois beaux, fonctionnels et adaptés à la production en série. Paul Klee et Vassily Kandinsky y ont enseigné. Installée à Dessau en 1925, dans un bâtiment conçu par Gropius, puis à Berlin, l'école a fermé en 1933 sous la pression des nazis. Plusieurs de ses maîtres ont émigré aux États-Unis.",
+      "source": "Wikipédia (fr) — « Bauhaus »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-07-2",
+      "categorie": "art",
+      "niveau": 7,
+      "question": "Quel architecte a conçu le musée Guggenheim de Bilbao, inauguré en 1997 ?",
+      "reponse": "Frank Gehry",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Frank Lloyd Wright",
+          "Renzo Piano",
+          "Zaha Hadid",
+          "Santiago Calatrava"
+        ]
+      },
+      "explication": "Avec ses courbes recouvertes de titane, le musée Guggenheim de Bilbao a transformé une ville industrielle en déclin en destination touristique. Les urbanistes parlent depuis d'« effet Bilbao » pour désigner la relance d'une ville par un bâtiment spectaculaire. Ses formes complexes ont été mises au point avec CATIA, un logiciel issu de l'aéronautique. Le Guggenheim de New York, lui, est l'œuvre de Frank Lloyd Wright.",
+      "source": "Wikipédia (fr) — « Musée Guggenheim de Bilbao »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-07-3",
+      "categorie": "art",
+      "niveau": 7,
+      "question": "Quel artiste a présenté en 1917 un urinoir renversé intitulé Fontaine ?",
+      "reponse": "Marcel Duchamp",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Man Ray",
+          "Francis Picabia",
+          "Tristan Tzara"
+        ]
+      },
+      "explication": "Signé « R. Mutt », l'urinoir acheté dans le commerce fut proposé à l'exposition de la Société des artistes indépendants de New York, qui refusa de le montrer. Duchamp affirmait ainsi qu'un objet ordinaire peut devenir œuvre d'art par le seul choix de l'artiste : c'est le principe du ready-made. L'original a disparu ; les exemplaires visibles dans les musées sont des répliques, pour la plupart réalisées en 1964 avec l'accord de l'artiste.",
+      "anecdote": "En 2004, un sondage auprès de cinq cents professionnels britanniques de l'art a désigné Fontaine comme l'œuvre la plus influente du XXe siècle.",
+      "source": "Wikipédia (fr) — « Fontaine (Duchamp) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-07-4",
+      "categorie": "art",
+      "niveau": 7,
+      "question": "Quel grand cuisinier français a créé la pêche Melba en hommage à une cantatrice ?",
+      "reponse": "Auguste Escoffier",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Paul Bocuse",
+          "Antonin Carême",
+          "César Ritz"
+        ]
+      },
+      "explication": "Dans les années 1890, au Savoy de Londres, Auguste Escoffier imagina ce dessert pour la soprano australienne Nellie Melba : des pêches pochées sur de la glace à la vanille, nappées plus tard d'une purée de framboises. Associé à l'hôtelier César Ritz, il modernisa la cuisine des grands hôtels et organisa les cuisines en brigades spécialisées. Son Guide culinaire, paru en 1903, reste une référence.",
+      "anecdote": "La cantatrice a aussi donné son nom aux toasts Melba, de fines tranches de pain grillé croustillantes.",
+      "source": "Wikipédia (fr) — « Auguste Escoffier »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-08-1",
+      "categorie": "art",
+      "niveau": 8,
+      "question": "Quel sculpteur baroque a réalisé L'Extase de sainte Thérèse, à Rome ?",
+      "reponse": "Le Bernin",
+      "variantes": [
+        "Bernin",
+        "Gian Lorenzo Bernini",
+        "Bernini",
+        "Gian Lorenzo Bernin"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Borromini",
+          "Canova",
+          "Michel-Ange",
+          "Caravage"
+        ]
+      },
+      "explication": "Réalisé entre 1647 et 1652 pour la chapelle Cornaro de l'église Santa Maria della Vittoria, ce groupe en marbre montre la mystique espagnole sur le point d'être transpercée par la flèche d'un ange. Le Bernin y mêle sculpture, architecture et lumière naturelle, tombant d'une fenêtre cachée. Sculpteur et architecte, il a aussi conçu la colonnade de la place Saint-Pierre, au Vatican.",
+      "anecdote": "Sur les côtés de la chapelle, des membres de la famille Cornaro sont sculptés comme s'ils assistaient à la scène depuis des loges de théâtre.",
+      "source": "Wikipédia (fr) — « L'Extase de sainte Thérèse »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-08-2",
+      "categorie": "art",
+      "niveau": 8,
+      "question": "Quel photographe d'origine hongroise a cofondé l'agence Magnum en 1947 ?",
+      "reponse": "Robert Capa",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Henri Cartier-Bresson",
+          "Brassaï",
+          "André Kertész",
+          "Gerda Taro",
+          "Cornell Capa"
+        ],
+        "nomSeul": true
+      },
+      "explication": "Né Endre Friedmann à Budapest, il s'est inventé avec sa compagne Gerda Taro le nom de Robert Capa, présenté comme celui d'un photographe américain, pour mieux vendre ses images. Célèbre pour ses clichés de la guerre d'Espagne, il a photographié le Débarquement à Omaha Beach le 6 juin 1944. Il est mort en 1954 en Indochine, en sautant sur une mine.",
+      "source": "Wikipédia (fr) — « Robert Capa »",
+      "verification": {
+        "statut": "relue",
+        "note": "Piège « Cornell Capa » (frère, entré à Magnum en 1954) et nomSeul explicite."
+      }
+    },
+    {
+      "id": "art-08-3",
+      "categorie": "art",
+      "niveau": 8,
+      "question": "Quel architecte a dessiné les entrées Art nouveau du métro de Paris ?",
+      "reponse": "Hector Guimard",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Antoni Gaudí",
+          "Alfons Mucha",
+          "Victor Horta",
+          "Fulgence Bienvenüe"
+        ]
+      },
+      "explication": "Pour l'ouverture du métro, en 1900, la Compagnie du chemin de fer métropolitain de Paris a confié à Hector Guimard le dessin des accès. Il a imaginé des structures en fonte moulée inspirées des formes végétales, avec des lampadaires en forme de tiges et l'inscription « Métropolitain » en lettres ondulantes. Jugées extravagantes par certains, beaucoup ont été démolies ; celles qui subsistent sont protégées au titre des monuments historiques.",
+      "source": "Wikipédia (fr) — « Hector Guimard »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-08-4",
+      "categorie": "art",
+      "niveau": 8,
+      "question": "Quel fromage a été, en 1925, le premier à bénéficier d'une appellation d'origine en France ?",
+      "reponse": "Roquefort",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Comté",
+          "Camembert",
+          "Brie de Meaux",
+          "Bleu d'Auvergne"
+        ]
+      },
+      "explication": "La loi du 26 juillet 1925 a réservé le nom de roquefort au fromage de lait cru de brebis affiné dans les caves naturelles du Combalou, à Roquefort-sur-Soulzon, dans l'Aveyron. Ses veines bleues proviennent d'un champignon, Penicillium roqueforti. Bien avant cette loi, en 1411, le roi Charles VI avait déjà accordé aux habitants le monopole de son affinage.",
+      "anecdote": "Les caves du Combalou sont parcourues de failles naturelles, les « fleurines », qui assurent une ventilation et une humidité constantes.",
+      "source": "Wikipédia (fr) — « Roquefort »",
+      "verification": {
+        "statut": "relue",
+        "note": "Lettres patentes de Charles VI (1411) : fait couramment cité, conservé."
+      }
+    },
+    {
+      "id": "art-09-1",
+      "categorie": "art",
+      "niveau": 9,
+      "question": "Quel peintre a achevé en 1432 L'Agneau mystique de Gand, commencé par son frère Hubert ?",
+      "reponse": "Jan van Eyck",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "nom": "van Eyck",
+        "nomSeul": false,
+        "pieges": [
+          "Hubert van Eyck",
+          "Rogier van der Weyden",
+          "Hans Memling",
+          "Robert Campin"
+        ]
+      },
+      "explication": "Le retable de L'Adoration de l'Agneau mystique, conservé à la cathédrale Saint-Bavon de Gand, est l'un des sommets de la peinture flamande. Une inscription indique qu'Hubert van Eyck l'a commencé et que son frère Jan l'a terminé en 1432. Peints à l'huile avec une précision inouïe, ses panneaux ont été volés ou déplacés à plusieurs reprises, notamment par les nazis.",
+      "anecdote": "Le panneau des Juges intègres, volé en 1934, n'a jamais été retrouvé : celui que l'on voit est une copie due au restaurateur Jef Van der Veken.",
+      "source": "Wikipédia (fr) — « Jan van Eyck »",
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote : datation de la copie retirée ; nomSeul false justifié (Hubert)."
+      }
+    },
+    {
+      "id": "art-09-2",
+      "categorie": "art",
+      "niveau": 9,
+      "question": "Quel architecte a conçu la coupole de la cathédrale Santa Maria del Fiore, à Florence ?",
+      "reponse": "Filippo Brunelleschi",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Lorenzo Ghiberti",
+          "Leon Battista Alberti",
+          "Giotto",
+          "Arnolfo di Cambio"
+        ]
+      },
+      "explication": "Construite de 1420 à 1436, la coupole de Florence relevait un défi : personne ne savait alors couvrir un espace de plus de 40 mètres de diamètre. Brunelleschi a imaginé une double coque, faite de briques posées en arêtes de poisson, montée sans cintre en bois. Elle reste la plus grande coupole en briques jamais construite. On lui attribue aussi la mise au point de la perspective linéaire.",
+      "anecdote": "En 1401, Brunelleschi avait perdu le concours des portes du baptistère de Florence face à Lorenzo Ghiberti, qui deviendra son grand rival.",
+      "source": "Wikipédia (fr) — « Filippo Brunelleschi »",
+      "verification": {
+        "statut": "relue",
+        "note": "« coupole en briques » plutôt que « en maçonnerie »."
+      }
+    },
+    {
+      "id": "art-09-3",
+      "categorie": "art",
+      "niveau": 9,
+      "question": "Quelle couturière italienne, rivale de Chanel, a imposé le « rose shocking » dans les années 1930 ?",
+      "reponse": "Elsa Schiaparelli",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Coco Chanel",
+          "Madeleine Vionnet",
+          "Nina Ricci",
+          "Jeanne Lanvin"
+        ]
+      },
+      "explication": "Installée à Paris, Elsa Schiaparelli a fait entrer le surréalisme dans la mode. Elle a collaboré avec Salvador Dalí, notamment sur une robe ornée d'un homard en 1937, et avec Jean Cocteau. Son rose vif, baptisé « shocking », a donné son nom à un parfum lancé en 1937. Sa maison de couture a fermé en 1954, avant d'être relancée au XXIe siècle.",
+      "source": "Wikipédia (fr) — « Elsa Schiaparelli »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-09-4",
+      "categorie": "art",
+      "niveau": 9,
+      "question": "Quel designer allemand de la firme Braun a formulé dix principes du bon design ?",
+      "reponse": "Dieter Rams",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Walter Gropius",
+          "Hans Gugelot",
+          "Marcel Breuer",
+          "Jony Ive"
+        ]
+      },
+      "explication": "Directeur du design de Braun de 1961 à 1995, Dieter Rams a dessiné radios, rasoirs et chaînes hi-fi aux lignes épurées. Ses dix principes affirment notamment qu'un bon design est innovant, utile, discret, durable et qu'il est « aussi peu de design que possible ». Sa devise, « Weniger, aber besser » (moins, mais mieux), a inspiré des générations de créateurs.",
+      "source": "Wikipédia (fr) — « Dieter Rams »",
+      "verification": {
+        "statut": "relue",
+        "note": "Dates 1961-1995 (direction du design chez Braun) conservées."
+      }
+    },
+    {
+      "id": "art-10-1",
+      "categorie": "art",
+      "niveau": 10,
+      "question": "Quel peintre allemand a peint le retable d'Issenheim, conservé à Colmar ?",
+      "reponse": "Matthias Grünewald",
+      "variantes": [
+        "Mathis Gothart Nithart",
+        "Mathis Grünewald"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Albrecht Dürer",
+          "Hans Holbein",
+          "Martin Schongauer",
+          "Lucas Cranach"
+        ]
+      },
+      "explication": "Peint vers 1512-1516 pour le couvent des Antonins d'Issenheim, en Alsace, le retable était destiné à des malades atteints du « mal des ardents », une intoxication due à un champignon du seigle. Sa Crucifixion, au corps du Christ couvert de plaies, est d'un réalisme saisissant. Ses panneaux articulés s'ouvraient selon les fêtes. Il est exposé au musée Unterlinden de Colmar.",
+      "anecdote": "Le nom de Grünewald vient sans doute d'une erreur d'un biographe du XVIIe siècle : le peintre s'appelait probablement Mathis Gothart Nithart.",
+      "source": "Wikipédia (fr) — « Retable d'Issenheim »",
+      "verification": {
+        "statut": "relue",
+        "note": "Énoncé « a peint » (sculptures dues à Nicolas de Haguenau) ; variante Mathis Gothart Nithart conservée (nom réel probable)."
+      }
+    },
+    {
+      "id": "art-10-2",
+      "categorie": "art",
+      "niveau": 10,
+      "question": "Quel peintre vénitien est l'auteur de La Tempête, conservée à l'Accademia de Venise ?",
+      "reponse": "Giorgione",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Titien",
+          "Giovanni Bellini",
+          "Tintoret",
+          "Véronèse"
+        ]
+      },
+      "explication": "Peinte vers 1506-1508, La Tempête montre un jeune homme debout, une femme allaitant et un éclair zébrant le ciel, sans que l'on sache ce qu'elle représente : son sujet reste une grande énigme de l'histoire de l'art. Giorgione, mort jeune de la peste en 1510, n'a laissé que très peu d'œuvres sûres. Il a profondément influencé Titien, qui acheva certaines de ses toiles.",
+      "anecdote": "Une radiographie a révélé que Giorgione avait d'abord peint, à la place du jeune homme, une femme nue se baignant.",
+      "source": "Wikipédia (fr) — « La Tempête (Giorgione) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-10-3",
+      "categorie": "art",
+      "niveau": 10,
+      "question": "Quel architecte a conçu la place Stanislas de Nancy, achevée en 1755 ?",
+      "reponse": "Emmanuel Héré",
+      "variantes": [
+        "Emmanuel Héré de Corny"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Jean Lamour",
+          "Germain Boffrand",
+          "Ange-Jacques Gabriel",
+          "Jules Hardouin-Mansart"
+        ]
+      },
+      "explication": "Voulue par Stanislas Leszczynski, ancien roi de Pologne devenu duc de Lorraine, la place royale a été construite de 1752 à 1755 en l'honneur de son gendre Louis XV. Son architecte, Emmanuel Héré, l'a reliée à la place de la Carrière. Les grilles dorées sont l'œuvre du ferronnier Jean Lamour. L'ensemble est inscrit au patrimoine mondial de l'Unesco depuis 1983.",
+      "anecdote": "La statue centrale représentait Louis XV ; détruite à la Révolution, elle a été remplacée en 1831 par celle de Stanislas.",
+      "source": "Wikipédia (fr) — « Place Stanislas »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-10-4",
+      "categorie": "art",
+      "niveau": 10,
+      "question": "Quel ébéniste de Louis XIV a donné son nom à une marqueterie d'écaille et de laiton ?",
+      "reponse": "André-Charles Boulle",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Jean-Henri Riesener",
+          "Charles Cressent",
+          "Jean-François Oeben"
+        ]
+      },
+      "explication": "Ébéniste du roi, logé à partir de 1672 dans les galeries du Louvre, André-Charles Boulle a perfectionné une marqueterie associant écaille de tortue, laiton et étain sur des meubles d'ébène. En découpant ensemble deux feuilles superposées, il obtenait deux décors inversés, dits « première partie » et « contre-partie ». Une école parisienne des métiers d'art porte son nom.",
+      "source": "Wikipédia (fr) — « André-Charles Boulle »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    }
+  ]
+}

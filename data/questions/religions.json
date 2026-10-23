@@ -1,0 +1,1109 @@
+{
+  "categorie": "religions",
+  "questions": [
+    {
+      "id": "rel-01-1",
+      "categorie": "religions",
+      "niveau": 1,
+      "question": "Dans la mythologie grecque, quel dieu règne sur l'Olympe et manie la foudre ?",
+      "reponse": "Zeus",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Jupiter",
+          "Poséidon",
+          "Hadès",
+          "Cronos",
+          "Apollon"
+        ]
+      },
+      "explication": "Fils des Titans Cronos et Rhéa, Zeus échappe de justesse à son père, qui avalait ses enfants à leur naissance : Rhéa lui fait engloutir une pierre emmaillotée à la place du nourrisson. Devenu adulte, Zeus libère ses frères et sœurs, renverse les Titans et partage le monde avec Poséidon, qui reçoit les mers, et Hadès, qui reçoit les Enfers. Les Romains l'assimilèrent à Jupiter.",
+      "anecdote": "Sa statue d'or et d'ivoire sculptée par Phidias pour le temple d'Olympie comptait parmi les Sept Merveilles du monde antique.",
+      "source": "Wikipédia (fr) — « Zeus »",
+      "verification": {
+        "statut": "relue",
+        "note": "Formulation Cronos/Rhéa conforme à Hésiode. Jupiter laissé en piège : l'énoncé précise « mythologie grecque »."
+      }
+    },
+    {
+      "id": "rel-01-2",
+      "categorie": "religions",
+      "niveau": 1,
+      "question": "Quelle fête chrétienne célèbre la naissance de Jésus ?",
+      "reponse": "Noël",
+      "variantes": [
+        "Nativité"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Pâques",
+          "Épiphanie",
+          "Pentecôte",
+          "Ascension",
+          "Avent"
+        ]
+      },
+      "explication": "Les Évangiles ne donnent aucune date pour la naissance de Jésus. La célébration du 25 décembre est attestée à Rome au IVe siècle, notamment dans un calendrier de l'an 354, et coïncidait avec des fêtes païennes liées au solstice d'hiver, comme celle du Soleil invaincu. Plusieurs Églises orthodoxes, qui suivent le calendrier julien, fêtent Noël le 7 janvier de notre calendrier.",
+      "anecdote": "Le mot « Noël » viendrait du latin natalis, « relatif à la naissance », par l'expression natalis dies, « jour de naissance ».",
+      "source": "Wikipédia (fr) — « Noël »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-01-3",
+      "categorie": "religions",
+      "niveau": 1,
+      "question": "Quel est le livre sacré de l'islam ?",
+      "reponse": "Coran",
+      "variantes": [
+        "Qur'an",
+        "Quran",
+        "Koran"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Hadith",
+          "Sunna",
+          "Torah",
+          "Bible",
+          "Évangile"
+        ]
+      },
+      "explication": "Pour les musulmans, le Coran est la parole de Dieu révélée en arabe au prophète Mahomet par l'intermédiaire de l'ange Gabriel, entre 610 et 632 environ. Il compte 114 sourates, divisées en versets et classées pour l'essentiel de la plus longue à la plus courte, à l'exception de la première, la Fatiha. Son nom signifie « récitation » en arabe.",
+      "source": "Wikipédia (fr) — « Coran »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-01-4",
+      "categorie": "religions",
+      "niveau": 1,
+      "question": "Dans la Bible, quel patriarche construit une arche pour échapper au Déluge ?",
+      "reponse": "Noé",
+      "variantes": [
+        "Noah",
+        "Nouh",
+        "Nuh"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Moïse",
+          "Abraham",
+          "Jonas",
+          "Adam"
+        ]
+      },
+      "explication": "Selon le livre de la Genèse, Dieu ordonne à Noé de bâtir une arche pour sauver sa famille et des couples d'animaux de chaque espèce. Après le Déluge, l'arche s'échoue sur les monts d'Ararat, et une colombe revient avec un rameau d'olivier, signe que les eaux se retirent. Dieu scelle ensuite une alliance avec les hommes, dont l'arc-en-ciel est le signe.",
+      "anecdote": "Noé est aussi un prophète de l'islam, sous le nom de Nouh : la sourate 71 du Coran porte son nom.",
+      "source": "Wikipédia (fr) — « Arche de Noé »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-02-1",
+      "categorie": "religions",
+      "niveau": 2,
+      "question": "Dans la mythologie nordique, quel dieu du tonnerre manie le marteau Mjöllnir ?",
+      "reponse": "Thor",
+      "variantes": [
+        "Thórr",
+        "Þórr"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Odin",
+          "Loki",
+          "Tyr",
+          "Freyr",
+          "Heimdall"
+        ]
+      },
+      "explication": "Fils d'Odin, Thor protège les dieux et les hommes contre les géants, qu'il combat avec Mjöllnir, un marteau qui revient dans sa main après chaque lancer. Il se déplace dans un char tiré par deux boucs. Selon les récits du Ragnarök, la bataille de la fin du monde, il tue le serpent de Midgard mais succombe à son venin après avoir fait neuf pas.",
+      "anecdote": "Le jeudi lui doit son nom en anglais (Thursday) et dans les langues scandinaves (torsdag) : c'est le « jour de Thor ».",
+      "source": "Wikipédia (fr) — « Thor »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-02-2",
+      "categorie": "religions",
+      "niveau": 2,
+      "question": "Quel héros de la mythologie gréco-romaine accomplit les douze travaux ?",
+      "reponse": "Héraclès",
+      "variantes": [
+        "Hercule",
+        "Herakles",
+        "Hercules"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Thésée",
+          "Persée",
+          "Achille",
+          "Ulysse",
+          "Jason"
+        ]
+      },
+      "explication": "Fils de Zeus et de la mortelle Alcmène, Héraclès est poursuivi par la haine d'Héra. Frappé de folie par la déesse, il tue ses propres enfants ; pour expier ce crime, il doit servir le roi Eurysthée, qui lui impose les douze travaux. Parmi eux figurent la mort du lion de Némée et de l'hydre de Lerne, ou encore la capture de Cerbère, le chien des Enfers.",
+      "source": "Wikipédia (fr) — « Héraclès »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-02-3",
+      "categorie": "religions",
+      "niveau": 2,
+      "question": "Dans quelle ville d'Arabie saoudite se trouve la Kaaba ?",
+      "reponse": "La Mecque",
+      "variantes": [
+        "Makkah",
+        "Mekka"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Médine",
+          "Riyad",
+          "Djeddah",
+          "Jérusalem"
+        ]
+      },
+      "explication": "La Kaaba est un édifice cubique situé au centre de la Grande Mosquée, al-Masjid al-Haram. Les musulmans du monde entier s'orientent vers elle pour prier : c'est la qibla. Le pèlerinage du hajj, l'un des cinq piliers de l'islam, y rassemble chaque année des foules immenses ; tout musulman qui en a les moyens doit l'accomplir au moins une fois dans sa vie.",
+      "anecdote": "Selon la tradition islamique, la Kaaba aurait été bâtie par Abraham et son fils Ismaël. Son voile noir brodé d'or, la kiswa, est renouvelé chaque année.",
+      "source": "Wikipédia (fr) — « Kaaba »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-02-4",
+      "categorie": "religions",
+      "niveau": 2,
+      "question": "Quel symbole du judaïsme est formé de deux triangles équilatéraux entrelacés ?",
+      "reponse": "Étoile de David",
+      "variantes": [
+        "Bouclier de David",
+        "Magen David",
+        "Maguen David"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Ménorah",
+          "Étoile de Bethléem",
+          "Chandelier",
+          "Croix"
+        ]
+      },
+      "explication": "En hébreu, on l'appelle Magen David, le « bouclier de David ». Si l'hexagramme est un motif très ancien, présent dans de nombreuses cultures, son association particulière au judaïsme s'affirme surtout à la fin du Moyen Âge, notamment à Prague. Adoptée par le mouvement sioniste à la fin du XIXe siècle, elle figure depuis 1948 sur le drapeau d'Israël, entre deux bandes bleues.",
+      "source": "Wikipédia (fr) — « Étoile de David »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-03-1",
+      "categorie": "religions",
+      "niveau": 3,
+      "question": "Dans la mythologie égyptienne, quel dieu à tête de chacal veille sur la momification ?",
+      "reponse": "Anubis",
+      "variantes": [
+        "Anoubis",
+        "Inpou",
+        "Anpu"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Osiris",
+          "Horus",
+          "Seth",
+          "Thot",
+          "Oupouaout"
+        ]
+      },
+      "explication": "Souvent figuré sous les traits d'un canidé noir, Anubis est le maître des nécropoles et le protecteur des embaumeurs. On le représente fréquemment auprès de la balance où, selon le Livre des morts, le cœur du défunt est pesé face à la plume de Maât. Le noir de son pelage n'évoquait pas le deuil, mais la terre fertile déposée par la crue du Nil, symbole de renaissance.",
+      "source": "Wikipédia (fr) — « Anubis »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-03-2",
+      "categorie": "religions",
+      "niveau": 3,
+      "question": "Quel mois du calendrier musulman est consacré au jeûne, de l'aube au coucher du soleil ?",
+      "reponse": "Ramadan",
+      "variantes": [
+        "Ramadhan",
+        "Ramazan"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Chawwal",
+          "Mouharram",
+          "Chaabane",
+          "Aïd el-Fitr",
+          "Carême"
+        ]
+      },
+      "explication": "Le jeûne du ramadan est l'un des cinq piliers de l'islam. C'est le neuvième mois du calendrier hégirien, qui est lunaire : il avance donc d'une dizaine de jours chaque année par rapport au calendrier grégorien et parcourt toutes les saisons en 33 ans environ. Le repas qui rompt le jeûne au coucher du soleil s'appelle l'iftar, et la fin du mois est célébrée par l'Aïd el-Fitr.",
+      "source": "Wikipédia (fr) — « Ramadan »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-03-3",
+      "categorie": "religions",
+      "niveau": 3,
+      "question": "Quel fleuve, qui baigne la ville de Varanasi, est le plus sacré de l'hindouisme ?",
+      "reponse": "Gange",
+      "variantes": [
+        "Ganga"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Indus",
+          "Yamuna",
+          "Brahmapoutre",
+          "Godavari"
+        ]
+      },
+      "explication": "Dans l'hindouisme, le fleuve est personnifié par la déesse Ganga, descendue du ciel selon la tradition, et dont Shiva aurait amorti la chute dans sa chevelure. Les fidèles s'y baignent pour se purifier, et de nombreuses familles y dispersent les cendres de leurs défunts. Long d'environ 2 500 kilomètres, il prend sa source dans l'Himalaya et se jette dans le golfe du Bengale.",
+      "anecdote": "La Kumbh Mela, pèlerinage organisé notamment à Prayagraj, au confluent du Gange et de la Yamuna, compte parmi les plus grands rassemblements humains au monde.",
+      "source": "Wikipédia (fr) — « Gange »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-03-4",
+      "categorie": "religions",
+      "niveau": 3,
+      "question": "Dans le bouddhisme, quel mot sanskrit désigne la libération définitive du cycle des renaissances ?",
+      "reponse": "Nirvana",
+      "variantes": [
+        "Nirvâna",
+        "Nirvāṇa",
+        "Nibbana"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Karma",
+          "Samsara",
+          "Dharma",
+          "Satori"
+        ]
+      },
+      "explication": "Le terme signifie littéralement « extinction », comme celle d'une flamme : celle du désir, de la haine et de l'ignorance qui, selon l'enseignement du Bouddha, enchaînent les êtres au samsara, le cycle des morts et des renaissances. L'atteindre met fin à la souffrance. En pali, la langue des textes du bouddhisme theravada, le même mot s'écrit nibbana.",
+      "source": "Encyclopædia Britannica — « Nirvana »",
+      "verification": {
+        "statut": "relue",
+        "note": "Source remplacée par un article dont l'existence est sûre."
+      }
+    },
+    {
+      "id": "rel-04-1",
+      "categorie": "religions",
+      "niveau": 4,
+      "question": "Dans la mythologie grecque, quel Titan dérobe le feu aux dieux pour l'offrir aux hommes ?",
+      "reponse": "Prométhée",
+      "variantes": [
+        "Prometheus"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Épiméthée",
+          "Atlas",
+          "Cronos",
+          "Héphaïstos",
+          "Hermès"
+        ]
+      },
+      "explication": "Pour le punir, Zeus le fait enchaîner sur le Caucase, où un aigle vient chaque jour lui dévorer le foie, qui repousse sans cesse. Héraclès finira par abattre l'aigle et le délivrer. Selon Hésiode, Zeus se venge aussi des hommes en leur envoyant Pandore, la première femme, qui répand les maux sur la Terre. Le nom de Prométhée est souvent traduit par « celui qui réfléchit à l'avance ».",
+      "anecdote": "Chez Hésiode, Pandore n'ouvre pas une boîte mais une jarre : la « boîte de Pandore » viendrait d'une erreur de traduction, souvent attribuée à Érasme au XVIe siècle.",
+      "source": "Wikipédia (fr) — « Prométhée »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-04-2",
+      "categorie": "religions",
+      "niveau": 4,
+      "question": "Quelle fête juive de huit jours, dite fête des Lumières, commémore la reconsécration du Temple de Jérusalem ?",
+      "reponse": "Hanoucca",
+      "variantes": [
+        "Hanoukka",
+        "Hanouka",
+        "Hanoukah",
+        "Hanukkah",
+        "Hanukka",
+        "Chanukah",
+        "Hanoukkah"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Pessah",
+          "Pourim",
+          "Souccot",
+          "Diwali",
+          "Yom Kippour"
+        ]
+      },
+      "explication": "Hanoucca rappelle la victoire des Maccabées sur le roi séleucide Antiochos IV et la reconsécration du Temple en 164 av. J.-C. Selon la tradition, la seule fiole d'huile pure retrouvée ne devait suffire qu'un jour, mais la lumière brûla huit jours. On allume donc chaque soir une lumière de plus sur la hanoukia, un chandelier à huit branches complété d'une neuvième servant à allumer les autres.",
+      "anecdote": "En souvenir du miracle de l'huile, on y mange des aliments frits, comme les beignets appelés soufganiyot ou les galettes de pommes de terre appelées latkes.",
+      "source": "Wikipédia (fr) — « Hanoukka »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-04-3",
+      "categorie": "religions",
+      "niveau": 4,
+      "question": "Dans la mythologie nordique, comment s'appelle la grande salle d'Odin où sont accueillis les guerriers morts au combat ?",
+      "reponse": "Valhalla",
+      "variantes": [
+        "Walhalla",
+        "Valhöll",
+        "Valhalle"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Asgard",
+          "Midgard",
+          "Helheim",
+          "Fólkvangr",
+          "Hel"
+        ]
+      },
+      "explication": "Les guerriers tombés au combat y sont conduits par les Valkyries. Ces élus, les einherjar, passent leurs journées à s'affronter puis festoient le soir, en attendant de combattre aux côtés des dieux lors du Ragnarök. Selon l'Edda, la salle compte 540 portes et son toit est couvert de boucliers. Seule la moitié des morts au combat y entre : l'autre rejoint Fólkvangr, le domaine de la déesse Freyja.",
+      "anecdote": "Le roi Louis Ier de Bavière fit bâtir près de Ratisbonne un temple néoclassique baptisé Walhalla, inauguré en 1842, qui honore de grandes figures de culture germanique.",
+      "source": "Wikipédia (fr) — « Valhalla »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-04-4",
+      "categorie": "religions",
+      "niveau": 4,
+      "question": "Quel dieu hindou à tête d'éléphant est invoqué pour lever les obstacles ?",
+      "reponse": "Ganesh",
+      "variantes": [
+        "Ganesha",
+        "Ganapati",
+        "Ganesa"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Hanuman",
+          "Shiva",
+          "Vishnou",
+          "Krishna",
+          "Indra"
+        ]
+      },
+      "explication": "Fils de Shiva et de Parvati, Ganesh est l'une des divinités les plus populaires de l'Inde. Selon un récit répandu, Shiva lui trancha la tête sans le reconnaître, puis la remplaça par celle d'un éléphant. Patron des lettres et du savoir, il est invoqué au début de toute entreprise. Sa monture est une souris ou un rat, selon les traditions, et il tient souvent une friandise sucrée.",
+      "anecdote": "Chaque année, la fête de Ganesh Chaturthi est particulièrement suivie à Mumbai : des statues du dieu y sont portées en procession avant d'être immergées dans la mer.",
+      "source": "Wikipédia (fr) — « Ganesh »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-05-1",
+      "categorie": "religions",
+      "niveau": 5,
+      "question": "Quel dieu romain à deux visages préside aux portes, aux passages et aux commencements ?",
+      "reponse": "Janus",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Jupiter",
+          "Junon",
+          "Mars",
+          "Vesta",
+          "Saturne"
+        ]
+      },
+      "explication": "Janus est figuré avec deux visages opposés, l'un tourné vers le passé, l'autre vers l'avenir. Divinité proprement romaine, sans véritable équivalent grec, il a donné son nom au mois de janvier, ianuarius en latin. À Rome, les portes de son temple sur le Forum restaient ouvertes en temps de guerre et n'étaient fermées qu'en période de paix, ce qui arriva très rarement.",
+      "anecdote": "Dans ses Res gestae, Auguste se flatte d'avoir fait fermer trois fois les portes du temple de Janus, alors qu'elles ne l'avaient été que deux fois avant sa naissance.",
+      "source": "Wikipédia (fr) — « Janus »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-05-2",
+      "categorie": "religions",
+      "niveau": 5,
+      "question": "Quel moine allemand publie en 1517 ses 95 thèses contre le commerce des indulgences ?",
+      "reponse": "Martin Luther",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Jean Calvin",
+          "Calvin",
+          "Zwingli",
+          "Jan Hus",
+          "Érasme"
+        ],
+        "nomSeul": true
+      },
+      "explication": "Le 31 octobre 1517, Martin Luther, moine augustin et professeur de théologie à Wittenberg, conteste la vente des indulgences, censées réduire les peines du purgatoire. La tradition veut qu'il ait affiché ses thèses sur la porte de l'église du château, un épisode discuté par les historiens. Excommunié en 1521, il traduit ensuite la Bible en allemand, et son mouvement donne naissance au protestantisme.",
+      "source": "Wikipédia (fr) — « Martin Luther »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul explicite."
+      }
+    },
+    {
+      "id": "rel-05-3",
+      "categorie": "religions",
+      "niveau": 5,
+      "question": "Quelle grande fête hindoue des lumières, célébrée en automne, voit s'allumer d'innombrables lampes à huile ?",
+      "reponse": "Diwali",
+      "variantes": [
+        "Divali",
+        "Deepavali",
+        "Dipavali",
+        "Dîpâvalî"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Holi",
+          "Hanoucca",
+          "Navratri",
+          "Dussehra"
+        ]
+      },
+      "explication": "Son nom vient du sanskrit dipavali, « rangée de lampes ». Selon une tradition répandue dans le nord de l'Inde, elle célèbre le retour du dieu Rama à Ayodhya après sa victoire sur le démon Ravana. On y honore aussi Lakshmi, déesse de la prospérité. Fixée selon le calendrier lunaire, la fête tombe en octobre ou en novembre et est également célébrée par des sikhs et des jaïns.",
+      "source": "Wikipédia (fr) — « Diwali »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-05-4",
+      "categorie": "religions",
+      "niveau": 5,
+      "question": "Quel dieu du Soleil occupait une place centrale dans la religion officielle de l'Empire inca ?",
+      "reponse": "Inti",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Viracocha",
+          "Pachamama",
+          "Râ",
+          "Tonatiuh",
+          "Illapa"
+        ]
+      },
+      "explication": "Les souverains incas se présentaient comme les descendants du dieu Soleil, ce qui fondait leur pouvoir. À Cuzco, la capitale, son principal sanctuaire, le Coricancha, était couvert de plaques d'or, métal considéré comme la sueur du Soleil. Chaque année, au solstice de juin, la fête de l'Inti Raymi l'honorait ; interdite après la conquête espagnole, elle est reconstituée à Cuzco depuis 1944.",
+      "anecdote": "Le soleil figurant sur les drapeaux de l'Argentine et de l'Uruguay, appelé « soleil de Mai », est généralement présenté comme une représentation de ce dieu.",
+      "source": "Wikipédia (fr) — « Inti »",
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote du soleil de Mai conservée au conditionnel (« généralement présenté »)."
+      }
+    },
+    {
+      "id": "rel-06-1",
+      "categorie": "religions",
+      "niveau": 6,
+      "question": "Dans la mythologie nordique, quel arbre géant, souvent décrit comme un frêne, relie les neuf mondes ?",
+      "reponse": "Yggdrasil",
+      "variantes": [
+        "Yggdrasill"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Asgard",
+          "Midgard",
+          "Bifröst",
+          "Irminsul"
+        ]
+      },
+      "explication": "Selon l'Edda, Yggdrasil plonge ses racines dans plusieurs mondes, dont celui des géants et le royaume des morts. À son pied coulent des sources, et les Nornes, qui tissent le destin, l'arrosent pour l'empêcher de pourrir. Un aigle siège dans ses branches, le dragon Nidhögg ronge ses racines, et l'écureuil Ratatosk court le long du tronc pour leur transmettre des insultes.",
+      "anecdote": "Son nom est souvent compris comme « cheval d'Ygg », Ygg étant un surnom d'Odin, qui se serait pendu neuf nuits à un arbre pour découvrir les runes.",
+      "source": "Wikipédia (fr) — « Yggdrasil »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-06-2",
+      "categorie": "religions",
+      "niveau": 6,
+      "question": "Quel roi d'Uruk est le héros de la plus célèbre épopée de la Mésopotamie ?",
+      "reponse": "Gilgamesh",
+      "variantes": [
+        "Gilgamech",
+        "Gilgameš",
+        "Bilgamesh"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Enkidu",
+          "Hammurabi",
+          "Sargon",
+          "Utnapishtim",
+          "Ninurta"
+        ]
+      },
+      "explication": "Écrite en akkadien sur des tablettes d'argile, l'épopée s'inspire de récits sumériens plus anciens. Elle raconte l'amitié entre Gilgamesh et Enkidu, un homme sauvage façonné par les dieux, puis la quête désespérée d'immortalité du roi après la mort de son ami. Sa version la plus connue provient de la bibliothèque d'Assurbanipal, à Ninive, mise au jour au milieu du XIXe siècle.",
+      "anecdote": "Il a peut-être réellement existé : la liste royale sumérienne le compte parmi les rois d'Uruk, et des historiens situent un éventuel règne entre 2800 et 2500 av. J.-C.",
+      "source": "Wikipédia (fr) — « Épopée de Gilgamesh »",
+      "verification": {
+        "statut": "relue",
+        "note": "Datation du règne éventuel élargie (2800-2500 av. J.-C.)."
+      }
+    },
+    {
+      "id": "rel-06-3",
+      "categorie": "religions",
+      "niveau": 6,
+      "question": "Dans quelle ville indienne se trouve le Temple d'or, principal lieu saint du sikhisme ?",
+      "reponse": "Amritsar",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Delhi",
+          "Lahore",
+          "Chandigarh",
+          "Varanasi",
+          "Jaipur"
+        ]
+      },
+      "explication": "Le Harmandir Sahib, surnommé Temple d'or, se dresse au milieu d'un bassin sacré qui a donné son nom à la ville, « bassin de nectar ». Édifié à partir de la fin du XVIe siècle sous le guru Arjan, il reçut ses dorures au début du XIXe siècle grâce au maharaja Ranjit Singh. Ses quatre entrées, ouvertes dans toutes les directions, symbolisent l'accueil de tous.",
+      "anecdote": "Sa cuisine communautaire, le langar, sert gratuitement des repas à des dizaines de milliers de visiteurs chaque jour, quelle que soit leur religion.",
+      "source": "Encyclopædia Britannica — « Golden Temple »",
+      "verification": {
+        "statut": "relue",
+        "note": "Chronologie de construction précisée (1581-1604)."
+      }
+    },
+    {
+      "id": "rel-06-4",
+      "categorie": "religions",
+      "niveau": 6,
+      "question": "Quel dieu aztèque est représenté sous la forme d'un serpent à plumes ?",
+      "reponse": "Quetzalcoatl",
+      "variantes": [
+        "Quetzalcóatl"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Huitzilopochtli",
+          "Tezcatlipoca",
+          "Kukulkan",
+          "Tlaloc"
+        ]
+      },
+      "explication": "Son nom associe deux mots nahuatl : quetzal, un oiseau aux longues plumes vertes, et coatl, « serpent ». Divinité du vent, du savoir et des arts, le serpent à plumes était vénéré bien avant les Aztèques, notamment à Teotihuacan, où un temple lui est consacré. Les Mayas du Yucatán honoraient une figure comparable, Kukulcán, à qui est dédiée la grande pyramide de Chichén Itzá.",
+      "source": "Wikipédia (fr) — « Quetzalcoatl »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-07-1",
+      "categorie": "religions",
+      "niveau": 7,
+      "question": "En quelle année de l'ère chrétienne a lieu l'Hégire, point de départ du calendrier musulman ?",
+      "reponse": "622",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "pieges": [],
+        "valeur": 622
+      },
+      "explication": "L'Hégire désigne l'émigration du prophète Mahomet et de ses compagnons de La Mecque vers l'oasis de Yathrib, rebaptisée ensuite Médine, « la ville du Prophète ». Environ dix-sept ans plus tard, le calife Omar fit de cette année le point de départ du calendrier musulman. En Occident, les années de ce calendrier sont souvent notées AH, pour anno Hegirae, et l'an 1 commence en juillet 622.",
+      "source": "Wikipédia (fr) — « Hégire »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-07-2",
+      "categorie": "religions",
+      "niveau": 7,
+      "question": "Quelle fête celtique ouvrant la saison sombre, vers le 1er novembre, est souvent présentée comme l'ancêtre d'Halloween ?",
+      "reponse": "Samain",
+      "variantes": [
+        "Samhain"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Beltaine",
+          "Imbolc",
+          "Lugnasad",
+          "Yule",
+          "Toussaint"
+        ]
+      },
+      "explication": "Samain marquait le début de la moitié sombre de l'année celtique. Les récits irlandais médiévaux y situent de grandes assemblées et des événements surnaturels, comme si la frontière entre le monde des vivants et l'Autre Monde s'estompait. Des coutumes populaires irlandaises et écossaises liées à cette période, emportées en Amérique du Nord par les émigrants au XIXe siècle, ont contribué à façonner Halloween.",
+      "anecdote": "En irlandais, le mot Samhain désigne encore le mois de novembre.",
+      "source": "Wikipédia (fr) — « Samain »",
+      "verification": {
+        "statut": "relue",
+        "note": "Lien Samain/Halloween formulé avec nuance : conservé."
+      }
+    },
+    {
+      "id": "rel-07-3",
+      "categorie": "religions",
+      "niveau": 7,
+      "question": "Quel dieu égyptien, souvent figuré avec une tête d'ibis, préside à l'écriture et au savoir ?",
+      "reponse": "Thot",
+      "variantes": [
+        "Thoth",
+        "Djehouty"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Horus",
+          "Ptah",
+          "Seth",
+          "Rê",
+          "Osiris"
+        ]
+      },
+      "explication": "Patron des scribes, Thot passait pour l'inventeur des hiéroglyphes, les « paroles divines ». Dieu lié à la Lune, il est aussi représenté sous la forme d'un babouin. Son principal centre de culte était Hermopolis, ville ainsi nommée par les Grecs qui l'identifiaient à leur dieu Hermès. D'innombrables ibis momifiés lui ont été offerts, notamment dans la nécropole de Touna el-Gebel.",
+      "source": "Wikipédia (fr) — « Thot »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-07-4",
+      "categorie": "religions",
+      "niveau": 7,
+      "question": "À quel sage chinois la tradition attribue-t-elle le Tao-tö-king, texte fondateur du taoïsme ?",
+      "reponse": "Lao-tseu",
+      "variantes": [
+        "Laozi",
+        "Lao Tseu",
+        "Lao-tzu",
+        "Lao Tse",
+        "Lao Zi"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Confucius",
+          "Zhuangzi",
+          "Tchouang-tseu",
+          "Mencius",
+          "Sun Tzu"
+        ]
+      },
+      "explication": "Son nom signifie « vieux maître ». La tradition le fait vivre au VIe siècle av. J.-C., mais son existence historique reste débattue. Selon le récit rapporté par l'historien Sima Qian, il quitta le royaume de Zhou et rédigea le Tao-tö-king à la demande du gardien d'une passe frontalière. Ce texte d'environ 5 000 caractères célèbre le Tao, la « Voie », et le non-agir.",
+      "anecdote": "Divinisé par le taoïsme religieux, il y est vénéré sous le nom de Taishang Laojun, le « Très-Haut Seigneur Lao ».",
+      "source": "Wikipédia (fr) — « Laozi »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-08-1",
+      "categorie": "religions",
+      "niveau": 8,
+      "question": "Quel poème sacré hindou, inséré dans le Mahabharata, rapporte le dialogue entre Krishna et le guerrier Arjuna ?",
+      "reponse": "Bhagavad-Gita",
+      "variantes": [
+        "Bhagavad Gita",
+        "Bhagavadgita",
+        "Bhagavad-Gîtâ",
+        "Gita"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Mahabharata",
+          "Ramayana",
+          "Upanishad",
+          "Veda",
+          "Rig-Veda"
+        ]
+      },
+      "explication": "Le dialogue se déroule sur le champ de bataille de Kurukshetra, juste avant une guerre fratricide. Arjuna hésite à combattre ses propres parents ; Krishna, qui conduit son char, lui enseigne alors le devoir, l'action désintéressée et la dévotion. Son titre est souvent traduit par « Chant du Bienheureux ». Avec environ 700 strophes réparties en dix-huit chapitres, c'est l'un des textes les plus commentés de l'hindouisme.",
+      "anecdote": "Robert Oppenheimer raconta qu'après le premier essai nucléaire, en 1945, un vers de la Gita lui était venu à l'esprit : « Je suis devenu la Mort, le destructeur des mondes ».",
+      "source": "Wikipédia (fr) — « Bhagavad-Gita »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-08-2",
+      "categorie": "religions",
+      "niveau": 8,
+      "question": "Dans quelle ville se réunit en 325 le premier concile œcuménique, convoqué par l'empereur Constantin ?",
+      "reponse": "Nicée",
+      "variantes": [
+        "Nicaea",
+        "Nikaia",
+        "Iznik"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Constantinople",
+          "Éphèse",
+          "Chalcédoine",
+          "Trente",
+          "Nicomédie"
+        ]
+      },
+      "explication": "Réuni en Asie Mineure, le concile condamna l'arianisme, doctrine du prêtre Arius selon laquelle le Fils n'est pas de même nature que le Père. Il adopta le symbole de Nicée, profession de foi qui, complétée au concile de Constantinople en 381, reste récitée dans de nombreuses Églises. Il posa aussi des principes pour fixer une date commune à la fête de Pâques.",
+      "source": "Wikipédia (fr) — « Premier concile de Nicée »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-08-3",
+      "categorie": "religions",
+      "niveau": 8,
+      "question": "Dans quelle ville indienne, selon la tradition, le Bouddha atteignit-il l'Éveil sous un figuier ?",
+      "reponse": "Bodh-Gaya",
+      "variantes": [
+        "Bodhgaya",
+        "Bodh Gaya",
+        "Bouddha-Gaya",
+        "Bodhgayâ"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Sarnath",
+          "Lumbini",
+          "Kushinagar",
+          "Varanasi"
+        ]
+      },
+      "explication": "Située dans l'État du Bihar, Bodh-Gaya est le plus important des lieux saints du bouddhisme. Selon la tradition, Siddhartha Gautama y médita sous un figuier, l'arbre de la Bodhi, jusqu'à atteindre l'Éveil. Le temple de la Mahabodhi, dont les origines remontent à l'empereur Ashoka au IIIe siècle av. J.-C., est inscrit au patrimoine mondial de l'UNESCO depuis 2002.",
+      "anecdote": "Une bouture de l'arbre, plantée en 288 av. J.-C. à Anuradhapura, au Sri Lanka, passe pour le plus vieil arbre planté par l'homme à date connue.",
+      "source": "UNESCO, Centre du patrimoine mondial — « Ensemble du temple de la Mahabodhi à Bodhgaya »",
+      "verification": {
+        "statut": "relue",
+        "note": "Arbre d'Anuradhapura : formulation « passe pour » conservée."
+      }
+    },
+    {
+      "id": "rel-08-4",
+      "categorie": "religions",
+      "niveau": 8,
+      "question": "Comment s'appelle la nuit du ramadan durant laquelle, selon la tradition islamique, la révélation du Coran commença ?",
+      "reponse": "Nuit du Destin",
+      "variantes": [
+        "Laylat al-Qadr",
+        "Lailat al-Qadr",
+        "Leilat al-Qadr",
+        "Laylatoul Qadr",
+        "Nuit de la Destinée",
+        "Nuit du Décret",
+        "Nuit de la Puissance"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Aïd el-Fitr",
+          "Isra et Miraj",
+          "Achoura",
+          "Mawlid",
+          "Nuit du Voyage nocturne"
+        ]
+      },
+      "explication": "La sourate 97 du Coran, intitulée al-Qadr, affirme que cette nuit « vaut mieux que mille mois ». Sa date exacte n'est pas fixée : la tradition la situe parmi les nuits impaires des dix derniers jours du ramadan, et beaucoup de musulmans la célèbrent la 27e nuit. Les fidèles la passent souvent en prière, à la mosquée ou chez eux, dans l'espoir d'obtenir le pardon divin.",
+      "source": "Wikipédia (fr) — « Laylat al-Qadr »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-09-1",
+      "categorie": "religions",
+      "niveau": 9,
+      "question": "Quel dieu suprême est vénéré dans le zoroastrisme, la religion fondée par Zarathoustra ?",
+      "reponse": "Ahura Mazda",
+      "variantes": [
+        "Ahura Mazdâ",
+        "Ormuzd",
+        "Ormazd",
+        "Ohrmazd",
+        "Mazda"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Ahriman",
+          "Angra Mainyu",
+          "Mithra",
+          "Zarathoustra",
+          "Zoroastre"
+        ]
+      },
+      "explication": "Son nom signifie « Seigneur sage » en avestique. Dans l'enseignement attribué à Zarathoustra, Ahura Mazda est le créateur bon, opposé à l'Esprit destructeur, Angra Mainyu, appelé plus tard Ahriman. Les rois perses achéménides, comme Darius Ier, l'invoquaient déjà dans leurs inscriptions. Le feu, symbole de pureté, occupe une place centrale dans les temples zoroastriens, notamment chez les parsis de l'Inde.",
+      "anecdote": "Le constructeur automobile japonais Mazda explique que son nom fait référence à cette divinité, tout en rappelant celui de son fondateur, Jujiro Matsuda.",
+      "source": "Wikipédia (fr) — « Ahura Mazda »",
+      "verification": {
+        "statut": "relue",
+        "note": "Origine du nom Mazda conforme à l'explication donnée par le constructeur."
+      }
+    },
+    {
+      "id": "rel-09-2",
+      "categorie": "religions",
+      "niveau": 9,
+      "question": "Quel dieu, protecteur de Babylone, triomphe de Tiamat dans le poème de la création Enuma Elish ?",
+      "reponse": "Marduk",
+      "variantes": [
+        "Mardouk"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Tiamat",
+          "Enlil",
+          "Ea",
+          "Assur",
+          "Nabû",
+          "Ishtar"
+        ]
+      },
+      "explication": "Dans l'Enuma Elish, Marduk accepte d'affronter Tiamat, divinité des eaux salées primordiales, à condition d'être reconnu roi des dieux. Vainqueur, il fend son corps en deux pour former le ciel et la terre, puis organise le monde et décide de la création des hommes. Son importance grandit avec celle de Babylone à partir du règne de Hammurabi, au XVIIIe siècle av. J.-C.",
+      "anecdote": "La ziggourat Etemenanki, qui se dressait près de son grand temple de Babylone, est souvent considérée comme l'une des inspirations du récit biblique de la tour de Babel.",
+      "source": "Wikipédia (fr) — « Marduk »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-09-3",
+      "categorie": "religions",
+      "niveau": 9,
+      "question": "Dans la mythologie grecque, quelle Titanide personnifiant la mémoire est la mère des neuf Muses ?",
+      "reponse": "Mnémosyne",
+      "variantes": [
+        "Mnemosyne"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Calliope",
+          "Thémis",
+          "Rhéa",
+          "Clio",
+          "Léthé"
+        ]
+      },
+      "explication": "Fille d'Ouranos et de Gaïa, Mnémosyne s'unit à Zeus pendant neuf nuits, selon la Théogonie d'Hésiode, et donne naissance aux neuf Muses, qui inspirent poètes et artistes. Pour les Grecs, la mémoire est la condition même de la poésie : l'aède invoque les Muses pour se souvenir des exploits passés. Son nom, comme le mot « mnémotechnique », dérive du grec mnêmê, « mémoire ».",
+      "anecdote": "Des tablettes orphiques en or, déposées dans des tombes, invitaient le défunt à boire au lac de Mémoire plutôt qu'à la source de l'oubli.",
+      "source": "Wikipédia (fr) — « Mnémosyne »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-09-4",
+      "categorie": "religions",
+      "niveau": 9,
+      "question": "Comment s'appelle la traduction grecque de la Bible hébraïque réalisée à Alexandrie à partir du IIIe siècle av. J.-C. ?",
+      "reponse": "Septante",
+      "variantes": [
+        "Bible des Septante",
+        "Septuaginta",
+        "Septuagint",
+        "LXX"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Vulgate",
+          "Targum",
+          "Peshitta",
+          "Vetus Latina",
+          "Hexaples"
+        ]
+      },
+      "explication": "Son nom vient d'une légende rapportée par la Lettre d'Aristée : soixante-douze savants juifs, envoyés à Alexandrie sous Ptolémée II, auraient traduit la Torah en soixante-douze jours. Les autres livres furent traduits au cours des siècles suivants. Utilisée par les Juifs de langue grecque, la Septante devint l'Ancien Testament des premiers chrétiens et reste la référence des Églises orthodoxes pour l'Ancien Testament.",
+      "source": "Wikipédia (fr) — « Septante »",
+      "verification": {
+        "statut": "relue",
+        "note": "Formulation sur l'usage orthodoxe précisée."
+      }
+    },
+    {
+      "id": "rel-10-1",
+      "categorie": "religions",
+      "niveau": 10,
+      "question": "Selon la tradition jaïne, qui est le vingt-quatrième et dernier tirthankara de notre cycle cosmique ?",
+      "reponse": "Mahavira",
+      "variantes": [
+        "Mahâvîra",
+        "Mahavir",
+        "Vardhamana",
+        "Vardhamâna"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Parshvanatha",
+          "Parshva",
+          "Rishabhanatha",
+          "Bouddha",
+          "Siddhartha"
+        ]
+      },
+      "explication": "Né Vardhamana dans une famille princière du nord-est de l'Inde, Mahavira, « le grand héros », renonça au monde vers trente ans et mena une vie d'ascèse avant d'atteindre, selon la tradition, l'omniscience. Contemporain du Bouddha, il vécut vers les VIe et Ve siècles av. J.-C. Son enseignement insiste sur l'ahimsa, la non-violence envers tous les êtres vivants, au cœur de la pratique jaïne.",
+      "anecdote": "Certains moines jaïns portent un voile sur la bouche et balaient le sol devant eux pour ne tuer aucun insecte par mégarde.",
+      "source": "Wikipédia (fr) — « Mahavira »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-10-2",
+      "categorie": "religions",
+      "niveau": 10,
+      "question": "Dans quelle ville du Japon se trouve le grand sanctuaire shinto rituellement reconstruit tous les vingt ans ?",
+      "reponse": "Ise",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Izumo",
+          "Kyoto",
+          "Nara",
+          "Nikko",
+          "Kamakura"
+        ],
+        "exact": true
+      },
+      "explication": "Le sanctuaire d'Ise, Ise-jingū, est le plus sacré du shintoïsme ; son sanctuaire intérieur est dédié à Amaterasu, déesse du Soleil et ancêtre mythique de la famille impériale. Ses principaux bâtiments sont reconstruits à l'identique sur un terrain voisin tous les vingt ans, un rite appelé Shikinen Sengū ; la 62e reconstruction a eu lieu en 2013. Le rite transmet les savoir-faire artisanaux entre générations.",
+      "anecdote": "Le sanctuaire abriterait le miroir sacré Yata no Kagami, l'un des trois trésors impériaux du Japon, que nul n'est autorisé à voir.",
+      "source": "Encyclopædia Britannica — « Ise Shrine »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-10-3",
+      "categorie": "religions",
+      "niveau": 10,
+      "question": "Quel recueil de la loi orale juive fut compilé vers l'an 200 sous l'autorité de Juda ha-Nassi ?",
+      "reponse": "Mishna",
+      "variantes": [
+        "Mishnah",
+        "Michna",
+        "Mischna",
+        "Michnah"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Talmud",
+          "Guemara",
+          "Gemara",
+          "Torah",
+          "Tossefta",
+          "Midrash"
+        ]
+      },
+      "explication": "Rédigée en hébreu, la Mishna met par écrit des traditions jusque-là transmises oralement, après la destruction du Temple de Jérusalem en 70. Elle est organisée en six ordres, qui traitent notamment de l'agriculture, des fêtes, du mariage et du droit civil. Les commentaires qu'en firent ensuite les rabbins, la Guemara, forment avec elle le Talmud, dans ses versions de Jérusalem et de Babylone.",
+      "anecdote": "Ses six ordres ont donné l'abréviation hébraïque « Shas », pour shisha sedarim, « six ordres », souvent employée pour désigner le Talmud tout entier.",
+      "source": "Wikipédia (fr) — « Mishna »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-10-4",
+      "categorie": "religions",
+      "niveau": 10,
+      "question": "Quel dieu gaulois aux bois de cerf est nommé sur le pilier des Nautes, découvert à Paris ?",
+      "reponse": "Cernunnos",
+      "variantes": [
+        "Kernunnos"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Lug",
+          "Taranis",
+          "Teutatès",
+          "Ésus",
+          "Sucellus"
+        ]
+      },
+      "explication": "Le pilier des Nautes fut dédié à Jupiter par la corporation des bateliers de Lutèce sous le règne de l'empereur Tibère, et retrouvé en 1711 sous le chœur de Notre-Dame. L'un de ses blocs montre un dieu dont les bois de cerf portent des torques, avec l'inscription [C]ERNUNNOS. Par extension, ce nom est donné à d'autres divinités cornues, comme celle du chaudron de Gundestrup.",
+      "anecdote": "Conservé au musée de Cluny, le pilier est souvent présenté comme le plus ancien monument sculpté de Paris.",
+      "source": "Wikipédia (fr) — « Pilier des Nautes »",
+      "verification": {
+        "statut": "relue",
+        "note": "« Plus ancien monument sculpté de Paris » conservé avec « souvent présenté »."
+      }
+    }
+  ]
+}

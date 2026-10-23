@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="fr">
+<head><meta charset="utf-8"><link rel="stylesheet" href="../css/style.css"></head>
+<body>
+  <div id="app"></div>
+  <pre id="out" style="position:fixed;left:0;bottom:0;z-index:99;background:#000;color:#0f0;font-size:10px"></pre>
+  <script type="module">
+    // Partie de bout en bout pilotée par de vrais clics (non publié).
+    const log = [];
+    const errors = [];
+    window.addEventListener('error', (e) => errors.push(e.message + ' @ ' + (e.error && e.error.stack)));
+    window.addEventListener('unhandledrejection', (e) => errors.push(String(e.reason)));
+    localStorage.clear();
+    localStorage.setItem('culturisk.settings.v1', JSON.stringify({ sound: true, haptics: true, reduceMotion: true }));
+    const { app } = await import('../js/ui/core.js');
+    await import('../js/ui/app.js');
+    const wait = (ms) => new Promise((r) => setTimeout(r, ms));
+    const $ = (sel) => document.querySelector(sel);
+    const click = async (sel) => {
+      const el = $(sel);
+      if (!el) throw new Error('introuvable : ' + sel + ' (écran ' + document.getElementById('app').dataset.screen + ')');
+      if (el.disabled) throw new Error('désactivé : ' + sel);
+      el.click();
+      await wait(80);
+    };
+    const type = async (text) => {
+      const i = $('#answer-input');
+      i.value = text;
+      i.dispatchEvent(new Event('input'));
+      await wait(600); // délai de garde anti double-tap
+      await click('[data-act="submit"]');
+      await wait(400);
+    };
+    const step = () => app.game && app.game.step.kind;
+    const q = () => app.bank.byId.get(app.game.step.qid);
+    const confirmYes = () => click('[data-scope="modal"] [data-act="yes"]');
+    try {
+      while (!app.bank) await wait(30);
+      await click('[data-act="new"]');
+      await click('[data-manches="1"]').catch(() => {});
+      await click('[data-manches="3"]');
+      await click('[data-act="go"]');
+      log.push('partie lancée : ' + step());
+
+      // Tour 1 : bonne réponse (avec faute de frappe), puis changement de thème, puis passer la main.
+      await click('.cat-row[data-cat="histoire"]');
+      await click('[data-act="play"]');
+      const rep = q().reponse;
+      const typo = rep.length > 7 ? rep.slice(0, 3) + rep[4] + rep[3] + rep.slice(5) : rep;
+      await type(typo);
+      log.push(`« ${typo} » pour « ${rep} » → ${step()} ${app.game.step.outcome || ''}`);
+      if (step() === 'arbitrage') {
+        await click('[data-vote="0:1"]');
+        await click('[data-vote="1:1"]');
+        await click('[data-act="decide"]');
+        log.push('arbitrage → ' + step() + ' ' + app.game.step.outcome);
+      }
+      if (step() === 'ask') await type(q().reponse);
+      if (!$('.learn')) throw new Error('carte « Le saviez-vous ? » absente');
+      await click('[data-act="continue"]');
+      if (step() === 'choose') {
+        await click('.cat-row[data-cat="musique"]');
+        await click('[data-act="play"]');
+        await type(q().reponse);
+        await click('[data-act="continue"]');
+        if (!app.game.turn.left.includes('histoire')) throw new Error('histoire aurait dû être verrouillée');
+        if (!$('.cat-row[data-cat="histoire"]').disabled) throw new Error('ligne histoire cliquable');
+        await click('[data-act="pass-turn"]');
+        await confirmYes();
+      }
+      log.push('fin de tour : ' + step() + ' scores ' + app.game.teams.map((t) => t.score));
+      await click('[data-act="continue"]');
+
+      // Tour 2 : erreur → interception réussie.
+      await click('.cat-row[data-cat="sport"]');
+      await click('[data-act="play"]');
+      await type('xqzw');
+      if (!app.game.step.steal) throw new Error("pas d'interception après une erreur");
+      if ($('.learn')) throw new Error('solution révélée avant l’interception');
+      await type(q().reponse);
+      log.push('interception → ' + app.game.step.outcome + ' +' + app.game.step.points);
+      await click('[data-act="continue"]');
+      await click('[data-act="continue"]');
+
+      // Tour 3 : « Je passe » puis interception ratée.
+      await click('.cat-row[data-cat="art"]');
+      await click('[data-act="play"]');
+      await click('[data-act="skip"]');
+      await confirmYes();
+      await click('[data-act="skip"]');
+      await confirmYes();
+      log.push('double passe → ' + app.game.step.outcome);
+      await click('[data-act="continue"]');
+      await click('[data-act="continue"]');
+
+      // Menu → terminer.
+      await click('[data-act="menu"]');
+      await click('[data-act="finish"]');
+      await confirmYes();
+      await wait(300);
+      log.push('fin : ' + step() + ' · écran ' + document.getElementById('app').dataset.screen);
+      await click('[data-act="home"]');
+      await click('[data-act="rules"]');
+      await click('[data-act="back"]');
+      await click('[data-act="settings"]');
+      await click('[data-act="bank"]');
+      log.push('banque : ' + ($('.bank-table tbody tr') ? 'ok' : 'absente'));
+    } catch (e) {
+      errors.push(e.message);
+    }
+    document.getElementById('out').textContent = [...log, '', errors.length ? 'ERREURS :\n' + errors.join('\n') : 'AUCUNE ERREUR'].join('\n');
+  </script>
+</body>
+</html>

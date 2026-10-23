@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Culturisk — tests</title>
+  <style>
+    body { font: 15px/1.5 system-ui, sans-serif; margin: 24px; background: #0d0f2e; color: #eef; }
+    pre { white-space: pre-wrap; }
+    .ok { color: #4ee0a0; } .ko { color: #ff6b6b; }
+  </style>
+</head>
+<body>
+  <h1>Tests automatiques</h1>
+  <pre id="out">Exécution…</pre>
+  <script type="module">
+    import './validation.test.js';
+    import './game.test.js';
+    import { run } from './harness.js';
+    const lines = [];
+    const res = await run((l) => lines.push(l));
+    const out = document.getElementById('out');
+    out.textContent = lines.join('\n');
+    out.className = res.failures.length ? 'ko' : 'ok';
+    document.body.dataset.done = res.failures.length ? 'ko' : 'ok';
+  </script>
+</body>
+</html>

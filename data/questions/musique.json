@@ -1,0 +1,1002 @@
+{
+  "categorie": "musique",
+  "questions": [
+    {
+      "id": "mus-01-1",
+      "categorie": "musique",
+      "niveau": 1,
+      "question": "Combien de cordes compte une guitare classique standard ?",
+      "reponse": "6",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 6,
+        "tolerance": 0
+      },
+      "explication": "La guitare classique compte six cordes, accordées du grave à l'aigu en mi, la, ré, sol, si, mi. Ses cordes en nylon, qui ont remplacé le boyau après la Seconde Guerre mondiale, lui donnent un son doux et rond. Il existe aussi des guitares à douze cordes, regroupées par paires, appréciées en folk pour leur sonorité plus brillante.",
+      "anecdote": "La forme moderne de la guitare classique doit beaucoup au luthier espagnol Antonio de Torres, qui en a fixé les proportions au XIXe siècle.",
+      "source": "Wikipédia (fr) — « Guitare classique »",
+      "verification": {
+        "statut": "relue",
+        "note": "Cordes nylon après 1945 : conforme (Albert Augustine, fin des années 1940)."
+      }
+    },
+    {
+      "id": "mus-01-2",
+      "categorie": "musique",
+      "niveau": 1,
+      "question": "Quel compositeur allemand, devenu sourd, a écrit la « Lettre à Élise » ?",
+      "reponse": "Ludwig van Beethoven",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Mozart",
+          "Wolfgang Amadeus Mozart",
+          "Schubert",
+          "Franz Schubert"
+        ]
+      },
+      "explication": "Cette courte pièce pour piano en la mineur a été composée vers 1810. Elle n'a pourtant été publiée qu'en 1867, quarante ans après la mort de Beethoven, à partir d'un manuscrit depuis perdu. L'identité d'Élise reste discutée : certains musicologues pensent qu'il s'agissait de Thérèse Malfatti, une élève du compositeur, dont le prénom aurait été mal déchiffré.",
+      "anecdote": "Sa surdité, apparue vers l'âge de trente ans, ne l'a pas arrêté : il a composé sa Neuvième symphonie en étant presque totalement sourd.",
+      "source": "Wikipédia (fr) — « Lettre à Élise »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-01-3",
+      "categorie": "musique",
+      "niveau": 1,
+      "question": "Quel chanteur américain était surnommé le « roi de la pop » ?",
+      "reponse": "Michael Jackson",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Janet Jackson",
+          "Prince",
+          "Elvis Presley"
+        ],
+        "nomSeul": true
+      },
+      "explication": "Membre des Jackson Five dès l'enfance, Michael Jackson entame une carrière solo triomphale avec « Off the Wall » en 1979, puis « Thriller » en 1982, d'où sont tirés « Billie Jean » et « Beat It ». Le moonwalk, pas de danse qu'il présente à la télévision en 1983, devient sa signature. Il meurt à Los Angeles en juin 2009, à 50 ans.",
+      "source": "Wikipédia (fr) — « Michael Jackson »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul explicite (Janet Jackson)."
+      }
+    },
+    {
+      "id": "mus-01-4",
+      "categorie": "musique",
+      "niveau": 1,
+      "question": "Quelle chanteuse française a rendu célèbre « La Vie en rose » ?",
+      "reponse": "Édith Piaf",
+      "variantes": [
+        "Édith Gassion"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Mireille Mathieu",
+          "Dalida",
+          "Juliette Gréco"
+        ]
+      },
+      "explication": "Édith Piaf a écrit elle-même les paroles de « La Vie en rose » en 1945, sur une musique de Louiguy. La chanson devient un standard international, repris notamment par Louis Armstrong en 1950 puis par Grace Jones. Née Édith Gassion à Paris en 1915, la chanteuse doit son surnom de « môme Piaf » à Louis Leplée, le patron de cabaret qui la découvre en 1935.",
+      "anecdote": "Elle meurt le 10 octobre 1963 ; son ami le poète Jean Cocteau s'éteint le même jour.",
+      "source": "Wikipédia (fr) — « Édith Piaf »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-02-1",
+      "categorie": "musique",
+      "niveau": 2,
+      "question": "Quel groupe de Liverpool était surnommé les « Fab Four » ?",
+      "reponse": "The Beatles",
+      "variantes": [
+        "Beatles"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "The Rolling Stones",
+          "Rolling Stones",
+          "The Who",
+          "The Kinks"
+        ]
+      },
+      "explication": "Le quatuor réunit John Lennon, Paul McCartney, George Harrison et Ringo Starr. Son passage au « Ed Sullivan Show », en février 1964, est suivi par environ 73 millions d'Américains et lance la « beatlemania » outre-Atlantique. Le groupe se sépare en 1970, après des albums majeurs comme « Sgt. Pepper's Lonely Hearts Club Band » et « Abbey Road ».",
+      "anecdote": "Ringo Starr n'a rejoint le groupe qu'en août 1962, en remplacement du batteur Pete Best.",
+      "source": "Wikipédia (fr) — « The Beatles »",
+      "verification": {
+        "statut": "relue",
+        "note": "Chiffre de 73 millions : estimation couramment citée, conservé avec « environ »."
+      }
+    },
+    {
+      "id": "mus-02-2",
+      "categorie": "musique",
+      "niveau": 2,
+      "question": "Quel chanteur était le leader du groupe britannique Queen ?",
+      "reponse": "Freddie Mercury",
+      "variantes": [
+        "Farrokh Bulsara"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Brian May",
+          "Roger Taylor",
+          "John Deacon"
+        ]
+      },
+      "explication": "Né Farrokh Bulsara en 1946 à Zanzibar, Freddie Mercury fonde Queen à Londres avec Brian May et Roger Taylor, rejoints ensuite par John Deacon. Il signe « Bohemian Rhapsody » en 1975, un morceau de près de six minutes qui mêle ballade, opéra et hard rock. Sa prestation au concert Live Aid, en juillet 1985 à Wembley, est restée légendaire. Il meurt du sida en novembre 1991.",
+      "source": "Wikipédia (fr) — « Freddie Mercury »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-02-3",
+      "categorie": "musique",
+      "niveau": 2,
+      "question": "Quel chanteur jamaïcain a fait connaître le reggae dans le monde entier avec les Wailers ?",
+      "reponse": "Bob Marley",
+      "variantes": [
+        "Robert Nesta Marley"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Peter Tosh",
+          "Ziggy Marley",
+          "Damian Marley",
+          "Jimmy Cliff",
+          "Bunny Wailer"
+        ],
+        "nomSeul": true
+      },
+      "explication": "Né en 1945 en Jamaïque, Bob Marley fonde les Wailers au début des années 1960 avec Peter Tosh et Bunny Wailer. Des titres comme « No Woman, No Cry » ou « Exodus » portent le reggae et la culture rastafari bien au-delà de l'île. Atteint d'un cancer, il meurt à Miami en mai 1981, à seulement 36 ans.",
+      "anecdote": "En décembre 1976, blessé par balle chez lui à Kingston, il tient malgré tout à chanter deux jours plus tard au concert « Smile Jamaica ».",
+      "source": "Wikipédia (fr) — « Bob Marley »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul explicite (Ziggy, Damian Marley)."
+      }
+    },
+    {
+      "id": "mus-02-4",
+      "categorie": "musique",
+      "niveau": 2,
+      "question": "Quelle chanteuse québécoise a interprété « My Heart Will Go On », la chanson du film « Titanic » ?",
+      "reponse": "Céline Dion",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Lara Fabian",
+          "Mariah Carey",
+          "Whitney Houston"
+        ]
+      },
+      "explication": "Composée par James Horner sur des paroles de Will Jennings, la chanson accompagne le film de James Cameron sorti en 1997. Elle remporte l'Oscar de la meilleure chanson originale en 1998 et se classe numéro un dans de nombreux pays. Née en 1968 au Québec, Céline Dion est la benjamine d'une famille de quatorze enfants.",
+      "anecdote": "Dix ans plus tôt, en 1988, elle avait remporté l'Eurovision pour la Suisse, avec la chanson « Ne partez pas sans moi ».",
+      "source": "Wikipédia (fr) — « My Heart Will Go On »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-03-1",
+      "categorie": "musique",
+      "niveau": 3,
+      "question": "Combien de touches compte le clavier d'un piano moderne standard ?",
+      "reponse": "88",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 88,
+        "tolerance": 0
+      },
+      "explication": "Un piano moderne compte 88 touches : 52 blanches et 36 noires, qui couvrent un peu plus de sept octaves, du la le plus grave au do le plus aigu. Cette étendue s'est imposée à la fin du XIXe siècle. L'instrument lui-même est né vers 1700 à Florence, dans l'atelier de Bartolomeo Cristofori, qui l'appelait « gravicembalo col piano e forte ».",
+      "anecdote": "Le fabricant autrichien Bösendorfer produit un piano de concert, l'Imperial, doté de 97 touches.",
+      "source": "Wikipédia (fr) — « Piano »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-03-2",
+      "categorie": "musique",
+      "niveau": 3,
+      "question": "Quel compositeur vénitien a écrit « Les Quatre Saisons » ?",
+      "reponse": "Antonio Vivaldi",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Albinoni",
+          "Tomaso Albinoni",
+          "Corelli",
+          "Arcangelo Corelli"
+        ]
+      },
+      "explication": "Ces quatre concertos pour violon ont été publiés en 1725 à Amsterdam, dans un recueil intitulé « Il cimento dell'armonia e dell'inventione ». Chacun est accompagné d'un sonnet décrivant la saison, peut-être écrit par Vivaldi lui-même : on y entend chants d'oiseaux, orage ou chien qui aboie. Le compositeur enseignait à l'Ospedale della Pietà, une institution vénitienne qui accueillait des orphelines.",
+      "anecdote": "Ordonné prêtre en 1703, ce roux surnommé « il prete rosso » a vite cessé de dire la messe, invoquant des problèmes respiratoires.",
+      "source": "Wikipédia (fr) — « Antonio Vivaldi »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-03-3",
+      "categorie": "musique",
+      "niveau": 3,
+      "question": "Quelle comédie musicale de Luc Plamondon et Riccardo Cocciante contient la chanson « Belle » ?",
+      "reponse": "Notre-Dame de Paris",
+      "variantes": [
+        "Notre-Dame"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Les Misérables",
+          "Le Bossu de Notre-Dame",
+          "Starmania"
+        ]
+      },
+      "explication": "Adaptée du roman de Victor Hugo paru en 1831, la comédie musicale est créée en septembre 1998 au Palais des congrès de Paris. Garou y incarne Quasimodo, Hélène Ségara Esmeralda et Daniel Lavoie Frollo. Le trio « Belle », chanté par Garou, Daniel Lavoie et Patrick Fiori, devient l'un des plus grands succès de l'année en France.",
+      "source": "Wikipédia (fr) — « Notre-Dame de Paris (comédie musicale) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-03-4",
+      "categorie": "musique",
+      "niveau": 3,
+      "question": "Dans quel pays est né le fado, chant mélancolique souvent accompagné à la guitare ?",
+      "reponse": "Portugal",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Espagne",
+          "Brésil",
+          "Cap-Vert"
+        ]
+      },
+      "explication": "Le fado apparaît dans les quartiers populaires de Lisbonne au XIXe siècle. Il exprime la « saudade », un mélange de nostalgie et de mélancolie, et s'accompagne de la guitare portugaise, un instrument à douze cordes. Amália Rodrigues, surnommée la « reine du fado », l'a fait connaître dans le monde entier. L'UNESCO l'a inscrit au patrimoine culturel immatériel de l'humanité en 2011.",
+      "anecdote": "À la mort d'Amália Rodrigues en 1999, le Portugal a décrété trois jours de deuil national ; elle repose au Panthéon national de Lisbonne.",
+      "source": "Wikipédia (fr) — « Fado »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-04-1",
+      "categorie": "musique",
+      "niveau": 4,
+      "question": "Pour quel pays le groupe ABBA a-t-il remporté l'Eurovision 1974 avec « Waterloo » ?",
+      "reponse": "Suède",
+      "variantes": [
+        "Sweden"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Norvège",
+          "Danemark",
+          "Finlande",
+          "Suisse"
+        ]
+      },
+      "explication": "Le 6 avril 1974, à Brighton, en Angleterre, ABBA offre à la Suède sa première victoire au concours. Le nom du quatuor reprend les initiales de ses membres : Agnetha Fältskog, Björn Ulvaeus, Benny Andersson et Anni-Frid Lyngstad. Le groupe enchaîne ensuite les tubes mondiaux, de « Mamma Mia » à « Dancing Queen », avant de se séparer au début des années 1980.",
+      "anecdote": "En 2021, ABBA sort « Voyage », son premier album depuis quarante ans ; à partir de 2022, le groupe se produit à Londres sous forme d'avatars numériques.",
+      "source": "Wikipédia (fr) — « Concours Eurovision de la chanson 1974 »",
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote : concerts d'avatars datés de 2022."
+      }
+    },
+    {
+      "id": "mus-04-2",
+      "categorie": "musique",
+      "niveau": 4,
+      "question": "Quel compositeur français a écrit l'opéra « Carmen » ?",
+      "reponse": "Georges Bizet",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Gounod",
+          "Charles Gounod",
+          "Massenet",
+          "Jules Massenet",
+          "Offenbach"
+        ]
+      },
+      "explication": "Inspiré d'une nouvelle de Prosper Mérimée, « Carmen » est créé à l'Opéra-Comique de Paris le 3 mars 1875. Le public est alors choqué par cette héroïne libre et par sa mort sur scène. Georges Bizet meurt trois mois plus tard, à 36 ans, sans connaître le triomphe mondial de son œuvre, devenue l'un des opéras les plus joués.",
+      "anecdote": "La célèbre habanera « L'amour est un oiseau rebelle » reprend une mélodie que Bizet croyait populaire ; elle était en réalité de l'Espagnol Sebastián Iradier.",
+      "source": "Wikipédia (fr) — « Carmen (opéra) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-04-3",
+      "categorie": "musique",
+      "niveau": 4,
+      "question": "Quel rappeur de Détroit tient le rôle principal du film « 8 Mile », sorti en 2002 ?",
+      "reponse": "Eminem",
+      "variantes": [
+        "Marshall Mathers",
+        "Slim Shady"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Dr. Dre",
+          "50 Cent",
+          "Kanye West"
+        ]
+      },
+      "explication": "Le film de Curtis Hanson s'inspire librement de la jeunesse d'Eminem, de son vrai nom Marshall Mathers, dans les battles de rap de Détroit. Son titre renvoie à la 8 Mile Road, qui sépare la ville de ses banlieues. La chanson « Lose Yourself » remporte en 2003 l'Oscar de la meilleure chanson originale, une première pour un morceau de rap.",
+      "anecdote": "Absent de la cérémonie de 2003, Eminem n'a interprété « Lose Yourself » sur la scène des Oscars qu'en 2020, par surprise.",
+      "source": "Wikipédia (fr) — « Eminem »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-04-4",
+      "categorie": "musique",
+      "niveau": 4,
+      "question": "Quel signe d'altération élève une note d'un demi-ton ?",
+      "reponse": "dièse",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "bémol",
+          "bécarre"
+        ]
+      },
+      "explication": "Placé devant une note, le dièse (♯) l'élève d'un demi-ton : un do dièse sonne entre le do et le ré, sur une touche noire du piano. Le bémol (♭) abaisse au contraire la note d'un demi-ton, et le bécarre annule ces altérations. Le double dièse, plus rare, élève la note d'un ton entier.",
+      "anecdote": "Sur un piano, mi dièse et fa correspondent à la même touche : on dit que ces deux notes sont enharmoniques.",
+      "source": "Wikipédia (fr) — « Dièse »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-05-1",
+      "categorie": "musique",
+      "niveau": 5,
+      "question": "Quel festival a réuni environ 400 000 personnes dans une ferme de l'État de New York en août 1969 ?",
+      "reponse": "Woodstock",
+      "variantes": [
+        "festival de Woodstock",
+        "Woodstock Music and Art Fair"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Monterey",
+          "Altamont",
+          "île de Wight"
+        ]
+      },
+      "explication": "Du 15 au 18 août 1969, le festival de Woodstock se tient en réalité à Bethel, sur les terres de l'agriculteur Max Yasgur, loin de la ville qui lui donne son nom. Janis Joplin, The Who, Santana ou Joe Cocker s'y succèdent, souvent sous la pluie. Jimi Hendrix clôt l'événement le lundi matin avec une version saturée de l'hymne américain.",
+      "anecdote": "Débordés par l'afflux de spectateurs, les organisateurs ont fini par laisser entrer gratuitement la majeure partie du public.",
+      "source": "Wikipédia (fr) — « Festival de Woodstock »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-05-2",
+      "categorie": "musique",
+      "niveau": 5,
+      "question": "Quel instrument, breveté à Paris en 1846, est fait de métal mais classé parmi les bois ?",
+      "reponse": "saxophone",
+      "variantes": [
+        "sax"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "clarinette",
+          "trompette",
+          "saxhorn",
+          "cornet"
+        ]
+      },
+      "explication": "Le saxophone doit son nom à son inventeur, le Belge Adolphe Sax, né à Dinant en 1814. S'il est fabriqué en laiton, il appartient à la famille des bois, car le son est produit par une anche simple, comme pour la clarinette. Peu utilisé par l'orchestre symphonique, il s'impose dans les musiques militaires, puis devient l'un des instruments emblématiques du jazz.",
+      "source": "Wikipédia (fr) — « Saxophone »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-05-3",
+      "categorie": "musique",
+      "niveau": 5,
+      "question": "Quel chanteur britannique a créé sur scène le personnage extraterrestre de Ziggy Stardust en 1972 ?",
+      "reponse": "David Bowie",
+      "variantes": [
+        "David Jones",
+        "David Robert Jones"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Iggy Pop",
+          "Marc Bolan",
+          "Elton John",
+          "Mick Jagger"
+        ]
+      },
+      "explication": "Né David Robert Jones à Londres en 1947, David Bowie change de nom pour éviter toute confusion avec Davy Jones, chanteur des Monkees. En 1972, l'album « The Rise and Fall of Ziggy Stardust and the Spiders from Mars » impose son alter ego androgyne, qu'il fait « mourir » sur scène dès juillet 1973. Il meurt en janvier 2016, deux jours après la sortie de « Blackstar ».",
+      "source": "Wikipédia (fr) — « David Bowie »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-05-4",
+      "categorie": "musique",
+      "niveau": 5,
+      "question": "Quel auteur-compositeur a écrit « La Javanaise », chanson enregistrée en 1963 par Juliette Gréco ?",
+      "reponse": "Serge Gainsbourg",
+      "variantes": [
+        "Lucien Ginsburg"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Charlotte Gainsbourg",
+          "Boris Vian",
+          "Jacques Brel",
+          "Léo Ferré"
+        ],
+        "nomSeul": true
+      },
+      "explication": "Le titre fait référence au javanais, un argot qui consiste à glisser la syllabe « av » dans les mots ; d'où le refrain « J'avoue, j'en ai bavé, pas vous, mon amour ». Gainsbourg l'enregistre lui-même la même année. Né Lucien Ginsburg à Paris en 1928, il a d'abord rêvé d'une carrière de peintre avant de s'imposer dans la chanson.",
+      "source": "Wikipédia (fr) — « La Javanaise »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul explicite (Charlotte Gainsbourg)."
+      }
+    },
+    {
+      "id": "mus-06-1",
+      "categorie": "musique",
+      "niveau": 6,
+      "question": "Quel trompettiste a enregistré l'album de jazz « Kind of Blue » en 1959 ?",
+      "reponse": "Miles Davis",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Dizzy Gillespie",
+          "Chet Baker",
+          "John Coltrane",
+          "Louis Armstrong"
+        ]
+      },
+      "explication": "Enregistré à New York en deux séances, en mars et avril 1959, « Kind of Blue » réunit notamment John Coltrane, Cannonball Adderley et le pianiste Bill Evans. Miles Davis y explore le jazz modal, fondé sur des gammes plutôt que sur des enchaînements rapides d'accords. Des morceaux comme « So What » ou « Blue in Green » en font l'un des albums de jazz les plus célèbres.",
+      "source": "Wikipédia (fr) — « Kind of Blue »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-06-2",
+      "categorie": "musique",
+      "niveau": 6,
+      "question": "Quel compositeur russe a écrit « Le Sacre du printemps », ballet qui fit scandale à Paris en 1913 ?",
+      "reponse": "Igor Stravinsky",
+      "variantes": [
+        "Stravinski",
+        "Igor Stravinski",
+        "Strawinsky"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Prokofiev",
+          "Rimski-Korsakov",
+          "Tchaïkovski",
+          "Debussy"
+        ]
+      },
+      "explication": "Le 29 mai 1913, au théâtre des Champs-Élysées, les Ballets russes de Serge Diaghilev créent « Le Sacre du printemps », chorégraphié par Vaslav Nijinski. Rythmes brutaux, dissonances et gestes anguleux provoquent sifflets et bagarres dans la salle. L'œuvre, qui évoque le sacrifice d'une jeune fille dans la Russie païenne, est devenue l'une des partitions fondatrices du XXe siècle.",
+      "anecdote": "Le ballet s'ouvre sur un solo de basson joué dans un registre très aigu, inhabituel pour cet instrument.",
+      "source": "Wikipédia (fr) — « Le Sacre du printemps »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-06-3",
+      "categorie": "musique",
+      "niveau": 6,
+      "question": "Quel compositeur britannique a écrit la musique de « Cats » et du « Fantôme de l'Opéra » ?",
+      "reponse": "Andrew Lloyd Webber",
+      "variantes": [
+        "Lloyd Webber"
+      ],
+      "validation": {
+        "type": "personne",
+        "nom": "Lloyd Webber",
+        "pieges": [
+          "Tim Rice",
+          "Stephen Sondheim",
+          "Claude-Michel Schönberg"
+        ]
+      },
+      "explication": "Andrew Lloyd Webber connaît le succès dès 1970 avec « Jesus Christ Superstar », écrit avec le parolier Tim Rice. « Cats », créé à Londres en 1981, met en musique des poèmes de T. S. Eliot. « Le Fantôme de l'Opéra », adapté du roman de Gaston Leroux, est créé en 1986 ; à Broadway, il est resté à l'affiche de 1988 à 2023, un record de longévité.",
+      "source": "Wikipédia (fr) — « Andrew Lloyd Webber »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-06-4",
+      "categorie": "musique",
+      "niveau": 6,
+      "question": "Quel groupe de rap marseillais a sorti l'album « L'École du micro d'argent » en 1997 ?",
+      "reponse": "IAM",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "exact": true,
+        "pieges": [
+          "NTM",
+          "Suprême NTM",
+          "Fonky Family",
+          "Psy 4 de la Rime"
+        ]
+      },
+      "explication": "Formé à Marseille à la fin des années 1980 autour d'Akhenaton et de Shurik'n, IAM puise une partie de son imaginaire dans l'Égypte ancienne et les arts martiaux. Après le tube « Je danse le Mia » en 1994, « L'École du micro d'argent » s'impose comme un sommet du rap français, avec des titres comme « Petit frère » et « Demain, c'est loin ».",
+      "source": "Wikipédia (fr) — « L'École du micro d'argent »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-07-1",
+      "categorie": "musique",
+      "niveau": 7,
+      "question": "Quel rappeur américain a reçu le prix Pulitzer de musique en 2018 pour l'album « DAMN. » ?",
+      "reponse": "Kendrick Lamar",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Kanye West",
+          "J. Cole",
+          "Drake",
+          "Jay-Z"
+        ]
+      },
+      "explication": "Né en 1987 à Compton, en Californie, Kendrick Lamar devient en 2018 le premier lauréat du Pulitzer de musique à n'être issu ni de la musique classique ni du jazz, depuis la création de cette catégorie en 1943. Le jury a salué un recueil de chansons virtuose, porté par l'authenticité de sa langue et son dynamisme rythmique.",
+      "anecdote": "En février 2025, il a assuré le spectacle de la mi-temps du Super Bowl, à La Nouvelle-Orléans.",
+      "source": "Wikipédia (fr) — « Kendrick Lamar »",
+      "verification": {
+        "statut": "relue",
+        "note": "Correction grammaticale."
+      }
+    },
+    {
+      "id": "mus-07-2",
+      "categorie": "musique",
+      "niveau": 7,
+      "question": "Quelle chanteuse a écrit « Göttingen » en 1964, chanson devenue un symbole de la réconciliation franco-allemande ?",
+      "reponse": "Barbara",
+      "variantes": [
+        "Monique Serf"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Juliette Gréco",
+          "Anne Sylvestre",
+          "Dalida"
+        ]
+      },
+      "explication": "Invitée en juillet 1964 à chanter dans un petit théâtre de Göttingen, Barbara hésite : née Monique Serf dans une famille juive, elle a dû se cacher pendant l'Occupation. L'accueil chaleureux des étudiants allemands la touche tant qu'elle prolonge son séjour et y écrit la chanson, chantée sur place avant son départ. Elle y affirme que « les enfants ce sont les mêmes, à Paris ou à Göttingen ».",
+      "source": "Wikipédia (fr) — « Barbara (chanteuse) »",
+      "verification": {
+        "statut": "relue",
+        "note": "Récit du séjour conservé (prolongation, chanson écrite à Göttingen), conforme à la version de Barbara."
+      }
+    },
+    {
+      "id": "mus-07-3",
+      "categorie": "musique",
+      "niveau": 7,
+      "question": "En quelle année s'est déroulé le tout premier concours Eurovision de la chanson ?",
+      "reponse": "1956",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 1956,
+        "tolerance": 0
+      },
+      "explication": "Le premier concours a lieu le 24 mai 1956 à Lugano, en Suisse, sous l'égide de l'Union européenne de radio-télévision. Sept pays y participent, chacun avec deux chansons. La Suisse l'emporte grâce à Lys Assia et sa chanson « Refrain ». L'idée s'inspirait du festival italien de Sanremo, créé quelques années plus tôt.",
+      "anecdote": "C'est la seule édition dont le détail des votes n'a jamais été rendu public.",
+      "source": "Wikipédia (fr) — « Concours Eurovision de la chanson 1956 »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-07-4",
+      "categorie": "musique",
+      "niveau": 7,
+      "question": "Quel opéra de Verdi, situé dans l'Égypte des pharaons, a été créé au Caire en 1871 ?",
+      "reponse": "Aida",
+      "variantes": [
+        "Aïda"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Nabucco",
+          "Rigoletto",
+          "Otello",
+          "La Traviata"
+        ]
+      },
+      "explication": "Commandé par le khédive Ismaïl Pacha, « Aida » est créé le 24 décembre 1871 à l'Opéra khédivial du Caire, sur un argument de l'égyptologue français Auguste Mariette. L'opéra raconte l'amour impossible entre une esclave éthiopienne et le général égyptien Radamès. Sa marche triomphale, jouée par de longues trompettes droites, compte parmi les pages les plus célèbres de Verdi.",
+      "anecdote": "Contrairement à une idée répandue, l'œuvre n'a pas été écrite pour l'inauguration du canal de Suez, en 1869.",
+      "source": "Wikipédia (fr) — « Aida »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-08-1",
+      "categorie": "musique",
+      "niveau": 8,
+      "question": "Quel compositeur français a créé son « Quatuor pour la fin du Temps » dans un camp de prisonniers en 1941 ?",
+      "reponse": "Olivier Messiaen",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Francis Poulenc",
+          "Maurice Duruflé",
+          "Pierre Boulez",
+          "Henri Dutilleux"
+        ]
+      },
+      "explication": "Fait prisonnier en 1940, Olivier Messiaen est interné au Stalag VIII-A, à Görlitz. Il y écrit pour les seuls instruments disponibles : violon, violoncelle, clarinette et piano, joués par lui-même et trois codétenus. L'œuvre, inspirée de l'Apocalypse selon saint Jean, est créée le 15 janvier 1941 devant des centaines de prisonniers et de gardiens.",
+      "anecdote": "Passionné d'ornithologie, Messiaen a noté des centaines de chants d'oiseaux, qu'il a transposés dans ses œuvres, comme le « Catalogue d'oiseaux ».",
+      "source": "Wikipédia (fr) — « Quatuor pour la fin du Temps »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-08-2",
+      "categorie": "musique",
+      "niveau": 8,
+      "question": "Quel compositeur baroque a écrit le « Te Deum » dont le prélude sert d'indicatif à l'Eurovision ?",
+      "reponse": "Marc-Antoine Charpentier",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Lully",
+          "Jean-Baptiste Lully",
+          "Rameau",
+          "Gustave Charpentier"
+        ],
+        "nomSeul": true
+      },
+      "explication": "Marc-Antoine Charpentier compose son « Te Deum » en ré majeur à la fin du XVIIe siècle. Longtemps oubliée, l'œuvre est redécouverte au début des années 1950. Dès 1954, l'Union européenne de radio-télévision choisit son prélude, éclatant de trompettes et de timbales, comme générique de ses retransmissions communes, dont le concours Eurovision de la chanson.",
+      "anecdote": "Contemporain de Lully, Charpentier fut longtemps tenu à l'écart de l'opéra, dont Lully détenait le privilège royal.",
+      "source": "Wikipédia (fr) — « Marc-Antoine Charpentier »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul explicite (Gustave Charpentier en piège) ; redécouverte années 1950 conservée (Carl de Nys)."
+      }
+    },
+    {
+      "id": "mus-08-3",
+      "categorie": "musique",
+      "niveau": 8,
+      "question": "Quelle chanteuse égyptienne, surnommée « l'Astre de l'Orient », est morte au Caire en 1975 ?",
+      "reponse": "Oum Kalthoum",
+      "variantes": [
+        "Umm Kulthum",
+        "Umm Kalthoum",
+        "Oum Kalsoum",
+        "Om Kalthoum",
+        "Oum Koulthoum"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Fairouz",
+          "Dalida",
+          "Warda"
+        ]
+      },
+      "explication": "Oum Kalthoum fut la voix la plus célèbre du monde arabe au XXe siècle. Pendant des décennies, ses concerts du premier jeudi du mois sont retransmis à la radio et suivis dans tout le monde arabe ; une seule chanson peut y durer plus d'une heure. Ses funérailles au Caire, en février 1975, rassemblent des millions de personnes.",
+      "source": "Wikipédia (fr) — « Oum Kalthoum »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-08-4",
+      "categorie": "musique",
+      "niveau": 8,
+      "question": "Quel intervalle de trois tons entiers était surnommé « diabolus in musica » ?",
+      "reponse": "triton",
+      "variantes": [
+        "quarte augmentée",
+        "quinte diminuée"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "quarte",
+          "quinte",
+          "tierce",
+          "sixte",
+          "quarte juste",
+          "quinte juste"
+        ]
+      },
+      "explication": "Le triton divise l'octave en deux parties exactement égales, par exemple de do à fa dièse. Sa sonorité instable et tendue lui a valu d'être surnommé « le diable dans la musique », et les compositeurs l'ont longtemps évité. Il est pourtant devenu un outil expressif : Leonard Bernstein le place au début de « Maria », dans « West Side Story ».",
+      "anecdote": "Dans « Danse macabre », Saint-Saëns fait accorder la corde aiguë du violon solo en mi bémol, pour que la Mort joue un triton.",
+      "source": "Wikipédia (fr) — « Triton (musique) »",
+      "verification": {
+        "statut": "relue",
+        "note": "Quarte augmentée et quinte diminuée acceptées (trois tons) ; quarte et quinte seules en pièges."
+      }
+    },
+    {
+      "id": "mus-09-1",
+      "categorie": "musique",
+      "niveau": 9,
+      "question": "Quel élève de Mozart a achevé le « Requiem » resté inachevé à la mort du compositeur ?",
+      "reponse": "Franz Xaver Süssmayr",
+      "variantes": [
+        "Süßmayr",
+        "Sussmayr",
+        "Franz Xaver Sussmayr",
+        "Franz Xaver Süßmayr"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Joseph Eybler",
+          "Eybler",
+          "Antonio Salieri",
+          "Salieri"
+        ]
+      },
+      "explication": "Mozart meurt le 5 décembre 1791 sans avoir terminé ce Requiem, commandé anonymement par le comte Franz von Walsegg, qui comptait le faire passer pour sien en mémoire de sa femme. Pour toucher le solde de la commande, sa veuve Constanze confie la partition à Joseph Eybler, qui renonce, puis à Franz Xaver Süssmayr, qui compose notamment le Sanctus et l'Agnus Dei.",
+      "anecdote": "Le film « Amadeus » (1984) montre Salieri aidant Mozart mourant à écrire le Requiem : une scène de pure fiction.",
+      "source": "Wikipédia (fr) — « Requiem (Mozart) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-09-2",
+      "categorie": "musique",
+      "niveau": 9,
+      "question": "Combien de cordes compte une harpe de concert à pédales ?",
+      "reponse": "47",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 47,
+        "tolerance": 0
+      },
+      "explication": "La harpe de concert possède 47 cordes et sept pédales, une pour chaque nom de note. Chaque pédale a trois positions, qui permettent de jouer la note en bémol, bécarre ou dièse : c'est le système à double mouvement, breveté par Sébastien Érard en 1810. Pour se repérer, l'instrumentiste dispose de cordes colorées, rouges pour les do, noires ou bleues pour les fa.",
+      "source": "Wikipédia (fr) — « Harpe »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-09-3",
+      "categorie": "musique",
+      "niveau": 9,
+      "question": "Quel moine italien du XIe siècle a nommé les notes à partir d'un hymne à saint Jean-Baptiste ?",
+      "reponse": "Guido d'Arezzo",
+      "variantes": [
+        "Gui d'Arezzo",
+        "Guy d'Arezzo",
+        "Guido Aretinus"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Pérotin",
+          "Léonin",
+          "Hildegarde de Bingen",
+          "Grégoire le Grand"
+        ]
+      },
+      "explication": "Pour aider les chanteurs à mémoriser les hauteurs, Guido d'Arezzo utilise l'hymne « Ut queant laxis », dont chaque vers commence une note plus haut : ut, ré, mi, fa, sol, la. Le si, formé sur les initiales de « Sancte Iohannes », est ajouté plus tard, et le do remplace l'ut en Italie au XVIIe siècle. Guido a aussi perfectionné la notation sur portée.",
+      "anecdote": "La syllabe « ut » survit en français dans le vocabulaire savant, comme la « clé d'ut » ou une symphonie « en ut mineur ».",
+      "source": "Wikipédia (fr) — « Guido d'Arezzo »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-09-4",
+      "categorie": "musique",
+      "niveau": 9,
+      "question": "Dans quel festival folk Bob Dylan a-t-il provoqué un tollé en jouant à l'électrique, en juillet 1965 ?",
+      "reponse": "Festival folk de Newport",
+      "variantes": [
+        "Newport",
+        "Newport Folk Festival",
+        "Festival de Newport"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Woodstock",
+          "Monterey",
+          "île de Wight"
+        ]
+      },
+      "explication": "Le 25 juillet 1965, Bob Dylan, idole de la scène folk acoustique, monte sur scène avec une guitare électrique, accompagné de musiciens du Paul Butterfield Blues Band. Il joue notamment « Maggie's Farm » et « Like a Rolling Stone », sous des huées restées célèbres. Ce virage scelle la rencontre du folk et du rock. Le film « Un parfait inconnu » (2024) retrace cet épisode.",
+      "source": "Wikipédia (fr) — « Bob Dylan »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-10-1",
+      "categorie": "musique",
+      "niveau": 10,
+      "question": "Quel poète et compositeur du XIVe siècle a écrit la « Messe de Nostre Dame » ?",
+      "reponse": "Guillaume de Machaut",
+      "variantes": [
+        "Guillaume de Machault"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Pérotin",
+          "Léonin",
+          "Philippe de Vitry",
+          "Josquin des Prez",
+          "Guillaume Dufay"
+        ]
+      },
+      "explication": "Chanoine de la cathédrale de Reims, Guillaume de Machaut compose dans les années 1360 la « Messe de Nostre Dame », à quatre voix. C'est la plus ancienne mise en musique polyphonique complète de l'ordinaire de la messe attribuée à un seul compositeur connu. Figure majeure de l'Ars nova, il fut aussi un grand poète, auteur de ballades, de rondeaux et de virelais.",
+      "anecdote": "Avant de s'installer à Reims, il fut secrétaire du roi Jean de Bohême, qu'il accompagna dans ses voyages à travers l'Europe.",
+      "source": "Wikipédia (fr) — « Guillaume de Machaut »",
+      "verification": {
+        "statut": "relue",
+        "note": "Messe datée des années 1360 et service de Jean de Bohême : conformes."
+      }
+    },
+    {
+      "id": "mus-10-2",
+      "categorie": "musique",
+      "niveau": 10,
+      "question": "Comment s'appelle la petite tige d'épicéa coincée à l'intérieur d'un violon, sous un pied du chevalet ?",
+      "reponse": "âme",
+      "variantes": [
+        "âme du violon"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "barre",
+          "barre d'harmonie",
+          "chevalet",
+          "sillet",
+          "cheville",
+          "éclisse"
+        ]
+      },
+      "explication": "L'âme n'est pas collée : elle tient par simple pression entre la table et le fond du violon, sous le côté aigu du chevalet. Elle transmet les vibrations d'une face à l'autre et soutient la table sous la tension des cordes. Le luthier la règle avec un outil spécial, le pose-âme, car un très léger déplacement suffit à transformer la sonorité de l'instrument.",
+      "anecdote": "Sous l'autre pied du chevalet, côté grave, c'est une baguette collée sous la table, la barre d'harmonie, qui renforce l'instrument.",
+      "source": "Wikipédia (fr) — « Violon »",
+      "verification": {
+        "statut": "relue",
+        "note": "Variante « âme du violon » ajoutée."
+      }
+    },
+    {
+      "id": "mus-10-3",
+      "categorie": "musique",
+      "niveau": 10,
+      "question": "Quel compositeur autrichien a écrit l'opéra « Wozzeck », créé à Berlin en 1925 ?",
+      "reponse": "Alban Berg",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Arnold Schönberg",
+          "Schönberg",
+          "Anton Webern",
+          "Webern",
+          "Gustav Mahler"
+        ]
+      },
+      "explication": "Élève d'Arnold Schönberg, Alban Berg adapte la pièce inachevée de Georg Büchner, « Woyzeck », qui raconte la déchéance d'un soldat humilié jusqu'au meurtre. Créé le 14 décembre 1925 à l'Opéra d'État de Berlin sous la direction d'Erich Kleiber, l'opéra est l'un des premiers grands succès de la musique atonale. Berg meurt en 1935 sans avoir achevé son second opéra, « Lulu ».",
+      "anecdote": "Le titre diffère de celui de Büchner car la première édition de la pièce avait mal déchiffré le nom « Woyzeck » sur le manuscrit.",
+      "source": "Wikipédia (fr) — « Wozzeck »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-10-4",
+      "categorie": "musique",
+      "niveau": 10,
+      "question": "Quel compositeur de la Renaissance a écrit la « Messe du pape Marcel » ?",
+      "reponse": "Palestrina",
+      "variantes": [
+        "Giovanni Pierluigi da Palestrina",
+        "Pierluigi da Palestrina",
+        "Giovanni Pierluigi"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Roland de Lassus",
+          "Lassus",
+          "Tomás Luis de Victoria",
+          "Josquin des Prez",
+          "Monteverdi"
+        ]
+      },
+      "explication": "Publiée en 1567, la « Missa Papae Marcelli » rend hommage à Marcel II, pape pendant à peine trois semaines en 1555. Son écriture claire, qui laisse entendre le texte malgré la polyphonie, a nourri une légende : elle aurait convaincu le concile de Trente de ne pas bannir la musique polyphonique des églises. Le compositeur tire son nom de sa ville natale, près de Rome.",
+      "anecdote": "En 1917, le compositeur allemand Hans Pfitzner a fait de cette légende le sujet d'un opéra intitulé « Palestrina ».",
+      "source": "Wikipédia (fr) — « Giovanni Pierluigi da Palestrina »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    }
+  ]
+}
