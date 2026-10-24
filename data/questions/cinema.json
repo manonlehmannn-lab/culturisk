@@ -7,12 +7,27 @@
       "niveau": 1,
       "question": "Dans quel film d'animation Disney de 2013 la reine Elsa chante-t-elle « Libérée, délivrée » ?",
       "reponse": "La Reine des neiges",
-      "variantes": ["Frozen", "Reine des neiges"],
-      "validation": {"type": "texte", "pieges": ["La Reine des neiges 2", "Frozen 2", "Raiponce", "Vaiana", "Encanto"]},
+      "variantes": [
+        "Frozen",
+        "Reine des neiges"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "La Reine des neiges 2",
+          "Frozen 2",
+          "Raiponce",
+          "Vaiana",
+          "Encanto"
+        ]
+      },
       "explication": "Librement inspiré du conte de Hans Christian Andersen, le film suit les sœurs Elsa et Anna dans le royaume d'Arendelle. La chanson, « Let It Go » en version originale, a reçu l'Oscar de la meilleure chanson originale en 2014, et le film celui du meilleur film d'animation la même année. En France, c'est Anaïs Delva qui prête sa voix chantée à Elsa.",
       "anecdote": "Idina Menzel, la voix originale d'Elsa, est une star de Broadway : elle a remporté un Tony Award pour la comédie musicale « Wicked ».",
       "source": "Wikipédia (en) — « Frozen (2013 film) »",
-      "verification": {"statut": "relue", "note": "Anecdote : Menzel révélée par « Rent » plutôt que « Wicked » ; reformulée (Tony Award pour « Wicked »)."}
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote : Menzel révélée par « Rent » plutôt que « Wicked » ; reformulée (Tony Award pour « Wicked »)."
+      }
     },
     {
       "id": "cin-01-2",
@@ -21,11 +36,22 @@
       "question": "Quel acteur incarne Jack Dawson dans « Titanic » de James Cameron (1997) ?",
       "reponse": "Leonardo DiCaprio",
       "variantes": [],
-      "validation": {"type": "personne", "pieges": ["Kate Winslet", "Billy Zane", "Brad Pitt", "Matt Damon"]},
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Kate Winslet",
+          "Billy Zane",
+          "Brad Pitt",
+          "Matt Damon"
+        ]
+      },
       "explication": "Face à Kate Winslet, qui joue Rose, le jeune acteur devient une star mondiale grâce à ce rôle. Le film a remporté l'Oscar du meilleur film, mais DiCaprio n'était même pas nommé dans la catégorie du meilleur acteur. Il a dû attendre 2016 et « The Revenant » d'Alejandro González Iñárritu pour décrocher enfin cette statuette.",
       "anecdote": "Les dessins de Rose réalisés par Jack ont en fait été exécutés par James Cameron lui-même : ce sont ses mains que l'on voit à l'écran.",
       "source": "Wikipédia (fr) — « Titanic (film, 1997) »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "cin-01-3",
@@ -33,11 +59,29 @@
       "niveau": 1,
       "question": "Dans « Star Wars », quel personnage révèle à Luke Skywalker : « Je suis ton père » ?",
       "reponse": "Dark Vador",
-      "variantes": ["Darth Vader", "Vador", "Vader", "Anakin Skywalker", "Anakin"],
-      "validation": {"type": "texte", "pieges": ["Dark Sidious", "Dark Maul", "Obi-Wan Kenobi", "Yoda", "Han Solo"]},
+      "variantes": [
+        "Darth Vader",
+        "Vador",
+        "Vader",
+        "Anakin Skywalker",
+        "Anakin"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Dark Sidious",
+          "Dark Maul",
+          "Obi-Wan Kenobi",
+          "Yoda",
+          "Han Solo"
+        ]
+      },
       "explication": "La révélation survient dans « L'Empire contre-attaque » (1980), deuxième film de la saga, juste après le duel où Luke perd sa main droite. En version originale, la réplique exacte est « No, I am your father ». Sous le casque se trouvait l'acteur David Prowse, mais la voix grave du personnage est celle de James Earl Jones.",
       "source": "Wikipédia (fr) — « Dark Vador »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "cin-01-4",
@@ -45,12 +89,135 @@
       "niveau": 1,
       "question": "Dans quelle école de sorcellerie Harry Potter fait-il ses études ?",
       "reponse": "Poudlard",
-      "variantes": ["Hogwarts"],
-      "validation": {"type": "texte", "pieges": ["Beauxbâtons", "Durmstrang", "Pré-au-Lard", "Gryffondor"]},
+      "variantes": [
+        "Hogwarts"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Beauxbâtons",
+          "Durmstrang",
+          "Pré-au-Lard",
+          "Gryffondor"
+        ]
+      },
       "explication": "L'école, dirigée par Albus Dumbledore, répartit ses élèves en quatre maisons : Gryffondor, Poufsouffle, Serdaigle et Serpentard. Au cinéma, huit films sortis entre 2001 et 2011 adaptent les sept romans de J. K. Rowling, le dernier tome étant découpé en deux parties. Plusieurs couloirs du château ont été filmés dans la cathédrale de Gloucester.",
       "anecdote": "Le nom « Poudlard » a été inventé par le traducteur Jean-François Ménard. L'original anglais, « Hogwarts », évoque le porc (hog) et les verrues (warts).",
       "source": "Wikipédia (fr) — « Poudlard »",
-      "verification": {"statut": "relue", "note": "Cathédrale de Gloucester confirmée."}
+      "verification": {
+        "statut": "relue",
+        "note": "Cathédrale de Gloucester confirmée."
+      }
+    },
+    {
+      "id": "cin-01-5",
+      "categorie": "cinema",
+      "niveau": 1,
+      "question": "Quel film Pixar de 1995, premier long métrage entièrement en images de synthèse, met en scène Woody et Buzz l'Éclair ?",
+      "reponse": "Toy Story",
+      "variantes": [
+        "Toy Story 1"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Toy Story 2",
+          "Toy Story 3",
+          "1001 pattes",
+          "Monstres et Cie",
+          "Le Monde de Nemo"
+        ]
+      },
+      "explication": "Réalisé par John Lasseter, le film raconte la rivalité entre un cow-boy en tissu et un astronaute en plastique, jouets d'un petit garçon nommé Andy. En version originale, Woody a la voix de Tom Hanks et Buzz celle de Tim Allen. En 1996, Lasseter a reçu un Oscar spécial pour ce film, salué comme une prouesse technique qui ouvrait une nouvelle ère de l'animation.",
+      "anecdote": "En anglais, Buzz l'Éclair s'appelle Buzz Lightyear : son prénom rend hommage à l'astronaute Buzz Aldrin, deuxième homme à avoir marché sur la Lune.",
+      "source": "Wikipédia (fr) — « Toy Story »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-01-6",
+      "categorie": "cinema",
+      "niveau": 1,
+      "question": "Quel ogre vert vivant dans un marais est le héros d'un film d'animation de DreamWorks sorti en 2001 ?",
+      "reponse": "Shrek",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Fiona",
+          "L'Âne",
+          "Hulk",
+          "Le Grinch",
+          "Gargamel"
+        ]
+      },
+      "explication": "Le personnage vient d'un album pour enfants de l'Américain William Steig, paru en 1990. Accompagné d'un âne bavard et de la princesse Fiona, il traverse un film qui détourne avec humour les contes de fées et les codes de Disney. En 2002, il remporte le tout premier Oscar du meilleur film d'animation, une catégorie créée cette année-là. En France, Shrek a la voix d'Alain Chabat.",
+      "anecdote": "Le film a été présenté en compétition officielle au Festival de Cannes en 2001, un honneur rare pour un film d'animation.",
+      "source": "Wikipédia (fr) — « Shrek (film) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-01-7",
+      "categorie": "cinema",
+      "niveau": 1,
+      "question": "Dans quel film de Steven Spielberg (1993) des dinosaures recréés par clonage s'échappent-ils d'un parc d'attractions ?",
+      "reponse": "Jurassic Park",
+      "variantes": [
+        "Jurassic Park 1",
+        "Le Parc jurassique"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Le Monde perdu",
+          "Jurassic World",
+          "Jurassic Park 3",
+          "King Kong",
+          "Godzilla"
+        ]
+      },
+      "explication": "Le film adapte un roman de Michael Crichton paru en 1990. Les dinosaures y sont animés à la fois par des créatures mécaniques grandeur nature et par des images de synthèse, alors très novatrices, conçues par la société Industrial Light & Magic. Récompensé par trois Oscars techniques, il devient en 1993 le plus gros succès de l'histoire du cinéma, jusqu'à l'arrivée de « Titanic ».",
+      "anecdote": "Les vélociraptors du film sont bien plus grands que l'animal réel, qui avait à peu près la taille d'une dinde.",
+      "source": "Wikipédia (fr) — « Jurassic Park (film) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-01-8",
+      "categorie": "cinema",
+      "niveau": 1,
+      "question": "Dans quel film Pixar de 2003 un poisson-clown nommé Marin traverse-t-il l'océan pour retrouver son fils ?",
+      "reponse": "Le Monde de Nemo",
+      "variantes": [
+        "Finding Nemo",
+        "Monde de Nemo",
+        "Nemo"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Le Monde de Dory",
+          "Finding Dory",
+          "Dory",
+          "Gang de requins",
+          "Les Indestructibles",
+          "Toy Story"
+        ]
+      },
+      "explication": "Réalisé par Andrew Stanton, le film suit Marin, un père surprotecteur, parti de la Grande Barrière de corail à la recherche de Nemo, capturé par un plongeur et enfermé dans l'aquarium d'un dentiste de Sydney. Il est aidé par Dory, un poisson chirurgien bleu qui oublie tout en quelques secondes. Le film a remporté l'Oscar du meilleur film d'animation en 2004 et a eu une suite, « Le Monde de Dory », en 2016.",
+      "anecdote": "L'adresse que Dory s'efforce de retenir pendant tout le film est celle du dentiste : « P. Sherman, 42 Wallaby Way, Sydney ».",
+      "source": "Wikipédia (fr) — « Le Monde de Nemo »",
+      "verification": {
+        "statut": "relue",
+        "note": "Remplace une question sur Les Simpson, doublon de tel-01-1."
+      }
     },
     {
       "id": "cin-02-1",
@@ -58,11 +225,24 @@
       "niveau": 2,
       "question": "Quel petit robot de Pixar compacte seul les déchets sur une Terre désertée, dans le film de 2008 ?",
       "reponse": "WALL-E",
-      "variantes": ["Walle"],
-      "validation": {"type": "texte", "pieges": ["EVE", "Ève", "Baymax", "R2-D2"]},
+      "variantes": [
+        "Walle"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "EVE",
+          "Ève",
+          "Baymax",
+          "R2-D2"
+        ]
+      },
       "explication": "Son nom est l'acronyme de « Waste Allocation Load Lifter Earth-Class ». Réalisé par Andrew Stanton, le film s'ouvre sur une longue partie presque sans dialogue, portée par les sons du robot. Ceux-ci ont été conçus par Ben Burtt, déjà auteur des bruitages de R2-D2 dans « Star Wars ». Le film a remporté l'Oscar du meilleur film d'animation en 2009.",
       "source": "Wikipédia (fr) — « WALL-E »",
-      "verification": {"statut": "relue", "note": "Ben Burtt confirmé (sons de WALL-E et de R2-D2)."}
+      "verification": {
+        "statut": "relue",
+        "note": "Ben Burtt confirmé (sons de WALL-E et de R2-D2)."
+      }
     },
     {
       "id": "cin-02-2",
@@ -71,11 +251,23 @@
       "question": "Quel acteur français a incarné Obélix dans quatre films, de 1999 à 2012 ?",
       "reponse": "Gérard Depardieu",
       "variantes": [],
-      "validation": {"type": "personne", "nomSeul": true, "pieges": ["Christian Clavier", "Gilles Lellouche", "Gérard Jugnot", "Jean Reno"]},
+      "validation": {
+        "type": "personne",
+        "nomSeul": true,
+        "pieges": [
+          "Christian Clavier",
+          "Gilles Lellouche",
+          "Gérard Jugnot",
+          "Jean Reno"
+        ]
+      },
       "explication": "Depardieu enfile le costume pour « Astérix et Obélix contre César » de Claude Zidi en 1999, puis pour « Mission Cléopâtre », « Aux Jeux olympiques » et « Au service de Sa Majesté ». À ses côtés, Astérix change de visage : Christian Clavier, puis Clovis Cornillac et Édouard Baer. En 2023, Gilles Lellouche reprend le rôle d'Obélix.",
       "anecdote": "« Mission Cléopâtre », réalisé par Alain Chabat en 2002, a attiré plus de 14 millions de spectateurs dans les salles françaises.",
       "source": "Wikipédia (fr) — « Gérard Depardieu »",
-      "verification": {"statut": "relue", "note": "nomSeul explicité (Guillaume Depardieu)."}
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul explicité (Guillaume Depardieu)."
+      }
     },
     {
       "id": "cin-02-3",
@@ -84,11 +276,22 @@
       "question": "Dans quelle série un professeur de chimie, Walter White, se met-il à fabriquer de la méthamphétamine ?",
       "reponse": "Breaking Bad",
       "variantes": [],
-      "validation": {"type": "texte", "pieges": ["Better Call Saul", "Weeds", "Narcos", "El Camino"]},
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Better Call Saul",
+          "Weeds",
+          "Narcos",
+          "El Camino"
+        ]
+      },
       "explication": "Créée par Vince Gilligan, la série a été diffusée sur la chaîne américaine AMC de 2008 à 2013, en cinq saisons. Bryan Cranston, jusque-là connu comme le père de « Malcolm », y a remporté quatre Emmy Awards du meilleur acteur. L'avocat véreux Saul Goodman a ensuite eu droit à sa propre série, « Better Call Saul ».",
       "anecdote": "Le titre vient d'une expression du sud des États-Unis, « to break bad », qui signifie mal tourner, basculer du côté du crime.",
       "source": "Wikipédia (fr) — « Breaking Bad »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "cin-02-4",
@@ -96,11 +299,137 @@
       "niveau": 2,
       "question": "Quel film de Jean-Pierre Jeunet (2001) suit une serveuse rêveuse d'un café de Montmartre ?",
       "reponse": "Amélie Poulain",
-      "variantes": ["Le Fabuleux Destin d'Amélie Poulain", "Amélie"],
-      "validation": {"type": "texte", "pieges": ["Delicatessen", "Un long dimanche de fiançailles", "La Cité des enfants perdus", "Micmacs à tire-larigot"]},
+      "variantes": [
+        "Le Fabuleux Destin d'Amélie Poulain",
+        "Amélie"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Delicatessen",
+          "Un long dimanche de fiançailles",
+          "La Cité des enfants perdus",
+          "Micmacs à tire-larigot"
+        ]
+      },
       "explication": "Audrey Tautou y incarne Amélie, qui travaille au café des Deux Moulins, rue Lepic, devenu depuis un lieu de pèlerinage pour les fans. Portée par la musique de Yann Tiersen, cette comédie a remporté le César du meilleur film en 2002 et a été nommée à cinq Oscars, sans en gagner aucun.",
       "source": "Wikipédia (fr) — « Le Fabuleux Destin d'Amélie Poulain »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-02-5",
+      "categorie": "cinema",
+      "niveau": 2,
+      "question": "Quelle voiture le docteur Emmett Brown transforme-t-il en machine à remonter le temps dans « Retour vers le futur » (1985) ?",
+      "reponse": "DeLorean",
+      "variantes": [
+        "DeLorean DMC-12",
+        "DMC-12"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Ford Mustang",
+          "Chevrolet Corvette",
+          "Aston Martin",
+          "Porsche 911",
+          "Cadillac"
+        ]
+      },
+      "explication": "Pour voyager dans le temps, la voiture doit atteindre 88 miles à l'heure, soit environ 140 km/h, grâce au « convecteur temporel ». Réalisé par Robert Zemeckis, avec Steven Spielberg comme producteur exécutif, le film envoie Marty McFly, joué par Michael J. Fox, en 1955, où il risque d'empêcher la rencontre de ses propres parents. Deux suites sortent en 1989 et 1990.",
+      "anecdote": "Fabriquée en Irlande du Nord en 1981 et 1982, la DeLorean DMC-12 n'était déjà plus produite à la sortie du film, son constructeur ayant fait faillite.",
+      "source": "Wikipédia (fr) — « Retour vers le futur »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-02-6",
+      "categorie": "cinema",
+      "niveau": 2,
+      "question": "Quel boxeur de Philadelphie Sylvester Stallone incarne-t-il dans un film de 1976 sacré Oscar du meilleur film ?",
+      "reponse": "Rocky Balboa",
+      "variantes": [
+        "Rocky",
+        "Balboa"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Apollo Creed",
+          "Ivan Drago",
+          "Adonis Creed",
+          "Rambo",
+          "Raging Bull"
+        ]
+      },
+      "explication": "Stallone, alors peu connu, a écrit lui-même le scénario et a refusé de le vendre si on ne lui confiait pas le rôle principal. Réalisé par John G. Avildsen avec un petit budget, le film a remporté trois Oscars, dont ceux du meilleur film et du meilleur réalisateur. La course de Rocky jusqu'en haut des marches du musée d'art de Philadelphie est devenue une scène culte.",
+      "anecdote": "Une statue de Rocky, sculptée pour le tournage de « Rocky III » en 1982, a fini par être installée au pied de ces célèbres marches.",
+      "source": "Wikipédia (fr) — « Rocky (film) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-02-7",
+      "categorie": "cinema",
+      "niveau": 2,
+      "question": "Quel film d'animation Disney de 1994 raconte l'histoire du lionceau Simba, chassé après la mort de son père Mufasa ?",
+      "reponse": "Le Roi lion",
+      "variantes": [
+        "The Lion King",
+        "Roi lion"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Le Roi lion 2",
+          "Bambi",
+          "Le Livre de la jungle",
+          "Tarzan",
+          "Mufasa"
+        ]
+      },
+      "explication": "Simba doit reprendre le trône usurpé par son oncle Scar, dans une intrigue souvent comparée à « Hamlet » de Shakespeare. Les chansons d'Elton John et Tim Rice et la partition de Hans Zimmer ont remporté deux Oscars en 1995. Le film a été adapté en comédie musicale à Broadway en 1997, puis refait en images de synthèse par Jon Favreau en 2019.",
+      "anecdote": "« Hakuna matata », la devise de Timon et Pumbaa, est une expression swahilie qui signifie à peu près « pas de souci ».",
+      "source": "Wikipédia (fr) — « Le Roi lion »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-02-8",
+      "categorie": "cinema",
+      "niveau": 2,
+      "question": "Dans quelle comédie de Dany Boon (2008) un directeur de poste du Sud est-il muté à Bergues, dans le Nord ?",
+      "reponse": "Bienvenue chez les Ch'tis",
+      "variantes": [
+        "Les Ch'tis",
+        "Bienvenue chez les Chtis",
+        "Chtis"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Rien à déclarer",
+          "La Ch'tite Famille",
+          "Supercondriaque",
+          "Raid dingue",
+          "La Maison du bonheur"
+        ]
+      },
+      "explication": "Kad Merad y joue Philippe Abrams, un fonctionnaire de La Poste qui redoute le froid et l'accent du Nord, accueilli par le facteur Antoine Bailleul, incarné par Dany Boon. Avec plus de 20 millions d'entrées en France, le film bat le record du plus grand succès d'un film français, détenu depuis 1966 par « La Grande Vadrouille » de Gérard Oury.",
+      "source": "Wikipédia (fr) — « Bienvenue chez les Ch'tis »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "cin-03-1",
@@ -109,11 +438,22 @@
       "question": "Quel réalisateur, surnommé « le maître du suspense », a signé « Psychose » en 1960 ?",
       "reponse": "Alfred Hitchcock",
       "variantes": [],
-      "validation": {"type": "personne", "pieges": ["Brian De Palma", "Fritz Lang", "Orson Welles", "Stanley Kubrick"]},
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Brian De Palma",
+          "Fritz Lang",
+          "Orson Welles",
+          "Stanley Kubrick"
+        ]
+      },
       "explication": "Né à Londres en 1899, Hitchcock fait carrière en Angleterre avant de s'installer à Hollywood en 1939. Malgré des classiques comme « Fenêtre sur cour », « Sueurs froides » ou « Les Oiseaux », il n'a jamais remporté l'Oscar du meilleur réalisateur, pour lequel il a pourtant été nommé cinq fois.",
       "anecdote": "Il apparaît brièvement dans la plupart de ses films. Dans « Lifeboat », huis clos sur un canot de sauvetage, il figure dans une publicité pour un régime, imprimée dans un journal.",
       "source": "Wikipédia (fr) — « Alfred Hitchcock »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "cin-03-2",
@@ -121,11 +461,25 @@
       "niveau": 3,
       "question": "Quelle récompense suprême est décernée chaque année au Festival de Cannes ?",
       "reponse": "Palme d'or",
-      "variantes": ["Palme"],
-      "validation": {"type": "texte", "pieges": ["Lion d'or", "Ours d'or", "Caméra d'or", "Grand Prix", "Oscar"]},
+      "variantes": [
+        "Palme"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Lion d'or",
+          "Ours d'or",
+          "Caméra d'or",
+          "Grand Prix",
+          "Oscar"
+        ]
+      },
       "explication": "Le festival, dont la première édition s'est tenue en 1946, a créé la Palme d'or en 1955 pour remplacer son Grand Prix. Son dessin reprend la palme qui figure sur les armoiries de la ville de Cannes. Le premier film récompensé est « Marty » de l'Américain Delbert Mann. Le prix est remis par un jury dont le président change à chaque édition.",
       "source": "Wikipédia (fr) — « Palme d'or »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "cin-03-3",
@@ -134,11 +488,22 @@
       "question": "Quel acteur incarne James Bond dans « Casino Royale » (2006) ?",
       "reponse": "Daniel Craig",
       "variantes": [],
-      "validation": {"type": "personne", "pieges": ["Pierce Brosnan", "Sean Connery", "Roger Moore", "Timothy Dalton"]},
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Pierce Brosnan",
+          "Sean Connery",
+          "Roger Moore",
+          "Timothy Dalton"
+        ]
+      },
       "explication": "Sixième interprète de l'agent 007 dans la série officielle produite par Eon, Daniel Craig a tenu le rôle dans cinq films, de « Casino Royale » à « Mourir peut attendre » en 2021. Il succède à Pierce Brosnan. À l'annonce de son choix, en 2005, une partie de la presse britannique s'était moquée de lui, jusqu'à ses cheveux blonds, avant que « Casino Royale » ne convainque la critique.",
       "anecdote": "« Casino Royale » adapte le tout premier roman de Ian Fleming consacré à James Bond, publié en 1953.",
       "source": "Wikipédia (fr) — « Daniel Craig »",
-      "verification": {"statut": "relue", "note": "« Premier Bond blond » remplacé par une formulation prudente sur l'accueil de la presse."}
+      "verification": {
+        "statut": "relue",
+        "note": "« Premier Bond blond » remplacé par une formulation prudente sur l'accueil de la presse."
+      }
     },
     {
       "id": "cin-03-4",
@@ -146,12 +511,128 @@
       "niveau": 3,
       "question": "Quelle série de HBO, diffusée de 2011 à 2019, adapte les romans de George R. R. Martin ?",
       "reponse": "Game of Thrones",
-      "variantes": ["Le Trône de fer", "GoT"],
-      "validation": {"type": "texte", "pieges": ["House of the Dragon", "The Witcher", "Le Seigneur des anneaux", "Les Anneaux de pouvoir"]},
+      "variantes": [
+        "Le Trône de fer",
+        "GoT"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "House of the Dragon",
+          "The Witcher",
+          "Le Seigneur des anneaux",
+          "Les Anneaux de pouvoir"
+        ]
+      },
       "explication": "Les romans de la saga « Le Trône de fer » ont servi de base aux premières saisons, avant que la série ne dépasse l'intrigue des livres publiés. En huit saisons et 73 épisodes, elle a remporté 59 Emmy Awards, un record pour une série dramatique. Une grande partie du tournage s'est déroulée en Irlande du Nord.",
       "anecdote": "Le titre de la série reprend celui du premier tome, « A Game of Thrones », paru en 1996.",
       "source": "Wikipédia (fr) — « Game of Thrones »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-03-5",
+      "categorie": "cinema",
+      "niveau": 3,
+      "question": "Quel acteur incarne le capitaine Jack Sparrow dans la saga « Pirates des Caraïbes » ?",
+      "reponse": "Johnny Depp",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Orlando Bloom",
+          "Geoffrey Rush",
+          "Javier Bardem",
+          "Keith Richards",
+          "Keira Knightley"
+        ]
+      },
+      "explication": "Le premier film, « La Malédiction du Black Pearl », sorti en 2003, s'inspire d'une attraction des parcs Disney. Le rôle vaut à Depp sa première nomination à l'Oscar du meilleur acteur. Il a expliqué avoir puisé l'allure titubante du pirate chez le guitariste des Rolling Stones Keith Richards, qui apparaît ensuite en père de Jack dans « Jusqu'au bout du monde » (2007).",
+      "source": "Wikipédia (fr) — « Jack Sparrow »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-03-6",
+      "categorie": "cinema",
+      "niveau": 3,
+      "question": "Dans quelle série Netflix des enfants de la ville de Hawkins affrontent-ils les créatures du « Monde à l'envers » ?",
+      "reponse": "Stranger Things",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Dark",
+          "Mercredi",
+          "Wednesday",
+          "Locke & Key",
+          "The OA"
+        ]
+      },
+      "explication": "Créée par les jumeaux Matt et Ross Duffer, la série débute en 2016 et se déroule dans une petite ville fictive de l'Indiana, au cœur des années 1980. Elle multiplie les clins d'œil à Spielberg, à Stephen King et aux jeux de rôle comme « Donjons et Dragons ». Le personnage d'Onze, une fillette aux pouvoirs télékinétiques, a révélé l'actrice Millie Bobby Brown.",
+      "anecdote": "En 2022, la quatrième saison a propulsé « Running Up That Hill », chanson de Kate Bush sortie en 1985, en tête des ventes au Royaume-Uni.",
+      "source": "Wikipédia (fr) — « Stranger Things »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-03-7",
+      "categorie": "cinema",
+      "niveau": 3,
+      "question": "Quel acteur incarne le gendarme Ludovic Cruchot dans « Le Gendarme de Saint-Tropez » (1964) ?",
+      "reponse": "Louis de Funès",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "nom": "de Funès",
+        "pieges": [
+          "Michel Galabru",
+          "Bourvil",
+          "Jean Lefebvre",
+          "Christian Marin",
+          "Fernandel"
+        ]
+      },
+      "explication": "Réalisé par Jean Girault, ce premier volet est un immense succès et lance une série de six films, jusqu'au « Gendarme et les Gendarmettes » en 1982. Michel Galabru y joue l'adjudant Gerber, supérieur souvent excédé de Cruchot. L'ancienne gendarmerie de Saint-Tropez, dont la façade apparaît dans les films, a été transformée en 2016 en musée consacré à la gendarmerie et au cinéma.",
+      "anecdote": "Louis de Funès a tourné « Le Gendarme et les Gendarmettes » quelques mois avant sa mort, survenue en janvier 1983.",
+      "source": "Wikipédia (fr) — « Le Gendarme de Saint-Tropez »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-03-8",
+      "categorie": "cinema",
+      "niveau": 3,
+      "question": "Quel film d'Éric Toledano et Olivier Nakache (2011) réunit François Cluzet, en riche tétraplégique, et Omar Sy ?",
+      "reponse": "Intouchables",
+      "variantes": [
+        "Les Intouchables",
+        "The Intouchables"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Le Sens de la fête",
+          "Hors normes",
+          "Samba",
+          "Nos jours heureux",
+          "Une année difficile"
+        ]
+      },
+      "explication": "Le film s'inspire de l'amitié entre Philippe Pozzo di Borgo, homme d'affaires paralysé après un accident de parapente, et Abdel Sellou, son auxiliaire de vie. Avec plus de 19 millions d'entrées en France, il se classe parmi les plus grands succès de l'histoire du cinéma français. En 2012, Omar Sy devient le premier acteur noir à recevoir le César du meilleur acteur.",
+      "source": "Wikipédia (fr) — « Intouchables »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "cin-04-1",
@@ -159,11 +640,27 @@
       "niveau": 4,
       "question": "Quel film de Francis Ford Coppola (1972) raconte l'histoire de la famille mafieuse Corleone ?",
       "reponse": "Le Parrain",
-      "variantes": ["The Godfather", "Parrain"],
-      "validation": {"type": "texte", "pieges": ["Le Parrain 2", "Le Parrain 3", "The Godfather Part II", "Les Affranchis", "Scarface", "Il était une fois en Amérique"]},
+      "variantes": [
+        "The Godfather",
+        "Parrain"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Le Parrain 2",
+          "Le Parrain 3",
+          "The Godfather Part II",
+          "Les Affranchis",
+          "Scarface",
+          "Il était une fois en Amérique"
+        ]
+      },
       "explication": "Adapté du roman de Mario Puzo paru en 1969, le film a remporté l'Oscar du meilleur film. Marlon Brando, qui joue Vito Corleone, a refusé son Oscar du meilleur acteur : il a envoyé à la cérémonie Sacheen Littlefeather pour dénoncer le traitement des Amérindiens par Hollywood. Al Pacino y incarne son fils Michael.",
       "source": "Wikipédia (fr) — « Le Parrain (film) »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "cin-04-2",
@@ -172,11 +669,22 @@
       "question": "Quelle actrice française a remporté l'Oscar de la meilleure actrice en 2008 en incarnant Édith Piaf ?",
       "reponse": "Marion Cotillard",
       "variantes": [],
-      "validation": {"type": "personne", "pieges": ["Audrey Tautou", "Juliette Binoche", "Isabelle Huppert", "Léa Seydoux"]},
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Audrey Tautou",
+          "Juliette Binoche",
+          "Isabelle Huppert",
+          "Léa Seydoux"
+        ]
+      },
       "explication": "Dans « La Môme » d'Olivier Dahan, elle interprète la chanteuse de ses débuts jusqu'à sa mort, en 1963. Elle devient la première actrice récompensée par cet Oscar pour un rôle joué en français. Le même rôle lui a aussi valu le César et le BAFTA de la meilleure actrice.",
       "anecdote": "En 1960, Simone Signoret avait déjà reçu cet Oscar, mais pour « Les Chemins de la haute ville », un film britannique tourné en anglais.",
       "source": "Wikipédia (fr) — « Marion Cotillard »",
-      "verification": {"statut": "relue", "note": "« Première actrice oscarisée pour un rôle en français » confirmé (Sophia Loren l'avait été en italien)."}
+      "verification": {
+        "statut": "relue",
+        "note": "« Première actrice oscarisée pour un rôle en français » confirmé (Sophia Loren l'avait été en italien)."
+      }
     },
     {
       "id": "cin-04-3",
@@ -184,12 +692,28 @@
       "niveau": 4,
       "question": "Quel est le premier long métrage d'animation des studios Disney, sorti en 1937 ?",
       "reponse": "Blanche-Neige",
-      "variantes": ["Blanche-Neige et les Sept Nains", "Snow White", "Snow White and the Seven Dwarfs"],
-      "validation": {"type": "texte", "pieges": ["Pinocchio", "Fantasia", "Cendrillon", "Bambi", "Dumbo"]},
+      "variantes": [
+        "Blanche-Neige et les Sept Nains",
+        "Snow White",
+        "Snow White and the Seven Dwarfs"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Pinocchio",
+          "Fantasia",
+          "Cendrillon",
+          "Bambi",
+          "Dumbo"
+        ]
+      },
       "explication": "Surnommé « la folie de Disney » pendant sa production, le film a coûté près de 1,5 million de dollars, une somme énorme à l'époque, mais il est devenu un immense succès. En 1939, Walt Disney a reçu pour lui un Oscar d'honneur original, composé d'une statuette de taille normale et de sept miniatures.",
       "anecdote": "Ce n'est pas le premier long métrage d'animation de l'histoire : l'Argentin Quirino Cristiani en avait réalisé un dès 1917, « El Apóstol », aujourd'hui perdu.",
       "source": "Wikipédia (fr) — « Blanche-Neige et les Sept Nains (film, 1937) »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "cin-04-4",
@@ -198,10 +722,125 @@
       "question": "Combien de saisons compte la série « Friends », diffusée de 1994 à 2004 ?",
       "reponse": "10",
       "variantes": [],
-      "validation": {"type": "nombre", "valeur": 10, "tolerance": 0},
+      "validation": {
+        "type": "nombre",
+        "valeur": 10,
+        "tolerance": 0
+      },
       "explication": "Créée par David Crane et Marta Kauffman pour la chaîne NBC, la sitcom suit six amis new-yorkais, souvent réunis au café Central Perk, et compte 236 épisodes. Lors des deux dernières saisons, chacun des six acteurs principaux touchait un million de dollars par épisode, un niveau de salaire alors exceptionnel à la télévision.",
       "source": "Wikipédia (fr) — « Friends »",
-      "verification": {"statut": "relue", "note": "236 épisodes et cachet d'un million de dollars (saisons 9 et 10) confirmés."}
+      "verification": {
+        "statut": "relue",
+        "note": "236 épisodes et cachet d'un million de dollars (saisons 9 et 10) confirmés."
+      }
+    },
+    {
+      "id": "cin-04-5",
+      "categorie": "cinema",
+      "niveau": 4,
+      "question": "Dans quelle comédie de Francis Veber (1998) le nom d'un certain « Juste Leblanc » provoque-t-il un quiproquo devenu culte ?",
+      "reponse": "Le Dîner de cons",
+      "variantes": [
+        "Diner de cons"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Le Placard",
+          "La Chèvre",
+          "Les Compères",
+          "Tais-toi !",
+          "L'Emmerdeur"
+        ]
+      },
+      "explication": "Adapté de sa propre pièce créée en 1993, le film de Veber oppose l'éditeur Pierre Brochant, joué par Thierry Lhermitte, à François Pignon, passionné de maquettes en allumettes, incarné par Jacques Villeret. Bloqué chez lui par un tour de reins, Brochant voit sa soirée tourner au désastre. En 1999, le film a remporté trois César, dont celui du meilleur acteur pour Villeret.",
+      "anecdote": "François Pignon est un nom fétiche de Veber : il le donne à des personnages différents dans plusieurs de ses scénarios, comme « L'Emmerdeur » ou « Le Placard ».",
+      "source": "Wikipédia (fr) — « Le Dîner de cons »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-04-6",
+      "categorie": "cinema",
+      "niveau": 4,
+      "question": "Quelle série espagnole suit des braqueurs en combinaison rouge, menés par « le Professeur », dans la Fabrique de la monnaie de Madrid ?",
+      "reponse": "La Casa de papel",
+      "variantes": [
+        "Casa de papel",
+        "Money Heist"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Élite",
+          "Berlin",
+          "Narcos",
+          "Vis a vis",
+          "Sky Rojo"
+        ]
+      },
+      "explication": "Créée par Álex Pina, la série est d'abord diffusée en 2017 sur la chaîne espagnole Antena 3, avant que Netflix n'en acquière les droits et ne lui offre un succès mondial. Ses braqueurs portent des noms de villes, comme Tokyo, Berlin, Nairobi ou Rio, et des masques inspirés de Salvador Dalí. Le chant partisan italien « Bella ciao » y devient un hymne de résistance.",
+      "anecdote": "Après la fin de la série en 2021, son univers s'est prolongé avec un remake sud-coréen et une série dérivée, « Berlin », lancée en 2023.",
+      "source": "Wikipédia (fr) — « La casa de papel »",
+      "verification": {
+        "statut": "relue",
+        "note": "Variante « La Maison de papier » retirée (traduction non officielle)."
+      }
+    },
+    {
+      "id": "cin-04-7",
+      "categorie": "cinema",
+      "niveau": 4,
+      "question": "Quel compositeur américain a écrit la musique des « Dents de la mer », d'« E.T. » et de la saga « Indiana Jones » ?",
+      "reponse": "John Williams",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "nomSeul": true,
+        "pieges": [
+          "Hans Zimmer",
+          "Howard Shore",
+          "Danny Elfman",
+          "Jerry Goldsmith",
+          "James Horner"
+        ]
+      },
+      "explication": "Fidèle collaborateur de Steven Spielberg depuis 1974, il a aussi signé les thèmes de « Star Wars » et des trois premiers « Harry Potter ». Il a remporté cinq Oscars, notamment pour « Les Dents de la mer », « Star Wars », « E.T. » et « La Liste de Schindler ». Avec plus de cinquante nominations, il n'est dépassé dans l'histoire des Oscars que par Walt Disney.",
+      "anecdote": "Le thème des « Dents de la mer » repose presque entièrement sur deux notes graves répétées de plus en plus vite pour annoncer le requin.",
+      "source": "Wikipédia (fr) — « John Williams (compositeur) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-04-8",
+      "categorie": "cinema",
+      "niveau": 4,
+      "question": "Sous quel nom les Français connaissent-ils le vagabond à chapeau melon et canne de bambou créé par Charlie Chaplin ?",
+      "reponse": "Charlot",
+      "variantes": [
+        "The Tramp"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Chaplin",
+          "Charlie",
+          "Buster Keaton",
+          "Harold Lloyd",
+          "Max Linder"
+        ]
+      },
+      "explication": "Avec sa moustache en brosse, son pantalon trop large et ses chaussures trop grandes, le personnage apparaît en 1914 dans les premiers films de Chaplin pour la société Keystone. Il devient la figure comique la plus célèbre du cinéma muet, de « The Kid » à « La Ruée vers l'or ». Chaplin le fait apparaître une dernière fois dans « Les Temps modernes », en 1936.",
+      "anecdote": "Dans « Les Temps modernes », on entend pour la première fois la voix de Charlot : il chante une chanson aux paroles inventées, dans une langue imaginaire.",
+      "source": "Wikipédia (fr) — « Charlot »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "cin-05-1",
@@ -209,12 +848,26 @@
       "niveau": 5,
       "question": "Quel film de Bong Joon-ho est devenu en 2020 le premier film non anglophone sacré Oscar du meilleur film ?",
       "reponse": "Parasite",
-      "variantes": ["Gisaengchung"],
-      "validation": {"type": "texte", "pieges": ["Memories of Murder", "Snowpiercer", "Okja", "Old Boy", "The Host"]},
+      "variantes": [
+        "Gisaengchung"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Memories of Murder",
+          "Snowpiercer",
+          "Okja",
+          "Old Boy",
+          "The Host"
+        ]
+      },
       "explication": "Ce film sud-coréen avait déjà remporté la Palme d'or à Cannes en 2019, sous la présidence d'Alejandro González Iñárritu. Il suit une famille pauvre qui s'infiltre peu à peu au service d'une riche famille de Séoul. Lors de la cérémonie, il a obtenu quatre Oscars : film, réalisation, scénario original et film international.",
       "anecdote": "La luxueuse maison de la famille Park n'existe pas : elle a été construite spécialement pour le tournage.",
       "source": "Wikipédia (fr) — « Parasite (film, 2019) »",
-      "verification": {"statut": "relue", "note": "Maison des Park : décor construit pour le film, confirmé."}
+      "verification": {
+        "statut": "relue",
+        "note": "Maison des Park : décor construit pour le film, confirmé."
+      }
     },
     {
       "id": "cin-05-2",
@@ -223,10 +876,21 @@
       "question": "Quel film de Quentin Tarantino a remporté la Palme d'or en 1994 ?",
       "reponse": "Pulp Fiction",
       "variantes": [],
-      "validation": {"type": "texte", "pieges": ["Reservoir Dogs", "Jackie Brown", "Kill Bill", "Inglourious Basterds"]},
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Reservoir Dogs",
+          "Jackie Brown",
+          "Kill Bill",
+          "Inglourious Basterds"
+        ]
+      },
       "explication": "Ce deuxième long métrage entrecroise plusieurs histoires de truands de Los Angeles dans un ordre non chronologique. À Cannes, le jury était présidé par Clint Eastwood. Le film a ensuite valu à Tarantino et Roger Avary l'Oscar du meilleur scénario original, et relancé la carrière de John Travolta, qui y danse le twist avec Uma Thurman.",
       "source": "Wikipédia (fr) — « Pulp Fiction »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "cin-05-3",
@@ -234,11 +898,25 @@
       "niveau": 5,
       "question": "Quelle série de Canal+, créée par Éric Rochant, suit des agents de la DGSE ?",
       "reponse": "Le Bureau des légendes",
-      "variantes": ["Bureau des légendes", "The Bureau"],
-      "validation": {"type": "texte", "pieges": ["Engrenages", "Baron noir", "No Limit", "Les Patriotes"]},
+      "variantes": [
+        "Bureau des légendes",
+        "The Bureau"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Engrenages",
+          "Baron noir",
+          "No Limit",
+          "Les Patriotes"
+        ]
+      },
       "explication": "Diffusée de 2015 à 2020 en cinq saisons, la série suit notamment Guillaume Debailly, alias Malotru, joué par Mathieu Kassovitz, de retour à Paris après six ans de mission clandestine en Syrie. Dans le jargon du renseignement, une « légende » désigne la fausse identité soigneusement construite pour un agent infiltré.",
       "source": "Wikipédia (fr) — « Le Bureau des légendes »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "cin-05-4",
@@ -247,11 +925,122 @@
       "question": "Dans quel film de 1942 Humphrey Bogart lance-t-il à Ingrid Bergman « Here's looking at you, kid » ?",
       "reponse": "Casablanca",
       "variantes": [],
-      "validation": {"type": "texte", "pieges": ["Le Faucon maltais", "Le Port de l'angoisse", "Le Grand Sommeil", "African Queen"]},
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Le Faucon maltais",
+          "Le Port de l'angoisse",
+          "Le Grand Sommeil",
+          "African Queen"
+        ]
+      },
       "explication": "Réalisé par Michael Curtiz, le film se déroule en décembre 1941 au Maroc, alors sous l'autorité du régime de Vichy, où des réfugiés cherchent à fuir vers l'Amérique. Bogart y joue Rick Blaine, patron de café désabusé. Le film a remporté trois Oscars en 1944, dont ceux du meilleur film et du meilleur réalisateur.",
       "anecdote": "La réplique « Play it again, Sam » n'est jamais prononcée dans le film : Ingrid Bergman demande seulement au pianiste « Play it, Sam ».",
       "source": "Wikipédia (fr) — « Casablanca (film) »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-05-5",
+      "categorie": "cinema",
+      "niveau": 5,
+      "question": "Quel acteur français a reçu l'Oscar du meilleur acteur en 2012 pour son rôle dans « The Artist » ?",
+      "reponse": "Jean Dujardin",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Michel Hazanavicius",
+          "Omar Sy",
+          "Gilles Lellouche",
+          "Bérénice Bejo",
+          "Guillaume Canet"
+        ]
+      },
+      "explication": "Réalisé par Michel Hazanavicius, ce film muet en noir et blanc raconte le déclin d'une star hollywoodienne à l'arrivée du cinéma parlant. Il a remporté cinq Oscars, dont celui du meilleur film. Dujardin devient le premier Français sacré meilleur acteur à Hollywood, après avoir déjà reçu le prix d'interprétation masculine au Festival de Cannes en 2011.",
+      "anecdote": "Le chien Uggie, fidèle compagnon du héros à l'écran, a reçu à Cannes la « Palm Dog », récompense parodique décernée par des critiques.",
+      "source": "Wikipédia (fr) — « The Artist »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-05-6",
+      "categorie": "cinema",
+      "niveau": 5,
+      "question": "Quel acteur britannique incarne le détective dans la série « Sherlock » de la BBC, diffusée de 2010 à 2017 ?",
+      "reponse": "Benedict Cumberbatch",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Martin Freeman",
+          "Robert Downey Jr.",
+          "Jude Law",
+          "Jeremy Brett",
+          "Tom Hiddleston"
+        ]
+      },
+      "explication": "Créée par Steven Moffat et Mark Gatiss, la série transpose les enquêtes imaginées par Arthur Conan Doyle dans le Londres contemporain, où Holmes envoie des SMS et où Watson, joué par Martin Freeman, tient un blog. Elle ne compte que treize épisodes d'environ 90 minutes, répartis en quatre saisons et un épisode spécial.",
+      "anecdote": "Mark Gatiss, cocréateur de la série, y joue aussi Mycroft, le frère aîné de Sherlock.",
+      "source": "Wikipédia (fr) — « Sherlock (série télévisée) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-05-7",
+      "categorie": "cinema",
+      "niveau": 5,
+      "question": "Dans quel film de Mathieu Kassovitz (1995) un homme qui tombe d'un immeuble se répète-t-il « Jusqu'ici tout va bien » ?",
+      "reponse": "La Haine",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Assassin(s)",
+          "Métisse",
+          "Les Misérables",
+          "Ma 6-T va crack-er",
+          "Les Rivières pourpres"
+        ]
+      },
+      "explication": "En noir et blanc, le film suit pendant vingt-quatre heures trois jeunes d'une cité de la banlieue parisienne, joués par Vincent Cassel, Hubert Koundé et Saïd Taghmaoui, au lendemain d'une émeute. Il a valu à Kassovitz le prix de la mise en scène au Festival de Cannes 1995, puis le César du meilleur film en 1996.",
+      "anecdote": "Les scènes de la cité ont été tournées à Chanteloup-les-Vignes, dans les Yvelines.",
+      "source": "Wikipédia (fr) — « La Haine »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-05-8",
+      "categorie": "cinema",
+      "niveau": 5,
+      "question": "Quel cinéaste a réalisé « Citizen Kane » (1941), son premier long métrage, à seulement 25 ans ?",
+      "reponse": "Orson Welles",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Howard Hawks",
+          "John Ford",
+          "Herman Mankiewicz",
+          "Alfred Hitchcock",
+          "Frank Capra"
+        ]
+      },
+      "explication": "Révélé par le théâtre et la radio, Welles y incarne un magnat de la presse dont un journaliste cherche à comprendre le dernier mot, « Rosebud ». Le personnage s'inspire en partie de William Randolph Hearst, qui tenta d'empêcher la sortie du film. De 1962 à 2002, la revue Sight and Sound l'a classé à chaque décennie meilleur film de tous les temps.",
+      "anecdote": "Le film n'a remporté qu'un seul Oscar, celui du meilleur scénario original, partagé par Welles avec Herman J. Mankiewicz.",
+      "source": "Wikipédia (fr) — « Citizen Kane »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "cin-06-1",
@@ -260,11 +1049,22 @@
       "question": "Quel cinéaste a réalisé « 2001 : l'Odyssée de l'espace » (1968) ?",
       "reponse": "Stanley Kubrick",
       "variantes": [],
-      "validation": {"type": "personne", "pieges": ["Arthur C. Clarke", "Steven Spielberg", "George Lucas", "Ridley Scott"]},
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Arthur C. Clarke",
+          "Steven Spielberg",
+          "George Lucas",
+          "Ridley Scott"
+        ]
+      },
       "explication": "Kubrick a écrit le scénario avec l'auteur de science-fiction Arthur C. Clarke, qui en a tiré parallèlement un roman. Le film, célèbre pour son ordinateur HAL 9000 et pour l'usage du « Beau Danube bleu » de Johann Strauss, a valu à Kubrick le seul Oscar de sa carrière, celui des effets visuels.",
       "anecdote": "On remarque souvent que HAL correspond aux lettres d'IBM décalées d'un rang dans l'alphabet. Clarke a toujours affirmé qu'il s'agissait d'une pure coïncidence.",
       "source": "Wikipédia (fr) — « 2001 : l'Odyssée de l'espace »",
-      "verification": {"statut": "relue", "note": "Anecdote HAL/IBM reformulée (Clarke affirmait que c'était une coïncidence)."}
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote HAL/IBM reformulée (Clarke affirmait que c'était une coïncidence)."
+      }
     },
     {
       "id": "cin-06-2",
@@ -273,10 +1073,22 @@
       "question": "Quel acteur et danseur chante sous l'averse dans « Chantons sous la pluie » (1952) ?",
       "reponse": "Gene Kelly",
       "variantes": [],
-      "validation": {"type": "personne", "nomSeul": true, "pieges": ["Fred Astaire", "Donald O'Connor", "Frank Sinatra", "Grace Kelly"]},
+      "validation": {
+        "type": "personne",
+        "nomSeul": true,
+        "pieges": [
+          "Fred Astaire",
+          "Donald O'Connor",
+          "Frank Sinatra",
+          "Grace Kelly"
+        ]
+      },
       "explication": "Kelly a coréalisé le film avec Stanley Donen. L'histoire se déroule à Hollywood à la fin des années 1920, au moment du passage au cinéma parlant, qui menace la carrière d'une star du muet à la voix insupportable. Debbie Reynolds, alors âgée de 19 ans, y tient le premier rôle féminin.",
       "source": "Wikipédia (fr) — « Chantons sous la pluie »",
-      "verification": {"statut": "relue", "note": "nomSeul explicité (Grace Kelly en piège)."}
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul explicité (Grace Kelly en piège)."
+      }
     },
     {
       "id": "cin-06-3",
@@ -285,11 +1097,24 @@
       "question": "Quel dialoguiste a signé les répliques des « Tontons flingueurs » (1963) ?",
       "reponse": "Michel Audiard",
       "variantes": [],
-      "validation": {"type": "personne", "nomSeul": true, "pieges": ["Jacques Audiard", "Georges Lautner", "Jacques Prévert", "Albert Simonin", "Francis Veber"]},
+      "validation": {
+        "type": "personne",
+        "nomSeul": true,
+        "pieges": [
+          "Jacques Audiard",
+          "Georges Lautner",
+          "Jacques Prévert",
+          "Albert Simonin",
+          "Francis Veber"
+        ]
+      },
       "explication": "Réalisé par Georges Lautner d'après un roman d'Albert Simonin, le film réunit Lino Ventura, Bernard Blier et Francis Blanche. Boudé par une partie de la critique à sa sortie, il attire pourtant le public en salles et devient culte au fil des rediffusions, grâce à ses répliques ciselées et à la fameuse scène de la cuisine.",
       "anecdote": "Michel Audiard est le père du réalisateur Jacques Audiard, qui a remporté la Palme d'or en 2015 avec « Dheepan ».",
       "source": "Wikipédia (fr) — « Les Tontons flingueurs »",
-      "verification": {"statut": "relue", "note": "Accueil critique nuancé (« une partie de la critique ») ; nomSeul explicité (Jacques Audiard en piège)."}
+      "verification": {
+        "statut": "relue",
+        "note": "Accueil critique nuancé (« une partie de la critique ») ; nomSeul explicité (Jacques Audiard en piège)."
+      }
     },
     {
       "id": "cin-06-4",
@@ -298,10 +1123,120 @@
       "question": "Combien d'Oscars « Le Seigneur des anneaux : Le Retour du roi » a-t-il remportés en 2004 ?",
       "reponse": "11",
       "variantes": [],
-      "validation": {"type": "nombre", "valeur": 11, "tolerance": 0},
+      "validation": {
+        "type": "nombre",
+        "valeur": 11,
+        "tolerance": 0
+      },
       "explication": "Le film de Peter Jackson a gagné dans les onze catégories où il était nommé, dont celles du meilleur film et du meilleur réalisateur, sans essuyer un seul échec. Il partage le record de onze Oscars avec « Ben-Hur » (1959) et « Titanic » (1997). Les trois films de la trilogie ont été tournés d'un seul bloc en Nouvelle-Zélande.",
       "source": "Wikipédia (fr) — « Le Seigneur des anneaux : Le Retour du roi »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-06-5",
+      "categorie": "cinema",
+      "niveau": 6,
+      "question": "Quel cinéaste japonais, cofondateur du studio Ghibli, a réalisé « Le Voyage de Chihiro » (2001) ?",
+      "reponse": "Hayao Miyazaki",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "nomSeul": false,
+        "pieges": [
+          "Isao Takahata",
+          "Mamoru Hosoda",
+          "Makoto Shinkai",
+          "Katsuhiro Otomo",
+          "Goro Miyazaki"
+        ]
+      },
+      "explication": "Il a fondé le studio Ghibli en 1985 avec Isao Takahata et le producteur Toshio Suzuki. « Le Voyage de Chihiro », où une fillette se retrouve piégée dans un monde d'esprits, a partagé l'Ours d'or à Berlin en 2002, puis remporté l'Oscar du meilleur film d'animation en 2003. Miyazaki a reçu un second Oscar en 2024 pour « Le Garçon et le Héron ».",
+      "anecdote": "Le nom Ghibli vient d'un mot italien désignant un vent chaud du Sahara, repris pour baptiser un avion italien des années 1930.",
+      "source": "Wikipédia (fr) — « Hayao Miyazaki »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul passé à false (Goro Miyazaki, cinéaste)."
+      }
+    },
+    {
+      "id": "cin-06-6",
+      "categorie": "cinema",
+      "niveau": 6,
+      "question": "Quel compositeur italien a signé la musique du « Bon, la Brute et le Truand » (1966) de Sergio Leone ?",
+      "reponse": "Ennio Morricone",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Nino Rota",
+          "Riz Ortolani",
+          "Sergio Leone",
+          "Luis Bacalov",
+          "Nicola Piovani"
+        ]
+      },
+      "explication": "Associé à Leone de « Pour une poignée de dollars » à « Il était une fois en Amérique », il renouvelle la musique du western avec des sifflements, des guitares électriques, des chœurs et des cris. Longtemps privé d'Oscar malgré plusieurs nominations, il reçoit un Oscar d'honneur en 2007, puis celui de la meilleure musique en 2016 pour « Les Huit Salopards » de Quentin Tarantino.",
+      "anecdote": "Leone et Morricone avaient été camarades de classe à l'école primaire, à Rome, avant de se retrouver des années plus tard pour le cinéma.",
+      "source": "Wikipédia (fr) — « Ennio Morricone »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-06-7",
+      "categorie": "cinema",
+      "niveau": 6,
+      "question": "Dans quelle série HBO (1999-2007) un parrain de la mafia du New Jersey consulte-t-il une psychiatre ?",
+      "reponse": "Les Soprano",
+      "variantes": [
+        "The Sopranos",
+        "Sopranos"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Boardwalk Empire",
+          "Sur écoute",
+          "Mafiosa",
+          "Les Affranchis",
+          "Mafia Blues"
+        ]
+      },
+      "explication": "Créée par David Chase, la série suit Tony Soprano, joué par James Gandolfini, partagé entre sa famille, son clan et ses crises d'angoisse, qu'il confie au docteur Jennifer Melfi. En six saisons et 86 épisodes, elle a ouvert l'ère des séries ambitieuses du câble américain. Son dernier plan, une coupure brutale vers un écran noir en 2007, a longtemps divisé les spectateurs.",
+      "source": "Wikipédia (fr) — « Les Soprano »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-06-8",
+      "categorie": "cinema",
+      "niveau": 6,
+      "question": "Quel cinéaste de la Nouvelle Vague a réalisé « Les Quatre Cents Coups » (1959) ?",
+      "reponse": "François Truffaut",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Jean-Luc Godard",
+          "Claude Chabrol",
+          "Éric Rohmer",
+          "Jacques Rivette",
+          "Louis Malle"
+        ]
+      },
+      "explication": "Ancien critique virulent des « Cahiers du cinéma », Truffaut signe là son premier long métrage, nourri de sa propre enfance difficile. Le film lui vaut le prix de la mise en scène à Cannes en 1959. Son jeune héros, Antoine Doinel, joué par Jean-Pierre Léaud, revient dans quatre autres films, dont un court métrage, jusqu'à « L'Amour en fuite » en 1979.",
+      "anecdote": "Le film se termine sur un célèbre arrêt sur image : Antoine, échappé d'un centre pour mineurs, se retourne vers la caméra face à la mer.",
+      "source": "Wikipédia (fr) — « Les Quatre Cents Coups »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "cin-07-1",
@@ -310,11 +1245,18 @@
       "question": "En quelle année les frères Lumière organisent-ils la première projection publique payante de leur Cinématographe, à Paris ?",
       "reponse": "1895",
       "variantes": [],
-      "validation": {"type": "nombre", "valeur": 1895, "tolerance": 0},
+      "validation": {
+        "type": "nombre",
+        "valeur": 1895,
+        "tolerance": 0
+      },
       "explication": "La séance a lieu le 28 décembre 1895 dans le Salon indien du Grand Café, boulevard des Capucines. Au programme, une dizaine de courts films d'environ une minute, dont « La Sortie de l'usine Lumière à Lyon ». Breveté par Louis et Auguste Lumière, le Cinématographe servait à la fois de caméra et de projecteur.",
       "anecdote": "Contrairement à une idée répandue, « L'Arrivée d'un train en gare de La Ciotat » ne figurait pas au programme de cette toute première séance.",
       "source": "Wikipédia (fr) — « Auguste et Louis Lumière »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "cin-07-2",
@@ -322,12 +1264,26 @@
       "niveau": 7,
       "question": "Dans quel film de Marcel Carné (1938) Jean Gabin dit-il à Michèle Morgan « T'as d'beaux yeux, tu sais » ?",
       "reponse": "Le Quai des brumes",
-      "variantes": ["Quai des brumes"],
-      "validation": {"type": "texte", "pieges": ["Hôtel du Nord", "Le jour se lève", "Les Enfants du paradis", "La Bête humaine", "Pépé le Moko"]},
+      "variantes": [
+        "Quai des brumes"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Hôtel du Nord",
+          "Le jour se lève",
+          "Les Enfants du paradis",
+          "La Bête humaine",
+          "Pépé le Moko"
+        ]
+      },
       "explication": "Les dialogues sont de Jacques Prévert, qui adapte un roman de Pierre Mac Orlan en transposant l'action au Havre. Gabin y joue un déserteur de l'armée coloniale en quête d'un bateau pour fuir. Le film est un sommet du « réalisme poétique », courant français de la fin des années 1930 marqué par des héros condamnés et des atmosphères brumeuses.",
       "anecdote": "À la célèbre réplique de Gabin, Michèle Morgan répond simplement : « Embrassez-moi. »",
       "source": "Wikipédia (fr) — « Le Quai des brumes »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "cin-07-3",
@@ -336,11 +1292,23 @@
       "question": "Quelle réalisatrice française a remporté la Palme d'or en 2021 avec « Titane » ?",
       "reponse": "Julia Ducournau",
       "variantes": [],
-      "validation": {"type": "personne", "pieges": ["Justine Triet", "Céline Sciamma", "Jane Campion", "Agnès Varda", "Mia Hansen-Løve"]},
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Justine Triet",
+          "Céline Sciamma",
+          "Jane Campion",
+          "Agnès Varda",
+          "Mia Hansen-Løve"
+        ]
+      },
       "explication": "Elle devient la deuxième femme à obtenir la Palme d'or, après la Néo-Zélandaise Jane Campion, qui l'avait partagée en 1993 pour « La Leçon de piano », et la première à la recevoir seule. Son film, très physique, suit une meurtrière liée de façon troublante aux voitures. Deux ans plus tard, Justine Triet l'imite avec « Anatomie d'une chute ».",
       "anecdote": "Le président du jury, Spike Lee, a dévoilé par erreur le nom du film lauréat dès le début de la cérémonie de clôture.",
       "source": "Wikipédia (fr) — « Julia Ducournau »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "cin-07-4",
@@ -349,10 +1317,117 @@
       "question": "Quel cinéaste a créé le personnage de M. Hulot et tourné « Playtime » (1967) ?",
       "reponse": "Jacques Tati",
       "variantes": [],
-      "validation": {"type": "personne", "pieges": ["Pierre Étaix", "Jacques Demy", "Louis de Funès", "Bourvil"]},
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Pierre Étaix",
+          "Jacques Demy",
+          "Louis de Funès",
+          "Bourvil"
+        ]
+      },
       "explication": "Tati interprète lui-même Monsieur Hulot, silhouette dégingandée à pipe et imperméable, apparue en 1953 dans « Les Vacances de M. Hulot ». « Mon oncle » lui vaut l'Oscar du meilleur film en langue étrangère en 1959. Pour « Playtime », il fait construire près de Paris un immense décor de ville moderne, surnommé Tativille, dont le coût finira par le ruiner.",
       "source": "Wikipédia (fr) — « Jacques Tati »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-07-5",
+      "categorie": "cinema",
+      "niveau": 7,
+      "question": "En quelle année s'est tenue la toute première cérémonie des Oscars, à Hollywood ?",
+      "reponse": "1929",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 1929,
+        "tolerance": 0
+      },
+      "explication": "Le 16 mai 1929, environ 270 invités se retrouvent à l'hôtel Roosevelt d'Hollywood pour un dîner où les prix sont remis en une quinzaine de minutes. Les lauréats, récompensés pour des films sortis en 1927 et 1928, étaient connus à l'avance. « Les Ailes » de William Wellman reçoit la plus haute distinction, et l'Allemand Emil Jannings devient le premier lauréat du prix du meilleur acteur.",
+      "source": "Wikipédia (fr) — « 1re cérémonie des Oscars »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-07-6",
+      "categorie": "cinema",
+      "niveau": 7,
+      "question": "Quel acteur a reçu l'Oscar du meilleur acteur pour « My Left Foot », « There Will Be Blood » et « Lincoln » ?",
+      "reponse": "Daniel Day-Lewis",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "nom": "Day-Lewis",
+        "pieges": [
+          "Ralph Fiennes",
+          "Gary Oldman",
+          "Jack Nicholson",
+          "Liam Neeson",
+          "Daniel Craig"
+        ]
+      },
+      "explication": "En 2013, ce Britannique, également citoyen irlandais, devient le premier acteur à remporter trois fois cette statuette, après 1990 et 2008. Réputé pour son immersion extrême dans ses personnages, il tourne peu et choisit ses rôles avec soin. Il annonce sa retraite en 2017, après « Phantom Thread » de Paul Thomas Anderson, avant de revenir à l'écran en 2025 dans un film réalisé par son fils Ronan.",
+      "anecdote": "Il est le fils du poète Cecil Day-Lewis, poète lauréat du Royaume-Uni de 1968 à 1972.",
+      "source": "Wikipédia (fr) — « Daniel Day-Lewis »",
+      "verification": {
+        "statut": "relue",
+        "note": "Explication complétée : retour à l'écran en 2025 (« Anemone »)."
+      }
+    },
+    {
+      "id": "cin-07-7",
+      "categorie": "cinema",
+      "niveau": 7,
+      "question": "Quel film de Jean Renoir (1937) met en scène des officiers français prisonniers des Allemands pendant la Première Guerre mondiale ?",
+      "reponse": "La Grande Illusion",
+      "variantes": [
+        "Grande Illusion"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "La Règle du jeu",
+          "La Bête humaine",
+          "Les Croix de bois",
+          "Les Sentiers de la gloire",
+          "Le Crime de monsieur Lange"
+        ]
+      },
+      "explication": "Jean Gabin, Pierre Fresnay et Marcel Dalio y incarnent des officiers d'origines sociales différentes, face au commandant aristocrate joué par Erich von Stroheim. Interdit en Allemagne par Goebbels, il devient en 1939 le premier film en langue étrangère nommé à l'Oscar du meilleur film. Renoir, fils du peintre Auguste Renoir, avait lui-même été aviateur pendant la guerre.",
+      "source": "Wikipédia (fr) — « La Grande Illusion »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-07-8",
+      "categorie": "cinema",
+      "niveau": 7,
+      "question": "Quel acteur a incarné de 1968 à 2003 le lieutenant Columbo, enquêteur à l'imperméable froissé ?",
+      "reponse": "Peter Falk",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Peter Sellers",
+          "Telly Savalas",
+          "Raymond Burr",
+          "Peter Fonda",
+          "Bing Crosby"
+        ]
+      },
+      "explication": "Le personnage apparaît dans un téléfilm en 1968, avant une série diffusée sur NBC à partir de 1971, puis sur ABC jusqu'en 2003. Chaque enquête inverse les règles du roman policier : le spectateur assiste d'emblée au meurtre, puis suit la façon dont Columbo confond le coupable. Peter Falk, qui portait un œil de verre depuis l'enfance, a reçu quatre Emmy Awards pour ce rôle.",
+      "anecdote": "On ne voit jamais Mme Columbo, dont le lieutenant parle sans cesse. Elle a pourtant eu brièvement sa propre série, en 1979.",
+      "source": "Wikipédia (fr) — « Columbo »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "cin-08-1",
@@ -361,11 +1436,23 @@
       "question": "Quel cinéaste suédois a réalisé « Le Septième Sceau » (1957), où un chevalier joue aux échecs contre la Mort ?",
       "reponse": "Ingmar Bergman",
       "variantes": [],
-      "validation": {"type": "personne", "nomSeul": true, "pieges": ["Ingrid Bergman", "Carl Theodor Dreyer", "Lars von Trier", "Max von Sydow"]},
+      "validation": {
+        "type": "personne",
+        "nomSeul": true,
+        "pieges": [
+          "Ingrid Bergman",
+          "Carl Theodor Dreyer",
+          "Lars von Trier",
+          "Max von Sydow"
+        ]
+      },
       "explication": "Max von Sydow y incarne Antonius Block, un chevalier revenu des croisades dans une Suède ravagée par la peste noire, qui tente de gagner du temps face à la Mort. Récompensé par le Prix spécial du jury au Festival de Cannes en 1957, le film a largement contribué à la renommée internationale de Bergman.",
       "anecdote": "Ingmar Bergman et l'actrice Ingrid Bergman, sans lien de parenté, n'ont tourné ensemble qu'une seule fois : « Sonate d'automne », en 1978.",
       "source": "Wikipédia (fr) — « Le Septième Sceau »",
-      "verification": {"statut": "relue", "note": "Prix spécial du jury 1957 maintenu sans préciser le partage ; « fait connaître dans le monde entier » nuancé ; nomSeul explicité."}
+      "verification": {
+        "statut": "relue",
+        "note": "Prix spécial du jury 1957 maintenu sans préciser le partage ; « fait connaître dans le monde entier » nuancé ; nomSeul explicité."
+      }
     },
     {
       "id": "cin-08-2",
@@ -373,12 +1460,25 @@
       "niveau": 8,
       "question": "Quel film de Jacques Demy (1964), dont tous les dialogues sont chantés, réunit Catherine Deneuve et Nino Castelnuovo ?",
       "reponse": "Les Parapluies de Cherbourg",
-      "variantes": ["Parapluies de Cherbourg"],
-      "validation": {"type": "texte", "pieges": ["Les Demoiselles de Rochefort", "Peau d'âne", "Lola", "Une chambre en ville"]},
+      "variantes": [
+        "Parapluies de Cherbourg"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Les Demoiselles de Rochefort",
+          "Peau d'âne",
+          "Lola",
+          "Une chambre en ville"
+        ]
+      },
       "explication": "La partition est signée Michel Legrand. Catherine Deneuve joue Geneviève, fille d'une marchande, séparée de son amoureux Guy, mécanicien appelé pour la guerre d'Algérie. Le film a remporté en 1964 le Grand Prix du Festival de Cannes, nom que portait alors sa plus haute récompense, avant le retour de l'appellation Palme d'or.",
       "anecdote": "Catherine Deneuve ne chante pas elle-même dans le film : sa voix chantée est celle de Danielle Licari.",
       "source": "Wikipédia (fr) — « Les Parapluies de Cherbourg »",
-      "verification": {"statut": "relue", "note": "« Grand Prix » 1964 confirmé (nom de la récompense suprême de 1964 à 1974)."}
+      "verification": {
+        "statut": "relue",
+        "note": "« Grand Prix » 1964 confirmé (nom de la récompense suprême de 1964 à 1974)."
+      }
     },
     {
       "id": "cin-08-3",
@@ -386,12 +1486,26 @@
       "niveau": 8,
       "question": "Quel cinéaste soviétique a réalisé « Le Cuirassé Potemkine » (1925) ?",
       "reponse": "Sergueï Eisenstein",
-      "variantes": ["Sergei Eisenstein", "Serguei Eisenstein"],
-      "validation": {"type": "personne", "pieges": ["Dziga Vertov", "Vsevolod Poudovkine", "Andreï Tarkovski", "Lev Koulechov"]},
+      "variantes": [
+        "Sergei Eisenstein",
+        "Serguei Eisenstein"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Dziga Vertov",
+          "Vsevolod Poudovkine",
+          "Andreï Tarkovski",
+          "Lev Koulechov"
+        ]
+      },
       "explication": "Le film commémore la mutinerie des marins du cuirassé en 1905, à Odessa. Sa séquence la plus célèbre, le massacre sur l'escalier du port, avec un landau dévalant les marches, illustre la théorie du montage d'Eisenstein, pour qui le sens naît du choc entre les plans. Brian De Palma l'a reprise dans « Les Incorruptibles ».",
       "anecdote": "Le massacre de l'escalier d'Odessa, tel qu'il est montré, n'a jamais eu lieu : c'est une invention du film.",
       "source": "Wikipédia (fr) — « Le Cuirassé Potemkine »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "cin-08-4",
@@ -399,11 +1513,128 @@
       "niveau": 8,
       "question": "Dans « Twin Peaks », quel agent du FBI enquête sur le meurtre de Laura Palmer ?",
       "reponse": "Dale Cooper",
-      "variantes": ["Agent Cooper"],
-      "validation": {"type": "personne", "nomSeul": true, "pieges": ["Fox Mulder", "Harry Truman", "Gordon Cole", "Albert Rosenfield"]},
+      "variantes": [
+        "Agent Cooper"
+      ],
+      "validation": {
+        "type": "personne",
+        "nomSeul": true,
+        "pieges": [
+          "Fox Mulder",
+          "Harry Truman",
+          "Gordon Cole",
+          "Albert Rosenfield"
+        ]
+      },
       "explication": "Créée par David Lynch et Mark Frost, la série est diffusée sur ABC en 1990 et 1991. L'agent spécial, joué par Kyle MacLachlan, amateur de café noir et de tarte aux cerises, dicte ses notes à une mystérieuse Diane sur un magnétophone. Lynch a prolongé l'univers avec le film « Fire Walk with Me » en 1992 et une troisième saison en 2017.",
       "source": "Wikipédia (fr) — « Twin Peaks »",
-      "verification": {"statut": "relue", "note": "Variante « Agent Cooper » ajoutée ; nomSeul explicité."}
+      "verification": {
+        "statut": "relue",
+        "note": "Variante « Agent Cooper » ajoutée ; nomSeul explicité."
+      }
+    },
+    {
+      "id": "cin-08-5",
+      "categorie": "cinema",
+      "niveau": 8,
+      "question": "Quel cinéaste britannique a remporté la Palme d'or pour « Le vent se lève » (2006) puis « Moi, Daniel Blake » (2016) ?",
+      "reponse": "Ken Loach",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Mike Leigh",
+          "Stephen Frears",
+          "Danny Boyle",
+          "Paul Laverty",
+          "Steve McQueen"
+        ]
+      },
+      "explication": "Figure du cinéma social britannique depuis les années 1960, Loach filme les ouvriers, les chômeurs et les laissés-pour-compte. « Le vent se lève » se déroule pendant la guerre d'indépendance irlandaise, tandis que « Moi, Daniel Blake » suit un menuisier malade aux prises avec l'administration sociale. Il rejoint ainsi le cercle restreint des cinéastes deux fois récompensés par la Palme d'or.",
+      "anecdote": "Ses deux films palmés ont été écrits par le même scénariste, Paul Laverty, son complice depuis « Carla's Song » (1996).",
+      "source": "Wikipédia (fr) — « Ken Loach »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-08-6",
+      "categorie": "cinema",
+      "niveau": 8,
+      "question": "Quel compositeur français a remporté l'Oscar de la meilleure musique pour « Lawrence d'Arabie » (1962) ?",
+      "reponse": "Maurice Jarre",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "nomSeul": false,
+        "pieges": [
+          "Jean-Michel Jarre",
+          "Michel Legrand",
+          "Georges Delerue",
+          "Francis Lai",
+          "Vladimir Cosma"
+        ]
+      },
+      "explication": "Il a obtenu trois Oscars, tous pour des films du Britannique David Lean : « Lawrence d'Arabie », « Le Docteur Jivago », dont le « thème de Lara » a fait le tour du monde, et « La Route des Indes », en 1985. Il a ensuite mené une longue carrière à Hollywood, signant notamment la musique du « Cercle des poètes disparus » et de « Ghost ».",
+      "anecdote": "Il est le père du musicien Jean-Michel Jarre, pionnier de la musique électronique avec l'album « Oxygène » en 1976.",
+      "source": "Wikipédia (fr) — « Maurice Jarre »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul passé à false (Jean-Michel Jarre)."
+      }
+    },
+    {
+      "id": "cin-08-7",
+      "categorie": "cinema",
+      "niveau": 8,
+      "question": "Quelle série d'Alan Ball (HBO, 2001-2005) suit les Fisher, une famille qui dirige une entreprise de pompes funèbres à Los Angeles ?",
+      "reponse": "Six Feet Under",
+      "variantes": [
+        "Six pieds sous terre"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Les Soprano",
+          "Desperate Housewives",
+          "Dead Like Me",
+          "Pushing Daisies",
+          "True Blood"
+        ]
+      },
+      "explication": "Presque chaque épisode s'ouvre sur un décès, dont la victime passe ensuite entre les mains de la famille. La série commence par la mort accidentelle du père, Nathaniel Fisher, qui laisse l'entreprise à ses fils Nate et David. Alan Ball avait reçu l'Oscar du meilleur scénario original pour « American Beauty ». Le dernier épisode, en 2005, est célèbre pour son montage final dévoilant l'avenir de chaque personnage.",
+      "anecdote": "Le titre désigne la profondeur traditionnelle d'une tombe dans les pays anglophones : six pieds, soit environ 1,80 mètre.",
+      "source": "Wikipédia (fr) — « Six Feet Under »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-08-8",
+      "categorie": "cinema",
+      "niveau": 8,
+      "question": "Quelle cinéaste a réalisé « Cléo de 5 à 7 » (1962), qui suit une chanteuse attendant un résultat médical dans Paris ?",
+      "reponse": "Agnès Varda",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Jacques Demy",
+          "Chantal Akerman",
+          "Marguerite Duras",
+          "Corinne Marchand",
+          "Claire Denis"
+        ]
+      },
+      "explication": "Son premier long métrage, « La Pointe Courte », tourné à Sète en 1954, est souvent considéré comme un précurseur de la Nouvelle Vague. Varda a alterné fiction et documentaire, de « Sans toit ni loi », Lion d'or à Venise en 1985, aux « Glaneurs et la Glaneuse ». En 2017, elle devient la première réalisatrice à recevoir un Oscar d'honneur.",
+      "anecdote": "Le film se déroule presque en temps réel : il suit Cléo de 17 heures à 18 h 30 environ, en à peu près une heure et demie d'écran.",
+      "source": "Wikipédia (fr) — « Agnès Varda »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "cin-09-1",
@@ -411,12 +1642,25 @@
       "niveau": 9,
       "question": "Quel cinéaste japonais a réalisé « Voyage à Tokyo » (1953) ?",
       "reponse": "Yasujirō Ozu",
-      "variantes": ["Yasujiro Ozu"],
-      "validation": {"type": "personne", "pieges": ["Akira Kurosawa", "Kenji Mizoguchi", "Mikio Naruse", "Hirokazu Kore-eda"]},
+      "variantes": [
+        "Yasujiro Ozu"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Akira Kurosawa",
+          "Kenji Mizoguchi",
+          "Mikio Naruse",
+          "Hirokazu Kore-eda"
+        ]
+      },
       "explication": "Le film raconte la visite d'un couple de parents âgés à leurs enfants, trop occupés pour les accueillir. Ozu y applique son style caractéristique : une caméra fixe placée très bas, à hauteur d'une personne assise sur un tatami. En 2012, le sondage de la revue Sight and Sound auprès des réalisateurs l'a classé meilleur film de tous les temps.",
       "anecdote": "Ozu est mort le 12 décembre 1963, le jour même de ses 60 ans.",
       "source": "Wikipédia (fr) — « Voyage à Tokyo »",
-      "verification": {"statut": "relue", "note": "Classement Sight and Sound 2012 (sondage des réalisateurs) confirmé."}
+      "verification": {
+        "statut": "relue",
+        "note": "Classement Sight and Sound 2012 (sondage des réalisateurs) confirmé."
+      }
     },
     {
       "id": "cin-09-2",
@@ -424,12 +1668,26 @@
       "niveau": 9,
       "question": "Dans quelle série britannique de 1967 un ex-agent secret appelé Numéro 6 est-il retenu dans un mystérieux village ?",
       "reponse": "Le Prisonnier",
-      "variantes": ["The Prisoner", "Prisonnier"],
-      "validation": {"type": "texte", "pieges": ["Chapeau melon et bottes de cuir", "Destination Danger", "Le Saint", "Amicalement vôtre"]},
+      "variantes": [
+        "The Prisoner",
+        "Prisonnier"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Chapeau melon et bottes de cuir",
+          "Destination Danger",
+          "Le Saint",
+          "Amicalement vôtre"
+        ]
+      },
       "explication": "Patrick McGoohan, cocréateur et vedette de la série, y joue un agent démissionnaire enlevé puis interrogé sans relâche par ses geôliers. Les 17 épisodes ont été tournés en grande partie à Portmeirion, village pittoresque du pays de Galles. La phrase « Je ne suis pas un numéro, je suis un homme libre ! » est devenue culte.",
       "anecdote": "Patrick McGoohan sortait du succès de « Destination Danger », une autre série où il incarnait déjà un agent secret.",
       "source": "Wikipédia (fr) — « Le Prisonnier »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "cin-09-3",
@@ -437,11 +1695,29 @@
       "niveau": 9,
       "question": "Comment nomme-t-on l'effet de « Sueurs froides » (1958) combinant un travelling arrière et un zoom avant ?",
       "reponse": "Travelling compensé",
-      "variantes": ["Effet Vertigo", "Dolly zoom", "Zoom compensé", "Trans-trav", "Contre-zoom"],
-      "validation": {"type": "texte", "pieges": ["Plan-séquence", "Travelling avant", "Zoom avant", "Champ-contrechamp", "Plongée"]},
+      "variantes": [
+        "Effet Vertigo",
+        "Dolly zoom",
+        "Zoom compensé",
+        "Trans-trav",
+        "Contre-zoom"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Plan-séquence",
+          "Travelling avant",
+          "Zoom avant",
+          "Champ-contrechamp",
+          "Plongée"
+        ]
+      },
       "explication": "La caméra recule pendant que l'objectif zoome, ou l'inverse : le sujet garde la même taille dans le cadre tandis que l'arrière-plan semble s'étirer ou se resserrer. Hitchcock l'utilise pour traduire le vertige de James Stewart dans l'escalier du clocher. Spielberg l'a repris dans « Les Dents de la mer » sur le visage de Roy Scheider.",
       "source": "Wikipédia (en) — « Dolly zoom »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "cin-09-4",
@@ -450,11 +1726,130 @@
       "question": "Quel ancien journaliste du Baltimore Sun a créé la série « Sur écoute » (The Wire) ?",
       "reponse": "David Simon",
       "variantes": [],
-      "validation": {"type": "personne", "nomSeul": true, "pieges": ["David Chase", "David Milch", "Ed Burns", "Richard Price"]},
+      "validation": {
+        "type": "personne",
+        "nomSeul": true,
+        "pieges": [
+          "David Chase",
+          "David Milch",
+          "Ed Burns",
+          "Richard Price"
+        ]
+      },
       "explication": "Diffusée sur HBO de 2002 à 2008 en cinq saisons, la série observe Baltimore à travers le trafic de drogue, le port, la mairie, l'école et la presse. Simon l'a écrite avec Ed Burns, ancien enquêteur de la brigade criminelle devenu enseignant, et avec des romanciers comme Richard Price, George Pelecanos et Dennis Lehane.",
       "anecdote": "Son livre « Homicide », tiré d'une année passée aux côtés des enquêteurs de Baltimore, avait déjà inspiré la série « Homicide » sur NBC en 1993.",
       "source": "Wikipédia (en) — « The Wire »",
-      "verification": {"statut": "relue", "note": "nomSeul explicité."}
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul explicité."
+      }
+    },
+    {
+      "id": "cin-09-5",
+      "categorie": "cinema",
+      "niveau": 9,
+      "question": "Dans « Mad Men », comment s'appelle l'agence publicitaire de Madison Avenue où travaille Don Draper au début de la série ?",
+      "reponse": "Sterling Cooper",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Sterling Cooper Draper Pryce",
+          "McCann Erickson",
+          "Draper Pryce",
+          "Ogilvy",
+          "Saatchi"
+        ]
+      },
+      "explication": "Créée par Matthew Weiner, ancien scénariste des « Soprano », la série d'AMC suit de 1960 à 1970 le directeur de création Don Draper, joué par Jon Hamm. Diffusée de 2007 à 2015, elle est la première série d'une chaîne câblée non payante à remporter l'Emmy Award de la meilleure série dramatique, en 2008, avant de le conserver les trois années suivantes.",
+      "anecdote": "Le titre joue sur Madison Avenue, l'avenue new-yorkaise des grandes agences, et sur « ad men », surnom des publicitaires.",
+      "source": "Wikipédia (en) — « Mad Men »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-09-6",
+      "categorie": "cinema",
+      "niveau": 9,
+      "question": "Quel film muet de Carl Theodor Dreyer (1928) montre en gros plans le procès de la Pucelle d'Orléans ?",
+      "reponse": "La Passion de Jeanne d'Arc",
+      "variantes": [
+        "Passion de Jeanne d'Arc"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Jour de colère",
+          "Ordet",
+          "Vampyr",
+          "Gertrud",
+          "Le Procès de Jeanne d'Arc"
+        ]
+      },
+      "explication": "Produit en France, le film condense le procès de 1431 en une seule journée, en s'appuyant sur les minutes authentiques. Renée Falconetti, venue du théâtre, y tient son seul grand rôle au cinéma, filmée sans maquillage dans des gros plans saisissants. Le négatif original a disparu dans un incendie peu après la sortie, et la version voulue par Dreyer a longtemps été considérée comme perdue.",
+      "anecdote": "Une copie complète a été retrouvée en 1981 dans un placard d'un hôpital psychiatrique près d'Oslo, en Norvège.",
+      "source": "Wikipédia (fr) — « La Passion de Jeanne d'Arc »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-09-7",
+      "categorie": "cinema",
+      "niveau": 9,
+      "question": "Quel était le véritable nom de famille de l'acteur marseillais Fernandel ?",
+      "reponse": "Contandin",
+      "variantes": [
+        "Fernand Contandin"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Muraire",
+          "Constantin",
+          "Contandini",
+          "Raimu",
+          "Pagnol"
+        ]
+      },
+      "explication": "Né Fernand Contandin à Marseille en 1903, il débute dans les cafés-concerts avant de devenir l'un des acteurs les plus populaires du cinéma français. Marcel Pagnol lui offre des rôles marquants, comme dans « Regain » ou « Le Schpountz ». Il incarne aussi le curé Don Camillo dans cinq films, face au maire communiste Peppone joué par Gino Cervi.",
+      "anecdote": "Raimu, autre grande figure marseillaise du cinéma de Pagnol, portait lui aussi un nom de scène : il s'appelait en réalité Jules Muraire.",
+      "source": "Wikipédia (fr) — « Fernandel »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-09-8",
+      "categorie": "cinema",
+      "niveau": 9,
+      "question": "Quel cinéaste, mort en 1934 à 29 ans, a réalisé « Zéro de conduite » et « L'Atalante » ?",
+      "reponse": "Jean Vigo",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Jean Renoir",
+          "Renoir",
+          "René Clair",
+          "Marcel Carné",
+          "Carné",
+          "Jean Epstein",
+          "Julien Duvivier",
+          "Duvivier"
+        ]
+      },
+      "explication": "Fils du militant anarchiste Miguel Almereyda, mort en prison en 1917, Jean Vigo n'a laissé qu'une œuvre très brève. « Zéro de conduite » (1933), révolte d'écoliers dans un internat, reste interdit par la censure pendant plus de dix ans. « L'Atalante », histoire d'un jeune couple de mariniers vivant sur une péniche avec Michel Simon, sort en 1934 dans une version remontée par son distributeur, quelques semaines avant la mort du cinéaste.",
+      "anecdote": "Depuis 1951, le prix Jean Vigo récompense chaque année un jeune cinéaste français pour son indépendance d'esprit et l'originalité de son style.",
+      "source": "Wikipédia (fr) — « Jean Vigo »",
+      "verification": {
+        "statut": "relue",
+        "note": "Remplace une question sur le CinemaScope, doublon de inv-09-4 (Henri Chrétien, Hypergonar)."
+      }
     },
     {
       "id": "cin-10-1",
@@ -463,11 +1858,22 @@
       "question": "Quel directeur de la photographie mexicain a remporté l'Oscar de sa catégorie trois années de suite, de 2014 à 2016 ?",
       "reponse": "Emmanuel Lubezki",
       "variantes": [],
-      "validation": {"type": "personne", "pieges": ["Roger Deakins", "Rodrigo Prieto", "Alfonso Cuarón", "Guillermo Navarro"]},
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Roger Deakins",
+          "Rodrigo Prieto",
+          "Alfonso Cuarón",
+          "Guillermo Navarro"
+        ]
+      },
       "explication": "Surnommé « Chivo », il a été récompensé pour « Gravity » d'Alfonso Cuarón, puis pour « Birdman » et « The Revenant » d'Alejandro González Iñárritu : une première dans l'histoire de cette catégorie. Il est réputé pour ses longs plans-séquences et son usage de la lumière naturelle, poussé à l'extrême sur le tournage de « The Revenant ».",
       "anecdote": "Il a aussi signé l'image de plusieurs films de Terrence Malick, dont « Le Nouveau Monde » et « The Tree of Life ».",
       "source": "Wikipédia (fr) — « Emmanuel Lubezki »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "cin-10-2",
@@ -475,11 +1881,25 @@
       "niveau": 10,
       "question": "Quel cinéaste soviétique a donné son nom à l'effet où un même visage semble exprimer des émotions différentes selon le plan associé ?",
       "reponse": "Lev Koulechov",
-      "variantes": ["Lev Kuleshov", "Kuleshov"],
-      "validation": {"type": "personne", "pieges": ["Sergueï Eisenstein", "Dziga Vertov", "Vsevolod Poudovkine", "Ivan Mosjoukine"]},
+      "variantes": [
+        "Lev Kuleshov",
+        "Kuleshov"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Sergueï Eisenstein",
+          "Dziga Vertov",
+          "Vsevolod Poudovkine",
+          "Ivan Mosjoukine"
+        ]
+      },
       "explication": "Dans son expérience, Koulechov monte le même gros plan neutre de l'acteur Ivan Mosjoukine avec une assiette de soupe, un enfant dans un cercueil ou une femme allongée. Les spectateurs croient lire tour à tour la faim, le chagrin ou le désir. Il en conclut que le sens d'un plan dépend de ce qui l'entoure au montage, une idée fondatrice du cinéma soviétique.",
       "source": "Wikipédia (fr) — « Effet Koulechov »",
-      "verification": {"statut": "relue", "note": "Anecdote ajoutée sur la perte du film de l'expérience."},
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote ajoutée sur la perte du film de l'expérience."
+      },
       "anecdote": "Le film de l'expérience n'a pas été conservé : on ne la connaît que par les récits de Koulechov et de son élève Vsevolod Poudovkine."
     },
     {
@@ -488,12 +1908,26 @@
       "niveau": 10,
       "question": "Quel film de Satyajit Ray, sorti en 1955, ouvre sa « trilogie d'Apu » ?",
       "reponse": "Pather Panchali",
-      "variantes": ["La Complainte du sentier"],
-      "validation": {"type": "texte", "pieges": ["Aparajito", "Le Monde d'Apu", "Apur Sansar", "Le Salon de musique", "Charulata"]},
+      "variantes": [
+        "La Complainte du sentier"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Aparajito",
+          "Le Monde d'Apu",
+          "Apur Sansar",
+          "Le Salon de musique",
+          "Charulata"
+        ]
+      },
       "explication": "Premier film de Ray, il suit l'enfance d'Apu dans un village pauvre du Bengale, d'après un roman de Bibhutibhushan Bandopadhyay. Faute d'argent, le tournage s'étale sur plusieurs années avant que le gouvernement du Bengale-Occidental ne contribue à son financement. La musique est signée Ravi Shankar. La trilogie se poursuit avec « Aparajito » et « Le Monde d'Apu ».",
       "anecdote": "En 1992, quelques semaines avant sa mort, Satyajit Ray a reçu un Oscar d'honneur pour l'ensemble de sa carrière, depuis son lit d'hôpital à Calcutta.",
       "source": "Wikipédia (fr) — « Pather Panchali »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "cin-10-4",
@@ -502,10 +1936,126 @@
       "question": "Quel physiologiste français a mis au point en 1882 un « fusil photographique » pour décomposer le vol des oiseaux ?",
       "reponse": "Étienne-Jules Marey",
       "variantes": [],
-      "validation": {"type": "personne", "pieges": ["Eadweard Muybridge", "Louis Lumière", "Émile Reynaud", "Georges Méliès", "Nicéphore Niépce"]},
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Eadweard Muybridge",
+          "Louis Lumière",
+          "Émile Reynaud",
+          "Georges Méliès",
+          "Nicéphore Niépce"
+        ]
+      },
       "explication": "Marey cherchait à étudier le mouvement des animaux et des humains. Son fusil enregistrait douze images par seconde sur une plaque tournante. Il développe ensuite la chronophotographie, sur plaque fixe puis sur pellicule, des recherches qui ont préparé l'invention du cinéma. L'Américain Eadweard Muybridge menait à la même époque des travaux comparables avec des batteries d'appareils photographiques.",
       "source": "Wikipédia (fr) — « Étienne-Jules Marey »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-10-5",
+      "categorie": "cinema",
+      "niveau": 10,
+      "question": "Quel cinéaste danois a créé en 1994 la série fantastique « L'Hôpital et ses fantômes » (Riget) ?",
+      "reponse": "Lars von Trier",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "nom": "von Trier",
+        "pieges": [
+          "Thomas Vinterberg",
+          "Nicolas Winding Refn",
+          "Susanne Bier",
+          "Ingmar Bergman",
+          "Bille August"
+        ]
+      },
+      "explication": "La série se déroule au Rigshospitalet, le grand hôpital de Copenhague, et mêle satire du milieu médical, épouvante et humour noir, filmée caméra à l'épaule avec une image granuleuse. Une deuxième saison suit en 1997, et von Trier conclut l'histoire en 2022 avec « Riget: Exodus ». Stephen King en a tiré une adaptation américaine, « Kingdom Hospital ».",
+      "anecdote": "Lars von Trier a cofondé en 1995 le mouvement Dogme 95, qui imposait des règles de tournage austères, comme la caméra à l'épaule et le refus de la musique ajoutée.",
+      "source": "Wikipédia (fr) — « L'Hôpital et ses fantômes »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-10-6",
+      "categorie": "cinema",
+      "niveau": 10,
+      "question": "Quel film d'Abbas Kiarostami a partagé la Palme d'or 1997 avec « L'Anguille » de Shōhei Imamura ?",
+      "reponse": "Le Goût de la cerise",
+      "variantes": [
+        "Gout de la cerise",
+        "Taste of Cherry"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Close-up",
+          "Le vent nous emportera",
+          "Où est la maison de mon ami ?",
+          "Copie conforme",
+          "Et la vie continue"
+        ]
+      },
+      "explication": "Le film suit un homme qui sillonne en voiture les collines autour de Téhéran, à la recherche de quelqu'un qui accepterait de l'enterrer après son suicide. Kiarostami devient le premier cinéaste iranien récompensé par la Palme d'or. Il faudra attendre 2025 pour qu'un autre Iranien, Jafar Panahi, la reçoive à son tour avec « Un simple accident ».",
+      "anecdote": "Le film laisse son dénouement en suspens et se clôt sur des images vidéo de l'équipe en plein tournage.",
+      "source": "Wikipédia (fr) — « Le Goût de la cerise »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-10-7",
+      "categorie": "cinema",
+      "niveau": 10,
+      "question": "Quelle monteuse de Martin Scorsese a reçu l'Oscar du meilleur montage pour « Raging Bull », « Aviator » et « Les Infiltrés » ?",
+      "reponse": "Thelma Schoonmaker",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Dede Allen",
+          "Margaret Sixel",
+          "Verna Fields",
+          "Sally Menke",
+          "Anne V. Coates"
+        ]
+      },
+      "explication": "Elle rencontre Scorsese dans les années 1960 à l'université de New York et monte son premier long métrage, avant de devenir sa monteuse attitrée à partir de « Raging Bull », en 1980. Elle a depuis monté presque tous ses films, des « Affranchis » à « Killers of the Flower Moon ». Elle a aussi participé au montage de « Woodstock », documentaire sur le célèbre festival de 1969.",
+      "anecdote": "En 1984, elle a épousé le cinéaste britannique Michael Powell, réalisateur des « Chaussons rouges », que Scorsese admirait et lui avait présenté.",
+      "source": "Wikipédia (fr) — « Thelma Schoonmaker »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "cin-10-8",
+      "categorie": "cinema",
+      "niveau": 10,
+      "question": "Quel réalisateur français a signé le film d'animation « Les Triplettes de Belleville » (2003) ?",
+      "reponse": "Sylvain Chomet",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Michel Ocelot",
+          "Jacques Tati",
+          "Paul Grimault",
+          "Benoît Charest",
+          "René Laloux"
+        ]
+      },
+      "explication": "Presque sans dialogues, le film suit Madame Souza, grand-mère obstinée partie à la recherche de son petit-fils cycliste, enlevé pendant le Tour de France par la mafia. Il a été nommé à deux Oscars, pour le meilleur film d'animation et pour la chanson « Belleville Rendez-vous ». Chomet adapte ensuite un scénario inédit de Jacques Tati avec « L'Illusionniste », sorti en 2010.",
+      "anecdote": "Avant le cinéma, Chomet a été auteur de bandes dessinées, notamment scénariste de « Léon-la-Came », dessiné par Nicolas de Crécy.",
+      "source": "Wikipédia (fr) — « Les Triplettes de Belleville »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     }
   ]
 }

@@ -1,0 +1,2063 @@
+{
+  "categorie": "gastronomie",
+  "questions": [
+    {
+      "id": "gas-01-1",
+      "categorie": "gastronomie",
+      "niveau": 1,
+      "question": "Quelle semoule de blé dur, roulée puis cuite à la vapeur, est un plat emblématique du Maghreb ?",
+      "reponse": "Couscous",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Boulgour",
+          "Taboulé",
+          "Tajine"
+        ]
+      },
+      "explication": "Le couscous se prépare avec de la semoule de blé dur roulée à la main, puis cuite à la vapeur dans un couscoussier, au-dessus d'un bouillon de légumes et de viande. Plat de fête comme du quotidien au Maroc, en Algérie, en Tunisie et en Mauritanie, il a été inscrit en 2020 au patrimoine culturel immatériel de l'UNESCO, à la suite d'une candidature commune de ces quatre pays.",
+      "source": "Wikipédia (fr) — « Couscous »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-01-2",
+      "categorie": "gastronomie",
+      "niveau": 1,
+      "question": "Quel fromage normand à croûte fleurie est traditionnellement vendu dans une boîte ronde en bois ?",
+      "reponse": "Camembert",
+      "variantes": [
+        "Camembert de Normandie"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Coulommiers",
+          "Brie",
+          "Pont-l'Évêque",
+          "Livarot"
+        ]
+      },
+      "explication": "Le camembert doit son nom à un village de l'Orne. La tradition attribue sa recette à Marie Harel, une fermière de la fin du XVIIIe siècle. Son succès national doit beaucoup à la boîte en bois de peuplier, mise au point en 1890 par l'ingénieur Eugène Ridel, qui permettait de l'expédier loin. L'appellation « camembert de Normandie », protégée depuis 1983, impose l'emploi de lait cru.",
+      "anecdote": "Pendant la Première Guerre mondiale, le camembert figurait dans les rations des soldats, ce qui contribua à le faire connaître dans toute la France.",
+      "source": "Wikipédia (fr) — « Camembert (fromage) »",
+      "verification": {
+        "statut": "relue",
+        "note": "Énoncé précisé (« croûte fleurie ») : le livarot se vend aussi en boîte ronde."
+      }
+    },
+    {
+      "id": "gas-01-3",
+      "categorie": "gastronomie",
+      "niveau": 1,
+      "question": "Quelle céréale, assaisonnée de vinaigre, sert de base aux sushis ?",
+      "reponse": "Riz",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "exact": true,
+        "pieges": [
+          "Blé",
+          "Orge",
+          "Millet",
+          "Soja"
+        ]
+      },
+      "explication": "Le mot sushi désigne d'abord un riz vinaigré, légèrement sucré et salé, et non le poisson cru. À l'origine, au Japon, le riz servait à faire fermenter le poisson pour le conserver. La forme du nigiri, une bouchée de riz surmontée d'une tranche de poisson, s'est popularisée au XIXe siècle à Edo, l'ancienne Tokyo, comme une restauration rapide vendue dans des échoppes de rue.",
+      "anecdote": "Le poisson cru tranché servi sans riz ne s'appelle pas sushi, mais sashimi.",
+      "source": "Wikipédia (fr) — « Sushi »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-01-4",
+      "categorie": "gastronomie",
+      "niveau": 1,
+      "question": "Pour quelle fête du 2 février prépare-t-on traditionnellement des crêpes en France ?",
+      "reponse": "Chandeleur",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Mardi gras",
+          "Épiphanie",
+          "Pâques",
+          "Toussaint"
+        ]
+      },
+      "explication": "La Chandeleur, quarante jours après Noël, correspond dans le calendrier chrétien à la Présentation de Jésus au Temple ; son nom vient des chandelles bénites ce jour-là. La crêpe, ronde et dorée, est souvent associée au retour du soleil après l'hiver. Une coutume veut qu'on la fasse sauter en tenant une pièce de monnaie dans l'autre main, pour s'assurer une année prospère.",
+      "source": "Wikipédia (fr) — « Chandeleur »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-01-5",
+      "categorie": "gastronomie",
+      "niveau": 1,
+      "question": "Quel dessert italien associe des biscuits imbibés de café, une crème au mascarpone et du cacao ?",
+      "reponse": "Tiramisu",
+      "variantes": [
+        "Tiramisù"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Panna cotta",
+          "Zabaione",
+          "Charlotte",
+          "Cannoli"
+        ]
+      },
+      "explication": "Le tiramisu, dont le nom signifie « remonte-moi » en italien, superpose des biscuits à la cuillère trempés dans du café et une crème de mascarpone, de jaunes d'œufs et de sucre, saupoudrée de cacao. Sa paternité est disputée entre plusieurs villes de Vénétie et du Frioul, mais il ne s'est vraiment popularisé qu'à partir des années 1970, notamment depuis Trévise.",
+      "source": "Wikipédia (fr) — « Tiramisu »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-01-6",
+      "categorie": "gastronomie",
+      "niveau": 1,
+      "question": "Quel fruit écrasé forme la base du guacamole mexicain ?",
+      "reponse": "Avocat",
+      "variantes": [
+        "Avocats"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Citron vert",
+          "Tomate",
+          "Mangue",
+          "Concombre"
+        ]
+      },
+      "explication": "Le guacamole remonte aux Aztèques : son nom vient du nahuatl « ahuacamolli », littéralement « sauce d'avocat ». On écrase la chair du fruit avec du citron vert, du sel, de l'oignon, de la coriandre et parfois du piment ou de la tomate. Le jus de citron ralentit l'oxydation qui fait noircir la chair. Dans les années 2020, le Mexique est de loin le premier producteur mondial d'avocats.",
+      "anecdote": "Le mot « avocat » vient lui-même du nahuatl « ahuacatl », passé en français par l'espagnol « aguacate ».",
+      "source": "Wikipédia (fr) — « Guacamole »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-01-7",
+      "categorie": "gastronomie",
+      "niveau": 1,
+      "question": "Quel gâteau des fêtes de fin d'année imite la forme d'un tronc d'arbre ?",
+      "reponse": "Bûche de Noël",
+      "variantes": [
+        "Bûche"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Galette des rois",
+          "Panettone",
+          "Stollen",
+          "Forêt-Noire"
+        ]
+      },
+      "explication": "La bûche de Noël rappelle une ancienne coutume : on faisait brûler dans l'âtre, pendant les fêtes, une grosse bûche censée porter chance, dont on gardait parfois les cendres. Avec la disparition des grandes cheminées, la tradition est passée dans l'assiette au XIXe siècle, sous la forme d'un biscuit roulé nappé de crème au beurre, que l'on strie à la fourchette pour imiter l'écorce.",
+      "source": "Wikipédia (fr) — « Bûche de Noël »",
+      "verification": {
+        "statut": "relue",
+        "note": "Variante redondante (accents) retirée."
+      }
+    },
+    {
+      "id": "gas-01-8",
+      "categorie": "gastronomie",
+      "niveau": 1,
+      "question": "Dans le Sud-Ouest de la France, comment appelle-t-on souvent le pain au chocolat ?",
+      "reponse": "Chocolatine",
+      "variantes": [
+        "Chocolatines"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Couque",
+          "Croissant",
+          "Pain au lait",
+          "Chocolatière"
+        ]
+      },
+      "explication": "« Pain au chocolat » ou « chocolatine » : le débat amuse la France entière. Le second mot domine dans le Sud-Ouest, notamment autour de Toulouse et de Bordeaux, ainsi qu'au Québec. Cette viennoiserie est faite de pâte levée feuilletée, comme le croissant, enroulée autour d'une ou deux barres de chocolat. En Belgique, on parle plutôt de « couque au chocolat ».",
+      "source": "Wikipédia (fr) — « Pain au chocolat »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-02-1",
+      "categorie": "gastronomie",
+      "niveau": 2,
+      "question": "De quel pays la paella, plat de riz cuit dans une large poêle plate, est-elle originaire ?",
+      "reponse": "Espagne",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Portugal",
+          "Italie",
+          "Mexique"
+        ]
+      },
+      "explication": "La paella vient de la région de Valence, dans l'est de l'Espagne, où le riz est cultivé depuis l'époque d'al-Andalus, notamment autour de la lagune de l'Albufera. Son nom désigne en valencien la poêle elle-même. La recette valencienne traditionnelle associe poulet, lapin, haricots plats et safran ; la version aux fruits de mer en est une variante très répandue.",
+      "anecdote": "Pour les Valenciens, la vraie paella se cuisine au feu de bois et doit former au fond une croûte légèrement grillée, le « socarrat ».",
+      "source": "Wikipédia (fr) — « Paella »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-02-2",
+      "categorie": "gastronomie",
+      "niveau": 2,
+      "question": "Quelle ville bourguignonne a donné son nom à la moutarde forte la plus célèbre de France ?",
+      "reponse": "Dijon",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Meaux",
+          "Beaune",
+          "Orléans",
+          "Bordeaux"
+        ]
+      },
+      "explication": "La moutarde est fabriquée à Dijon depuis le Moyen Âge. On attribue au Dijonnais Jean Naigeon, au XVIIIe siècle, l'idée de remplacer le vinaigre par du verjus, le jus acide de raisins encore verts, ce qui donne sa vivacité à la recette moderne. Paradoxe : l'expression « moutarde de Dijon » désigne une recette et non une origine, et une grande partie des graines a longtemps été importée du Canada.",
+      "source": "Wikipédia (fr) — « Moutarde de Dijon »",
+      "verification": {
+        "statut": "relue",
+        "note": "Attribution à Jean Naigeon formulée prudemment."
+      }
+    },
+    {
+      "id": "gas-02-3",
+      "categorie": "gastronomie",
+      "niveau": 2,
+      "question": "Quelle sauce froide s'obtient en fouettant un jaune d'œuf et de la moutarde avec de l'huile ?",
+      "reponse": "Mayonnaise",
+      "variantes": [
+        "Mahonnaise"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Aïoli",
+          "Vinaigrette",
+          "Rémoulade",
+          "Béarnaise"
+        ]
+      },
+      "explication": "La mayonnaise est une émulsion : de minuscules gouttes d'huile se dispersent dans l'eau du jaune d'œuf, stabilisées par la lécithine qu'il contient. Si l'on verse l'huile trop vite, l'émulsion se rompt et la sauce « tranche ». Son origine est disputée : une tradition la rattache à la prise de Port-Mahon, à Minorque, par le duc de Richelieu en 1756, d'où l'ancienne graphie « mahonnaise ».",
+      "source": "Wikipédia (fr) — « Mayonnaise »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-02-4",
+      "categorie": "gastronomie",
+      "niveau": 2,
+      "question": "Comment s'appelle le haut chapeau blanc porté par les cuisiniers ?",
+      "reponse": "Toque",
+      "variantes": [
+        "Toque de cuisinier",
+        "Toque blanche"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Calot",
+          "Charlotte",
+          "Béret",
+          "Bonnet"
+        ]
+      },
+      "explication": "La toque blanche, signe d'hygiène et de propreté, s'est imposée dans les cuisines au XIXe siècle ; on en attribue souvent la généralisation au grand chef Antonin Carême. Sa hauteur a longtemps marqué le rang dans la brigade. Le mot est devenu synonyme de chef, et le guide Gault et Millau distingue les restaurants par des toques plutôt que par des étoiles.",
+      "anecdote": "Selon une tradition souvent répétée, les plis de la toque rappelleraient les cent façons de cuisiner un œuf que tout chef devait maîtriser.",
+      "source": "Wikipédia (fr) — « Toque »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-02-5",
+      "categorie": "gastronomie",
+      "niveau": 2,
+      "question": "Quel plat marocain mijoté porte le nom du récipient en terre cuite à couvercle conique dans lequel il cuit ?",
+      "reponse": "Tajine",
+      "variantes": [
+        "Tagine",
+        "Tadjine"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Couscous",
+          "Pastilla",
+          "Harira",
+          "Méchoui"
+        ]
+      },
+      "explication": "Le tajine désigne à la fois un plat et l'ustensile qui le cuit : un plat creux en terre surmonté d'un couvercle en cône. La vapeur qui monte se condense contre les parois et retombe sur les aliments, ce qui permet une cuisson lente et moelleuse avec peu d'eau. Les recettes varient à l'infini : poulet aux citrons confits et aux olives, agneau aux pruneaux, kefta aux œufs.",
+      "source": "Wikipédia (fr) — « Tajine »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-02-6",
+      "categorie": "gastronomie",
+      "niveau": 2,
+      "question": "Quelle pâtisserie superpose trois couches de pâte feuilletée et deux de crème pâtissière, sous un glaçage marbré ?",
+      "reponse": "Mille-feuille",
+      "variantes": [
+        "Millefeuille",
+        "Mille feuilles"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Paris-Brest",
+          "Éclair",
+          "Religieuse",
+          "Feuilleté",
+          "Opéra"
+        ]
+      },
+      "explication": "Le mille-feuille doit son nom aux très nombreuses strates de la pâte feuilletée : chaque « tour » de pliage multiplie les couches de beurre et de pâte, qui se séparent à la cuisson. Le dessert classique alterne trois abaisses et deux couches de crème pâtissière, sous un glaçage au fondant marbré de chocolat. Il a la réputation d'être difficile à couper proprement, la crème s'échappant sous le couteau.",
+      "source": "Wikipédia (fr) — « Mille-feuille »",
+      "verification": {
+        "statut": "relue",
+        "note": "Variante « Napoléon » retirée (nom anglo-saxon, pas une réponse attendue en français)."
+      }
+    },
+    {
+      "id": "gas-02-7",
+      "categorie": "gastronomie",
+      "niveau": 2,
+      "question": "Dans un couvert dressé à la française, de quel côté de l'assiette pose-t-on la fourchette ?",
+      "reponse": "À gauche",
+      "variantes": [
+        "Gauche",
+        "Côté gauche"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "À droite",
+          "Droite",
+          "Au-dessus",
+          "Devant"
+        ]
+      },
+      "explication": "En France, la fourchette se place à gauche de l'assiette et le couteau à droite, lame tournée vers l'assiette, la cuillère à soupe à côté du couteau. Les couverts se disposent dans l'ordre de leur utilisation, de l'extérieur vers l'intérieur. Particularité française : la fourchette est posée dents tournées vers la nappe, alors que les Britanniques la posent dents vers le haut.",
+      "anecdote": "Cet usage permettait autrefois de laisser voir les armoiries ou les initiales gravées au dos du manche.",
+      "source": "Wikipédia (fr) — « Arts de la table »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-02-8",
+      "categorie": "gastronomie",
+      "niveau": 2,
+      "question": "Quelle ville italienne est le berceau de la pizza margherita ?",
+      "reponse": "Naples",
+      "variantes": [
+        "Napoli"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Rome",
+          "Milan",
+          "Palerme",
+          "Gênes",
+          "Venise"
+        ]
+      },
+      "explication": "Selon la tradition, le pizzaïolo napolitain Raffaele Esposito aurait créé en 1889 une pizza aux couleurs du drapeau italien, tomate, mozzarella et basilic, en l'honneur de la reine Marguerite de Savoie, alors en visite. Si l'anecdote est discutée, la pizza est bien née dans cette ville. L'art des pizzaïolos napolitains a été inscrit au patrimoine culturel immatériel de l'UNESCO en 2017.",
+      "anecdote": "La pizza marinara, plus ancienne, ne contient ni fromage ni poisson : seulement tomate, ail, origan et huile d'olive.",
+      "source": "Wikipédia (fr) — « Pizza Margherita »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-03-1",
+      "categorie": "gastronomie",
+      "niveau": 3,
+      "question": "Quelle épice, l'une des plus chères au monde, provient des stigmates séchés d'une fleur de crocus ?",
+      "reponse": "Safran",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Curcuma",
+          "Paprika",
+          "Vanille",
+          "Carthame"
+        ]
+      },
+      "explication": "Le safran est tiré du Crocus sativus, dont chaque fleur ne porte que trois stigmates rouges, récoltés à la main. Il faut environ 150 000 fleurs pour obtenir un kilogramme d'épice sèche, ce qui explique son prix. L'Iran fournit la grande majorité de la production mondiale. Il colore et parfume notamment le risotto à la milanaise et la bouillabaisse.",
+      "anecdote": "Son prix a toujours suscité les fraudes : au XVe siècle, à Nuremberg, des marchands convaincus d'avoir falsifié du safran furent brûlés avec leur marchandise.",
+      "source": "Wikipédia (fr) — « Safran (épice) »",
+      "verification": {
+        "statut": "relue",
+        "note": "Chiffre arrondi (environ 150 000 fleurs) ; pas de doublon avec sci-05-8, dont l'anecdote du safran a été retirée."
+      }
+    },
+    {
+      "id": "gas-03-2",
+      "categorie": "gastronomie",
+      "niveau": 3,
+      "question": "Quel pharmacien militaire a promu la consommation de la pomme de terre en France sous Louis XVI ?",
+      "reponse": "Antoine Parmentier",
+      "variantes": [
+        "Antoine-Augustin Parmentier",
+        "Parmentier"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Nicolas Appert",
+          "Olivier de Serres",
+          "Turgot"
+        ]
+      },
+      "explication": "Prisonnier des Prussiens pendant la guerre de Sept Ans, Antoine-Augustin Parmentier s'est nourri de pommes de terre, alors souvent réservées au bétail en France. De retour, il multiplie les études et les démonstrations pour prouver leurs qualités face aux disettes. Son nom est resté attaché au hachis parmentier et à de nombreuses préparations à base de pomme de terre.",
+      "anecdote": "Selon une anecdote célèbre, il faisait garder de jour son champ de la plaine des Sablons, pour attiser la curiosité des Parisiens qui venaient voler les tubercules la nuit.",
+      "source": "Wikipédia (fr) — « Antoine Parmentier »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-03-3",
+      "categorie": "gastronomie",
+      "niveau": 3,
+      "question": "Quel fromage savoyard à croûte lavée est l'ingrédient vedette de la tartiflette ?",
+      "reponse": "Reblochon",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Raclette",
+          "Beaufort",
+          "Tomme de Savoie",
+          "Abondance"
+        ]
+      },
+      "explication": "Le nom du reblochon viendrait du savoyard « reblocher », traire une seconde fois. Au Moyen Âge, les paysans payaient une redevance proportionnelle au lait produit : ils ne trayaient pas complètement leurs vaches devant le contrôleur, puis faisaient une seconde traite, plus riche, pour fabriquer ce fromage. La tartiflette, elle, est une recette lancée dans les années 1980 pour promouvoir le reblochon.",
+      "anecdote": "Le reblochon fermier se reconnaît à sa pastille de caséine verte, le reblochon laitier à sa pastille rouge.",
+      "source": "Wikipédia (fr) — « Reblochon »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-03-4",
+      "categorie": "gastronomie",
+      "niveau": 3,
+      "question": "Quelle expression italienne qualifie des pâtes cuites mais encore fermes à la mastication ?",
+      "reponse": "Al dente",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Al forno",
+          "Al pesto",
+          "Arrabbiata"
+        ]
+      },
+      "explication": "« Al dente » signifie littéralement « à la dent » : la pâte doit offrir une légère résistance quand on la croque. Cette cuisson un peu plus courte que le temps maximal indiqué préserve la texture des pâtes de blé dur, qui se tiennent mieux sous la sauce. En Italie, des pâtes trop cuites sont jugées sévèrement : on les dit « scotte ».",
+      "source": "Wikipédia (fr) — « Al dente »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-03-5",
+      "categorie": "gastronomie",
+      "niveau": 3,
+      "question": "Quel chef de Collonges-au-Mont-d'Or a conservé trois étoiles Michelin de 1965 à sa mort, en 2018 ?",
+      "reponse": "Paul Bocuse",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Joël Robuchon",
+          "Alain Ducasse",
+          "Paul Haeberlin",
+          "Michel Troisgros",
+          "Jérôme Bocuse"
+        ]
+      },
+      "explication": "Paul Bocuse (1926-2018) a fait de l'Auberge du Pont de Collonges, au nord de Lyon, un temple de la gastronomie, triplement étoilé pendant plus d'un demi-siècle. Figure de la nouvelle cuisine, il a contribué à faire des chefs des vedettes. En 1987, il crée le Bocuse d'or, concours international de cuisine organisé à Lyon. Sa soupe aux truffes, créée en 1975 pour l'Élysée, est restée célèbre.",
+      "anecdote": "En 2020, deux ans après sa mort, le guide Michelin retira la troisième étoile de l'auberge, une décision qui provoqua une vive émotion.",
+      "source": "Wikipédia (fr) — « Paul Bocuse »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-03-6",
+      "categorie": "gastronomie",
+      "niveau": 3,
+      "question": "Quel condiment japonais vert et piquant accompagne les sushis, souvent imité avec du raifort coloré ?",
+      "reponse": "Wasabi",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Gingembre",
+          "Gari",
+          "Miso",
+          "Matcha",
+          "Sansho"
+        ]
+      },
+      "explication": "Le vrai wasabi est le rhizome râpé d'une plante de la famille du chou, qui pousse au bord des ruisseaux de montagne au Japon. Difficile à cultiver, il est rare et cher : la plupart des pâtes vendues en tube sont surtout faites de raifort, de moutarde et de colorant vert. Son piquant, très volatil, monte au nez plutôt qu'il ne brûle la langue, et s'estompe vite après le râpage.",
+      "anecdote": "Au Japon, on le râpe traditionnellement sur une râpe recouverte de peau de requin, qui donne une pâte très fine.",
+      "source": "Wikipédia (fr) — « Wasabi »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-03-7",
+      "categorie": "gastronomie",
+      "niveau": 3,
+      "question": "Quelle sauce blanche à base de lait, de beurre et de farine nappe les croque-monsieur et les lasagnes ?",
+      "reponse": "Béchamel",
+      "variantes": [
+        "Sauce béchamel"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Velouté",
+          "Sauce Mornay",
+          "Mornay",
+          "Hollandaise",
+          "Soubise"
+        ]
+      },
+      "explication": "La béchamel lie du lait chaud avec un roux, mélange de beurre et de farine cuits ensemble. Elle doit son nom à Louis de Béchameil, maître d'hôtel de Louis XIV, même si l'on doute qu'il l'ait inventée. Au XIXe siècle, Antonin Carême l'a rangée parmi les sauces mères de la cuisine française. Additionnée de fromage râpé, elle devient une sauce Mornay.",
+      "source": "Wikipédia (fr) — « Sauce béchamel »",
+      "verification": {
+        "statut": "relue",
+        "note": "Variante « Béchameil » retirée (nom du maître d'hôtel, pas une graphie de la sauce)."
+      }
+    },
+    {
+      "id": "gas-03-8",
+      "categorie": "gastronomie",
+      "niveau": 3,
+      "question": "De quel poisson le caviar est-il constitué des œufs salés ?",
+      "reponse": "Esturgeon",
+      "variantes": [
+        "Esturgeons"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Saumon",
+          "Lump",
+          "Lompe",
+          "Truite",
+          "Hareng",
+          "Cabillaud"
+        ]
+      },
+      "explication": "Longtemps pêché dans la mer Caspienne, notamment par la Russie et l'Iran, l'esturgeon sauvage a été si surexploité que toutes ses espèces sont soumises depuis 1998 aux contrôles de la convention de Washington sur le commerce international. La quasi-totalité du caviar provient désormais d'élevages, dont plusieurs en Aquitaine. Les œufs de lompe ou de saumon, moins chers, n'en sont que des substituts.",
+      "source": "Wikipédia (fr) — « Caviar »",
+      "verification": {
+        "statut": "relue",
+        "note": "Variantes « Béluga/Beluga » retirées : c'est une espèce d'esturgeon (et une baleine), pas la réponse attendue."
+      }
+    },
+    {
+      "id": "gas-04-1",
+      "categorie": "gastronomie",
+      "niveau": 4,
+      "question": "Quelle soupe froide andalouse mixe tomates, concombre, poivron, ail, huile d'olive et pain ?",
+      "reponse": "Gaspacho",
+      "variantes": [
+        "Gazpacho"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Salmorejo",
+          "Ajo blanco",
+          "Minestrone"
+        ]
+      },
+      "explication": "Le gaspacho est une spécialité de l'Andalousie, dans le sud de l'Espagne, idéale contre la chaleur de l'été. À l'origine, c'était une soupe paysanne de pain rassis, d'ail, d'huile et de vinaigre : la tomate et le poivron, venus d'Amérique, ne s'y sont ajoutés qu'après le XVIe siècle, donnant peu à peu la recette rouge que l'on connaît.",
+      "anecdote": "Le salmorejo de Cordoue, cousin plus épais du gaspacho, se sert garni d'œuf dur et de jambon.",
+      "source": "Wikipédia (fr) — « Gaspacho »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-04-2",
+      "categorie": "gastronomie",
+      "niveau": 4,
+      "question": "Quelle pâte, d'abord desséchée dans une casserole, sert à confectionner éclairs, profiteroles et chouquettes ?",
+      "reponse": "Pâte à choux",
+      "variantes": [
+        "Choux",
+        "Pâte à chou"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Pâte feuilletée",
+          "Pâte brisée",
+          "Pâte sablée",
+          "Pâte à crêpes"
+        ]
+      },
+      "explication": "La pâte à choux a une particularité : elle cuit deux fois. On dessèche d'abord sur le feu un mélange d'eau, de beurre et de farine, puis on y incorpore des œufs avant de la dresser à la poche et de l'enfourner. Au four, l'eau se transforme en vapeur et fait gonfler la pâte, laissant un creux à garnir. Les gougères bourguignonnes en sont la version salée, au fromage.",
+      "source": "Wikipédia (fr) — « Pâte à choux »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-04-3",
+      "categorie": "gastronomie",
+      "niveau": 4,
+      "question": "En 2023, quel pays est le premier producteur mondial de café ?",
+      "reponse": "Brésil",
+      "variantes": [
+        "Brazil"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Colombie",
+          "Viêt Nam",
+          "Éthiopie",
+          "Indonésie"
+        ]
+      },
+      "explication": "Le Brésil domine la production mondiale de café depuis le XIXe siècle et en assure, selon les années, environ le tiers. Les plantations se concentrent dans les États du Minas Gerais, de São Paulo et de l'Espírito Santo, et produisent surtout de l'arabica. Le Viêt Nam, grand producteur de robusta, occupe la deuxième place mondiale.",
+      "anecdote": "Selon la légende, les premiers plants auraient été rapportés de Guyane française en 1727 par l'officier portugais Francisco de Melo Palheta.",
+      "source": "Wikipédia (fr) — « Café au Brésil »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-04-4",
+      "categorie": "gastronomie",
+      "niveau": 4,
+      "question": "Quel thé noir parfumé à la bergamote porte le titre d'un Premier ministre britannique ?",
+      "reponse": "Earl Grey",
+      "variantes": [
+        "Thé Earl Grey"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Lady Grey",
+          "Darjeeling",
+          "English Breakfast",
+          "Lapsang souchong"
+        ]
+      },
+      "explication": "Le Earl Grey doit son nom à Charles Grey, deuxième comte Grey, Premier ministre du Royaume-Uni de 1830 à 1834, sous lequel fut adoptée la grande réforme électorale de 1832. Son parfum vient de l'huile essentielle de bergamote, un agrume cultivé surtout en Calabre, dans le sud de l'Italie. L'origine exacte du mélange reste entourée de légendes.",
+      "source": "Wikipédia (fr) — « Earl Grey (thé) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-04-5",
+      "categorie": "gastronomie",
+      "niveau": 4,
+      "question": "De quel pays le kimchi, chou fermenté relevé au piment, est-il le plat emblématique ?",
+      "reponse": "Corée",
+      "variantes": [
+        "Corée du Sud",
+        "Corée du Nord",
+        "Korea"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Japon",
+          "Chine",
+          "Viêt Nam",
+          "Thaïlande"
+        ]
+      },
+      "explication": "Le kimchi accompagne presque chaque repas coréen. Le plus courant est à base de chou salé puis enrobé d'une pâte de piment, d'ail, de gingembre et de sauce de poisson, avant de fermenter. La préparation collective des réserves d'hiver, le « kimjang », a été inscrite au patrimoine culturel immatériel de l'UNESCO en 2013 pour la Corée du Sud, puis la tradition nord-coréenne du kimchi en 2015.",
+      "anecdote": "Le piment, venu d'Amérique, ne s'est imposé dans le kimchi qu'à partir du XVIIe ou du XVIIIe siècle : les versions plus anciennes n'étaient pas rouges.",
+      "source": "Wikipédia (fr) — « Kimchi »",
+      "verification": {
+        "statut": "relue",
+        "note": "Variantes Corée du Sud / Corée du Nord conservées : le kimchi est emblématique des deux États (UNESCO 2013 et 2015), explication complétée."
+      }
+    },
+    {
+      "id": "gas-04-6",
+      "categorie": "gastronomie",
+      "niveau": 4,
+      "question": "Quelle épice jaune vif, tirée d'un rhizome, colore la plupart des mélanges de curry ?",
+      "reponse": "Curcuma",
+      "variantes": [
+        "Turmeric",
+        "Safran des Indes"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Safran",
+          "Cumin",
+          "Gingembre",
+          "Paprika",
+          "Fenugrec"
+        ]
+      },
+      "explication": "Le curcuma est le rhizome séché et moulu d'une plante de la famille du gingembre, cultivée surtout en Inde, qui en est de loin le premier producteur. Sa couleur vient de la curcumine, un pigment également utilisé comme colorant alimentaire sous le code E100. Il entre dans la plupart des mélanges vendus sous le nom de curry, ainsi que dans certaines moutardes.",
+      "anecdote": "Sa couleur dorée lui a valu le surnom de « safran des Indes », bien que les deux épices n'aient ni le même goût ni la même origine.",
+      "source": "Wikipédia (fr) — « Curcuma long »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-04-7",
+      "categorie": "gastronomie",
+      "niveau": 4,
+      "question": "Quelle tarte aux pommes caramélisées, cuite à l'envers, doit son nom à deux sœurs de Lamotte-Beuvron ?",
+      "reponse": "Tarte Tatin",
+      "variantes": [
+        "Tatin"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Tarte normande",
+          "Tarte bourdaloue",
+          "Tarte fine",
+          "Tarte alsacienne"
+        ]
+      },
+      "explication": "Stéphanie et Caroline Tatin tenaient un hôtel-restaurant face à la gare de Lamotte-Beuvron, en Sologne, à la fin du XIXe siècle. La légende veut que l'une d'elles ait un jour oublié de foncer le moule et posé la pâte par-dessus les pommes, avant de retourner la tarte. Le restaurant parisien Maxim's aurait ensuite contribué à faire connaître la recette.",
+      "source": "Wikipédia (fr) — « Tarte Tatin »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-04-8",
+      "categorie": "gastronomie",
+      "niveau": 4,
+      "question": "Quelle ville de Provence est réputée pour ses calissons, confiseries en losange d'amandes et de melon confit ?",
+      "reponse": "Aix-en-Provence",
+      "variantes": [
+        "Aix"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Montélimar",
+          "Marseille",
+          "Nice",
+          "Avignon",
+          "Arles"
+        ]
+      },
+      "explication": "Le calisson associe une pâte d'amandes broyées et de fruits confits, surtout du melon, posée sur une fine feuille de pain azyme et nappée de glace royale. On le rattache souvent au mariage du roi René, comte de Provence, avec Jeanne de Laval en 1454, mais cette origine relève de la légende. Sa fabrication s'est développée à Aix à partir du XVIIe siècle, avec le commerce des amandes.",
+      "source": "Wikipédia (fr) — « Calisson »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-05-1",
+      "categorie": "gastronomie",
+      "niveau": 5,
+      "question": "Quel moine bénédictin de l'abbaye d'Hautvillers passe, selon la légende, pour l'inventeur du champagne ?",
+      "reponse": "Dom Pérignon",
+      "variantes": [
+        "Pierre Pérignon",
+        "Pérignon",
+        "Dom Pierre Pérignon"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Dom Ruinart",
+          "Thierry Ruinart",
+          "Veuve Clicquot"
+        ]
+      },
+      "explication": "Dom Pierre Pérignon (1638-1715) fut cellérier de l'abbaye d'Hautvillers, près d'Épernay. Il n'a pas inventé la prise de mousse, que les vignerons de son temps cherchaient plutôt à éviter, mais il a perfectionné l'assemblage des raisins et la vinification. Sa légende d'inventeur s'est construite au XIXe siècle, et la maison Moët & Chandon a donné son nom à une cuvée de prestige.",
+      "anecdote": "La phrase « Venez vite, je bois des étoiles ! », qu'on lui prête souvent, est apocryphe.",
+      "source": "Wikipédia (fr) — « Dom Pérignon »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-05-2",
+      "categorie": "gastronomie",
+      "niveau": 5,
+      "question": "Quel gâteau très beurré, né à Douarnenez, porte un nom breton signifiant « gâteau au beurre » ?",
+      "reponse": "Kouign-amann",
+      "variantes": [
+        "Kouign amann"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Far breton",
+          "Gâteau breton",
+          "Kig ha farz",
+          "Galette"
+        ]
+      },
+      "explication": "Le kouign-amann est né vers 1860 à Douarnenez, dans le Finistère ; la tradition l'attribue au boulanger Yves-René Scordia. Il se prépare avec une pâte à pain que l'on feuillette avec beaucoup de beurre et de sucre, lesquels caramélisent à la cuisson pour former une croûte croustillante. Sa réussite demande de la maîtrise, car le beurre a tendance à s'échapper de la pâte.",
+      "source": "Wikipédia (fr) — « Kouign-amann »",
+      "verification": {
+        "statut": "relue",
+        "note": "Variante redondante retirée."
+      }
+    },
+    {
+      "id": "gas-05-3",
+      "categorie": "gastronomie",
+      "niveau": 5,
+      "question": "Comment appelle-t-on la taille de légumes en filaments très fins, d'un à deux millimètres d'épaisseur ?",
+      "reponse": "Julienne",
+      "variantes": [
+        "En julienne"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Brunoise",
+          "Mirepoix",
+          "Chiffonnade",
+          "Jardinière",
+          "Macédoine"
+        ]
+      },
+      "explication": "La julienne consiste à tailler les légumes en bâtonnets fins et réguliers, d'environ un à deux millimètres de section sur quelques centimètres de long. On l'emploie surtout pour les carottes, les poireaux ou le céleri, qui cuisent alors très vite. Le mot désigne aussi un potage garni de ces légumes. Recoupée en tout petits dés, la julienne donne une brunoise.",
+      "source": "Wikipédia (fr) — « Julienne (cuisine) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-05-4",
+      "categorie": "gastronomie",
+      "niveau": 5,
+      "question": "Comment appelle-t-on les petits restaurants traditionnels de Lyon, qui servent quenelles et tablier de sapeur ?",
+      "reponse": "Bouchon",
+      "variantes": [
+        "Bouchon lyonnais",
+        "Bouchons",
+        "Bouchons lyonnais"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Bistrot",
+          "Brasserie",
+          "Guinguette",
+          "Estaminet",
+          "Bouillon"
+        ]
+      },
+      "explication": "Les bouchons lyonnais sont des restaurants conviviaux, souvent aux nappes à carreaux, qui servent une cuisine copieuse : saucisson brioché, quenelles, cervelle de canut ou tablier de sapeur. Leur nom viendrait des fagots de paille que l'on accrochait autrefois à l'entrée des auberges pour signaler qu'on y servait à boire, et avec lesquels on bouchonnait les chevaux. Un label distingue désormais les adresses jugées authentiques.",
+      "anecdote": "La « cervelle de canut » ne contient aucune cervelle : c'est un fromage blanc battu aux herbes, à l'échalote et à l'ail.",
+      "source": "Wikipédia (fr) — « Bouchon lyonnais »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-05-5",
+      "categorie": "gastronomie",
+      "niveau": 5,
+      "question": "Quel gâteau en couronne, garni de crème au praliné, doit son nom à une course cycliste créée en 1891 ?",
+      "reponse": "Paris-Brest",
+      "variantes": [
+        "Paris Brest"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Saint-Honoré",
+          "Religieuse",
+          "Paris-Roubaix",
+          "Polonaise"
+        ]
+      },
+      "explication": "Le Paris-Brest aurait été imaginé en 1910 par le pâtissier Louis Durand, de Maisons-Laffitte, à la demande du journaliste Pierre Giffard, créateur de la course cycliste Paris-Brest-Paris. Sa forme circulaire évoque une roue de vélo, et ses amandes effilées les gravillons de la route. Cette couronne de pâte à choux est garnie d'une crème mousseline au praliné.",
+      "source": "Wikipédia (fr) — « Paris-Brest »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-05-6",
+      "categorie": "gastronomie",
+      "niveau": 5,
+      "question": "Quelle sauce émulsionnée au beurre et aux jaunes d'œufs, parfumée à l'échalote et à l'estragon, accompagne les grillades ?",
+      "reponse": "Béarnaise",
+      "variantes": [
+        "Sauce béarnaise"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Hollandaise",
+          "Choron",
+          "Mousseline",
+          "Bordelaise",
+          "Beurre blanc"
+        ]
+      },
+      "explication": "Malgré son nom, la béarnaise n'est pas née dans le Béarn : elle serait apparue dans les années 1830 au Pavillon Henri IV de Saint-Germain-en-Laye, restaurant baptisé en hommage au roi né à Pau. On y monte du beurre sur une réduction d'échalote, de vinaigre et d'estragon, liée aux jaunes d'œufs. Additionnée de purée de tomate, elle devient une sauce Choron.",
+      "source": "Wikipédia (fr) — « Sauce béarnaise »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-05-7",
+      "categorie": "gastronomie",
+      "niveau": 5,
+      "question": "Quel plat de bœuf cru tranché très finement porte le nom d'un peintre vénitien de la Renaissance ?",
+      "reponse": "Carpaccio",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Tartare",
+          "Bresaola",
+          "Vitello tonnato",
+          "Titien",
+          "Tintoret"
+        ]
+      },
+      "explication": "Selon la tradition, le carpaccio a été créé au milieu du XXe siècle par Giuseppe Cipriani, au Harry's Bar de Venise, pour une cliente à qui son médecin avait déconseillé la viande cuite. Le rouge vif du bœuf cru lui aurait rappelé les tons des tableaux de Vittore Carpaccio. Le nom s'applique désormais à toute préparation crue en tranches très fines, de poisson, de fruits ou de légumes.",
+      "source": "Wikipédia (fr) — « Carpaccio »",
+      "verification": {
+        "statut": "relue",
+        "note": "Origine présentée comme tradition, sans date (1950 ou 1963 selon les sources)."
+      }
+    },
+    {
+      "id": "gas-05-8",
+      "categorie": "gastronomie",
+      "niveau": 5,
+      "question": "Quelle plante sucrière Napoléon a-t-il encouragée pour pallier les effets du blocus continental ?",
+      "reponse": "Betterave sucrière",
+      "variantes": [
+        "Betterave",
+        "Betteraves",
+        "Betterave à sucre"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Canne à sucre",
+          "Érable",
+          "Sorgho",
+          "Stévia"
+        ]
+      },
+      "explication": "Le blocus continental, décrété en 1806, prive la France du sucre de canne des Antilles. En 1812, l'industriel Benjamin Delessert parvient à produire à Passy du sucre de betterave en quantité, prolongeant les travaux du chimiste allemand Andreas Marggraf, qui avait découvert ce sucre en 1747. Napoléon le décore de la Légion d'honneur et fait multiplier les cultures dans l'Empire.",
+      "anecdote": "La première sucrerie de betterave a été construite en Silésie en 1801 par Franz Karl Achard, un élève de Marggraf.",
+      "source": "Wikipédia (fr) — « Betterave sucrière »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-06-1",
+      "categorie": "gastronomie",
+      "niveau": 6,
+      "question": "Quel chef français, célèbre pour sa purée de pommes de terre, détenait à sa mort en 2018 le record mondial d'étoiles Michelin ?",
+      "reponse": "Joël Robuchon",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Alain Ducasse",
+          "Paul Bocuse",
+          "Pierre Gagnaire",
+          "Guy Savoy"
+        ]
+      },
+      "explication": "Joël Robuchon (1945-2018) s'est fait connaître à Paris avec le restaurant Jamin, couronné de trois étoiles en 1984, trois ans seulement après son ouverture. Meilleur ouvrier de France en 1976, il a ensuite bâti un réseau d'établissements à travers le monde, de Tokyo à Las Vegas, dont ses « Ateliers » au comptoir. Sa purée, très riche en beurre, est devenue légendaire.",
+      "source": "Wikipédia (fr) — « Joël Robuchon »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-06-2",
+      "categorie": "gastronomie",
+      "niveau": 6,
+      "question": "Quelle épice est le bouton floral séché d'un arbre originaire des îles Moluques ?",
+      "reponse": "Clou de girofle",
+      "variantes": [
+        "Girofle",
+        "Clous de girofle"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Badiane",
+          "Cardamome",
+          "Muscade",
+          "Poivre",
+          "Câpre"
+        ]
+      },
+      "explication": "Le clou de girofle est le bouton d'une fleur du giroflier, cueilli avant l'éclosion puis séché, ce qui lui donne sa forme de petit clou. Originaire des Moluques, en Indonésie, il fit l'objet d'un monopole jalousement gardé par les Hollandais au XVIIe siècle. L'intendant Pierre Poivre parvint au XVIIIe siècle à en acclimater des plants à l'île de France, l'actuelle île Maurice.",
+      "anecdote": "Sa saveur puissante vient de l'eugénol, une molécule longtemps employée par les dentistes pour ses propriétés antiseptiques et anesthésiantes.",
+      "source": "Wikipédia (fr) — « Clou de girofle »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-06-3",
+      "categorie": "gastronomie",
+      "niveau": 6,
+      "question": "Quel minuscule insecte venu d'Amérique a ravagé les vignobles français à la fin du XIXe siècle ?",
+      "reponse": "Phylloxéra",
+      "variantes": [
+        "Phylloxera"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Mildiou",
+          "Oïdium",
+          "Doryphore",
+          "Cochenille"
+        ]
+      },
+      "explication": "Repéré en France dans les années 1860, le phylloxéra, un puceron, s'attaque aux racines de la vigne européenne, qui finit par mourir. En quelques décennies, il détruit une grande partie du vignoble français. La parade vient du greffage des cépages européens sur des porte-greffes américains, naturellement résistants. Le botaniste montpelliérain Jules-Émile Planchon contribua à identifier l'insecte en 1868.",
+      "anecdote": "Quelques vignes jamais greffées survivent dans des sols sableux, où l'insecte ne parvient pas à se propager.",
+      "source": "Wikipédia (fr) — « Crise du phylloxéra »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-06-4",
+      "categorie": "gastronomie",
+      "niveau": 6,
+      "question": "Quel mot japonais désigne la cinquième saveur de base, identifiée en 1908 par le chimiste Kikunae Ikeda ?",
+      "reponse": "Umami",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Kokumi",
+          "Wasabi",
+          "Miso",
+          "Dashi"
+        ]
+      },
+      "explication": "En étudiant le bouillon d'algue kombu, Kikunae Ikeda isole en 1908 le glutamate, responsable d'un goût qu'il nomme « umami », que l'on peut traduire par « savoureux ». Cette saveur s'ajoute au sucré, au salé, à l'acide et à l'amer. On la trouve dans le parmesan, la tomate mûre, la sauce soja ou les champignons séchés. Ikeda fit ensuite breveter le glutamate monosodique.",
+      "anecdote": "Le glutamate monosodique est commercialisé depuis 1909 sous la marque Ajinomoto, qui signifie « essence du goût ».",
+      "source": "Wikipédia (fr) — « Umami »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-06-5",
+      "categorie": "gastronomie",
+      "niveau": 6,
+      "question": "Quelle cheffe drômoise est devenue en 2007 la seule femme alors triplement étoilée par le Michelin en France ?",
+      "reponse": "Anne-Sophie Pic",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Hélène Darroze",
+          "Eugénie Brazier",
+          "Dominique Crenn",
+          "Stéphanie Le Quellec",
+          "Jacques Pic"
+        ]
+      },
+      "explication": "En 2007, Anne-Sophie Pic rend à la maison familiale de Valence la troisième étoile que son grand-père André avait obtenue dès 1934, que son père Jacques avait reconquise en 1973 et que l'établissement avait perdue en 1995. Elle devient alors la quatrième femme de l'histoire à recevoir trois étoiles en France, et la seule à les détenir à ce moment-là.",
+      "source": "Wikipédia (fr) — « Anne-Sophie Pic »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-06-6",
+      "categorie": "gastronomie",
+      "niveau": 6,
+      "question": "Quel fromage AOP du massif du Jura est traversé en son milieu d'une fine raie noire de charbon végétal ?",
+      "reponse": "Morbier",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Comté",
+          "Mont-d'Or",
+          "Bleu de Gex",
+          "Raclette",
+          "Tomme du Jura"
+        ]
+      },
+      "explication": "Le morbier est né dans les fermes du Haut-Doubs et du Jura. Autrefois, le caillé du soir était protégé par une fine couche de suie, avant d'être recouvert le lendemain par le caillé de la traite du matin, d'où cette ligne sombre. Elle est désormais faite de charbon végétal et purement décorative. Ce fromage à pâte pressée non cuite bénéficie d'une appellation d'origine depuis 2000.",
+      "source": "Wikipédia (fr) — « Morbier (fromage) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-06-7",
+      "categorie": "gastronomie",
+      "niveau": 6,
+      "question": "Quelle ville indienne, au pied de l'Himalaya, a donné son nom à un thé surnommé « le champagne des thés » ?",
+      "reponse": "Darjeeling",
+      "variantes": [
+        "Darjiling"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Assam",
+          "Nilgiri",
+          "Ceylan",
+          "Shimla",
+          "Sikkim"
+        ]
+      },
+      "explication": "Les Britanniques plantent les premiers théiers autour de Darjeeling, au nord du Bengale-Occidental, au milieu du XIXe siècle, avec des plants venus de Chine. Ce thé d'altitude est réputé pour son arôme délicat, qui varie selon les récoltes : la « first flush » du printemps, plus légère, la « second flush » de l'été, aux notes de muscat, puis celle d'automne. Il est protégé par une indication géographique dans l'Union européenne depuis 2011.",
+      "source": "Wikipédia (fr) — « Darjeeling (thé) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-06-8",
+      "categorie": "gastronomie",
+      "niveau": 6,
+      "question": "Quelle friture japonaise légère, poissons et légumes enrobés de pâte, doit son origine aux Portugais du XVIe siècle ?",
+      "reponse": "Tempura",
+      "variantes": [
+        "Tempuras"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Tonkatsu",
+          "Karaage",
+          "Yakitori",
+          "Teriyaki",
+          "Gyoza",
+          "Katsu"
+        ]
+      },
+      "explication": "Les marchands et missionnaires portugais arrivés à Nagasaki au XVIe siècle ont fait connaître au Japon les fritures enrobées de pâte. Selon l'hypothèse la plus répandue, le mot viendrait du latin « tempora », qui désignait les Quatre-Temps, périodes de jeûne où les catholiques remplaçaient la viande par du poisson. La pâte japonaise, faite de farine, d'œuf et d'eau très froide, est à peine mélangée pour rester légère et croustillante.",
+      "anecdote": "Au Portugal, les « peixinhos da horta », des haricots verts enrobés de pâte et frits, passent pour un ancêtre du tempura.",
+      "source": "Wikipédia (fr) — « Tempura »",
+      "verification": {
+        "statut": "relue",
+        "note": "Remplacée : la date du premier guide Michelin (1900) figure déjà dans art-04-3."
+      }
+    },
+    {
+      "id": "gas-07-1",
+      "categorie": "gastronomie",
+      "niveau": 7,
+      "question": "Quel maître d'hôtel du Grand Condé se serait donné la mort à Chantilly en 1671, croyant que la marée n'arriverait pas ?",
+      "reponse": "François Vatel",
+      "variantes": [
+        "Vatel"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "La Varenne",
+          "Taillevent",
+          "Antonin Carême"
+        ]
+      },
+      "explication": "En avril 1671, le prince de Condé reçoit Louis XIV et sa cour au château de Chantilly. Chargé des festivités, Vatel, déjà éprouvé par un rôti manquant, croit que le poisson commandé pour le repas maigre du vendredi n'arrivera pas et se transperce de son épée. Les charrettes de marée arrivent peu après. L'épisode est connu par une lettre de Madame de Sévigné.",
+      "anecdote": "On lui attribue souvent l'invention de la crème Chantilly, mais aucun document ne le prouve : la crème fouettée était connue avant lui.",
+      "source": "Wikipédia (fr) — « François Vatel »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-07-2",
+      "categorie": "gastronomie",
+      "niveau": 7,
+      "question": "Quel nom porte la garniture aromatique de carottes, d'oignons et de céleri taillés en dés ?",
+      "reponse": "Mirepoix",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Brunoise",
+          "Julienne",
+          "Matignon",
+          "Bouquet garni",
+          "Macédoine"
+        ]
+      },
+      "explication": "La mirepoix sert de base à de nombreux fonds, sauces et braisés : les légumes, taillés en dés plus ou moins gros selon la durée de cuisson, parfument le plat. Son nom viendrait du duc de Lévis-Mirepoix, aristocrate et diplomate du XVIIIe siècle, dont le cuisinier aurait baptisé la préparation en son honneur. En Italie, un mélange voisin, revenu à l'huile d'olive, s'appelle le soffritto.",
+      "anecdote": "La cuisine cajun de Louisiane a sa « sainte trinité » : oignon, céleri et poivron vert, ce dernier remplaçant la carotte.",
+      "source": "Wikipédia (fr) — « Mirepoix (cuisine) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-07-3",
+      "categorie": "gastronomie",
+      "niveau": 7,
+      "question": "Quel plat sénégalais de riz au poisson a été inscrit en 2021 au patrimoine culturel immatériel de l'UNESCO ?",
+      "reponse": "Thiéboudiène",
+      "variantes": [
+        "Thieboudienne",
+        "Tiéboudiène",
+        "Ceebu jën",
+        "Ceebujën",
+        "Thiéboudieune",
+        "Thiéboudienne",
+        "Tieboudienne",
+        "Thiebou dieune",
+        "Thieboudieune",
+        "Ceebu jen"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Mafé",
+          "Yassa",
+          "Thiéré",
+          "Domoda"
+        ]
+      },
+      "explication": "Le thiéboudiène, « riz au poisson » en wolof, passe pour le plat national du Sénégal. Le poisson, souvent du thiof, est farci d'une pâte de persil, d'ail et de piment, puis mijoté avec des légumes dans une sauce tomate où cuit ensuite le riz. La tradition attribue la recette à Penda Mbaye, cuisinière de Saint-Louis, au XIXe siècle.",
+      "source": "Wikipédia (fr) — « Thiéboudiène »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-07-4",
+      "categorie": "gastronomie",
+      "niveau": 7,
+      "question": "En quelle année les courtiers de Bordeaux ont-ils établi, pour l'Exposition universelle de Paris, le célèbre classement des grands crus de la Gironde ?",
+      "reponse": "1855",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 1855,
+        "tolerance": 0
+      },
+      "explication": "Pour l'Exposition universelle, les courtiers bordelais classent en cinq rangs les meilleurs vins rouges de la Gironde, presque tous du Médoc, ainsi que les liquoreux de Sauternes et de Barsac, en se fondant sur les prix de vente observés depuis des décennies. Ce classement est resté presque figé : la seule modification majeure est la promotion de Mouton Rothschild au rang de premier cru, en 1973.",
+      "anecdote": "Avant 1973, la devise du domaine proclamait : « Premier ne puis, second ne daigne, Mouton suis. »",
+      "source": "Wikipédia (fr) — « Classement officiel des vins de Bordeaux de 1855 »",
+      "verification": {
+        "statut": "relue",
+        "note": "Énoncé corrigé : le classement de 1855 ne se limite pas au Médoc (Haut-Brion, Sauternes)."
+      }
+    },
+    {
+      "id": "gas-07-5",
+      "categorie": "gastronomie",
+      "niveau": 7,
+      "question": "Quel chef catalan, figure de la cuisine d'avant-garde, dirigeait le restaurant El Bulli, fermé en 2011 ?",
+      "reponse": "Ferran Adrià",
+      "variantes": [
+        "Ferran Adria"
+      ],
+      "validation": {
+        "type": "personne",
+        "nomSeul": false,
+        "pieges": [
+          "Albert Adrià",
+          "Joan Roca",
+          "Juan Mari Arzak",
+          "Heston Blumenthal"
+        ]
+      },
+      "explication": "À El Bulli, sur la Costa Brava, Ferran Adrià a bouleversé la cuisine à partir des années 1990 avec ses écumes, ses sphérifications et ses menus composés de dizaines de petites bouchées. Le restaurant, qui n'ouvrait qu'une partie de l'année, a été désigné cinq fois meilleur restaurant du monde par le classement « World's 50 Best ». Il a fermé en 2011 pour devenir une fondation.",
+      "source": "Wikipédia (fr) — « Ferran Adrià »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-07-6",
+      "categorie": "gastronomie",
+      "niveau": 7,
+      "question": "Quel port du Yémen, d'où partait le café vers l'Europe aux XVIIe et XVIIIe siècles, a donné son nom à une variété ?",
+      "reponse": "Moka",
+      "variantes": [
+        "Mokha",
+        "Mocha",
+        "Al-Makha"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Aden",
+          "Sanaa",
+          "Arabica",
+          "Java",
+          "Djeddah"
+        ]
+      },
+      "explication": "Le café, originaire d'Éthiopie, a d'abord été cultivé à grande échelle sur les hauts plateaux du Yémen. Les marchands européens venaient l'acheter à Moka, sur la mer Rouge, qui en eut presque le monopole jusqu'au début du XVIIIe siècle, avant l'essor des plantations hollandaises de Java puis françaises des Antilles. Le nom désigne depuis un café parfumé, mais aussi un gâteau.",
+      "anecdote": "La célèbre cafetière italienne inventée en 1933 par Alfonso Bialetti doit elle aussi son nom à ce port.",
+      "source": "Wikipédia (fr) — « Moka (café) »",
+      "verification": {
+        "statut": "relue",
+        "note": "Variante « Moca » retirée (graphie non reconnue)."
+      }
+    },
+    {
+      "id": "gas-07-7",
+      "categorie": "gastronomie",
+      "niveau": 7,
+      "question": "Quel fromage AOP savoyard, surnommé le « prince des gruyères », se reconnaît à son talon concave ?",
+      "reponse": "Beaufort",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Comté",
+          "Abondance",
+          "Emmental",
+          "Reblochon",
+          "Gruyère"
+        ]
+      },
+      "explication": "Le beaufort est un fromage à pâte pressée cuite, fabriqué au lait cru de vaches tarines ou abondances dans le Beaufortain, la Tarentaise et la Maurienne. Son talon concave vient du cercle de bois qui l'enserre au moulage. Le « beaufort d'alpage », fabriqué en été au-dessus de 1 500 mètres avec le lait d'un seul troupeau, est le plus recherché.",
+      "anecdote": "Selon leur taille, les meules de beaufort pèsent de 20 à 70 kilos.",
+      "source": "Wikipédia (fr) — « Beaufort (fromage) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-07-8",
+      "categorie": "gastronomie",
+      "niveau": 7,
+      "question": "Quel cépage rouge, pilier des vins de Cahors, est devenu le cépage phare de l'Argentine ?",
+      "reponse": "Malbec",
+      "variantes": [
+        "Côt"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Carménère",
+          "Tannat",
+          "Merlot",
+          "Syrah",
+          "Négrette"
+        ]
+      },
+      "explication": "Appelé côt dans le Sud-Ouest, le malbec est le cépage principal des vins de Cahors, autrefois surnommés « vins noirs » pour leur couleur profonde. Introduit en Argentine au XIXe siècle, il s'est épanoui dans les vignobles d'altitude de la région de Mendoza, au pied des Andes. Dans les années 2020, l'Argentine en possède de loin la plus grande surface plantée au monde.",
+      "source": "Wikipédia (fr) — « Malbec »",
+      "verification": {
+        "statut": "relue",
+        "note": "Variante redondante retirée."
+      }
+    },
+    {
+      "id": "gas-08-1",
+      "categorie": "gastronomie",
+      "niveau": 8,
+      "question": "Quelle cuisinière lyonnaise a été, en 1933, la première à totaliser six étoiles Michelin pour deux restaurants ?",
+      "reponse": "Eugénie Brazier",
+      "variantes": [
+        "La Mère Brazier",
+        "Mère Brazier"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Marie Bourgeois",
+          "Anne-Sophie Pic",
+          "Françoise Fillioux",
+          "Mère Fillioux"
+        ]
+      },
+      "explication": "En 1933, Eugénie Brazier obtient trois étoiles pour son restaurant de la rue Royale, à Lyon, et trois autres pour son établissement du col de la Luère, dans les monts du Lyonnais. Figure des « mères lyonnaises », ces cuisinières qui ont fait la réputation gastronomique de la ville, elle était célèbre pour sa volaille de Bresse demi-deuil, truffée sous la peau.",
+      "anecdote": "Elle avait elle-même appris le métier chez la Mère Fillioux, autre grande cuisinière lyonnaise réputée pour cette volaille demi-deuil.",
+      "source": "Wikipédia (fr) — « Eugénie Brazier »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-08-2",
+      "categorie": "gastronomie",
+      "niveau": 8,
+      "question": "Quel fromage normand AOP est cerclé de cinq bandes qui lui valent le surnom de « colonel » ?",
+      "reponse": "Livarot",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Pont-l'Évêque",
+          "Camembert",
+          "Neufchâtel",
+          "Maroilles"
+        ]
+      },
+      "explication": "Le livarot, fromage du pays d'Auge à pâte molle et croûte lavée, était autrefois entouré de lanières végétales pour l'empêcher de s'affaisser pendant l'affinage. Ces cinq bandes rappellent les galons d'un colonel, d'où son surnom. Elles sont souvent en papier de nos jours. Sa croûte orangée et son odeur puissante en font l'un des fromages normands les plus caractérisés.",
+      "source": "Wikipédia (fr) — « Livarot (fromage) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-08-3",
+      "categorie": "gastronomie",
+      "niveau": 8,
+      "question": "Quelle sauce de poisson fermenté était le condiment le plus prisé de la cuisine romaine antique ?",
+      "reponse": "Garum",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Nuoc-mâm",
+          "Allec",
+          "Defrutum",
+          "Muria"
+        ]
+      },
+      "explication": "Le garum s'obtenait en laissant macérer au soleil, pendant des semaines, des viscères et des petits poissons dans du sel. Le liquide ambré ainsi recueilli relevait la plupart des plats, sucrés comme salés. Des ateliers, comme ceux de Baelo Claudia en Espagne, l'exportaient en amphores dans tout l'Empire. Son principe rappelle celui des sauces de poisson d'Asie du Sud-Est, comme le nuoc-mâm.",
+      "anecdote": "Pline l'Ancien rapporte que le garum le plus fin, dit « des alliés », se vendait à prix d'or.",
+      "source": "Wikipédia (fr) — « Garum »",
+      "verification": {
+        "statut": "relue",
+        "note": "Variante « Liquamen » retirée : terme voisin dont l'équivalence avec le garum est discutée."
+      }
+    },
+    {
+      "id": "gas-08-4",
+      "categorie": "gastronomie",
+      "niveau": 8,
+      "question": "Quel service, introduit à Paris vers 1810 par le prince Kourakine, présente les plats aux convives l'un après l'autre ?",
+      "reponse": "Service à la russe",
+      "variantes": [
+        "À la russe",
+        "Russe"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Service à la française",
+          "À la française",
+          "À l'anglaise",
+          "Service à l'anglaise"
+        ]
+      },
+      "explication": "Sous l'Ancien Régime, le service à la française dispose simultanément sur la table une multitude de plats, en plusieurs vagues appelées « services ». L'ambassadeur de Russie Alexandre Kourakine fait découvrir vers 1810 un autre usage : les plats, découpés en cuisine, sont présentés successivement à chaque convive, dans l'ordre fixé par le menu. Cette formule s'impose peu à peu dans la seconde moitié du XIXe siècle.",
+      "source": "Wikipédia (fr) — « Service à la russe »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-08-5",
+      "categorie": "gastronomie",
+      "niveau": 8,
+      "question": "Quel magistrat gastronome publia en 1825 la « Physiologie du goût » ?",
+      "reponse": "Jean Anthelme Brillat-Savarin",
+      "variantes": [
+        "Brillat-Savarin",
+        "Jean-Anthelme Brillat-Savarin"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Grimod de La Reynière",
+          "Curnonsky",
+          "Antonin Carême",
+          "Berchoux"
+        ]
+      },
+      "explication": "Né à Belley en 1755, Jean Anthelme Brillat-Savarin fut avocat, député puis conseiller à la Cour de cassation. Sa « Physiologie du goût », parue en décembre 1825, peu avant sa mort, mêle science, souvenirs et anecdotes sur les plaisirs de la table. On lui doit des aphorismes célèbres, comme : « Dis-moi ce que tu manges, je te dirai ce que tu es. »",
+      "anecdote": "Un fromage triple-crème au lait de vache porte son nom en hommage depuis les années 1930.",
+      "source": "Wikipédia (fr) — « Jean Anthelme Brillat-Savarin »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-08-6",
+      "categorie": "gastronomie",
+      "niveau": 8,
+      "question": "Quel fromage de chèvre AOP du Berry, cendré, a la forme d'une pyramide tronquée ?",
+      "reponse": "Valençay",
+      "variantes": [
+        "Valencay"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Pouligny-Saint-Pierre",
+          "Selles-sur-Cher",
+          "Sainte-Maure-de-Touraine",
+          "Crottin de Chavignol"
+        ]
+      },
+      "explication": "Le valençay, fromage au lait cru de chèvre recouvert de cendre de bois, porte le nom d'une petite ville de l'Indre célèbre pour son château, qui appartint à Talleyrand. Une légende veut que Napoléon, de retour de sa malheureuse campagne d'Égypte, ait tranché d'un coup d'épée le sommet de la pyramide. Son voisin, le pouligny-saint-pierre, a conservé sa pointe.",
+      "source": "Wikipédia (fr) — « Valençay (fromage) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-08-7",
+      "categorie": "gastronomie",
+      "niveau": 8,
+      "question": "Le nom de la tapenade vient d'un mot provençal désignant quel ingrédient ?",
+      "reponse": "Câpre",
+      "variantes": [
+        "Câpres",
+        "Capre"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Olive",
+          "Olives",
+          "Anchois",
+          "Ail",
+          "Thym"
+        ]
+      },
+      "explication": "On croit souvent que la tapenade est avant tout une affaire d'olives noires, mais son nom vient de « tapeno », la câpre en provençal. On attribue traditionnellement la recette moderne à un cuisinier marseillais de la fin du XIXe siècle, qui broyait ensemble câpres, olives, anchois et huile d'olive. Elle se tartine sur du pain grillé ou accompagne crudités et œufs durs.",
+      "anecdote": "La câpre est le bouton floral du câprier, cueilli avant éclosion puis conservé dans le vinaigre ou le sel.",
+      "source": "Wikipédia (fr) — « Tapenade »",
+      "verification": {
+        "statut": "relue",
+        "note": "Origine de la recette présentée comme tradition."
+      }
+    },
+    {
+      "id": "gas-08-8",
+      "categorie": "gastronomie",
+      "niveau": 8,
+      "question": "Quelle veuve, à la tête d'une maison de champagne rémoise, a mis au point la table de remuage en 1816 ?",
+      "reponse": "Veuve Clicquot",
+      "variantes": [
+        "Barbe-Nicole Clicquot",
+        "Barbe-Nicole Ponsardin",
+        "Clicquot",
+        "Madame Clicquot",
+        "Barbe-Nicole Clicquot-Ponsardin",
+        "Clicquot-Ponsardin",
+        "Veuve Clicquot-Ponsardin"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Veuve Pommery",
+          "Louise Pommery",
+          "Pommery",
+          "Lily Bollinger",
+          "Dom Pérignon"
+        ]
+      },
+      "explication": "Veuve à 27 ans, en 1805, Barbe-Nicole Ponsardin reprend l'affaire de son mari, François Clicquot. Avec son chef de cave, elle invente en 1816 la table de remuage : les bouteilles y sont inclinées tête en bas et tournées régulièrement, pour que le dépôt de levures glisse vers le bouchon et puisse être expulsé. Le champagne devient ainsi limpide.",
+      "source": "Wikipédia (fr) — « Barbe-Nicole Ponsardin »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-09-1",
+      "categorie": "gastronomie",
+      "niveau": 9,
+      "question": "Sous quel surnom est connu Guillaume Tirel, maître queux de Charles V, associé au livre de cuisine « le Viandier » ?",
+      "reponse": "Taillevent",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Vatel",
+          "La Varenne",
+          "Carême",
+          "Menon"
+        ]
+      },
+      "explication": "Guillaume Tirel, dit Taillevent (vers 1310-1395), fit carrière dans les cuisines royales, de Philippe VI à Charles VI. Le « Viandier » qu'on lui attribue est l'un des plus anciens livres de cuisine en français, mais des manuscrits antérieurs montrent qu'il en fut plutôt le compilateur. On y trouve des sauces épicées et acides, liées au pain, typiques du Moyen Âge.",
+      "anecdote": "Un célèbre restaurant parisien, ouvert en 1946, a pris son nom.",
+      "source": "Wikipédia (fr) — « Guillaume Tirel »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-09-2",
+      "categorie": "gastronomie",
+      "niveau": 9,
+      "question": "Quel château de Pessac, dans les Graves, est le seul vin rouge hors du Médoc classé premier cru en 1855 ?",
+      "reponse": "Haut-Brion",
+      "variantes": [
+        "Château Haut-Brion"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Pape Clément",
+          "La Mission Haut-Brion",
+          "Margaux",
+          "Latour",
+          "Pétrus"
+        ]
+      },
+      "explication": "Le château Haut-Brion, aux portes de Bordeaux, a été retenu en 1855 aux côtés de Lafite, Latour et Margaux, une exception qui s'explique par son ancienneté et sa réputation. Dès 1663, le diariste londonien Samuel Pepys note avoir bu du « Ho Bryan », l'un des premiers vins vendus sous le nom de son domaine plutôt que sous celui de sa région.",
+      "anecdote": "Le domaine appartient depuis 1935 à la famille du financier américain Clarence Dillon.",
+      "source": "Wikipédia (fr) — « Château Haut-Brion »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-09-3",
+      "categorie": "gastronomie",
+      "niveau": 9,
+      "question": "Quel fromage AOP fermier d'Auvergne n'est fabriqué qu'entre le 15 avril et le 15 novembre, dans une cuve en bois appelée gerle ?",
+      "reponse": "Salers",
+      "variantes": [
+        "Salers Tradition"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Cantal",
+          "Saint-Nectaire",
+          "Laguiole",
+          "Bleu d'Auvergne"
+        ]
+      },
+      "explication": "Le salers est un fromage fermier à pâte pressée non cuite, fabriqué au lait cru et entier, uniquement pendant la période où les vaches pâturent l'herbe des estives. Le lait est traditionnellement emprésuré dans la gerle, une cuve en bois de châtaignier. Il porte le nom d'un bourg du Cantal, comme la race bovine locale à la robe acajou et aux cornes en lyre.",
+      "source": "Wikipédia (fr) — « Salers (fromage) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-09-4",
+      "categorie": "gastronomie",
+      "niveau": 9,
+      "question": "En quelle année un décret a-t-il défini en France le « pain de tradition française », sans additifs ni surgélation ?",
+      "reponse": "1993",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 1993,
+        "tolerance": 0
+      },
+      "explication": "Le décret du 13 septembre 1993, dit « décret pain », réserve l'appellation « pain de tradition française » à un pain n'ayant subi aucune surgélation et fait uniquement de farine de blé, d'eau, de sel et de levain ou de levure, quelques auxiliaires comme la farine de fève étant tolérés en très petite quantité. Il a accompagné le renouveau de la baguette artisanale face au pain industriel.",
+      "anecdote": "Le titre de « boulanger » est quant à lui protégé par une loi de 1998, qui le réserve à ceux qui pétrissent, façonnent et cuisent sur place.",
+      "source": "Wikipédia (fr) — « Pain de tradition française »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-09-5",
+      "categorie": "gastronomie",
+      "niveau": 9,
+      "question": "Sous quel pseudonyme Maurice Edmond Sailland fut-il élu en 1927 « prince des gastronomes » ?",
+      "reponse": "Curnonsky",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Grimod de La Reynière",
+          "Brillat-Savarin",
+          "Escoffier",
+          "Marcel Rouff"
+        ]
+      },
+      "explication": "Écrivain et journaliste, Maurice Edmond Sailland (1872-1956) forge son pseudonyme à partir du latin « Cur non ? », « pourquoi pas ? », complété d'une terminaison russe, alors très à la mode. Élu « prince des gastronomes » en 1927 à l'issue d'un référendum organisé par la presse, il célébra les cuisines des provinces françaises, notamment dans la série « La France gastronomique », écrite avec Marcel Rouff.",
+      "source": "Wikipédia (fr) — « Curnonsky »",
+      "verification": {
+        "statut": "relue",
+        "note": "Variante redondante retirée."
+      }
+    },
+    {
+      "id": "gas-09-6",
+      "categorie": "gastronomie",
+      "niveau": 9,
+      "question": "Quel nom, celui d'un célèbre gourmet romain, est attaché au grand recueil de recettes antique « De re coquinaria » ?",
+      "reponse": "Apicius",
+      "variantes": [
+        "Marcus Gavius Apicius"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Lucullus",
+          "Pétrone",
+          "Pline",
+          "Trimalcion",
+          "Caton"
+        ]
+      },
+      "explication": "Marcus Gavius Apicius, riche gourmet du temps de l'empereur Tibère, au Ier siècle, était célèbre pour ses extravagances culinaires. Le « De re coquinaria », qui porte son nom, est pourtant une compilation bien plus tardive, mise par écrit vers la fin de l'Empire. Ses quelque cinq cents recettes, souvent aigres-douces, riches en miel et en poivre, renseignent sur la table des élites romaines.",
+      "anecdote": "Selon Sénèque, Apicius se serait empoisonné en constatant qu'il ne lui restait « que » dix millions de sesterces, somme jugée insuffisante pour son train de vie.",
+      "source": "Wikipédia (fr) — « Apicius »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-09-7",
+      "categorie": "gastronomie",
+      "niveau": 9,
+      "question": "Comment appelait-on à Versailles le repas que le roi prenait en public, sous les yeux des courtisans et des visiteurs ?",
+      "reponse": "Grand Couvert",
+      "variantes": [
+        "Le Grand Couvert",
+        "Grand-Couvert",
+        "Souper au grand couvert"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Petit Couvert",
+          "Souper",
+          "Lever",
+          "Médianoche",
+          "Collation"
+        ]
+      },
+      "explication": "Sous Louis XIV, le souper au Grand Couvert, pris vers 22 heures avec la famille royale, était un véritable spectacle de cour : tout visiteur décemment vêtu pouvait venir regarder le roi manger. Les plats étaient servis selon une étiquette minutieuse par les officiers de la Bouche du roi. Pour les repas plus intimes, on parlait de Petit Couvert.",
+      "source": "Wikipédia (fr) — « Grand Couvert »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-09-8",
+      "categorie": "gastronomie",
+      "niveau": 9,
+      "question": "Quel cépage rouge du Piémont donne les célèbres vins de Barolo et de Barbaresco ?",
+      "reponse": "Nebbiolo",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Sangiovese",
+          "Barbera",
+          "Dolcetto",
+          "Montepulciano",
+          "Aglianico"
+        ]
+      },
+      "explication": "Le nebbiolo, cépage tardif et exigeant, donne des vins de couleur assez claire mais très tanniques et acides, aux arômes de rose et de goudron, qui demandent un long vieillissement. Son nom viendrait de « nebbia », le brouillard qui enveloppe les collines des Langhe à l'automne, au moment des vendanges. Il s'épanouit rarement hors du Piémont et du nord de l'Italie.",
+      "source": "Wikipédia (fr) — « Nebbiolo »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-10-1",
+      "categorie": "gastronomie",
+      "niveau": 10,
+      "question": "Quel cuisinier publia en 1651 « Le Cuisinier françois », jalon fondateur de la cuisine française classique ?",
+      "reponse": "La Varenne",
+      "variantes": [
+        "François Pierre de La Varenne",
+        "François Pierre La Varenne",
+        "François-Pierre de La Varenne",
+        "Varenne"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Taillevent",
+          "Menon",
+          "Carême",
+          "Massialot"
+        ]
+      },
+      "explication": "Écuyer de cuisine du marquis d'Uxelles, François Pierre de La Varenne publie en 1651 « Le Cuisinier françois », souvent considéré comme le premier grand livre de la cuisine française moderne. Il délaisse l'abondance d'épices médiévales au profit des herbes, des fonds, des liaisons au roux et du goût propre des aliments. On lui attribue la duxelles de champignons, nommée d'après son maître.",
+      "source": "Wikipédia (fr) — « François Pierre de La Varenne »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-10-2",
+      "categorie": "gastronomie",
+      "niveau": 10,
+      "question": "Quel gastronome publia à partir de 1803 l'« Almanach des gourmands », souvent vu comme l'ancêtre des guides gastronomiques ?",
+      "reponse": "Grimod de La Reynière",
+      "variantes": [
+        "Alexandre Grimod de La Reynière",
+        "Grimod",
+        "Alexandre Balthazar Laurent Grimod de La Reynière"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Brillat-Savarin",
+          "Curnonsky",
+          "Cussy",
+          "Berchoux"
+        ]
+      },
+      "explication": "Avocat fantasque, Alexandre Balthazar Laurent Grimod de La Reynière (1758-1837) lance en 1803 l'« Almanach des gourmands », qui recense les meilleures adresses de Paris. Il réunit aussi un « jury dégustateur » chargé d'évaluer les produits que lui envoient les commerçants, préfigurant la critique gastronomique. Il est également l'auteur d'un « Manuel des amphitryons », consacré aux usages de la table.",
+      "source": "Wikipédia (fr) — « Alexandre Balthazar Laurent Grimod de La Reynière »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-10-3",
+      "categorie": "gastronomie",
+      "niveau": 10,
+      "question": "Quelle pièce d'orfèvrerie en forme de navire, posée sur la table royale, renfermait la serviette et les couverts du souverain ?",
+      "reponse": "Nef",
+      "variantes": [
+        "Nef de table"
+      ],
+      "validation": {
+        "type": "texte",
+        "exact": true,
+        "pieges": [
+          "Cadenas",
+          "Drageoir",
+          "Salière",
+          "Surtout"
+        ]
+      },
+      "explication": "Du Moyen Âge au XVIIIe siècle, la nef de table était un objet d'apparat en métal précieux, en forme de vaisseau, placé près du souverain ou du maître de maison. Elle contenait sa serviette, ses couverts et parfois ses épices, à l'abri des tentatives d'empoisonnement. À la cour de Louis XIV, l'étiquette voulait que l'on salue la nef du roi en passant devant elle.",
+      "anecdote": "Au XVIIe siècle, elle fut en partie remplacée par le « cadenas », un plateau d'orfèvrerie muni d'un coffret fermant à clé.",
+      "source": "Wikipédia (fr) — « Nef de table »",
+      "verification": {
+        "statut": "relue",
+        "note": "Usage de cour (saluer la nef) reformulé."
+      }
+    },
+    {
+      "id": "gas-10-4",
+      "categorie": "gastronomie",
+      "niveau": 10,
+      "question": "Quel cépage bordelais, presque disparu en France après le phylloxéra, est devenu emblématique du Chili ?",
+      "reponse": "Carménère",
+      "variantes": [
+        "Carmenère",
+        "Carmenere",
+        "Grande vidure"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Malbec",
+          "Merlot",
+          "Petit verdot",
+          "Carignan",
+          "Cabernet franc"
+        ]
+      },
+      "explication": "Cultivée dans le Médoc au XVIIIe siècle, la carménère a presque disparu du Bordelais après la crise du phylloxéra, car elle supportait mal le greffage et souffrait de coulure. Au Chili, plantée au XIXe siècle, elle a longtemps été confondue avec le merlot. C'est en 1994 que l'ampélographe français Jean-Michel Boursiquot l'a identifiée, faisant d'elle le cépage signature du pays.",
+      "anecdote": "Son nom viendrait de « carmin », la couleur rouge vif que prend son feuillage à l'automne.",
+      "source": "Wikipédia (fr) — « Carménère »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-10-5",
+      "categorie": "gastronomie",
+      "niveau": 10,
+      "question": "Quel auteur, dont on ignore presque tout, publia en 1746 « La Cuisinière bourgeoise », maintes fois rééditée ?",
+      "reponse": "Menon",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "La Varenne",
+          "Massialot",
+          "Marin",
+          "Carême",
+          "Vincent La Chapelle"
+        ]
+      },
+      "explication": "Menon, dont on ne connaît guère que le nom, publie en 1746 « La Cuisinière bourgeoise », destiné non plus aux cuisiniers des grandes maisons aristocratiques mais aux femmes chargées de la cuisine dans les foyers bourgeois. Recettes simplifiées, conseils d'économie : l'ouvrage connaît des dizaines de rééditions jusqu'au XIXe siècle, signe de la diffusion de la gastronomie au-delà de la cour.",
+      "source": "Wikipédia (fr) — « Menon (cuisinier) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-10-6",
+      "categorie": "gastronomie",
+      "niveau": 10,
+      "question": "Selon la légende, quel berger d'Éthiopie remarqua l'effet stimulant du café en voyant ses chèvres s'agiter ?",
+      "reponse": "Kaldi",
+      "variantes": [
+        "Khaldi"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Omar",
+          "Abebe",
+          "Moka",
+          "Ménélik",
+          "Kaleb"
+        ]
+      },
+      "explication": "La légende de Kaldi apparaît dans un texte latin de 1671 de l'orientaliste Antoine Faustus Nairon. Le berger aurait vu ses chèvres gambader après avoir brouté les baies rouges d'un arbuste, et en aurait parlé à des moines, qui s'en servirent pour rester éveillés pendant la prière. Historiquement, la consommation de café est attestée au XVe siècle chez les soufis du Yémen.",
+      "source": "Wikipédia (fr) — « Histoire du café »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "gas-10-7",
+      "categorie": "gastronomie",
+      "niveau": 10,
+      "question": "Quelle pâtisserie de la rue Montorgueil, fondée en 1730 par un pâtissier de la reine Marie Leszczynska, passe pour la plus ancienne de Paris ?",
+      "reponse": "Stohrer",
+      "variantes": [
+        "Maison Stohrer",
+        "Nicolas Stohrer"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Ladurée",
+          "Dalloyau",
+          "Fauchon",
+          "Lenôtre",
+          "Bourdaloue"
+        ]
+      },
+      "explication": "Nicolas Stohrer, pâtissier à la cour du roi Stanislas, ancien roi de Pologne, accompagna sa fille Marie Leszczynska à Versailles lors de son mariage avec Louis XV, en 1725. Cinq ans plus tard, il ouvre sa boutique rue Montorgueil, à Paris. Une tradition entretenue par la maison lui attribue la mise au point du baba, une brioche imbibée de sirop au rhum, toujours vendue sur place.",
+      "source": "Wikipédia (fr) — « Stohrer »",
+      "verification": {
+        "statut": "relue",
+        "note": "Attribution du baba présentée comme tradition de la maison."
+      }
+    },
+    {
+      "id": "gas-10-8",
+      "categorie": "gastronomie",
+      "niveau": 10,
+      "question": "Quelle boisson valencienne, fraîche et laiteuse, est préparée à partir des tubercules du souchet ?",
+      "reponse": "Horchata",
+      "variantes": [
+        "Orxata",
+        "Horchata de chufa"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Sangria",
+          "Granizado",
+          "Leche merengada",
+          "Agua de Jamaica",
+          "Orgeat"
+        ]
+      },
+      "explication": "L'horchata de chufa, orxata en valencien, est obtenue en broyant les petits tubercules du souchet comestible avec de l'eau, puis en sucrant le liquide filtré. Spécialité de la région de Valence, où le souchet est cultivé autour d'Alboraia sous appellation d'origine, elle se boit très fraîche, souvent accompagnée de « fartons », de longues brioches glacées de sucre. En Amérique latine, le même nom désigne des boissons au riz.",
+      "source": "Wikipédia (fr) — « Horchata »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    }
+  ]
+}

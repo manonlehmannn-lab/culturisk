@@ -1,6 +1,8 @@
 // Identité graphique : le « C » de Culturisk, formé des 10 segments de thèmes autour d'un buzzer lumineux.
 
-import { CATEGORIES } from '../engine/categories.js';
+import { CLASSIQUES, categoryById } from '../engine/categories.js';
+
+const RING = CLASSIQUES.map(categoryById);
 
 const pt = (cx, cy, r, deg) => {
   const a = (deg * Math.PI) / 180;
@@ -9,8 +11,8 @@ const pt = (cx, cy, r, deg) => {
 
 // Anneau en C : 10 arcs colorés, ouverture à droite (comme une jauge de 10 niveaux).
 export function ringSegments({ cx = 100, cy = 100, r = 74, width = 22, from = 38, to = 322, gap = 5, cls = 'ring-seg' } = {}) {
-  const span = (to - from) / CATEGORIES.length;
-  return CATEGORIES.map((c, i) => {
+  const span = (to - from) / RING.length;
+  return RING.map((c, i) => {
     // Le premier thème en haut, puis sens antihoraire vers le bas.
     const a1 = to - i * span - gap / 2;
     const a2 = to - (i + 1) * span + gap / 2;

@@ -110,6 +110,116 @@
       }
     },
     {
+      "id": "rel-01-5",
+      "categorie": "religions",
+      "niveau": 1,
+      "question": "Dans la mythologie grecque, quelle Gorgone à la chevelure de serpents change en pierre quiconque croise son regard ?",
+      "reponse": "Méduse",
+      "variantes": [
+        "Medusa"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Sthéno",
+          "Euryale",
+          "Circé",
+          "Hydre",
+          "Gorgone"
+        ]
+      },
+      "explication": "Seule mortelle des trois Gorgones, aux côtés de ses sœurs Sthéno et Euryale, Méduse est décapitée par le héros Persée, qui évite son regard en l'observant dans le reflet de son bouclier. De son cou tranché naissent le cheval ailé Pégase et le géant Chrysaor. Persée se sert ensuite de la tête pour pétrifier ses ennemis, puis l'offre à Athéna, qui la fixe sur son égide.",
+      "anecdote": "Chez le poète latin Ovide, Méduse était d'abord une jeune femme d'une grande beauté, dont la déesse changea la chevelure en serpents pour la punir.",
+      "source": "Wikipédia (fr) — « Méduse (mythologie) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-01-6",
+      "categorie": "religions",
+      "niveau": 1,
+      "question": "Quelle fête chrétienne célèbre la résurrection de Jésus ?",
+      "reponse": "Pâques",
+      "variantes": [
+        "Dimanche de Pâques"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Noël",
+          "Ascension",
+          "Pentecôte",
+          "Rameaux",
+          "Toussaint",
+          "Pessah"
+        ]
+      },
+      "explication": "Selon les Évangiles, Jésus, crucifié un vendredi, ressuscite le troisième jour, un dimanche. C'est la fête la plus importante du calendrier chrétien. Sa date est mobile : elle tombe le dimanche qui suit la première pleine lune du printemps, donc entre le 22 mars et le 25 avril dans le calendrier grégorien. Son nom vient de Pessah, la Pâque juive, pendant laquelle les Évangiles situent la Passion.",
+      "anecdote": "En France, une tradition populaire veut que les cloches des églises, silencieuses avant Pâques en signe de deuil, partent pour Rome et en reviennent chargées d'œufs.",
+      "source": "Wikipédia (fr) — « Pâques »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-01-7",
+      "categorie": "religions",
+      "niveau": 1,
+      "question": "Selon la Genèse, quel est le nom du premier homme, façonné par Dieu à partir de la poussière du sol ?",
+      "reponse": "Adam",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Ève",
+          "Abel",
+          "Caïn",
+          "Seth",
+          "Noé"
+        ],
+        "exact": true
+      },
+      "explication": "Le livre de la Genèse raconte que Dieu forme Adam avec la poussière du sol, puis lui donne une compagne, Ève, tirée de sa côte, et les installe dans le jardin d'Éden. Pour avoir mangé le fruit défendu de l'arbre de la connaissance du bien et du mal, ils en sont chassés. Leurs fils Caïn et Abel sont les protagonistes du premier meurtre raconté par la Bible.",
+      "anecdote": "Son nom est rapproché du mot hébreu adama, qui signifie « terre » ou « sol ».",
+      "source": "Wikipédia (fr) — « Adam »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-01-8",
+      "categorie": "religions",
+      "niveau": 1,
+      "question": "Dans les légendes arthuriennes, quel enchanteur est le conseiller du roi Arthur ?",
+      "reponse": "Merlin",
+      "variantes": [
+        "Merlin l'Enchanteur",
+        "Myrddin"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Morgane",
+          "Viviane",
+          "Gauvain",
+          "Lancelot",
+          "Perceval",
+          "Gandalf"
+        ]
+      },
+      "explication": "Merlin apparaît dans l'Histoire des rois de Bretagne de Geoffroy de Monmouth, vers 1136, qui s'inspire de figures galloises comme le barde Myrddin. Geoffroy lui fait transporter depuis l'Irlande les pierres de Stonehenge et organiser la conception d'Arthur. Les romans des siècles suivants en font le conseiller du roi, avant qu'il ne soit retenu à jamais par la fée Viviane, à qui il avait enseigné ses secrets.",
+      "anecdote": "La forêt de Paimpont, en Ille-et-Vilaine, souvent identifiée à la Brocéliande des romans, abrite un mégalithe surnommé « tombeau de Merlin ».",
+      "source": "Encyclopædia Britannica — « Merlin »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
       "id": "rel-02-1",
       "categorie": "religions",
       "niveau": 2,
@@ -214,6 +324,122 @@
       },
       "explication": "En hébreu, on l'appelle Magen David, le « bouclier de David ». Si l'hexagramme est un motif très ancien, présent dans de nombreuses cultures, son association particulière au judaïsme s'affirme surtout à la fin du Moyen Âge, notamment à Prague. Adoptée par le mouvement sioniste à la fin du XIXe siècle, elle figure depuis 1948 sur le drapeau d'Israël, entre deux bandes bleues.",
       "source": "Wikipédia (fr) — « Étoile de David »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-02-5",
+      "categorie": "religions",
+      "niveau": 2,
+      "question": "Comment s'appelle l'épée légendaire du roi Arthur ?",
+      "reponse": "Excalibur",
+      "variantes": [
+        "Escalibur",
+        "Escalibor",
+        "Caliburn",
+        "Caliburnus",
+        "Caledfwlch"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Durandal",
+          "Joyeuse",
+          "Balmung",
+          "Glamdring",
+          "Hauteclaire"
+        ]
+      },
+      "explication": "Les récits divergent sur son origine. Chez Geoffroy de Monmouth, au XIIe siècle, elle s'appelle Caliburnus. Dans certaines versions, Arthur la reçoit de la Dame du Lac, et elle est distincte de l'épée qu'il avait tirée de la pierre pour prouver qu'il était roi. À la fin du règne, l'épée est rejetée dans un lac : par Bedivere chez Thomas Malory, par Girflet dans la tradition française.",
+      "anecdote": "Selon Malory, son fourreau valait davantage que la lame : celui qui le portait ne perdait pas une goutte de sang, si grave que fût sa blessure.",
+      "source": "Wikipédia (fr) — « Excalibur »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-02-6",
+      "categorie": "religions",
+      "niveau": 2,
+      "question": "Quel dieu solaire égyptien navigue chaque nuit dans le monde des morts à bord de sa barque ?",
+      "reponse": "Râ",
+      "variantes": [
+        "Rê",
+        "Ra",
+        "Re"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Horus",
+          "Aton",
+          "Amon",
+          "Osiris"
+        ],
+        "exact": true
+      },
+      "explication": "Selon les croyances égyptiennes, Rê navigue le jour dans le ciel, puis franchit la nuit les régions de la Douat, le monde souterrain, où il affronte le serpent Apophis, incarnation du chaos, avant de renaître à l'aube. Son principal centre de culte était Héliopolis, près de l'actuel Caire. À partir de la IVe dynastie, les pharaons portent le titre de « fils de Rê ».",
+      "anecdote": "Une grande barque en cèdre, longue d'environ 43 mètres, a été découverte en 1954 au pied de la pyramide de Khéops ; on la surnomme souvent « barque solaire ».",
+      "source": "Encyclopædia Britannica — « Re »",
+      "verification": {
+        "statut": "relue",
+        "note": "Atoum et Khépri retirés des pièges (formes du soleil du soir et du matin, pas franchement fausses)."
+      }
+    },
+    {
+      "id": "rel-02-7",
+      "categorie": "religions",
+      "niveau": 2,
+      "question": "Quel monstre mi-homme mi-taureau est enfermé dans le Labyrinthe de Crète ?",
+      "reponse": "Minotaure",
+      "variantes": [
+        "Minotaur",
+        "Astérion"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Centaure",
+          "Cerbère",
+          "Cyclope",
+          "Minos",
+          "Chimère"
+        ]
+      },
+      "explication": "Le Minotaure naît des amours de la reine Pasiphaé, épouse du roi Minos, et d'un taureau envoyé par Poséidon. Minos le fait enfermer dans un labyrinthe conçu par l'architecte Dédale. Athènes doit lui livrer régulièrement en tribut sept jeunes gens et sept jeunes filles, jusqu'à ce que Thésée le tue, puis retrouve la sortie grâce au fil que lui a confié Ariane, la fille de Minos.",
+      "anecdote": "Selon certains auteurs antiques, comme Apollodore, le Minotaure portait un véritable nom : Astérion, « l'étoilé ».",
+      "source": "Wikipédia (fr) — « Minotaure »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-02-8",
+      "categorie": "religions",
+      "niveau": 2,
+      "question": "Quel titre porte le chef spirituel des Tibétains, dont le 14e titulaire a reçu le prix Nobel de la paix en 1989 ?",
+      "reponse": "Dalaï-lama",
+      "variantes": [
+        "Dalai Lama",
+        "Dalaï Lama"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Panchen-lama",
+          "Karmapa",
+          "Lama",
+          "Bouddha",
+          "Rinpoché"
+        ]
+      },
+      "explication": "Le titre a été conféré en 1578 par le prince mongol Altan Khan au moine Sonam Gyatso ; dalaï est un mot mongol signifiant « océan ». Chaque dalaï-lama est considéré comme la réincarnation du précédent et une émanation d'Avalokiteshvara, le bodhisattva de la compassion. Né en 1935, le 14e, Tenzin Gyatso, s'est exilé en Inde après le soulèvement de Lhassa en 1959 et s'est installé à Dharamsala.",
+      "anecdote": "Sonam Gyatso devint le troisième dalaï-lama : ses deux prédécesseurs dans sa lignée ne reçurent le titre qu'à titre posthume.",
+      "source": "Wikipédia (fr) — « Dalaï-lama »",
       "verification": {
         "statut": "relue",
         "note": ""
@@ -325,6 +551,117 @@
       "verification": {
         "statut": "relue",
         "note": "Source remplacée par un article dont l'existence est sûre."
+      }
+    },
+    {
+      "id": "rel-03-5",
+      "categorie": "religions",
+      "niveau": 3,
+      "question": "Quel jeune homme de la mythologie grecque vole trop près du Soleil, qui fait fondre la cire de ses ailes ?",
+      "reponse": "Icare",
+      "variantes": [
+        "Icarus",
+        "Ikaros"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Dédale",
+          "Phaéton",
+          "Bellérophon",
+          "Hélios",
+          "Pégase"
+        ]
+      },
+      "explication": "Pour s'évader de Crète, où le roi Minos les retient, l'architecte Dédale fabrique pour lui et son fils des ailes de plumes collées avec de la cire. Grisé par le vol, Icare oublie les conseils de son père, monte trop haut et tombe dans la mer, qui prend son nom : la mer Icarienne, près de l'île d'Icarie, dans l'Égée. Dédale, lui, parvient jusqu'en Sicile.",
+      "anecdote": "Dans le tableau La Chute d'Icare, attribué à Bruegel l'Ancien, on ne distingue que les jambes du héros dans l'eau, tandis qu'un laboureur poursuit tranquillement son travail.",
+      "source": "Wikipédia (fr) — « Icare »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-03-6",
+      "categorie": "religions",
+      "niveau": 3,
+      "question": "Dans la mythologie nordique, quel dieu rusé, père du loup Fenrir, provoque la mort de Baldr ?",
+      "reponse": "Loki",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Odin",
+          "Thor",
+          "Höd",
+          "Heimdall",
+          "Tyr",
+          "Fenrir"
+        ],
+        "exact": true
+      },
+      "explication": "Ni tout à fait dieu, ni tout à fait géant, Loki crée sans cesse des ennuis aux dieux, puis les tire souvent d'affaire par la ruse. Selon l'Edda de Snorri, il fait tuer Baldr, réputé invulnérable, en guidant la main du dieu aveugle Höd, armé d'une branche de gui. Pour ce crime, les dieux l'enchaînent sous un serpent dont le venin lui coule sur le visage.",
+      "anecdote": "Selon Snorri, les tremblements de terre se produisent lorsque Loki, enchaîné, se tord de douleur sous les gouttes de venin.",
+      "source": "Wikipédia (fr) — « Loki »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-03-7",
+      "categorie": "religions",
+      "niveau": 3,
+      "question": "Quelle fête hindoue du printemps voit les participants se lancer des poudres et de l'eau colorées ?",
+      "reponse": "Holi",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Diwali",
+          "Navratri",
+          "Dussehra",
+          "Pongal",
+          "Onam"
+        ],
+        "exact": true
+      },
+      "explication": "Holi est célébrée à la pleine lune du mois de phalguna, en février ou en mars, et salue l'arrivée du printemps. La veille, on allume de grands feux qui rappellent la légende de Prahlada, jeune dévot de Vishnou sauvé des flammes, tandis que la démone Holika y périt. Le lendemain, les barrières sociales s'estompent le temps des jets de couleurs, notamment autour de Mathura, ville associée à Krishna.",
+      "anecdote": "À Barsana, près de Mathura, lors de la Lathmar Holi, les femmes frappent en riant à coups de bâton les hommes venus du village voisin.",
+      "source": "Wikipédia (fr) — « Holi »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-03-8",
+      "categorie": "religions",
+      "niveau": 3,
+      "question": "À Jérusalem, quel vestige de l'enceinte du Second Temple attire les fidèles juifs venus prier ?",
+      "reponse": "Mur des Lamentations",
+      "variantes": [
+        "Mur occidental",
+        "Kotel",
+        "HaKotel HaMaaravi",
+        "Western Wall"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Dôme du Rocher",
+          "Mont du Temple",
+          "Esplanade des Mosquées",
+          "Saint-Sépulcre",
+          "Mont des Oliviers"
+        ]
+      },
+      "explication": "Le mur fait partie du soutènement de l'esplanade agrandie par Hérode le Grand à la fin du Ier siècle av. J.-C. ; le Temple lui-même fut détruit par les Romains en 70. Les juifs l'appellent le Mur occidental, Kotel en hébreu. Le nom de Mur des Lamentations évoque les prières de deuil qu'on y récitait sur la destruction du Temple. Les fidèles glissent souvent des billets portant leurs prières entre ses pierres.",
+      "anecdote": "Deux fois par an, les milliers de billets accumulés entre les pierres sont retirés, puis enterrés au mont des Oliviers.",
+      "source": "Wikipédia (fr) — « Mur des Lamentations »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
       }
     },
     {
@@ -446,6 +783,126 @@
       }
     },
     {
+      "id": "rel-04-5",
+      "categorie": "religions",
+      "niveau": 4,
+      "question": "Dans la mythologie grecque, quelle déesse de la sagesse sort tout armée du crâne de Zeus ?",
+      "reponse": "Athéna",
+      "variantes": [
+        "Athena",
+        "Athéné",
+        "Pallas Athéna",
+        "Pallas"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Minerve",
+          "Artémis",
+          "Héra",
+          "Aphrodite",
+          "Métis"
+        ]
+      },
+      "explication": "Zeus avait avalé sa première épouse, Métis, enceinte, car un oracle annonçait qu'elle donnerait ensuite naissance à un fils plus puissant que lui. Pris d'une violente douleur, il se fait fendre le crâne, par Héphaïstos ou par Prométhée selon les versions, et Athéna en jaillit, casquée et armée. Protectrice d'Athènes, elle y était honorée au Parthénon. Les Romains l'identifièrent à Minerve.",
+      "anecdote": "Selon la légende, Athènes lui doit son nom : la déesse l'emporta sur Poséidon en offrant aux habitants un olivier, jugé plus utile que la source d'eau salée du dieu.",
+      "source": "Wikipédia (fr) — « Athéna »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-04-6",
+      "categorie": "religions",
+      "niveau": 4,
+      "question": "Quel dieu égyptien, tué et démembré par son frère Seth, devient le souverain du royaume des morts ?",
+      "reponse": "Osiris",
+      "variantes": [
+        "Ousir",
+        "Wsir"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Horus",
+          "Anubis",
+          "Seth",
+          "Ptah",
+          "Râ",
+          "Isis"
+        ]
+      },
+      "explication": "Selon le mythe, rapporté en détail par l'auteur grec Plutarque, Seth tue Osiris par jalousie et disperse les morceaux de son corps à travers l'Égypte. Son épouse Isis les rassemble et le ranime le temps de concevoir leur fils, Horus, qui vengera son père. Représenté sous la forme d'une momie, la peau souvent verte ou noire, Osiris incarnait aussi la renaissance de la végétation après la crue du Nil.",
+      "anecdote": "Abydos, où la tradition plaçait le tombeau de sa tête, devint le principal lieu de pèlerinage en son honneur.",
+      "source": "Wikipédia (fr) — « Osiris »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-04-7",
+      "categorie": "religions",
+      "niveau": 4,
+      "question": "Quelle grande fête musulmane commémore le sacrifice d'Abraham ?",
+      "reponse": "Aïd el-Kébir",
+      "variantes": [
+        "Aïd al-Adha",
+        "Aïd el-Adha",
+        "Eid al-Adha",
+        "Aïd el-Kebir",
+        "Tabaski",
+        "Kurban Bayram",
+        "Fête du sacrifice"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Aïd el-Fitr",
+          "Mawlid",
+          "Achoura",
+          "Ramadan",
+          "Hajj"
+        ]
+      },
+      "explication": "Selon la tradition islamique, Ibrahim, l'Abraham de la Bible, accepta d'immoler son fils sur l'ordre de Dieu, qui lui envoya au dernier moment un bélier pour le remplacer. En souvenir, les familles qui en ont les moyens sacrifient un mouton ou une autre bête et en partagent la viande, notamment avec les plus pauvres. La fête a lieu le 10 du mois de dhou al-hijja, pendant le pèlerinage à La Mecque.",
+      "anecdote": "Le Coran ne nomme pas le fils : la plupart des commentateurs musulmans y voient Ismaël, alors que la Bible désigne Isaac. En Afrique de l'Ouest, la fête s'appelle Tabaski.",
+      "source": "Encyclopædia Britannica — « Eid al-Adha »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-04-8",
+      "categorie": "religions",
+      "niveau": 4,
+      "question": "Quel chevalier de la Table ronde, élevé par la Dame du Lac, aime la reine Guenièvre ?",
+      "reponse": "Lancelot",
+      "variantes": [
+        "Lancelot du Lac"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Galaad",
+          "Perceval",
+          "Gauvain",
+          "Tristan",
+          "Arthur",
+          "Bohort"
+        ]
+      },
+      "explication": "Chrétien de Troyes fait de Lancelot le héros du Chevalier de la charrette, écrit vers 1180 à la demande de Marie de Champagne. Son amour pour Guenièvre, épouse d'Arthur, provoque plus tard la guerre entre les deux hommes et contribue à la chute du royaume. Dans les romans en prose du XIIIe siècle, il est aussi le père de Galaad, le chevalier pur qui achève la quête du Graal.",
+      "anecdote": "Dans La Divine Comédie, Francesca da Rimini raconte à Dante qu'elle succomba à Paolo en lisant avec lui les amours de Lancelot et de Guenièvre.",
+      "source": "Wikipédia (fr) — « Lancelot du Lac »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
       "id": "rel-05-1",
       "categorie": "religions",
       "niveau": 5,
@@ -546,6 +1003,115 @@
       "verification": {
         "statut": "relue",
         "note": "Anecdote du soleil de Mai conservée au conditionnel (« généralement présenté »)."
+      }
+    },
+    {
+      "id": "rel-05-5",
+      "categorie": "religions",
+      "niveau": 5,
+      "question": "Quel dieu grec du vin et de l'ivresse les Romains appelaient-ils Bacchus ?",
+      "reponse": "Dionysos",
+      "variantes": [
+        "Dionysus",
+        "Dionysios"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Bacchus",
+          "Liber",
+          "Silène",
+          "Pan",
+          "Apollon",
+          "Priape"
+        ]
+      },
+      "explication": "Fils de Zeus et de la mortelle Sémélé, Dionysos naît, selon le mythe, de la cuisse de son père, qui l'y avait cousu après la mort de sa mère. Il parcourt le monde escorté de satyres et de ménades, ses suivantes en transe. À Athènes, les Grandes Dionysies, célébrées en son honneur, accueillaient les concours de tragédies et de comédies : il est ainsi le dieu du théâtre.",
+      "anecdote": "L'expression « se croire sorti de la cuisse de Jupiter » vient de ce mythe, transposé avec le nom romain de Zeus.",
+      "source": "Wikipédia (fr) — « Dionysos »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-05-6",
+      "categorie": "religions",
+      "niveau": 5,
+      "question": "Selon Pline l'Ancien, quelle plante les druides cueillaient-ils sur un chêne avec une serpe d'or ?",
+      "reponse": "Gui",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Houx",
+          "Lierre",
+          "Verveine",
+          "Chêne",
+          "Fougère"
+        ],
+        "exact": true
+      },
+      "explication": "Dans son Histoire naturelle, au Ier siècle, Pline l'Ancien décrit un rite gaulois : le sixième jour de la lune, un druide vêtu de blanc monte dans un chêne, tranche le gui avec une serpe d'or, et on le recueille dans un manteau blanc avant de sacrifier deux taureaux blancs. Le gui, rare sur le chêne, passait pour guérir de tout. Ce témoignage romain reste presque le seul sur ce rite.",
+      "source": "Pline l'Ancien — Histoire naturelle, livre XVI",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-05-7",
+      "categorie": "religions",
+      "niveau": 5,
+      "question": "Comment s'appelle le portique, souvent peint en vermillon, qui marque l'entrée d'un sanctuaire shinto ?",
+      "reponse": "Torii",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Pagode",
+          "Pailou",
+          "Shimenawa",
+          "Kami",
+          "Tenshu"
+        ]
+      },
+      "explication": "Le torii sépare le monde profane de l'espace sacré où résident les kami, les divinités du shintoïsme. Formé de deux poteaux reliés par deux traverses horizontales, il est souvent en bois peint de vermillon, mais il peut aussi être en pierre ou en métal. Le sanctuaire Fushimi Inari, à Kyoto, est célèbre pour ses milliers de torii alignés le long des sentiers de la colline.",
+      "anecdote": "Le grand torii du sanctuaire d'Itsukushima, sur l'île de Miyajima près d'Hiroshima, semble flotter sur la mer à marée haute.",
+      "source": "Wikipédia (fr) — « Torii »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-05-8",
+      "categorie": "religions",
+      "niveau": 5,
+      "question": "Quel dieu singe aide Rama à délivrer Sita dans l'épopée du Ramayana ?",
+      "reponse": "Hanuman",
+      "variantes": [
+        "Hanumān",
+        "Hanoumân",
+        "Hanouman",
+        "Anjaneya"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Ganesh",
+          "Sugriva",
+          "Garuda",
+          "Ravana",
+          "Sun Wukong"
+        ]
+      },
+      "explication": "Fils du dieu du vent Vayu, Hanuman est doté d'une force prodigieuse. Dans le Ramayana, il franchit d'un bond la mer jusqu'à l'île de Lanka, où le démon Ravana retient Sita, l'épouse de Rama. Plus tard, il rapporte une montagne entière pour fournir une plante capable de sauver Lakshmana, le frère de Rama. Modèle de dévotion, il est l'un des dieux les plus populaires de l'Inde.",
+      "anecdote": "Le roi singe Sun Wukong, héros du roman chinois La Pérégrination vers l'Ouest, s'inspirerait en partie de Hanuman, selon une hypothèse discutée.",
+      "source": "Wikipédia (fr) — « Hanuman »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
       }
     },
     {
@@ -654,6 +1220,118 @@
       }
     },
     {
+      "id": "rel-06-5",
+      "categorie": "religions",
+      "niveau": 6,
+      "question": "Comment appelait-on les prêtresses romaines, tenues à la chasteté, qui entretenaient le feu sacré de la cité ?",
+      "reponse": "Vestales",
+      "variantes": [
+        "Vestale"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Sibylles",
+          "Pythies",
+          "Ménades",
+          "Bacchantes",
+          "Vesta"
+        ]
+      },
+      "explication": "Au nombre de six, les Vestales servaient Vesta, déesse du foyer, l'équivalent de la grecque Hestia, dans son temple rond du Forum. Choisies enfants, elles s'engageaient pour trente ans et jouissaient de privilèges rares pour des femmes. Laisser s'éteindre le feu était sévèrement puni, et celle qui rompait son vœu de chasteté était enterrée vivante. L'institution disparut à la fin du IVe siècle, sous Théodose.",
+      "anecdote": "Rhéa Silvia, la mère légendaire de Romulus et Rémus, était une Vestale, rendue mère selon le mythe par le dieu Mars.",
+      "source": "Wikipédia (fr) — « Vestale »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-06-6",
+      "categorie": "religions",
+      "niveau": 6,
+      "question": "Comment s'appelle le cheval à huit jambes du dieu nordique Odin ?",
+      "reponse": "Sleipnir",
+      "variantes": [
+        "Sleipner",
+        "Slejpner"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Grani",
+          "Gullfaxi",
+          "Fenrir",
+          "Svadilfari",
+          "Hugin"
+        ]
+      },
+      "explication": "Selon l'Edda de Snorri, Sleipnir est le meilleur des chevaux, chez les dieux comme chez les hommes. Sa naissance est singulière : Loki, changé en jument, aurait détourné l'étalon d'un géant bâtisseur pour l'empêcher d'achever à temps la muraille d'Asgard et d'obtenir en paiement la déesse Freyja, le Soleil et la Lune. Le dieu Hermod l'emprunte pour descendre chez Hel réclamer Baldr.",
+      "anecdote": "Sur certaines pierres historiées de l'île suédoise de Gotland, datées de l'époque viking, figure un cheval à huit jambes, généralement identifié à Sleipnir.",
+      "source": "Wikipédia (fr) — « Sleipnir »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-06-7",
+      "categorie": "religions",
+      "niveau": 6,
+      "question": "Quel personnage des contes akan du Ghana, une araignée rusée, est aussi célèbre dans les Caraïbes ?",
+      "reponse": "Anansi",
+      "variantes": [
+        "Ananse",
+        "Kwaku Ananse",
+        "Anancy",
+        "Kwaku Anansi"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Leuk",
+          "Compère Lapin",
+          "Coyote",
+          "Arachné",
+          "Ti-Jean"
+        ]
+      },
+      "explication": "Dans les contes akan, notamment ashanti, Anansi obtient du dieu du ciel Nyame toutes les histoires du monde, en lui apportant des créatures redoutables capturées par la ruse. Ces récits sont d'ailleurs appelés anansesem, « histoires d'araignée ». Emportés par les Africains déportés lors de la traite atlantique, ils ont traversé l'océan : Anansi est resté populaire dans la Caraïbe, notamment en Jamaïque, où on l'appelle souvent Anancy.",
+      "source": "Wikipédia (fr) — « Anansi »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-06-8",
+      "categorie": "religions",
+      "niveau": 6,
+      "question": "Quelle déesse de la Terre-Mère est honorée dans les Andes, notamment par des offrandes au mois d'août ?",
+      "reponse": "Pachamama",
+      "variantes": [
+        "Pacha Mama",
+        "Mama Pacha"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Inti",
+          "Viracocha",
+          "Mama Quilla",
+          "Gaïa",
+          "Mama Cocha"
+        ]
+      },
+      "explication": "Son nom quechua associe mama, « mère », à pacha, qui désigne la terre mais aussi le monde et le temps. Divinité de la fertilité, elle était vénérée bien avant l'Empire inca et reste invoquée par de nombreux habitants des Andes, souvent aux côtés des saints catholiques. On lui offre des feuilles de coca, de la chicha ou des aliments enterrés, en particulier au mois d'août, avant les semailles.",
+      "anecdote": "La Constitution bolivienne de 2009 invoque, dès son préambule, la force de la Pachamama.",
+      "source": "Wikipédia (fr) — « Pachamama »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
       "id": "rel-07-1",
       "categorie": "religions",
       "niveau": 7,
@@ -755,6 +1433,122 @@
       "verification": {
         "statut": "relue",
         "note": ""
+      }
+    },
+    {
+      "id": "rel-07-5",
+      "categorie": "religions",
+      "niveau": 7,
+      "question": "Quelle déesse de l'amour et de la guerre, appelée Inanna par les Sumériens, a donné son nom à une porte monumentale de Babylone ?",
+      "reponse": "Ishtar",
+      "variantes": [
+        "Ištar",
+        "Ichtar"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Tiamat",
+          "Astarté",
+          "Ereshkigal",
+          "Ninhursag",
+          "Marduk",
+          "Inanna"
+        ]
+      },
+      "explication": "Divinité majeure de la Mésopotamie, Ishtar était associée à la planète Vénus. La porte qui porte son nom, couverte de briques à glaçure bleue où figurent des dragons et des taureaux, fut édifiée vers 575 av. J.-C. sous le roi Nabuchodonosor II, sur la voie processionnelle de la ville. Mise au jour par des archéologues allemands au début du XXe siècle, elle a été reconstituée au Pergamonmuseum de Berlin.",
+      "anecdote": "Dans le mythe de sa descente aux Enfers, la déesse doit abandonner un vêtement ou un bijou à chacune des sept portes qu'elle franchit.",
+      "source": "Wikipédia (fr) — « Porte d'Ishtar »",
+      "verification": {
+        "statut": "relue",
+        "note": "Arbitrage Inanna/Ishtar : la porte porte le nom akkadien ; Inanna placée dans l'énoncé et en piège, retirée des variantes."
+      }
+    },
+    {
+      "id": "rel-07-6",
+      "categorie": "religions",
+      "niveau": 7,
+      "question": "Selon une légende juive de Prague, quelle créature d'argile le rabbin Loew aurait-il animée ?",
+      "reponse": "Golem",
+      "variantes": [
+        "Goylem",
+        "Golème"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Homoncule",
+          "Dibbouk",
+          "Frankenstein",
+          "Gargouille",
+          "Gnome"
+        ]
+      },
+      "explication": "Dans le folklore juif, un golem est un être façonné dans l'argile et animé par des formules sacrées. La légende la plus célèbre l'attribue au rabbin Judah Loew ben Bezalel, savant de la fin du XVIe siècle, qui l'aurait créé pour défendre le quartier juif de Prague. Dans certaines versions, le mot emet, « vérité », inscrit sur son front, l'anime ; effacer la première lettre donne met, « mort ».",
+      "anecdote": "Cette légende pragoise n'apparaît dans des écrits qu'au XIXe siècle, bien après la mort du rabbin Loew, survenue en 1609.",
+      "source": "Wikipédia (fr) — « Golem »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-07-7",
+      "categorie": "religions",
+      "niveau": 7,
+      "question": "Quel maître spirituel, né en 1469 au Pendjab, est le fondateur du sikhisme ?",
+      "reponse": "Guru Nanak",
+      "variantes": [
+        "Nanak",
+        "Nanak Dev",
+        "Gourou Nanak",
+        "Guru Nanak Dev"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Gobind Singh",
+          "Guru Arjan",
+          "Kabir",
+          "Ranjit Singh",
+          "Guru Angad"
+        ]
+      },
+      "explication": "Né près de Lahore, dans l'actuel Pakistan, Nanak prêche un dieu unique, au-delà des distinctions entre hindous et musulmans, et rejette le système des castes. Neuf gourous lui succèdent ; le dixième, Gobind Singh, désigne en 1708 le livre saint, le Guru Granth Sahib, comme gourou éternel des sikhs. Les hymnes de Nanak occupent une place importante dans ce recueil.",
+      "anecdote": "Sa ville natale, Talwandi, a été rebaptisée Nankana Sahib en son honneur.",
+      "source": "Wikipédia (fr) — « Guru Nanak »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-07-8",
+      "categorie": "religions",
+      "niveau": 7,
+      "question": "Sur quelle île légendaire le roi Arthur, gravement blessé, est-il emmené pour y être soigné ?",
+      "reponse": "Avalon",
+      "variantes": [
+        "Avallon",
+        "Île d'Avalon",
+        "Insula Avallonis"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Brocéliande",
+          "Camelot",
+          "Tintagel",
+          "Ys",
+          "Glastonbury"
+        ]
+      },
+      "explication": "Vers 1136, Geoffroy de Monmouth fait transporter Arthur, blessé lors de sa dernière bataille, sur l'île d'Avalon pour y guérir. Dans sa Vie de Merlin, il la décrit comme une « île des pommes » gouvernée par la magicienne Morgane. Le roi n'y meurt pas forcément : une tradition bretonne annonçait son retour. En 1191, les moines de Glastonbury affirmèrent avoir découvert la tombe d'Arthur, identifiant leur abbaye à Avalon.",
+      "anecdote": "Chez Thomas Malory, la tombe d'Arthur porte une épitaphe célèbre : « Ci-gît Arthur, roi jadis et roi à venir », rex quondam rexque futurus.",
+      "source": "Wikipédia (fr) — « Avalon »",
+      "verification": {
+        "statut": "relue",
+        "note": "Arbitrage : « Avallon » gardé en variante (graphie ancienne reconnue du même nom)."
       }
     },
     {
@@ -877,6 +1671,118 @@
       }
     },
     {
+      "id": "rel-08-5",
+      "categorie": "religions",
+      "niveau": 8,
+      "question": "Quel disque solaire le pharaon Amenhotep IV imposa-t-il comme dieu suprême, au point de changer de nom ?",
+      "reponse": "Aton",
+      "variantes": [
+        "Aten",
+        "Iten"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Amon",
+          "Râ",
+          "Atoum",
+          "Horus",
+          "Akhenaton"
+        ],
+        "exact": true
+      },
+      "explication": "Vers 1350 av. J.-C., Amenhotep IV rompt avec le culte d'Amon et son puissant clergé pour honorer presque exclusivement le disque solaire, représenté avec des rayons terminés par des mains. Il prend le nom d'Akhenaton et fonde une nouvelle capitale, Akhetaton, sur le site d'Amarna. Après sa mort, ses successeurs restaurent les anciens cultes, et son nom est martelé sur de nombreux monuments.",
+      "anecdote": "Toutânkhamon s'appelait d'abord Toutânkhaton : son changement de nom marque le retour officiel au culte d'Amon.",
+      "source": "Wikipédia (fr) — « Aton »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-08-6",
+      "categorie": "religions",
+      "niveau": 8,
+      "question": "Quel dieu gaulois, cité par le poète Lucain, est associé au tonnerre et souvent représenté avec une roue ?",
+      "reponse": "Taranis",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Teutatès",
+          "Ésus",
+          "Lug",
+          "Cernunnos",
+          "Thor",
+          "Toutatis"
+        ]
+      },
+      "explication": "Dans La Pharsale, au Ier siècle, le poète romain Lucain évoque trois dieux gaulois redoutables, Teutatès, Ésus et Taranis, à qui l'on offrait selon lui des sacrifices sanglants. Le nom de Taranis se rattache à un mot celtique désignant le tonnerre, que l'on retrouve dans le gallois taran. On l'identifie souvent au dieu barbu tenant une roue des sculptures gallo-romaines, assimilé au Jupiter romain.",
+      "anecdote": "Teutatès, autre dieu cité par Lucain, doit sa célébrité moderne au juron « Par Toutatis ! » lancé par les Gaulois d'Astérix.",
+      "source": "Wikipédia (fr) — « Taranis »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-08-7",
+      "categorie": "religions",
+      "niveau": 8,
+      "question": "Quel cousin et gendre du prophète Mahomet est considéré par les chiites comme le premier imam ?",
+      "reponse": "Ali",
+      "variantes": [
+        "Ali ibn Abi Talib",
+        "Ali ibn Abi Taleb",
+        "Ali ben Abi Talib"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Hussein",
+          "Hassan",
+          "Abou Bakr",
+          "Omar",
+          "Othman"
+        ],
+        "exact": true
+      },
+      "explication": "Époux de Fatima, la fille du Prophète, Ali devient en 656 le quatrième calife. Pour les chiites, dont le nom vient de chi'at Ali, le « parti d'Ali », il aurait dû succéder directement à Mahomet en 632, alors que les sunnites reconnaissent la légitimité des trois premiers califes. Assassiné à Koufa en 661, il est vénéré dans le mausolée qui lui est consacré à Nadjaf, en Irak.",
+      "anecdote": "Son fils Hussein, tué à Kerbala en 680, est commémoré chaque année par les chiites lors de l'Achoura.",
+      "source": "Wikipédia (fr) — « Ali ibn Abi Talib »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-08-8",
+      "categorie": "religions",
+      "niveau": 8,
+      "question": "Quelle ville d'Éthiopie est célèbre pour ses onze églises médiévales taillées d'un seul bloc dans la roche ?",
+      "reponse": "Lalibela",
+      "variantes": [
+        "Lalibéla"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Aksoum",
+          "Axoum",
+          "Gondar",
+          "Addis-Abeba",
+          "Harar"
+        ]
+      },
+      "explication": "La tradition attribue ces églises au roi Lalibela, de la dynastie Zagwé, vers la fin du XIIe et le début du XIIIe siècle ; il aurait voulu bâtir une nouvelle Jérusalem après la prise de la ville sainte par Saladin en 1187. Creusées vers le bas dans la roche volcanique, elles servent toujours au culte de l'Église orthodoxe éthiopienne. Le site est inscrit au patrimoine mondial de l'UNESCO depuis 1978.",
+      "anecdote": "Vue du ciel, l'église Saint-Georges, Bete Giyorgis, dessine une croix grecque creusée au fond d'une fosse taillée dans la roche.",
+      "source": "Wikipédia (fr) — « Lalibela »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
       "id": "rel-09-1",
       "categorie": "religions",
       "niveau": 9,
@@ -992,6 +1898,121 @@
       }
     },
     {
+      "id": "rel-09-5",
+      "categorie": "religions",
+      "niveau": 9,
+      "question": "Laquelle des trois Moires grecques coupe le fil de la vie des mortels ?",
+      "reponse": "Atropos",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Clotho",
+          "Lachésis",
+          "Morta",
+          "Némésis",
+          "Parques"
+        ]
+      },
+      "explication": "Les Moires président au destin de chaque être. Clotho file le fil de la vie, Lachésis le mesure et en fixe la longueur, puis Atropos, « celle qu'on ne peut détourner », le tranche. Dans la Théogonie d'Hésiode, elles sont tantôt filles de la Nuit, tantôt de Zeus et de Thémis, et même les dieux doivent respecter leurs arrêts. Les Romains les assimilaient aux Parques : Nona, Decima et Morta.",
+      "anecdote": "L'atropine, alcaloïde toxique tiré de la belladone, doit son nom au genre Atropa, que Linné baptisa d'après cette Moire.",
+      "source": "Wikipédia (fr) — « Moires »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-09-6",
+      "categorie": "religions",
+      "niveau": 9,
+      "question": "Quelle presqu'île grecque, interdite aux femmes depuis le Moyen Âge, abrite vingt monastères orthodoxes ?",
+      "reponse": "Mont Athos",
+      "variantes": [
+        "Athos",
+        "Sainte Montagne",
+        "Agion Oros",
+        "Ágion Óros"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Météores",
+          "Patmos",
+          "Olympe",
+          "Sinaï",
+          "Chalcidique"
+        ]
+      },
+      "explication": "Surnommé la Sainte Montagne, l'Athos est habité par des moines depuis plus de mille ans : le monastère de la Grande Laure y fut fondé en 963 par saint Athanase l'Athonite. La communauté jouit d'une large autonomie au sein de l'État grec. L'interdiction d'accès faite aux femmes, appelée abaton, s'étend aussi aux femelles de la plupart des animaux domestiques. Le site est inscrit au patrimoine mondial de l'UNESCO depuis 1988.",
+      "source": "Wikipédia (fr) — « Mont Athos »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-09-7",
+      "categorie": "religions",
+      "niveau": 9,
+      "question": "Quel livre sacré des Mayas k'iche' du Guatemala raconte la création du monde et les exploits des jumeaux Hunahpu et Xbalanque ?",
+      "reponse": "Popol Vuh",
+      "variantes": [
+        "Popol Wuj",
+        "Popol Vuj"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Chilam Balam",
+          "Codex de Dresde",
+          "Rabinal Achi",
+          "Codex Borgia"
+        ]
+      },
+      "explication": "Rédigé en langue k'iche' mais en alphabet latin au milieu du XVIe siècle, le manuscrit original est perdu. Le texte est connu grâce au dominicain Francisco Ximénez, qui le copia et le traduisit en espagnol au début du XVIIIe siècle. Selon ce récit, les dieux créent les hommes après plusieurs échecs, d'abord avec de la boue, puis avec du bois, avant d'y parvenir avec du maïs.",
+      "anecdote": "Les jumeaux héros y affrontent les seigneurs de Xibalba, le monde souterrain, lors de parties de jeu de balle.",
+      "source": "Wikipédia (fr) — « Popol Vuh »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-09-8",
+      "categorie": "religions",
+      "niveau": 9,
+      "question": "Chez les Yorubas, quel orisha du tonnerre et de la foudre passe pour un ancien roi d'Oyo ?",
+      "reponse": "Shango",
+      "variantes": [
+        "Ṣàngó",
+        "Sango",
+        "Changó",
+        "Chango",
+        "Xangô",
+        "Xango",
+        "Shangó"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Ogun",
+          "Oya",
+          "Yemoja",
+          "Oshun",
+          "Eshu",
+          "Obatala"
+        ]
+      },
+      "explication": "Selon la tradition yoruba, Shango fut l'un des premiers alafin, ou rois, de l'empire d'Oyo, dans l'actuel Nigeria, avant d'être divinisé. On le représente avec une hache à double tranchant, et ses couleurs sont le rouge et le blanc. La traite atlantique a diffusé son culte en Amérique : il est honoré sous le nom de Xangô dans le candomblé brésilien et de Changó dans la santería cubaine.",
+      "anecdote": "À Cuba, la santería associe Changó à sainte Barbe, que la tradition catholique invoque contre la foudre.",
+      "source": "Encyclopædia Britannica — « Shango »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
       "id": "rel-10-1",
       "categorie": "religions",
       "niveau": 10,
@@ -1103,6 +2124,124 @@
       "verification": {
         "statut": "relue",
         "note": "« Plus ancien monument sculpté de Paris » conservé avec « souvent présenté »."
+      }
+    },
+    {
+      "id": "rel-10-5",
+      "categorie": "religions",
+      "niveau": 10,
+      "question": "Quel dieu mésopotamien du Soleil et de la justice, appelé Utu par les Sumériens, était honoré à Sippar et à Larsa ?",
+      "reponse": "Shamash",
+      "variantes": [
+        "Šamaš",
+        "Chamash",
+        "Samas"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Sîn",
+          "Nanna",
+          "Marduk",
+          "Enlil",
+          "Adad",
+          "Anu"
+        ]
+      },
+      "explication": "Chaque jour, Shamash parcourt le ciel et voit tout ce qui se passe sur terre, ce qui fait de lui le garant de la justice et le protecteur des opprimés. Ses deux grands temples, à Sippar et à Larsa, portaient le même nom, Ebabbar, la « maison brillante ». Le dieu assis face à Hammurabi au sommet de la stèle du Code, conservée au Louvre, est généralement identifié à Shamash.",
+      "source": "Wikipédia (fr) — « Shamash »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-10-6",
+      "categorie": "religions",
+      "niveau": 10,
+      "question": "Quel dieu japonais des tempêtes, frère d'Amaterasu, tue le serpent à huit têtes Yamata no Orochi ?",
+      "reponse": "Susanoo",
+      "variantes": [
+        "Susanoo-no-Mikoto",
+        "Susano-o",
+        "Susanowo",
+        "Sousanoo"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Tsukuyomi",
+          "Izanagi",
+          "Raijin",
+          "Fujin",
+          "Hachiman"
+        ]
+      },
+      "explication": "Selon le Kojiki, achevé en 712, Susanoo naît du nez de son père Izanagi pendant que celui-ci se purifie. Banni du ciel pour sa violence envers sa sœur Amaterasu, qui s'était alors cachée dans une grotte en plongeant le monde dans l'obscurité, il descend dans la région d'Izumo. Il y tue le serpent géant après l'avoir enivré de saké, et découvre une épée dans l'une de ses queues.",
+      "anecdote": "Cette épée, Kusanagi no Tsurugi, est l'un des trois trésors impériaux du Japon ; elle serait conservée au sanctuaire d'Atsuta, à Nagoya.",
+      "source": "Wikipédia (fr) — « Susanoo »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "rel-10-7",
+      "categorie": "religions",
+      "niveau": 10,
+      "question": "Quel héros du cycle d'Ulster, né sous le nom de Setanta, doit son nom au chien de garde qu'il a tué enfant ?",
+      "reponse": "Cúchulainn",
+      "variantes": [
+        "Cuchulainn",
+        "Cú Chulainn",
+        "Cuchulain",
+        "Cuchullain"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Fionn mac Cumhaill",
+          "Conchobar",
+          "Ferdiad",
+          "Oisín",
+          "Lug",
+          "Setanta"
+        ]
+      },
+      "explication": "Enfant, Setanta tue le redoutable chien du forgeron Culann ; il propose alors de le remplacer comme gardien, d'où son nom de Cú Chulainn, « le chien de Culann ». Héros de la Razzia des vaches de Cooley, le Táin Bó Cúailnge, il défend seul l'Ulster contre l'armée de la reine Medb. Mortellement blessé lors d'un dernier combat, il s'attache à une pierre dressée pour mourir debout.",
+      "anecdote": "Une statue de Cúchulainn mourant, sculptée par Oliver Sheppard, honore les insurgés de Pâques 1916 dans la grande poste de Dublin.",
+      "source": "Wikipédia (fr) — « Cúchulainn »",
+      "verification": {
+        "statut": "relue",
+        "note": "Arbitrage Setanta/Cúchulainn : la question porte sur le nom tiré du chien ; Setanta placé dans l'énoncé et en piège, retiré des variantes."
+      }
+    },
+    {
+      "id": "rel-10-8",
+      "categorie": "religions",
+      "niveau": 10,
+      "question": "Quel avatar de Vishnou, attendu monté sur un cheval blanc, doit mettre fin au Kali Yuga selon les Puranas ?",
+      "reponse": "Kalki",
+      "variantes": [
+        "Kalkin"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Kali",
+          "Krishna",
+          "Rama",
+          "Narasimha",
+          "Matsya",
+          "Maitreya"
+        ],
+        "exact": true
+      },
+      "explication": "Dans la liste traditionnelle des dix avatars principaux de Vishnou, les Dashavatara, Kalki est le dixième et le seul qui reste à venir. Les Puranas le décrivent monté sur un cheval blanc et brandissant une épée flamboyante : il doit anéantir les forces du mal au terme du Kali Yuga, l'âge sombre, et ouvrir un nouvel âge d'or, le Satya Yuga. Parmi les avatars précédents figurent Rama et Krishna.",
+      "source": "Wikipédia (fr) — « Kalki »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
       }
     }
   ]

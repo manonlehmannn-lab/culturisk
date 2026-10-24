@@ -1,0 +1,1864 @@
+{
+  "categorie": "inventions",
+  "questions": [
+    {
+      "id": "inv-01-1",
+      "categorie": "inventions",
+      "niveau": 1,
+      "question": "Quel inventeur américain a mis au point en 1879 une ampoule électrique à incandescence durable ?",
+      "reponse": "Thomas Edison",
+      "variantes": [
+        "Thomas Alva Edison"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Nikola Tesla",
+          "Joseph Swan",
+          "Graham Bell"
+        ],
+        "nomSeul": true
+      },
+      "explication": "En octobre 1879, dans son laboratoire de Menlo Park, Thomas Edison obtient une lampe à filament de carbone qui brille plusieurs heures. Il n'est pas le seul : en Angleterre, Joseph Swan présente une lampe comparable à la même époque, et les deux hommes finissent par s'associer en 1883. Edison a surtout imaginé tout le système autour : centrales, compteurs et réseau de distribution.",
+      "anecdote": "Edison a obtenu plus de 1 000 brevets aux États-Unis ; deux ans plus tôt, en 1877, il avait inventé le phonographe.",
+      "source": "Wikipédia (fr) — « Thomas Edison »",
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote : le brevet du phonographe date de 1878 (invention 1877), reformulée."
+      }
+    },
+    {
+      "id": "inv-01-2",
+      "categorie": "inventions",
+      "niveau": 1,
+      "question": "Quel instrument d'orientation, inventé en Chine, utilise une aiguille aimantée pour indiquer le nord ?",
+      "reponse": "Boussole",
+      "variantes": [
+        "Compas"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Sextant",
+          "Astrolabe",
+          "Gouvernail"
+        ]
+      },
+      "explication": "Les Chinois connaissaient la pierre d'aimant dès l'Antiquité et s'en servaient pour la géomancie. Au XIe siècle, le savant Shen Kuo décrit une aiguille aimantée, et les marins chinois l'emploient pour naviguer au début du XIIe siècle. L'instrument apparaît en Europe à la fin du XIIe siècle et rendra possibles les grandes navigations.",
+      "anecdote": "En chinois, la boussole se dit « zhinanzhen », « l'aiguille qui montre le sud » : on considérait que c'était le sud qu'elle désignait.",
+      "source": "Wikipédia (fr) — « Boussole »",
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote précisée (zhinanzhen)."
+      }
+    },
+    {
+      "id": "inv-01-3",
+      "categorie": "inventions",
+      "niveau": 1,
+      "question": "Quel chimiste suédois a breveté la dynamite en 1867, avant de léguer sa fortune à des prix célèbres ?",
+      "reponse": "Alfred Nobel",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Emil Nobel",
+          "Ascanio Sobrero"
+        ],
+        "nomSeul": true
+      },
+      "explication": "La nitroglycérine, découverte en 1847 par l'Italien Ascanio Sobrero, explosait au moindre choc. Alfred Nobel la stabilise en l'absorbant dans une terre poreuse, le kieselguhr, ce qui donne un explosif maniable : la dynamite. Elle sert aux mines, aux tunnels et aux canaux. Par testament, en 1895, il consacre sa fortune aux prix Nobel, décernés pour la première fois en 1901.",
+      "anecdote": "Son jeune frère Emil est mort en 1864 dans l'explosion d'un atelier familial où l'on travaillait la nitroglycérine.",
+      "source": "Wikipédia (fr) — « Alfred Nobel »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul explicite (Emil Nobel en piège)."
+      }
+    },
+    {
+      "id": "inv-01-4",
+      "categorie": "inventions",
+      "niveau": 1,
+      "question": "Quel type d'aéronef, inventé en France en 1783, s'élève grâce à de l'air chauffé ?",
+      "reponse": "Montgolfière",
+      "variantes": [
+        "Ballon à air chaud"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Dirigeable",
+          "Zeppelin",
+          "Charlière"
+        ]
+      },
+      "explication": "Les frères Joseph et Étienne Montgolfier, papetiers d'Annonay, font voler un premier ballon en public le 4 juin 1783. Le 21 novembre suivant, Pilâtre de Rozier et le marquis d'Arlandes réalisent à Paris le premier vol humain libre. Dix jours plus tard, le physicien Jacques Charles s'envole à bord d'un ballon gonflé à l'hydrogène, la « charlière ».",
+      "anecdote": "En septembre 1783 à Versailles, les premiers passagers d'une montgolfière furent un mouton, un canard et un coq.",
+      "source": "Wikipédia (fr) — « Montgolfière »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-01-5",
+      "categorie": "inventions",
+      "niveau": 1,
+      "question": "Quelle invention circulaire, apparue il y a plus de 5 000 ans, équipe aussi bien les chariots que les tours de potier ?",
+      "reponse": "Roue",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Poulie",
+          "Engrenage"
+        ]
+      },
+      "explication": "Les plus anciennes traces de roues datent du IVe millénaire av. J.-C., en Mésopotamie et en Europe. Les premières sont des disques de bois pleins ; la roue à rayons, plus légère, apparaît vers 2000 av. J.-C. sur les chars de guerre. L'une des plus anciennes roues de bois retrouvées, dans les marais de Ljubljana, en Slovénie, a environ 5 000 ans.",
+      "anecdote": "Des civilisations précolombiennes du Mexique fabriquaient des jouets à roulettes, sans utiliser la roue pour le transport.",
+      "source": "Wikipédia (fr) — « Roue »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-01-6",
+      "categorie": "inventions",
+      "niveau": 1,
+      "question": "Quel instrument indique l'heure grâce à l'ombre d'une tige éclairée par le Soleil ?",
+      "reponse": "Cadran solaire",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Sablier",
+          "Clepsydre",
+          "Boussole"
+        ]
+      },
+      "explication": "La tige qui projette l'ombre s'appelle le style, ou gnomon. Les Égyptiens et les Babyloniens mesuraient déjà le temps ainsi il y a plus de 3 000 ans. Le cadran indique l'heure solaire du lieu, qui diffère de l'heure légale : en France, en été, l'écart approche souvent deux heures. Il reste évidemment muet la nuit et par temps couvert.",
+      "anecdote": "Beaucoup de cadrans portent une devise sur la fuite du temps, comme « Vulnerant omnes, ultima necat » : toutes blessent, la dernière tue.",
+      "source": "Wikipédia (fr) — « Cadran solaire »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-01-7",
+      "categorie": "inventions",
+      "niveau": 1,
+      "question": "Quel train français, mis en service en 1981 entre Paris et Lyon, roulait à 260 km/h ?",
+      "reponse": "TGV",
+      "variantes": [
+        "Train à grande vitesse",
+        "TGV Sud-Est"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Eurostar",
+          "Thalys",
+          "Shinkansen"
+        ],
+        "exact": true
+      },
+      "explication": "Inauguré en septembre 1981 par François Mitterrand, le TGV Sud-Est met Lyon à 2 heures 40 de Paris, contre près de 4 heures auparavant. Il circule sur une ligne nouvelle, construite pour la grande vitesse. Le réseau s'étend ensuite vers l'ouest, le nord et la Méditerranée. Avant la mise en service, une rame d'essai avait atteint 380 km/h en février 1981.",
+      "source": "Wikipédia (fr) — « TGV Sud-Est »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-01-8",
+      "categorie": "inventions",
+      "niveau": 1,
+      "question": "Quel matériau transparent est fabriqué en faisant fondre du sable à très haute température ?",
+      "reponse": "Verre",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Plastique",
+          "Porcelaine",
+          "Plexiglas"
+        ]
+      },
+      "explication": "Le verre courant associe du sable, riche en silice, à de la soude et de la chaux, fondus vers 1 500 °C. Les premiers objets en verre, des perles, apparaissent en Mésopotamie au IIIe millénaire av. J.-C. Au Ier siècle av. J.-C., l'invention du soufflage à la canne, au Proche-Orient, permet de produire vite des récipients et rend le verre courant dans l'Empire romain.",
+      "anecdote": "Selon Pline l'Ancien, des marchands phéniciens auraient découvert le verre en calant leur marmite sur des blocs de natron, sur une plage.",
+      "source": "Wikipédia (fr) — « Verre »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-02-1",
+      "categorie": "inventions",
+      "niveau": 2,
+      "question": "Quel inventeur né en Écosse a obtenu en 1876, aux États-Unis, le brevet du téléphone ?",
+      "reponse": "Alexander Graham Bell",
+      "variantes": [
+        "Graham Bell"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Thomas Edison",
+          "Antonio Meucci",
+          "Elisha Gray"
+        ]
+      },
+      "explication": "Le 14 février 1876, la demande de brevet de Bell est déposée le jour même où Elisha Gray dépose un document sur une invention voisine ; le brevet est accordé le 7 mars. La paternité reste discutée : l'Italien Antonio Meucci avait travaillé avant eux sur un appareil comparable, et la Chambre des représentants américaine a salué son rôle en 2002.",
+      "anecdote": "La première phrase transmise, le 10 mars 1876, s'adressait à son assistant : « Monsieur Watson, venez ici, je veux vous voir. »",
+      "source": "Wikipédia (fr) — « Alexander Graham Bell »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-02-2",
+      "categorie": "inventions",
+      "niveau": 2,
+      "question": "Quel Français, aveugle depuis l'enfance, a inventé une écriture en points en relief lisible au toucher ?",
+      "reponse": "Louis Braille",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Valentin Haüy",
+          "Charles Barbier"
+        ]
+      },
+      "explication": "Né en 1809 à Coupvray, Louis Braille se blesse à l'œil à 3 ans dans l'atelier de bourrellerie de son père et devient totalement aveugle. Élève de l'Institution royale des jeunes aveugles, à Paris, il simplifie l'« écriture nocturne » du capitaine Charles Barbier et publie en 1829 son système à six points, adopté depuis dans le monde entier.",
+      "anecdote": "Ses restes ont été transférés au Panthéon en 1952, mais ses mains sont restées dans sa tombe de Coupvray.",
+      "source": "Wikipédia (fr) — « Louis Braille »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-02-3",
+      "categorie": "inventions",
+      "niveau": 2,
+      "question": "Quel instrument médical, muni d'une aiguille creuse, sert à injecter un médicament sous la peau ?",
+      "reponse": "Seringue",
+      "variantes": [
+        "Seringue hypodermique"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Stéthoscope",
+          "Pipette",
+          "Perfusion"
+        ]
+      },
+      "explication": "Des seringues existaient depuis l'Antiquité pour des lavements ou des injections dans des plaies. La seringue hypodermique, associée à une aiguille creuse capable de traverser la peau, est mise au point au début des années 1850, de façon indépendante, par le Français Charles-Gabriel Pravaz et l'Écossais Alexander Wood. Les seringues jetables en plastique se généralisent dans la seconde moitié du XXe siècle.",
+      "source": "Wikipédia (fr) — « Seringue »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-02-4",
+      "categorie": "inventions",
+      "niveau": 2,
+      "question": "Quel industriel américain a produit à la chaîne, dès 1913, une voiture surnommée « Tin Lizzie » ?",
+      "reponse": "Henry Ford",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Louis Renault",
+          "André Citroën",
+          "Edsel Ford"
+        ],
+        "nomSeul": true
+      },
+      "explication": "Lancée en 1908, la Ford T est conçue pour être simple, robuste et bon marché. En 1913, l'usine de Highland Park, près de Detroit, adopte la chaîne de montage mobile : l'assemblage d'un châssis passe de plus de 12 heures à environ 1 heure 30. Plus de 15 millions d'exemplaires sont vendus jusqu'en 1927.",
+      "anecdote": "Ford aurait dit que le client pouvait choisir n'importe quelle couleur, « pourvu qu'elle soit noire ».",
+      "source": "Wikipédia (fr) — « Ford T »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul explicite (Edsel Ford en piège)."
+      }
+    },
+    {
+      "id": "inv-02-5",
+      "categorie": "inventions",
+      "niveau": 2,
+      "question": "Quel disque lu par un laser, lancé en 1982 par Philips et Sony, a supplanté le vinyle ?",
+      "reponse": "CD",
+      "variantes": [
+        "Disque compact",
+        "Compact disc",
+        "Compact disque"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "DVD",
+          "Minidisc",
+          "Cassette"
+        ],
+        "exact": true
+      },
+      "explication": "Le disque compact stocke la musique sous forme numérique, en minuscules creux gravés dans une couche réfléchissante que lit un faisceau laser, sans contact ni usure. Il mesure 12 centimètres et contient à l'origine 74 minutes de son. Les premiers lecteurs sont vendus au Japon en octobre 1982. Le même support servira ensuite à stocker des données informatiques avec le CD-ROM.",
+      "anecdote": "Le premier album commercialisé sur CD au Japon fut « 52nd Street », de Billy Joel.",
+      "source": "Wikipédia (fr) — « Disque compact »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-02-6",
+      "categorie": "inventions",
+      "niveau": 2,
+      "question": "Quel moyen de transport urbain souterrain a vu le jour à Londres en 1863, une première mondiale ?",
+      "reponse": "Métro",
+      "variantes": [
+        "Métropolitain",
+        "Underground",
+        "Tube",
+        "Chemin de fer métropolitain"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Tramway",
+          "RER",
+          "Funiculaire"
+        ]
+      },
+      "explication": "Le 10 janvier 1863, le Metropolitan Railway relie Paddington à Farringdon, dans le centre de Londres. Ses trains sont tirés par des locomotives à vapeur, ce qui rend les tunnels enfumés. Les premières lignes électriques arrivent en 1890. Paris inaugure sa première ligne le 19 juillet 1900, entre Porte de Vincennes et Porte Maillot, pendant l'Exposition universelle.",
+      "source": "Wikipédia (fr) — « Métro de Londres »",
+      "verification": {
+        "statut": "relue",
+        "note": "Énoncé reformulé (« inauguré pour la première fois au monde »)."
+      }
+    },
+    {
+      "id": "inv-02-7",
+      "categorie": "inventions",
+      "niveau": 2,
+      "question": "Quel appareil de cuisine est né après qu'un ingénieur a vu fondre une barre chocolatée près d'un radar ?",
+      "reponse": "Four à micro-ondes",
+      "variantes": [
+        "Micro-ondes",
+        "Micro-onde",
+        "Four micro-ondes"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Grille-pain",
+          "Four électrique",
+          "Plaque à induction"
+        ]
+      },
+      "explication": "Vers 1945, l'Américain Percy Spencer, de l'entreprise Raytheon, travaille sur des magnétrons, les tubes qui produisent les ondes des radars. Il remarque qu'une friandise a fondu dans sa poche, puis réussit à faire éclater du maïs à pop-corn. Le premier four commercial, le Radarange, sort en 1947 : il mesure près de 1,80 mètre et pèse environ 340 kilos.",
+      "source": "Wikipédia (fr) — « Four à micro-ondes »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-02-8",
+      "categorie": "inventions",
+      "niveau": 2,
+      "question": "Quel instrument mesure une durée grâce à du sable qui s'écoule d'une ampoule de verre à l'autre ?",
+      "reponse": "Sablier",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Clepsydre",
+          "Cadran solaire",
+          "Métronome"
+        ]
+      },
+      "explication": "Le sablier se répand en Europe à la fin du Moyen Âge : l'une de ses plus anciennes représentations figure sur une fresque d'Ambrogio Lorenzetti, à Sienne, peinte vers 1338. Peu sensible au roulis, il servait sur les navires à mesurer la vitesse, en comptant les nœuds d'une corde filant pendant un temps donné. On l'utilise encore dans les jeux de société et en cuisine.",
+      "source": "Wikipédia (fr) — « Sablier »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-03-1",
+      "categorie": "inventions",
+      "niveau": 3,
+      "question": "Quel physicien italien a présenté en 1800 la première pile électrique, faite de disques de zinc et de cuivre ?",
+      "reponse": "Alessandro Volta",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Luigi Galvani",
+          "André-Marie Ampère"
+        ]
+      },
+      "explication": "Volta empile des disques de zinc et de cuivre séparés par du carton imbibé d'eau salée et obtient un courant continu, ce qu'aucun appareil ne permettait jusque-là. Il décrit son invention dans une lettre à la Royal Society de Londres en mars 1800. Ses recherches répondaient à un débat avec Luigi Galvani sur l'électricité des cuisses de grenouilles.",
+      "anecdote": "En 1801, il présenta sa pile à Paris devant Bonaparte, qui le fit plus tard comte.",
+      "source": "Wikipédia (fr) — « Alessandro Volta »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-03-2",
+      "categorie": "inventions",
+      "niveau": 3,
+      "question": "Quel inventeur italien a annoncé en 1901 la première liaison radio à travers l'Atlantique ?",
+      "reponse": "Guglielmo Marconi",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Nikola Tesla",
+          "Édouard Branly"
+        ]
+      },
+      "explication": "Le 12 décembre 1901, Marconi affirme avoir capté à Terre-Neuve la lettre S en morse, émise depuis Poldhu, en Cornouailles, à plus de 3 000 kilomètres. Ce résultat a parfois été mis en doute, mais il lance la radiotélégraphie maritime. Marconi reçoit le prix Nobel de physique en 1909, avec l'Allemand Ferdinand Braun.",
+      "anecdote": "En 1912, les appels de détresse du Titanic furent lancés par deux opérateurs employés par la compagnie Marconi.",
+      "source": "Wikipédia (fr) — « Guglielmo Marconi »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-03-3",
+      "categorie": "inventions",
+      "niveau": 3,
+      "question": "Quel code fait de points et de traits a été conçu pour transmettre des messages par télégraphe électrique ?",
+      "reponse": "Code Morse",
+      "variantes": [
+        "Morse",
+        "Alphabet Morse"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Braille",
+          "Code Baudot"
+        ]
+      },
+      "explication": "Le peintre américain Samuel Morse s'intéresse au télégraphe électrique dans les années 1830 et met au point, avec Alfred Vail, un code associant chaque lettre à une combinaison de signaux courts et longs. Le 24 mai 1844, il transmet de Washington à Baltimore le message « What hath God wrought ». Les lettres les plus fréquentes, comme le E, ont les codes les plus courts.",
+      "anecdote": "Le signal de détresse SOS, trois points, trois traits, trois points, a été choisi pour sa simplicité, et non comme abréviation.",
+      "source": "Wikipédia (fr) — « Code Morse international »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-03-4",
+      "categorie": "inventions",
+      "niveau": 3,
+      "question": "En quelle année l'URSS a-t-elle placé en orbite Spoutnik 1, le premier satellite artificiel ?",
+      "reponse": "1957",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 1957,
+        "tolerance": 0
+      },
+      "explication": "Le 4 octobre 1957, une fusée R-7 lance depuis Baïkonour une sphère d'aluminium de 58 centimètres et d'environ 84 kilos, munie de quatre antennes. Son « bip-bip » est capté par les radioamateurs du monde entier. Le choc est immense aux États-Unis, qui créent la NASA l'année suivante : la course à l'espace est lancée.",
+      "anecdote": "Un mois plus tard, Spoutnik 2 emportait la chienne Laïka, premier animal placé en orbite autour de la Terre.",
+      "source": "Wikipédia (fr) — « Spoutnik 1 »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-03-5",
+      "categorie": "inventions",
+      "niveau": 3,
+      "question": "Dans quel pays le papier a-t-il été mis au point, sa fabrication étant traditionnellement attribuée à Cai Lun ?",
+      "reponse": "Chine",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Égypte",
+          "Japon",
+          "Corée"
+        ]
+      },
+      "explication": "En 105, le dignitaire Cai Lun présente à l'empereur des Han un papier fait d'écorce de mûrier, de chanvre, de vieux chiffons et de filets de pêche. Des fragments plus anciens ont été retrouvés, ce qui fait de lui un perfectionneur plus qu'un inventeur. Le papier gagne le monde arabe au VIIIe siècle, puis l'Europe par l'Espagne au XIIe siècle.",
+      "anecdote": "Le papyrus égyptien n'est pas du papier : ses tiges sont posées en couches croisées et pressées, et non réduites en pâte.",
+      "source": "Wikipédia (fr) — « Papier »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-03-6",
+      "categorie": "inventions",
+      "niveau": 3,
+      "question": "Quel aviateur français a réussi la première traversée de la Manche en avion, le 25 juillet 1909 ?",
+      "reponse": "Louis Blériot",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Hubert Latham",
+          "Roland Garros",
+          "Clément Ader"
+        ]
+      },
+      "explication": "Parti à l'aube des Baraques, près de Calais, Louis Blériot se pose à Douvres après environ 37 minutes de vol, à bord de son monoplan Blériot XI. Il remporte le prix de 1 000 livres offert par le journal Daily Mail. Son rival Hubert Latham avait échoué quelques jours plus tôt, une panne de moteur l'obligeant à se poser en mer.",
+      "source": "Wikipédia (fr) — « Louis Blériot »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-03-7",
+      "categorie": "inventions",
+      "niveau": 3,
+      "question": "Quel inventeur d'origine serbe a défendu le courant alternatif face à Thomas Edison ?",
+      "reponse": "Nikola Tesla",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "George Westinghouse",
+          "Guglielmo Marconi"
+        ]
+      },
+      "explication": "Né en 1856 dans l'actuelle Croatie, Nikola Tesla travaille brièvement pour Edison avant de mettre au point un moteur à courant alternatif, dont George Westinghouse acquiert les brevets en 1888. La « guerre des courants » oppose alors ce système au courant continu d'Edison. Le courant alternatif l'emporte, notamment avec la centrale des chutes du Niagara, à la fin du XIXe siècle.",
+      "anecdote": "L'unité de mesure de l'induction magnétique, le tesla, porte son nom depuis 1960.",
+      "source": "Wikipédia (fr) — « Nikola Tesla »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-03-8",
+      "categorie": "inventions",
+      "niveau": 3,
+      "question": "Quel baladeur à cassette, lancé par Sony en 1979, a permis d'écouter sa musique partout ?",
+      "reponse": "Walkman",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Discman",
+          "iPod",
+          "Minidisc"
+        ]
+      },
+      "explication": "Le premier Walkman, le TPS-L2, sort au Japon le 1er juillet 1979. Il n'enregistre pas et n'a pas de haut-parleur : il se contente de lire des cassettes au casque. Pour qu'on puisse partager la musique, il possède deux prises pour casque. Son succès est mondial : Sony vend environ 200 millions de baladeurs à cassette au fil des modèles.",
+      "anecdote": "À ses débuts, il fut vendu sous d'autres noms : Soundabout aux États-Unis, Stowaway au Royaume-Uni.",
+      "source": "Wikipédia (fr) — « Walkman »",
+      "verification": {
+        "statut": "relue",
+        "note": "« plus de 200 millions » ramené à « environ 200 millions »."
+      }
+    },
+    {
+      "id": "inv-04-1",
+      "categorie": "inventions",
+      "niveau": 4,
+      "question": "Quel ingénieur français a conçu l'armature métallique intérieure de la statue de la Liberté ?",
+      "reponse": "Gustave Eiffel",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Auguste Bartholdi",
+          "Viollet-le-Duc"
+        ]
+      },
+      "explication": "Le sculpteur Auguste Bartholdi avait d'abord confié la structure à Eugène Viollet-le-Duc, mort en 1879. Gustave Eiffel imagine alors un pylône de fer sur lequel est fixée une fine peau de cuivre, assez souple pour résister au vent et aux variations de température. Assemblée à Paris, démontée puis expédiée à New York, la statue y est inaugurée en 1886.",
+      "anecdote": "Avant sa tour de 1889, Eiffel s'était déjà illustré avec le viaduc de Garabit, dans le Cantal, achevé en 1884.",
+      "source": "Wikipédia (fr) — « Statue de la Liberté »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-04-2",
+      "categorie": "inventions",
+      "niveau": 4,
+      "question": "Quel ingénieur, né à Paris de parents allemands, a donné son nom au moteur à allumage par compression ?",
+      "reponse": "Rudolf Diesel",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Nikolaus Otto",
+          "Gottlieb Daimler"
+        ]
+      },
+      "explication": "Rudolf Diesel cherche un moteur plus efficace que la machine à vapeur : dans le sien, l'air est si fortement comprimé qu'il s'échauffe assez pour enflammer le carburant, sans bougie. Il dépose ses brevets en 1892 et fait fonctionner un premier moteur en 1897 à Augsbourg. En 1913, il disparaît mystérieusement lors d'une traversée de la mer du Nord vers l'Angleterre.",
+      "anecdote": "À l'Exposition universelle de Paris, en 1900, un moteur Diesel fonctionnait à l'huile d'arachide.",
+      "source": "Wikipédia (fr) — « Rudolf Diesel »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-04-3",
+      "categorie": "inventions",
+      "niveau": 4,
+      "question": "Quel physicien allemand a découvert en 1895 les rayons X, bientôt utilisés pour la radiographie ?",
+      "reponse": "Wilhelm Röntgen",
+      "variantes": [
+        "Wilhelm Conrad Röntgen",
+        "Roentgen",
+        "Wilhelm Roentgen"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Henri Becquerel",
+          "Heinrich Hertz"
+        ]
+      },
+      "explication": "Le 8 novembre 1895, à Wurtzbourg, Röntgen remarque qu'un écran fluorescent s'illumine près d'un tube à décharge pourtant recouvert de carton. Il nomme ces rayons inconnus « X ». Quelques semaines plus tard, il radiographie la main de son épouse, bague comprise. En quelques mois, les hôpitaux s'équipent. Il reçoit en 1901 le tout premier prix Nobel de physique.",
+      "anecdote": "Röntgen refusa de breveter sa découverte, estimant qu'elle devait profiter à tous.",
+      "source": "Wikipédia (fr) — « Wilhelm Röntgen »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-04-4",
+      "categorie": "inventions",
+      "niveau": 4,
+      "question": "Quel avion de ligne supersonique franco-britannique a effectué son premier vol en 1969, à Toulouse ?",
+      "reponse": "Concorde",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Tupolev Tu-144",
+          "Caravelle",
+          "Airbus"
+        ]
+      },
+      "explication": "Piloté par André Turcat, le prototype décolle le 2 mars 1969. En service commercial à partir de 1976 avec Air France et British Airways, Concorde vole à Mach 2 et relie Paris à New York en environ 3 heures 30. Seuls vingt exemplaires sont construits. Après l'accident de Gonesse, en juillet 2000, il est retiré du service en 2003.",
+      "anecdote": "Son rival soviétique, le Tupolev Tu-144, avait volé le premier, le 31 décembre 1968.",
+      "source": "Wikipédia (fr) — « Concorde (avion) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-04-5",
+      "categorie": "inventions",
+      "niveau": 4,
+      "question": "Quel savant français a construit à 19 ans une machine à calculer pour aider son père, chargé des impôts ?",
+      "reponse": "Blaise Pascal",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Gottfried Leibniz",
+          "René Descartes"
+        ]
+      },
+      "explication": "En 1642, à Rouen, Blaise Pascal veut épargner à son père, chargé de répartir l'impôt en Normandie, des calculs fastidieux. Sa machine, la Pascaline, additionne et soustrait grâce à des roues dentées et à un ingénieux report des retenues. Il en fait fabriquer une vingtaine d'exemplaires et obtient en 1649 un privilège royal, mais l'appareil, coûteux, se vend mal.",
+      "anecdote": "Le langage informatique Pascal, créé vers 1970 par Niklaus Wirth, a été nommé en son honneur.",
+      "source": "Wikipédia (fr) — « Pascaline »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-04-6",
+      "categorie": "inventions",
+      "niveau": 4,
+      "question": "Comment s'appelle la « machine à courir » à deux roues et sans pédales, inventée en 1817 par un baron allemand ?",
+      "reponse": "Draisienne",
+      "variantes": [
+        "Laufmaschine"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Grand-bi",
+          "Trottinette",
+          "Bicyclette"
+        ]
+      },
+      "explication": "Le 12 juin 1817, près de Mannheim, le baron Karl Drais parcourt une quinzaine de kilomètres en une heure environ, en se poussant avec les pieds sur sa machine en bois. Le cavalier s'assoit entre deux roues alignées et dirige la roue avant. Il faut attendre les années 1860 pour que des pédales, fixées sur la roue avant, donnent naissance aux premiers vélocipèdes à pédales.",
+      "anecdote": "La draisienne connaît une seconde vie comme vélo d'apprentissage pour les jeunes enfants.",
+      "source": "Wikipédia (fr) — « Draisienne »",
+      "verification": {
+        "statut": "relue",
+        "note": "Énoncé : « baron Karl Drais » donnait la réponse, remplacé par « un baron allemand ». Piège « Vélocipède » retiré (nom donné à la draisienne en France en 1818). Variante Laufmaschine."
+      }
+    },
+    {
+      "id": "inv-04-7",
+      "categorie": "inventions",
+      "niveau": 4,
+      "question": "Quel gros-porteur d'Airbus, à deux ponts sur toute sa longueur, a effectué son premier vol en 2005 ?",
+      "reponse": "A380",
+      "variantes": [
+        "Airbus A380"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "A350",
+          "A340",
+          "Boeing 747"
+        ],
+        "exact": true
+      },
+      "explication": "Le 27 avril 2005, l'A380 décolle de Toulouse-Blagnac pour un premier vol de près de quatre heures. Mis en service en 2007 par Singapore Airlines, il peut emporter plus de 500 passagers dans une configuration classique. Trop gros et trop gourmand pour beaucoup de compagnies face aux biréacteurs, il voit sa production arrêtée en 2021, après environ 250 exemplaires.",
+      "source": "Wikipédia (fr) — « Airbus A380 »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-04-8",
+      "categorie": "inventions",
+      "niveau": 4,
+      "question": "Quel savant grec de Syracuse a donné son nom à une vis servant à élever l'eau ?",
+      "reponse": "Archimède",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Pythagore",
+          "Euclide",
+          "Héron d'Alexandrie"
+        ]
+      },
+      "explication": "La vis d'Archimède est une hélice qui tourne dans un cylindre incliné : à chaque tour, l'eau remonte d'un pas. Son attribution au savant du IIIe siècle av. J.-C. vient d'auteurs antiques, mais certains historiens pensent qu'un dispositif semblable existait déjà en Mésopotamie. Elle sert encore dans des stations d'épuration et dans certaines petites centrales hydroélectriques.",
+      "source": "Wikipédia (fr) — « Vis d'Archimède »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-05-1",
+      "categorie": "inventions",
+      "niveau": 5,
+      "question": "Quel médecin français a inventé le stéthoscope en 1816, à l'hôpital Necker ?",
+      "reponse": "René Laennec",
+      "variantes": [
+        "Laënnec",
+        "René Laënnec",
+        "René-Théophile-Hyacinthe Laennec"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Ambroise Paré",
+          "Jean-Martin Charcot"
+        ]
+      },
+      "explication": "Gêné d'appliquer l'oreille contre la poitrine d'une jeune patiente, René Laennec roule un cahier en cylindre et s'aperçoit qu'il entend mieux les battements du cœur. Il remplace le papier par un tube de bois et décrit l'auscultation en 1819 dans un traité célèbre. Il meurt en 1826 de la tuberculose, une maladie qu'il avait beaucoup étudiée.",
+      "anecdote": "Le mot « stéthoscope » vient du grec « stêthos », la poitrine, et « skopein », examiner.",
+      "source": "Wikipédia (fr) — « René-Théophile-Hyacinthe Laennec »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-05-2",
+      "categorie": "inventions",
+      "niveau": 5,
+      "question": "Quel inventeur français a réalisé vers 1827 la plus ancienne photographie d'après nature conservée ?",
+      "reponse": "Nicéphore Niépce",
+      "variantes": [
+        "Joseph Nicéphore Niépce"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Louis Daguerre",
+          "Henry Fox Talbot"
+        ]
+      },
+      "explication": "Depuis une fenêtre de sa maison de Saint-Loup-de-Varennes, en Saône-et-Loire, Niépce fixe le « Point de vue du Gras » sur une plaque d'étain recouverte de bitume de Judée, qui durcit à la lumière. La pose aurait duré de nombreuses heures. Il s'associe en 1829 avec Louis Daguerre, mais meurt en 1833, avant la présentation du daguerréotype.",
+      "anecdote": "Cette image est conservée aux États-Unis, à l'université du Texas à Austin.",
+      "source": "Wikipédia (fr) — « Nicéphore Niépce »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-05-3",
+      "categorie": "inventions",
+      "niveau": 5,
+      "question": "Quel ingénieur allemand a déposé en janvier 1886 le brevet d'un tricycle à moteur à essence ?",
+      "reponse": "Karl Benz",
+      "variantes": [
+        "Carl Benz"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Gottlieb Daimler",
+          "Wilhelm Maybach",
+          "Rudolf Diesel"
+        ]
+      },
+      "explication": "Le brevet du 29 janvier 1886 décrit la Benz Patent-Motorwagen, un tricycle à moteur monocylindre souvent considéré comme la première automobile moderne. La même année, Gottlieb Daimler et Wilhelm Maybach motorisent de leur côté une voiture à quatre roues. Leurs deux entreprises fusionnent en 1926 pour former Daimler-Benz, futur constructeur des Mercedes-Benz.",
+      "anecdote": "En 1888, son épouse Bertha parcourut environ 100 kilomètres avec la voiture, achetant son carburant dans une pharmacie.",
+      "source": "Wikipédia (fr) — « Benz Patent-Motorwagen »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-05-4",
+      "categorie": "inventions",
+      "niveau": 5,
+      "question": "Quelle matière, mise au point en 1907 par Leo Baekeland, est considérée comme le premier plastique entièrement synthétique ?",
+      "reponse": "Bakélite",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Celluloïd",
+          "Nylon",
+          "Galalithe"
+        ]
+      },
+      "explication": "Le chimiste belge Leo Baekeland, installé aux États-Unis, fait réagir du phénol et du formaldéhyde à chaud et sous pression. Il obtient une résine dure, isolante et moulable, qui ne fond plus une fois durcie. Contrairement au celluloïd, tiré de la cellulose, elle ne doit rien à une matière naturelle. Elle habille téléphones, radios et prises électriques dans l'entre-deux-guerres.",
+      "anecdote": "Baekeland avait déjà fait fortune en vendant à George Eastman, le fondateur de Kodak, son papier photographique Velox.",
+      "source": "Wikipédia (fr) — « Bakélite »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-05-5",
+      "categorie": "inventions",
+      "niveau": 5,
+      "question": "Comment appelle-t-on l'horloge à eau utilisée dans l'Antiquité pour mesurer le temps ?",
+      "reponse": "Clepsydre",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Sablier",
+          "Cadran solaire",
+          "Gnomon"
+        ]
+      },
+      "explication": "Une clepsydre mesure le temps grâce à l'écoulement régulier de l'eau d'un récipient gradué. La plus ancienne connue, retrouvée à Karnak, date du règne d'Amenhotep III, vers 1400 av. J.-C. À Athènes, les tribunaux s'en servaient pour limiter le temps de parole des plaideurs. Contrairement au cadran solaire, elle fonctionne la nuit et par temps couvert.",
+      "anecdote": "Le mot vient du grec et signifie littéralement « qui vole l'eau ».",
+      "source": "Wikipédia (fr) — « Clepsydre »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-05-6",
+      "categorie": "inventions",
+      "niveau": 5,
+      "question": "Quel comte allemand a donné son nom aux grands dirigeables rigides du début du XXe siècle ?",
+      "reponse": "Ferdinand von Zeppelin",
+      "variantes": [
+        "Zeppelin",
+        "Comte Zeppelin",
+        "Comte de Zeppelin"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Henri Giffard",
+          "Alberto Santos-Dumont"
+        ]
+      },
+      "explication": "Ancien général, Ferdinand von Zeppelin fait voler son premier dirigeable, le LZ 1, le 2 juillet 1900 au-dessus du lac de Constance. Ses aéronefs reposent sur une armature d'aluminium abritant des ballonnets d'hydrogène. Ils transportent des passagers, puis bombardent Paris et Londres pendant la Première Guerre mondiale. L'incendie du Hindenburg, en 1937 dans le New Jersey, met fin à leur âge d'or.",
+      "source": "Wikipédia (fr) — « Ferdinand von Zeppelin »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-05-7",
+      "categorie": "inventions",
+      "niveau": 5,
+      "question": "Quel réseau de trains à grande vitesse a été inauguré au Japon en 1964, juste avant les Jeux olympiques de Tokyo ?",
+      "reponse": "Shinkansen",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Maglev",
+          "TGV"
+        ]
+      },
+      "explication": "Le 1er octobre 1964, la ligne Tōkaidō Shinkansen relie Tokyo à Osaka à 210 km/h, une vitesse alors inédite pour un service commercial. Le trajet passe d'environ six heures et demie à quatre heures, puis à un peu plus de trois heures dès l'année suivante. Les Occidentaux surnomment ces trains « trains-obus », à cause de leur nez arrondi.",
+      "anecdote": "Le mot « shinkansen » signifie « nouvelle ligne principale ».",
+      "source": "Wikipédia (fr) — « Shinkansen »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-05-8",
+      "categorie": "inventions",
+      "niveau": 5,
+      "question": "Quel savant et homme politique américain a inventé le paratonnerre au milieu du XVIIIe siècle ?",
+      "reponse": "Benjamin Franklin",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Thomas Jefferson",
+          "Thomas Edison"
+        ],
+        "nomSeul": true
+      },
+      "explication": "Convaincu que la foudre est une décharge électrique, Benjamin Franklin propose dès 1750 de protéger les bâtiments par une tige de métal pointue reliée au sol. En mai 1752, à Marly-la-Ville, le Français Thomas-François Dalibard confirme son hypothèse en recueillant des étincelles d'un nuage d'orage. Franklin publie en 1753 des instructions pour installer des paratonnerres.",
+      "anecdote": "On lui attribue aussi les lunettes à double foyer, qui lui servaient à la fois pour lire et pour voir de loin.",
+      "source": "Wikipédia (fr) — « Paratonnerre »",
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote : lunettes à double foyer présentées comme attribuées. nomSeul explicite (l'énoncé désigne Benjamin Franklin sans ambiguïté)."
+      }
+    },
+    {
+      "id": "inv-06-1",
+      "categorie": "inventions",
+      "niveau": 6,
+      "question": "Quel ingénieur militaire français a construit en 1769 un fardier à vapeur, ancêtre de l'automobile ?",
+      "reponse": "Nicolas-Joseph Cugnot",
+      "variantes": [
+        "Joseph Cugnot"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Denis Papin",
+          "Claude de Jouffroy d'Abbans"
+        ],
+        "nom": "Cugnot"
+      },
+      "explication": "Commandé par l'armée pour tracter des canons, le fardier de Cugnot est un lourd chariot à trois roues, entraîné par une machine à vapeur placée à l'avant. Il avance à quelques kilomètres à l'heure et doit s'arrêter régulièrement pour reconstituer sa pression. Le projet est abandonné, mais le second exemplaire, de 1770, est conservé au musée des Arts et Métiers, à Paris.",
+      "source": "Wikipédia (fr) — « Fardier de Cugnot »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-06-2",
+      "categorie": "inventions",
+      "niveau": 6,
+      "question": "Quel inventeur lyonnais a mis au point, au début du XIXe siècle, un métier à tisser commandé par cartes perforées ?",
+      "reponse": "Joseph-Marie Jacquard",
+      "variantes": [
+        "Joseph Marie Jacquard"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Jacques de Vaucanson",
+          "Basile Bouchon"
+        ],
+        "nom": "Jacquard"
+      },
+      "explication": "Le métier Jacquard lit une chaîne de cartes perforées : chaque trou détermine quels fils se lèvent, ce qui permet de tisser des motifs complexes sans ouvrier chargé de tirer les fils. L'inventeur reprend des idées de Basile Bouchon et de Jacques de Vaucanson. Mal accueilli par des canuts qui craignent pour leur emploi, son métier s'impose pourtant et inspirera les premières machines programmables.",
+      "source": "Wikipédia (fr) — « Métier Jacquard »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-06-3",
+      "categorie": "inventions",
+      "niveau": 6,
+      "question": "Quel industriel américain a présenté en 1854, à New York, un ascenseur muni d'un frein de sécurité ?",
+      "reponse": "Elisha Otis",
+      "variantes": [
+        "Elisha Graves Otis"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Werner von Siemens",
+          "Frank Sprague"
+        ]
+      },
+      "explication": "Les monte-charges existaient déjà, mais la rupture du câble les rendait dangereux. En 1854, lors d'une exposition au Crystal Palace de New York, Elisha Otis se fait hisser sur une plateforme puis fait trancher le câble : un ressort libère des cliquets qui s'accrochent aux crémaillères des guides et bloquent la chute. En 1857, un premier ascenseur pour passagers de sa société est installé dans un magasin de Broadway.",
+      "anecdote": "L'entreprise qui porte son nom est devenue l'un des plus grands fabricants mondiaux d'ascenseurs et d'escaliers mécaniques.",
+      "source": "Wikipédia (fr) — « Elisha Otis »",
+      "verification": {
+        "statut": "relue",
+        "note": "Remplace la question sur John Logie Baird, doublon de tel-05-1."
+      }
+    },
+    {
+      "id": "inv-06-4",
+      "categorie": "inventions",
+      "niveau": 6,
+      "question": "Quel chirurgien sud-africain a réalisé la première greffe de cœur d'un humain à un autre, en 1967 ?",
+      "reponse": "Christiaan Barnard",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Norman Shumway",
+          "Michael DeBakey"
+        ]
+      },
+      "explication": "Le 3 décembre 1967, à l'hôpital Groote Schuur du Cap, Christiaan Barnard transplante à Louis Washkansky le cœur d'une jeune femme morte dans un accident de la route. Le patient survit 18 jours avant de succomber à une pneumonie, son système immunitaire étant affaibli par les médicaments antirejet. L'opération fait de Barnard une célébrité mondiale.",
+      "anecdote": "Son deuxième patient, Philip Blaiberg, opéré en janvier 1968, vécut plus de dix-neuf mois.",
+      "source": "Wikipédia (fr) — « Christiaan Barnard »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-06-5",
+      "categorie": "inventions",
+      "niveau": 6,
+      "question": "Quel mathématicien anglais a conçu dans les années 1830 la machine analytique, ancêtre de l'ordinateur ?",
+      "reponse": "Charles Babbage",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Alan Turing",
+          "Ada Lovelace",
+          "George Boole"
+        ]
+      },
+      "explication": "Charles Babbage imagine une machine à engrenages programmable par cartes perforées, comme celles des métiers à tisser, avec une unité de calcul et une mémoire distinctes. Faute d'argent et de techniques assez précises, elle n'est jamais construite. En 1843, Ada Lovelace publie des notes décrivant un programme destiné à cette machine, souvent considéré comme le premier de l'histoire.",
+      "anecdote": "En 1991, le Science Museum de Londres a construit d'après ses plans sa machine à différences n° 2 : elle fonctionne.",
+      "source": "Wikipédia (fr) — « Machine analytique »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-06-6",
+      "categorie": "inventions",
+      "niveau": 6,
+      "question": "Quel ingénieur français a créé le télégraphe optique à bras articulés, inauguré entre Paris et Lille en 1794 ?",
+      "reponse": "Claude Chappe",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Samuel Morse",
+          "Ignace Chappe"
+        ],
+        "nomSeul": true
+      },
+      "explication": "Le télégraphe de Claude Chappe repose sur des tours bâties à vue les unes des autres, surmontées de bras mobiles dont les positions codent des signes. Les opérateurs relaient le message de tour en tour à la longue-vue. Dès 1794, des nouvelles du front du Nord atteignent Paris en quelques heures. Le réseau compte plus de 500 stations avant d'être remplacé par le télégraphe électrique.",
+      "source": "Wikipédia (fr) — « Télégraphe Chappe »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul explicite (Ignace Chappe en piège)."
+      }
+    },
+    {
+      "id": "inv-06-7",
+      "categorie": "inventions",
+      "niveau": 6,
+      "question": "Quel ingénieur américain a mis en service en 1807, sur l'Hudson, le Clermont, bateau à vapeur rentable ?",
+      "reponse": "Robert Fulton",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "John Fitch",
+          "Robert Stephenson"
+        ]
+      },
+      "explication": "En août 1807, le Clermont remonte l'Hudson de New York à Albany, soit environ 240 kilomètres, en 32 heures. C'est le premier service commercial durable de bateau à vapeur. D'autres avaient fait naviguer des bateaux à vapeur avant lui, comme l'Américain John Fitch en 1787, mais sans succès économique. Auparavant, Fulton avait proposé à la France un sous-marin, le Nautilus.",
+      "source": "Wikipédia (fr) — « Robert Fulton »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-06-8",
+      "categorie": "inventions",
+      "niveau": 6,
+      "question": "Quel ordinateur électronique de près de 30 tonnes a été présenté en 1946 à l'université de Pennsylvanie ?",
+      "reponse": "ENIAC",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "EDVAC",
+          "UNIVAC",
+          "Colossus"
+        ],
+        "exact": true
+      },
+      "explication": "Conçu par John Presper Eckert et John Mauchly pour calculer des tables de tir pour l'armée américaine, l'ENIAC compte près de 18 000 tubes à vide et occupe une vaste salle. Il calcule des milliers de fois plus vite que les machines électromécaniques. Sa programmation, par câbles et commutateurs, est assurée par six mathématiciennes longtemps oubliées par l'histoire.",
+      "anecdote": "En 1973, un tribunal américain a invalidé son brevet, jugeant que John Atanasoff avait conçu avant lui un calculateur électronique.",
+      "source": "Wikipédia (fr) — « ENIAC »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-07-1",
+      "categorie": "inventions",
+      "niveau": 7,
+      "question": "Quel nom de famille portent le père et le fils, ingénieurs anglais, qui ont construit la locomotive Rocket en 1829 ?",
+      "reponse": "Stephenson",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Trevithick",
+          "Watt",
+          "Brunel"
+        ]
+      },
+      "explication": "George Stephenson et son fils Robert remportent avec la Rocket le concours de Rainhill, organisé en octobre 1829 pour choisir les locomotives de la ligne Liverpool-Manchester. Sa chaudière tubulaire et son échappement efficace lui permettent de dépasser 40 km/h. George avait déjà conçu la ligne Stockton-Darlington, ouverte en 1825, et l'écartement de ses voies est devenu la norme dans une grande partie du monde.",
+      "anecdote": "Lors de l'inauguration de la ligne, en 1830, le député William Huskisson fut mortellement heurté par la Rocket.",
+      "source": "Wikipédia (fr) — « Rocket (locomotive) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-07-2",
+      "categorie": "inventions",
+      "niveau": 7,
+      "question": "Quel ingénieur britannique a conçu le Great Eastern, plus grand navire du monde à son lancement en 1858 ?",
+      "reponse": "Isambard Kingdom Brunel",
+      "variantes": [
+        "Isambard Brunel"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Marc Isambard Brunel",
+          "Marc Brunel",
+          "Robert Stephenson"
+        ],
+        "nomSeul": false
+      },
+      "explication": "Long de 211 mètres, le Great Eastern devait pouvoir emporter 4 000 passagers jusqu'en Australie sans ravitailler en charbon. Commercialement, c'est un échec, mais il pose en 1866 le premier câble télégraphique transatlantique durable. Brunel, mort en 1859, a aussi construit le chemin de fer Great Western et dessiné le pont suspendu de Clifton, à Bristol.",
+      "anecdote": "Son lancement fut si difficile que le navire resta bloqué sur sa rampe de novembre 1857 à janvier 1858.",
+      "source": "Wikipédia (fr) — « Great Eastern »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul false : son père Marc Brunel était aussi un ingénieur célèbre."
+      }
+    },
+    {
+      "id": "inv-07-3",
+      "categorie": "inventions",
+      "niveau": 7,
+      "question": "Quelle sonde de la NASA, lancée en 1977, est devenue en 2012 le premier engin humain à atteindre l'espace interstellaire ?",
+      "reponse": "Voyager 1",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Voyager 2",
+          "Pioneer 10",
+          "New Horizons"
+        ],
+        "exact": true
+      },
+      "explication": "Lancée le 5 septembre 1977, Voyager 1 survole Jupiter en 1979 puis Saturne en 1980. Le 25 août 2012, elle franchit l'héliopause, la frontière où le vent solaire cède la place au milieu interstellaire. Elle emporte un disque doré contenant des sons et des images de la Terre, destiné à d'éventuels extraterrestres. Sa jumelle Voyager 2 l'a suivie en 2018.",
+      "anecdote": "Voyager 2 a en fait été lancée la première, le 20 août 1977, quelques jours avant Voyager 1.",
+      "source": "Wikipédia (fr) — « Voyager 1 »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-07-4",
+      "categorie": "inventions",
+      "niveau": 7,
+      "question": "Quel journaliste hongrois a déposé en 1938 un brevet de stylo à bille utilisant une encre à séchage rapide ?",
+      "reponse": "László Bíró",
+      "variantes": [
+        "Laszlo Biro",
+        "Ladislao Biro",
+        "Ladislao José Bíró"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Marcel Bich",
+          "John Loud"
+        ]
+      },
+      "explication": "Agacé par les taches de son stylo-plume, László Bíró s'inspire de l'encre des imprimeries, qui sèche vite, et conçoit avec son frère György une bille qui la dépose sur le papier. Réfugié en Argentine, il y dépose un nouveau brevet en 1943 et y lance la fabrication. Le Français Marcel Bich en rachète ensuite les droits et lance en 1950 le célèbre Bic Cristal.",
+      "anecdote": "L'Américain John Loud avait breveté dès 1888 un stylo à bille, mais trop grossier pour écrire sur du papier.",
+      "source": "Wikipédia (fr) — « László Bíró »",
+      "verification": {
+        "statut": "relue",
+        "note": "Énoncé : « a déposé un brevet » (brevet britannique demandé en 1938). György : « chimiste » retiré (il était dentiste selon les sources). Bich rachète le brevet."
+      }
+    },
+    {
+      "id": "inv-07-5",
+      "categorie": "inventions",
+      "niveau": 7,
+      "question": "Quel chirurgien britannique a introduit en 1867 l'antisepsie à l'acide phénique au bloc opératoire ?",
+      "reponse": "Joseph Lister",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Louis Pasteur",
+          "Alexander Fleming",
+          "Robert Koch"
+        ]
+      },
+      "explication": "S'appuyant sur les travaux de Pasteur sur les germes, Joseph Lister désinfecte instruments, pansements et plaies avec de l'acide phénique, aussi appelé phénol. Il publie ses résultats en 1867 dans la revue The Lancet : dans son service de Glasgow, la mortalité après amputation chute fortement. Ses méthodes, d'abord contestées, s'imposent dans toute l'Europe à la fin du XIXe siècle.",
+      "anecdote": "Le bain de bouche Listerine, créé en 1879, a été baptisé en son honneur.",
+      "source": "Wikipédia (fr) — « Joseph Lister »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-07-6",
+      "categorie": "inventions",
+      "niveau": 7,
+      "question": "Quel inventeur américain a découvert en 1839 la vulcanisation, qui rend le caoutchouc résistant ?",
+      "reponse": "Charles Goodyear",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Thomas Hancock",
+          "John Boyd Dunlop",
+          "Édouard Michelin"
+        ]
+      },
+      "explication": "Le caoutchouc naturel devient collant à la chaleur et cassant par le froid. Charles Goodyear découvre qu'en le chauffant avec du soufre, il devient élastique et stable. Il ne dépose son brevet américain qu'en 1844, et l'Anglais Thomas Hancock en obtient un en Grande-Bretagne quelques mois plus tôt, d'où une longue querelle. Goodyear meurt endetté en 1860.",
+      "anecdote": "L'entreprise de pneus Goodyear, fondée en 1898, n'a aucun lien avec lui : elle a pris son nom en hommage.",
+      "source": "Wikipédia (fr) — « Charles Goodyear »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-07-7",
+      "categorie": "inventions",
+      "niveau": 7,
+      "question": "Quel ingénieur français a fait décoller l'Éole, un appareil à vapeur, sur une cinquantaine de mètres en 1890 ?",
+      "reponse": "Clément Ader",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Louis Blériot",
+          "Alberto Santos-Dumont"
+        ]
+      },
+      "explication": "Le 9 octobre 1890, à Armainvilliers, l'Éole de Clément Ader, aux ailes inspirées de la chauve-souris, s'élève de quelques dizaines de centimètres sur une cinquantaine de mètres. Ce bond, sans contrôle de la trajectoire, n'est généralement pas reconnu comme un véritable vol, d'où un débat ancien avec les partisans des frères Wright. Ader a toutefois baptisé ses machines « Avion », et le mot est resté.",
+      "source": "Wikipédia (fr) — « Clément Ader »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-07-8",
+      "categorie": "inventions",
+      "niveau": 7,
+      "question": "Quel mécanisme grec à engrenages, repêché dans une épave en mer Égée, est vu comme le premier calculateur analogique ?",
+      "reponse": "Machine d'Anticythère",
+      "variantes": [
+        "Mécanisme d'Anticythère",
+        "Anticythère"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Astrolabe",
+          "Sphère armillaire"
+        ]
+      },
+      "explication": "Découvert dans une épave antique au large de l'île grecque d'Anticythère, explorée par des pêcheurs d'éponges en 1900, cet objet de bronze corrodé compte une trentaine de roues dentées. Daté du IIe ou du Ier siècle av. J.-C., il permettait de calculer la position du Soleil et de la Lune, les phases lunaires et les éclipses. Il est conservé au Musée national archéologique d'Athènes.",
+      "source": "Wikipédia (fr) — « Machine d'Anticythère »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-08-1",
+      "categorie": "inventions",
+      "niveau": 8,
+      "question": "Quel lunetier de Middelbourg a demandé en 1608 un brevet pour une lunette d'approche ?",
+      "reponse": "Hans Lippershey",
+      "variantes": [
+        "Lipperhey",
+        "Hans Lipperhey"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Galilée",
+          "Zacharias Janssen",
+          "Jacob Metius"
+        ]
+      },
+      "explication": "Le 2 octobre 1608, Hans Lippershey sollicite auprès des États généraux des Provinces-Unies un brevet pour un instrument permettant de voir les objets lointains comme s'ils étaient proches. Il est refusé, car d'autres, comme Jacob Metius, revendiquent la même idée : la paternité reste discutée. Informé de la nouvelle, Galilée construit sa propre lunette en 1609 et la tourne vers le ciel.",
+      "source": "Wikipédia (fr) — « Hans Lippershey »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-08-2",
+      "categorie": "inventions",
+      "niveau": 8,
+      "question": "Quel ingénieur britannique a breveté en 1884 la turbine à vapeur moderne, appliquée ensuite aux navires ?",
+      "reponse": "Charles Parsons",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "James Watt",
+          "Gustaf de Laval"
+        ]
+      },
+      "explication": "Plutôt que de faire aller et venir un piston, la turbine de Charles Parsons fait tourner directement un arbre grâce à la vapeur qui traverse des rangées d'ailettes. Elle sert d'abord à produire de l'électricité. En 1897, son petit navire Turbinia file à plus de 34 nœuds devant la flotte britannique réunie à Spithead, ce qui convainc la Royal Navy d'adopter les turbines.",
+      "source": "Wikipédia (fr) — « Charles Algernon Parsons »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-08-3",
+      "categorie": "inventions",
+      "niveau": 8,
+      "question": "Quel procédé, présenté en 1856, transformait la fonte en acier en y insufflant de l'air ?",
+      "reponse": "Procédé Bessemer",
+      "variantes": [
+        "Bessemer",
+        "Convertisseur Bessemer"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Procédé Martin",
+          "Procédé Thomas",
+          "Haut fourneau"
+        ]
+      },
+      "explication": "L'Anglais Henry Bessemer souffle de l'air à travers la fonte en fusion dans un convertisseur : l'oxygène brûle le carbone en excès, et cette combustion suffit à maintenir le métal liquide sans combustible supplémentaire. L'acier devient bon marché et abondant, ce qui transforme les chemins de fer, la construction et l'armement. L'Américain William Kelly revendiquait une méthode similaire.",
+      "source": "Wikipédia (fr) — « Procédé Bessemer »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-08-4",
+      "categorie": "inventions",
+      "niveau": 8,
+      "question": "Quel horloger anglais a conçu le chronomètre H4, qui permettait de calculer la longitude en mer ?",
+      "reponse": "John Harrison",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Ferdinand Berthoud",
+          "Pierre Le Roy",
+          "Christiaan Huygens"
+        ]
+      },
+      "explication": "Pour connaître sa longitude, un marin doit comparer l'heure locale à celle de son port de départ, ce qui exige une horloge fiable malgré le roulis. En 1714, le Parlement britannique promet jusqu'à 20 000 livres à qui résoudra le problème. Lors d'un voyage vers la Jamaïque en 1761-1762, la montre H4 de John Harrison ne dérive que de quelques secondes.",
+      "anecdote": "Faute d'obtenir toute la récompense, Harrison en appela au roi George III ; le Parlement lui versa une somme en 1773.",
+      "source": "Wikipédia (fr) — « John Harrison »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-08-5",
+      "categorie": "inventions",
+      "niveau": 8,
+      "question": "Quel ingénieur américain a accéléré le recensement des États-Unis de 1890 grâce à des cartes perforées ?",
+      "reponse": "Herman Hollerith",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Thomas Watson",
+          "Charles Babbage"
+        ]
+      },
+      "explication": "Le dépouillement du recensement de 1880 avait demandé environ huit ans. Herman Hollerith code chaque habitant sur une carte perforée, lue par une machine électrique à tabuler : les premiers résultats de 1890 sont connus en quelques mois. Sa société fusionne en 1911 avec d'autres pour former une entreprise qui sera rebaptisée IBM en 1924.",
+      "source": "Wikipédia (fr) — « Herman Hollerith »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-08-6",
+      "categorie": "inventions",
+      "niveau": 8,
+      "question": "Quel physicien américain a lancé en 1926 la première fusée à ergols liquides ?",
+      "reponse": "Robert Goddard",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Wernher von Braun",
+          "Constantin Tsiolkovski",
+          "Hermann Oberth"
+        ]
+      },
+      "explication": "Le 16 mars 1926, dans un champ d'Auburn, dans le Massachusetts, la fusée de Robert Goddard, alimentée par de l'essence et de l'oxygène liquide, vole 2,5 secondes et retombe à une cinquantaine de mètres. Ce vol modeste ouvre la voie aux grands lanceurs. Longtemps moqué, Goddard meurt en 1945, avant les débuts de la conquête spatiale.",
+      "anecdote": "En 1920, le New York Times avait raillé ses idées ; le journal publia un rectificatif en juillet 1969, pendant la mission Apollo 11.",
+      "source": "Wikipédia (fr) — « Robert Goddard »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-08-7",
+      "categorie": "inventions",
+      "niveau": 8,
+      "question": "Quel numéro portait le processeur d'Intel commercialisé en 1971, considéré comme le premier microprocesseur ?",
+      "reponse": "4004",
+      "variantes": [
+        "Intel 4004"
+      ],
+      "validation": {
+        "type": "nombre",
+        "valeur": 4004,
+        "tolerance": 0
+      },
+      "explication": "Conçu à l'origine pour une calculatrice de la société japonaise Busicom, l'Intel 4004 réunit sur une seule puce les fonctions d'un processeur. Il traite des données de 4 bits et compte environ 2 300 transistors. Federico Faggin, Ted Hoff, Stanley Mazor et Masatoshi Shima ont participé à sa conception. D'autres puces de l'époque revendiquent aussi le titre de premier microprocesseur.",
+      "source": "Wikipédia (fr) — « Intel 4004 »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-08-8",
+      "categorie": "inventions",
+      "niveau": 8,
+      "question": "Quel chimiste américain de DuPont a synthétisé le nylon en 1935 ?",
+      "reponse": "Wallace Carothers",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Leo Baekeland",
+          "Roy Plunkett"
+        ]
+      },
+      "explication": "Wallace Carothers dirige chez DuPont un laboratoire de recherche fondamentale sur les polymères. En 1935, son équipe obtient le nylon 6,6, une fibre synthétique très résistante. Carothers meurt en 1937 et ne voit pas le triomphe de son invention : les bas nylon, lancés en 1940, s'arrachent aux États-Unis. Pendant la Seconde Guerre mondiale, le nylon sert notamment à fabriquer des parachutes.",
+      "source": "Wikipédia (fr) — « Wallace Carothers »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-09-1",
+      "categorie": "inventions",
+      "niveau": 9,
+      "question": "Quel jardinier français a breveté en 1867 des caisses horticoles en ciment armé de fer ?",
+      "reponse": "Joseph Monier",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "François Hennebique",
+          "Joseph-Louis Lambot"
+        ]
+      },
+      "explication": "Pour fabriquer des bacs à orangers plus solides que ceux en bois ou en terre cuite, Joseph Monier noie un treillis de fer dans du ciment. Il étend ensuite son brevet aux tuyaux, aux réservoirs et aux ponts. Il n'est pas le seul pionnier : Joseph-Louis Lambot avait présenté une barque en ciment armé en 1855, et François Hennebique fera du béton armé un système constructif complet.",
+      "source": "Wikipédia (fr) — « Joseph Monier »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-09-2",
+      "categorie": "inventions",
+      "niveau": 9,
+      "question": "Quel ingénieur allemand a présenté en 1941 le Z3, premier calculateur programmable entièrement automatique ?",
+      "reponse": "Konrad Zuse",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Alan Turing",
+          "Howard Aiken"
+        ]
+      },
+      "explication": "Construit à Berlin avec des relais téléphoniques, le Z3 calcule en binaire et lit ses programmes sur un film perforé. Konrad Zuse l'a mis au point presque seul, avec peu de moyens, et le présente en mai 1941. La machine est détruite lors d'un bombardement en 1943. Une réplique, reconstruite dans les années 1960, est exposée au Deutsches Museum de Munich.",
+      "anecdote": "Zuse a aussi conçu le Plankalkül, souvent cité comme l'un des premiers langages de programmation de haut niveau.",
+      "source": "Wikipédia (fr) — « Zuse 3 »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-09-3",
+      "categorie": "inventions",
+      "niveau": 9,
+      "question": "Quel tailleur français a breveté en 1830 l'une des premières machines à coudre réellement utilisées ?",
+      "reponse": "Barthélemy Thimonnier",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Isaac Singer",
+          "Elias Howe"
+        ]
+      },
+      "explication": "La machine de Barthélemy Thimonnier réalise un point de chaînette avec une aiguille à crochet. À Paris, un atelier d'environ 80 machines confectionne des uniformes pour l'armée. En 1831, des ouvriers tailleurs qui craignent pour leur travail saccagent l'atelier. Thimonnier meurt pauvre en 1857, alors que l'Américain Isaac Singer bâtit un empire sur des machines perfectionnées.",
+      "source": "Wikipédia (fr) — « Barthélemy Thimonnier »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-09-4",
+      "categorie": "inventions",
+      "niveau": 9,
+      "question": "Quel physicien français a inventé en 1859 l'accumulateur au plomb, première batterie rechargeable ?",
+      "reponse": "Gaston Planté",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Camille Faure",
+          "Georges Leclanché",
+          "Alessandro Volta"
+        ]
+      },
+      "explication": "Gaston Planté plonge dans de l'acide sulfurique dilué deux lames de plomb enroulées en spirale. Contrairement à la pile de Volta, son dispositif peut être rechargé : un courant envoyé en sens inverse régénère les électrodes. Présenté à l'Académie des sciences en 1860, il est perfectionné en 1881 par Camille Faure, qui enduit les plaques d'oxyde de plomb. Le même principe équipe encore les batteries de démarrage des voitures.",
+      "source": "Wikipédia (fr) — « Accumulateur au plomb »",
+      "verification": {
+        "statut": "relue",
+        "note": "Remplace la question sur Henri Chrétien (Hypergonar), doublon de cin-09-8."
+      }
+    },
+    {
+      "id": "inv-09-5",
+      "categorie": "inventions",
+      "niveau": 9,
+      "question": "Quel artisan chinois a inventé, au milieu du XIe siècle, des caractères mobiles en argile cuite ?",
+      "reponse": "Bi Sheng",
+      "variantes": [
+        "Pi Sheng"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Cai Lun",
+          "Shen Kuo"
+        ]
+      },
+      "explication": "Bi Sheng grave chaque caractère sur un petit bloc d'argile durci au feu, puis les assemble sur une plaque de fer enduite de résine et de cire pour composer une page. On connaît son invention, datée des années 1040, grâce au savant Shen Kuo, qui la décrit dans un recueil de notes. Le grand nombre de caractères chinois freine pourtant la diffusion du procédé.",
+      "source": "Wikipédia (fr) — « Bi Sheng »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-09-6",
+      "categorie": "inventions",
+      "niveau": 9,
+      "question": "Quel marquis français a fait remonter la Saône au Pyroscaphe, un bateau à vapeur, en 1783 ?",
+      "reponse": "Claude de Jouffroy d'Abbans",
+      "variantes": [
+        "Jouffroy",
+        "Marquis de Jouffroy d'Abbans"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Robert Fulton",
+          "Denis Papin"
+        ],
+        "nom": "Jouffroy d'Abbans"
+      },
+      "explication": "Le 15 juillet 1783, à Lyon, le Pyroscaphe, long de plus de 40 mètres et propulsé par des roues à aubes, remonte la Saône pendant environ un quart d'heure. Faute de reconnaissance par l'Académie des sciences, Jouffroy d'Abbans n'obtient pas le privilège qu'il espérait, et la Révolution interrompt ses projets. Il revendiquera ensuite, en vain, la paternité du bateau à vapeur face à Fulton.",
+      "source": "Wikipédia (fr) — « Claude de Jouffroy d'Abbans »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-09-7",
+      "categorie": "inventions",
+      "niveau": 9,
+      "question": "Quel ingénieur d'Air liquide a mis au point en 1943, avec Jacques-Yves Cousteau, le détendeur du scaphandre autonome ?",
+      "reponse": "Émile Gagnan",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Yves Le Prieur",
+          "Philippe Tailliez",
+          "Frédéric Dumas"
+        ]
+      },
+      "explication": "Émile Gagnan avait conçu un détendeur pour faire rouler des voitures au gaz pendant l'Occupation. Adapté à la plongée avec Cousteau, il délivre l'air de la bouteille à la pression ambiante, uniquement lorsque le plongeur inspire. Le scaphandre est testé en 1943 et commercialisé sous le nom d'Aqua-Lung. Il succède à d'autres pionniers, comme le commandant Yves Le Prieur.",
+      "source": "Wikipédia (fr) — « Scaphandre autonome »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-09-8",
+      "categorie": "inventions",
+      "niveau": 9,
+      "question": "Quel physicien français a inventé en 1890 le cohéreur, un tube de limaille détectant les ondes radio ?",
+      "reponse": "Édouard Branly",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Guglielmo Marconi",
+          "Heinrich Hertz",
+          "Oliver Lodge"
+        ]
+      },
+      "explication": "Édouard Branly constate qu'un tube rempli de limaille métallique devient conducteur lorsqu'il reçoit une onde électromagnétique, puis cesse de l'être quand on le secoue. Ce « radioconducteur », rebaptisé cohéreur par l'Anglais Oliver Lodge, sert de détecteur aux premiers récepteurs de télégraphie sans fil, dont ceux de Marconi. Professeur à l'Institut catholique de Paris, Branly meurt en 1940.",
+      "source": "Wikipédia (fr) — « Édouard Branly »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-10-1",
+      "categorie": "inventions",
+      "niveau": 10,
+      "question": "Quel inventeur néerlandais a fait naviguer sous la Tamise, vers 1620, l'un des premiers sous-marins ?",
+      "reponse": "Cornelis Drebbel",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "David Bushnell",
+          "Robert Fulton"
+        ]
+      },
+      "explication": "Installé à la cour du roi Jacques Ier d'Angleterre, Cornelis Drebbel construit entre 1620 et 1624 un bateau submersible à rames, recouvert de cuir graissé. Des témoins rapportent qu'il a navigué sous la surface de la Tamise. Les détails restent mal connus, notamment la façon dont l'équipage respirait. Drebbel a aussi conçu un thermostat pour réguler la température de fours et de couveuses.",
+      "source": "Wikipédia (fr) — « Cornelis Drebbel »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-10-2",
+      "categorie": "inventions",
+      "niveau": 10,
+      "question": "Quel Français a breveté en 1857 le phonautographe, premier appareil à enregistrer des sons ?",
+      "reponse": "Édouard-Léon Scott de Martinville",
+      "variantes": [
+        "Scott de Martinville",
+        "Léon Scott",
+        "Édouard Léon Scott de Martinville"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Charles Cros",
+          "Thomas Edison"
+        ],
+        "nom": "Scott de Martinville"
+      },
+      "explication": "Le phonautographe trace les vibrations sonores sur du papier noirci de fumée, grâce à un stylet relié à une membrane. Son inventeur, typographe parisien, ne songe pas à les rejouer : il veut étudier la voix. En 2008, des chercheurs américains ont numérisé l'un de ses tracés de 1860 et fait entendre une voix chantant « Au clair de la lune ».",
+      "source": "Wikipédia (fr) — « Phonautographe »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-10-3",
+      "categorie": "inventions",
+      "niveau": 10,
+      "question": "Quel physicien français a reçu le prix Nobel de physique en 1908 pour un procédé de photographie en couleurs ?",
+      "reponse": "Gabriel Lippmann",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Louis Ducos du Hauron",
+          "Auguste Lumière"
+        ]
+      },
+      "explication": "Présenté en 1891, le procédé de Gabriel Lippmann repose sur les interférences : une plaque à grain très fin est posée contre un miroir de mercure, et la lumière réfléchie inscrit les couleurs dans l'épaisseur de l'émulsion. Les images obtenues sont superbes, mais impossibles à reproduire et exigent de longues poses. Les autochromes des frères Lumière s'imposeront à partir de 1907.",
+      "anecdote": "Né au Luxembourg en 1845, il est mort en mer en 1921, au retour d'un voyage au Canada.",
+      "source": "Wikipédia (fr) — « Gabriel Lippmann »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-10-4",
+      "categorie": "inventions",
+      "niveau": 10,
+      "question": "Quel recueil bouddhique coréen de 1377 est le plus ancien livre conservé imprimé en caractères métalliques mobiles ?",
+      "reponse": "Jikji",
+      "variantes": [
+        "Jikji simche yojeol"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Sutra du Diamant",
+          "Tripitaka Koreana"
+        ]
+      },
+      "explication": "Imprimé au temple de Heungdeok, à Cheongju, le Jikji rassemble des enseignements de maîtres bouddhistes zen. Il précède de près de 80 ans la Bible de Gutenberg. Seul le second volume a survécu : acquis à la fin du XIXe siècle par un diplomate français, il est conservé à la Bibliothèque nationale de France. L'Unesco l'a inscrit au registre Mémoire du monde en 2001.",
+      "source": "Wikipédia (fr) — « Jikji »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-10-5",
+      "categorie": "inventions",
+      "niveau": 10,
+      "question": "Quel abbé italien a inventé le pantélégraphe, qui transmit des images par fil entre Paris et Lyon dès 1865 ?",
+      "reponse": "Giovanni Caselli",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Alexander Bain",
+          "Édouard Belin"
+        ]
+      },
+      "explication": "Le pantélégraphe de Giovanni Caselli reproduit à distance un texte ou un dessin tracé à l'encre isolante sur une feuille métallique, parcourue par une pointe synchronisée grâce à de grands pendules. Soutenu par Napoléon III, il ouvre un service commercial entre Paris et Lyon en 1865. C'est un ancêtre du fax, dont l'Écossais Alexander Bain avait breveté le principe en 1843.",
+      "source": "Wikipédia (fr) — « Pantélégraphe »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-10-6",
+      "categorie": "inventions",
+      "niveau": 10,
+      "question": "Quel micro-ordinateur français, conçu en 1973 par François Gernelle, fut l'un des premiers à microprocesseur ?",
+      "reponse": "Micral N",
+      "variantes": [
+        "Micral"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Altair 8800",
+          "Apple I"
+        ],
+        "exact": true
+      },
+      "explication": "Développé par la petite société R2E d'André Truong Trong Thi, le Micral N repose sur le microprocesseur Intel 8008. Il est d'abord commandé par l'Institut national de la recherche agronomique pour automatiser des mesures. Vendu tout monté, et non en kit, il précède de deux ans l'Altair 8800 américain, longtemps présenté comme le premier micro-ordinateur.",
+      "source": "Wikipédia (fr) — « Micral »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-10-7",
+      "categorie": "inventions",
+      "niveau": 10,
+      "question": "Quel physiologiste néerlandais a reçu le prix Nobel en 1924 pour l'invention de l'électrocardiographe ?",
+      "reponse": "Willem Einthoven",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Augustus Waller",
+          "Christiaan Barnard"
+        ]
+      },
+      "explication": "Au début du XXe siècle, à Leyde, Willem Einthoven met au point un galvanomètre à corde, un fil de quartz argenté qui se déplace sous l'effet des faibles courants du cœur. L'appareil pèse plusieurs centaines de kilos. Einthoven nomme les ondes du tracé P, Q, R, S et T, une notation toujours en usage. Avant lui, Augustus Waller avait enregistré un premier tracé humain en 1887.",
+      "source": "Wikipédia (fr) — « Willem Einthoven »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "inv-10-8",
+      "categorie": "inventions",
+      "niveau": 10,
+      "question": "Quel ingénieur français, surnommé « le père du froid », a équipé en 1876 le navire Le Frigorifique ?",
+      "reponse": "Charles Tellier",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Ferdinand Carré",
+          "Carl von Linde"
+        ]
+      },
+      "explication": "Charles Tellier met au point des machines frigorifiques utilisant notamment l'éther méthylique. En 1876, Le Frigorifique quitte Rouen pour Buenos Aires avec de la viande conservée au froid : il prouve que l'on peut transporter des denrées périssables sur de très longues distances. Le commerce mondial de la viande en sera transformé. Tellier meurt pourtant dans la pauvreté, en 1913.",
+      "source": "Wikipédia (fr) — « Charles Tellier »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    }
+  ]
+}

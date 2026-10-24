@@ -1,6 +1,6 @@
 // Sauvegarde locale (localStorage de l'iPhone). Aucune donnée ne quitte l'appareil.
 
-import { SCHEMA } from './engine/game.js';
+import { upgrade } from './engine/game.js';
 
 const KEYS = {
   game: 'culturisk.game.v1',
@@ -30,8 +30,8 @@ function write(key, value) {
 
 export function loadGame() {
   const g = read(KEYS.game, null);
-  if (!g || g.schema !== SCHEMA || !g.step || !g.teams) return null;
-  return g;
+  if (!g || !g.teams) return null;
+  return upgrade(g);
 }
 export const saveGame = (state) => write(KEYS.game, state);
 export const clearGame = () => write(KEYS.game, null);

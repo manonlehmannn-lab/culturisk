@@ -1,7 +1,7 @@
 // Service worker : met toute l'application et la banque de questions en cache
 // pour un fonctionnement 100 % hors ligne.
 
-const VERSION = 'culturisk-v1';
+const VERSION = 'culturisk-v2';
 const ASSETS = [
   './',
   'index.html',
@@ -36,6 +36,14 @@ const ASSETS = [
   'data/questions/internet.json',
   'data/questions/religions.json',
   'data/questions/art.json',
+  'data/questions/gastronomie.json',
+  'data/questions/langue.json',
+  'data/questions/animaux.json',
+  'data/questions/bd.json',
+  'data/questions/jeux.json',
+  'data/questions/inventions.json',
+  'data/questions/television.json',
+  'data/questions/marques.json',
   'assets/fonts/unbounded-500.woff2',
   'assets/fonts/unbounded-700.woff2',
   'assets/fonts/unbounded-900.woff2',

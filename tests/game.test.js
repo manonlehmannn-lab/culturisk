@@ -1,28 +1,29 @@
 // Déroulement d'une partie : tours, interception, arbitrage, verrouillage des thèmes, fin de partie.
 
 import { test, eq, ok, throws } from './harness.js';
-import { createGame, dispatch, available, recap, boardDone } from '../js/engine/game.js';
+import { createGame, dispatch, available, recap, boardDone, upgrade, SCHEMA } from '../js/engine/game.js';
 import { indexBank } from '../js/engine/bank.js';
-import { CATEGORY_IDS } from '../js/engine/categories.js';
+import { CATEGORY_IDS, CLASSIQUES } from '../js/engine/categories.js';
 
-// Banque factice : une question par thème et par niveau, réponse « R<thème><niveau> ».
-function fakeBank() {
+// Banque factice : une question par thème et par niveau, réponse « Réponse <thème> numéro <niveau> ».
+// `override(q)` permet de remplacer certaines questions.
+function fakeBank(override = (q) => q) {
   const files = CATEGORY_IDS.map((cat) => ({
     categorie: cat,
-    questions: Array.from({ length: 10 }, (_, i) => ({
-      id: `${cat}-${i + 1}`,
-      categorie: cat,
-      niveau: i + 1,
-      question: `Question ${cat} ${i + 1} ?`,
-      reponse: `Réponse ${cat} numéro ${i + 1}`,
-      variantes: [],
-      validation: { type: 'texte' },
-      explication: '…',
-    })),
+    questions: Array.from({ length: 10 }, (_, i) =>
+      override({
+        id: `${cat}-${i + 1}`,
+        categorie: cat,
+        niveau: i + 1,
+        question: `Question ${cat} ${i + 1} ?`,
+        reponse: `Réponse ${cat} numéro ${i + 1}`,
+        variantes: [],
+        validation: { type: 'texte' },
+        explication: '…',
+      }),
+    ),
   }));
-  const bank = indexBank(files);
-  // Le lexique réel ne doit pas interférer avec ces réponses factices.
-  return bank;
+  return indexBank(files);
 }
 
 const bank = fakeBank();
@@ -132,7 +133,7 @@ test('Fin de partie après le nombre de manches choisi', () => {
 
 test('Plateau épuisé : la partie se termine', () => {
   let g = newGame(0);
-  for (const cat of CATEGORY_IDS) {
+  for (const cat of g.categories) {
     for (let level = 1; level <= 10; level++) {
       if (g.step.kind === 'turnEnd') g = act(g, { type: 'continue' });
       g = act(g, { type: 'pick', cat });
@@ -151,8 +152,7 @@ test('Plateau épuisé : la partie se termine', () => {
 });
 
 test('Nom ambigu : une seule demande de précision, puis refus', () => {
-  const files = [{ categorie: 'sciences', questions: [{ id: 'sci-01-1', categorie: 'sciences', niveau: 1, question: '?', reponse: 'Marie Curie', variantes: [], validation: { type: 'personne', nomSeul: false } }] }];
-  const b = indexBank(files);
+  const b = fakeBank((q) => (q.id === 'sciences-1' ? { ...q, reponse: 'Marie Curie', validation: { type: 'personne', nomSeul: false } } : q));
   let g = createGame({ teams: ['A', 'B'], manches: 0 }, b, { rng: () => 0 });
   g = dispatch(g, { type: 'pick', cat: 'sciences' }, b);
   g = dispatch(g, { type: 'answer', text: 'Curie' }, b);
@@ -160,4 +160,35 @@ test('Nom ambigu : une seule demande de précision, puis refus', () => {
   ok(g.step.precise, 'précision demandée');
   g = dispatch(g, { type: 'answer', text: 'Curie' }, b);
   ok(g.step.steal, 'refusée au second essai');
+});
+
+test('Thèmes choisis : seuls ceux-là sont sur le tableau', () => {
+  const chosen = ['sport', 'animaux', 'jeux', 'marques'];
+  let g = createGame({ teams: ['A', 'B'], manches: 0, categories: ['marques', 'sport', 'jeux', 'animaux'] }, bank, { rng: () => 0 });
+  eq(g.categories, chosen, 'ordre officiel conservé');
+  eq(available(g), chosen);
+  eq(Object.keys(g.board), chosen);
+  throws(() => act(g, { type: 'pick', cat: 'histoire' }));
+  g = act(act(g, { type: 'pick', cat: 'jeux' }), { type: 'answer', text: good('jeux', 1) });
+  eq(Object.keys(recap(g).perCat), chosen);
+  eq(recap(g).perCat.jeux.points, [10, 0]);
+});
+
+test('Par défaut : les 10 thèmes classiques', () => {
+  eq(newGame().categories, CLASSIQUES);
+});
+
+test('Moins de 3 thèmes : partie refusée', () => {
+  throws(() => createGame({ teams: ['A', 'B'], categories: ['sport', 'art'] }, bank));
+  throws(() => createGame({ teams: ['A', 'B'], categories: ['sport', 'inconnu', 'art'] }, bank));
+});
+
+test('Une partie sauvegardée par la version précédente reprend avec les 10 classiques', () => {
+  const old = { ...newGame(), schema: 1 };
+  delete old.categories;
+  const g = upgrade(old);
+  eq(g.schema, SCHEMA);
+  eq(g.categories, CLASSIQUES);
+  eq(available(g).length, 10);
+  eq(upgrade({ schema: 99, step: { kind: 'choose' } }), null);
 });

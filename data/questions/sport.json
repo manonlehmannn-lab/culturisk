@@ -8,11 +8,18 @@
       "question": "Au football, combien de joueurs chaque équipe aligne-t-elle sur le terrain au coup d'envoi ?",
       "reponse": "11",
       "variantes": [],
-      "validation": {"type": "nombre", "valeur": 11, "tolerance": 0},
+      "validation": {
+        "type": "nombre",
+        "valeur": 11,
+        "tolerance": 0
+      },
       "explication": "Une équipe compte dix joueurs de champ et un gardien de but, le seul autorisé à toucher le ballon avec les mains dans sa surface de réparation. Les lois du jeu, dont le gardien est l'International Football Association Board fondé en 1886, fixent aussi un minimum : un match ne peut ni commencer ni continuer si une équipe a moins de sept joueurs.",
       "anecdote": "Le football n'est pas le seul sport à onze : le cricket et le hockey sur gazon alignent eux aussi onze joueurs par équipe.",
       "source": "Wikipédia (fr) — « Football »",
-      "verification": {"statut": "relue", "note": "Formulation de l'explication allégée."}
+      "verification": {
+        "statut": "relue",
+        "note": "Formulation de l'explication allégée."
+      }
     },
     {
       "id": "spo-01-2",
@@ -20,12 +27,26 @@
       "niveau": 1,
       "question": "De quelle couleur est le maillot porté par le leader du classement général du Tour de France ?",
       "reponse": "Jaune",
-      "variantes": ["maillot jaune"],
-      "validation": {"type": "texte", "pieges": ["vert", "blanc", "à pois", "rouge", "rose"]},
+      "variantes": [
+        "maillot jaune"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "vert",
+          "blanc",
+          "à pois",
+          "rouge",
+          "rose"
+        ]
+      },
       "explication": "Le maillot jaune est apparu en 1919 : le Français Eugène Christophe l'a enfilé le premier, à Grenoble. Sa couleur rappelle le papier jaune du journal L'Auto, organisateur de l'épreuve. Les autres maillots distinctifs sont venus plus tard, comme le maillot vert du classement par points ou le blanc du meilleur jeune.",
       "anecdote": "Le maillot blanc à pois rouges du meilleur grimpeur n'a été créé qu'en 1975, alors que ce classement existait depuis les années 1930.",
       "source": "Wikipédia (fr) — « Maillot jaune »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "spo-01-3",
@@ -34,11 +55,22 @@
       "question": "Quel sport de raquette se joue avec un volant ?",
       "reponse": "Badminton",
       "variantes": [],
-      "validation": {"type": "texte", "pieges": ["tennis", "squash", "tennis de table", "padel"]},
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "tennis",
+          "squash",
+          "tennis de table",
+          "padel"
+        ]
+      },
       "explication": "Le badminton tire son nom de Badminton House, le domaine anglais des ducs de Beaufort, où le jeu fut popularisé dans les années 1870. Un volant réglementaire en plumes en compte seize, fixées sur une base en liège. Discipline olympique depuis les Jeux de Barcelone en 1992, il est dominé par les joueurs asiatiques, le Danemark restant la principale puissance européenne.",
       "anecdote": "Juste après un smash, le volant peut dépasser 400 km/h, ce qui en fait le projectile le plus rapide des sports de raquette, avant d'être vite freiné par ses plumes.",
       "source": "Wikipédia (fr) — « Badminton »",
-      "verification": {"statut": "relue", "note": "Plumes d'oie ou de canard : précision retirée. Vitesse > 400 km/h confirmée (records mesurés vers 490 km/h)."}
+      "verification": {
+        "statut": "relue",
+        "note": "Plumes d'oie ou de canard : précision retirée. Vitesse > 400 km/h confirmée (records mesurés vers 490 km/h)."
+      }
     },
     {
       "id": "spo-01-4",
@@ -47,11 +79,125 @@
       "question": "Tous les combien d'années les Jeux olympiques d'été ont-ils lieu ?",
       "reponse": "4",
       "variantes": [],
-      "validation": {"type": "nombre", "valeur": 4, "tolerance": 0},
+      "validation": {
+        "type": "nombre",
+        "valeur": 4,
+        "tolerance": 0
+      },
       "explication": "Cet intervalle de quatre ans s'appelle une olympiade, comme dans la Grèce antique. Le rythme n'a été rompu que par les guerres mondiales, qui ont fait annuler les Jeux de 1916, 1940 et 1944, et par la pandémie de Covid-19 : les Jeux de Tokyo 2020 ont été repoussés à 2021 tout en gardant leur nom.",
       "anecdote": "Depuis 1994, Jeux d'hiver et Jeux d'été alternent tous les deux ans : Lillehammer a accueilli les Jeux d'hiver deux ans seulement après Albertville.",
       "source": "Wikipédia (fr) — « Jeux olympiques »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-01-5",
+      "categorie": "sport",
+      "niveau": 1,
+      "question": "Quel sport d'équipe se joue sur une patinoire, avec des crosses et un palet ?",
+      "reponse": "Hockey sur glace",
+      "variantes": [
+        "hockey",
+        "ice hockey"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "curling",
+          "bandy",
+          "ringuette",
+          "hockey sur gazon"
+        ]
+      },
+      "explication": "Le hockey sur glace moderne s'est structuré à Montréal, où a été disputé en 1875 le premier match en salle aux règles connues. Chaque équipe aligne six joueurs sur la glace, dont un gardien, et les remplacements se font en pleine action. Le palet, un disque de caoutchouc vulcanisé, est conservé au congélateur avant les matchs professionnels pour qu'il rebondisse moins.",
+      "anecdote": "Le palet réglementaire mesure 7,6 centimètres de diamètre et 2,5 centimètres d'épaisseur, pour un poids compris entre 156 et 170 grammes.",
+      "source": "Wikipédia (fr) — « Hockey sur glace »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-01-6",
+      "categorie": "sport",
+      "niveau": 1,
+      "question": "Quel sport oppose deux équipes de six joueurs qui se renvoient un ballon à la main par-dessus un filet ?",
+      "reponse": "Volley-ball",
+      "variantes": [
+        "volley",
+        "volleyball"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "handball",
+          "beach-volley",
+          "basket-ball",
+          "tennis-ballon",
+          "sepak takraw"
+        ]
+      },
+      "explication": "Le ballon ne doit jamais toucher le sol dans son propre camp. Chaque échange rapporte un point, quelle que soit l'équipe au service, et un set se gagne à 25 points avec deux points d'écart. Un match se joue en trois sets gagnants. Le volley-ball est olympique depuis les Jeux de Tokyo, en 1964, et sa variante sur sable, le beach-volley, depuis Atlanta, en 1996.",
+      "source": "Wikipédia (fr) — « Volley-ball »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-01-7",
+      "categorie": "sport",
+      "niveau": 1,
+      "question": "Quel sport de glisse se pratique sur la neige, debout de profil sur une seule planche ?",
+      "reponse": "Snowboard",
+      "variantes": [
+        "surf des neiges",
+        "planche à neige",
+        "snowboarding"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "ski",
+          "monoski",
+          "skeleton",
+          "luge",
+          "skateboard"
+        ]
+      },
+      "explication": "Inspiré du surf et du skateboard, le snowboard s'est développé aux États-Unis à partir des années 1960, avec le « Snurfer » de Sherman Poppen, puis les planches de Jake Burton Carpenter. Longtemps interdit sur certaines pistes de ski, il est devenu olympique aux Jeux de Nagano, en 1998, avec deux épreuves : le slalom géant et le half-pipe.",
+      "anecdote": "Le premier champion olympique de slalom géant, le Canadien Ross Rebagliati, s'est vu brièvement retirer sa médaille en 1998 après un contrôle positif au cannabis, avant de la récupérer.",
+      "source": "Wikipédia (fr) — « Snowboard »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-01-8",
+      "categorie": "sport",
+      "niveau": 1,
+      "question": "Quelle ville a accueilli les Jeux olympiques d'été de 2024 ?",
+      "reponse": "Paris",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Los Angeles",
+          "Tokyo",
+          "Londres",
+          "Marseille"
+        ]
+      },
+      "explication": "Paris est devenue la deuxième ville, après Londres, à recevoir trois fois les Jeux d'été, après 1900 et 1924. Le 26 juillet 2024, la cérémonie d'ouverture s'est déroulée pour la première fois hors d'un stade, avec un défilé des délégations en bateaux sur la Seine. La flamme a ensuite brûlé dans une vasque en forme de montgolfière, installée au jardin des Tuileries.",
+      "anecdote": "Le nageur toulousain Léon Marchand y a remporté quatre médailles d'or individuelles, dont deux le même soir, sur 200 m papillon et 200 m brasse.",
+      "source": "Wikipédia (fr) — « Jeux olympiques d'été de 2024 »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "spo-02-1",
@@ -60,10 +206,21 @@
       "question": "Quel pays a remporté la Coupe du monde de football 2018, disputée en Russie ?",
       "reponse": "France",
       "variantes": [],
-      "validation": {"type": "texte", "pieges": ["Croatie", "Belgique", "Angleterre", "Russie"]},
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Croatie",
+          "Belgique",
+          "Angleterre",
+          "Russie"
+        ]
+      },
       "explication": "Le 15 juillet 2018, au stade Loujniki de Moscou, les Bleus ont battu la Croatie 4 à 2 en finale, vingt ans après leur premier titre de 1998. Didier Deschamps est alors devenu le troisième homme à gagner la Coupe du monde comme joueur puis comme sélectionneur, après le Brésilien Mário Zagallo et l'Allemand Franz Beckenbauer.",
       "source": "Wikipédia (fr) — « Coupe du monde de football 2018 »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "spo-02-2",
@@ -72,10 +229,17 @@
       "question": "Combien d'anneaux entrelacés figurent sur le drapeau olympique ?",
       "reponse": "5",
       "variantes": [],
-      "validation": {"type": "nombre", "valeur": 5, "tolerance": 0},
+      "validation": {
+        "type": "nombre",
+        "valeur": 5,
+        "tolerance": 0
+      },
       "explication": "Les anneaux ont été dessinés en 1913 par Pierre de Coubertin, le rénovateur des Jeux. Ils symbolisent l'union des cinq continents. Leurs couleurs, bleu, jaune, noir, vert et rouge, ajoutées au fond blanc, devaient permettre selon lui de reproduire les couleurs de tous les drapeaux nationaux de l'époque. Le drapeau a flotté pour la première fois lors des Jeux d'Anvers, en 1920.",
       "source": "Wikipédia (fr) — « Symboles olympiques »",
-      "verification": {"statut": "relue", "note": "Source remplacée par un article plus sûr ; précisions mineures (cinq continents, Anvers)."}
+      "verification": {
+        "statut": "relue",
+        "note": "Source remplacée par un article plus sûr ; précisions mineures (cinq continents, Anvers)."
+      }
     },
     {
       "id": "spo-02-3",
@@ -83,12 +247,30 @@
       "niveau": 2,
       "question": "Dans quel sport marque-t-on un essai en aplatissant le ballon dans l'en-but adverse ?",
       "reponse": "Rugby",
-      "variantes": ["rugby à XV", "rugby à XIII", "rugby à 15", "rugby à 13", "rugby union", "rugby league", "rugby à sept"],
-      "validation": {"type": "texte", "pieges": ["football américain", "handball", "football"]},
+      "variantes": [
+        "rugby à XV",
+        "rugby à XIII",
+        "rugby à 15",
+        "rugby à 13",
+        "rugby union",
+        "rugby league",
+        "rugby à sept"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "football américain",
+          "handball",
+          "football"
+        ]
+      },
       "explication": "Le mot « essai » vient de l'anglais « try » : à l'origine, aplatir le ballon ne rapportait aucun point et donnait seulement le droit d'essayer de botter entre les poteaux. Au rugby à XV, l'essai vaut cinq points depuis 1992, et la transformation qui le suit en rapporte deux de plus.",
       "anecdote": "Jusqu'en 1971, un essai ne valait que trois points au rugby à XV, puis quatre jusqu'en 1992.",
       "source": "Wikipédia (fr) — « Rugby à XV »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "spo-02-4",
@@ -96,11 +278,130 @@
       "niveau": 2,
       "question": "Sur quelle avenue parisienne le Tour de France s'achève-t-il traditionnellement ?",
       "reponse": "Champs-Élysées",
-      "variantes": ["avenue des Champs-Élysées"],
-      "validation": {"type": "texte", "pieges": ["avenue Foch", "Concorde", "Trocadéro", "Champ-de-Mars"]},
+      "variantes": [
+        "avenue des Champs-Élysées"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "avenue Foch",
+          "Concorde",
+          "Trocadéro",
+          "Champ-de-Mars"
+        ]
+      },
       "explication": "L'arrivée finale est jugée sur les Champs-Élysées depuis 1975. Auparavant, le Tour se terminait au Parc des Princes, puis au vélodrome de la Cipale, dans le bois de Vincennes. Jusqu'en 2025, la seule exception a été l'édition 2024 : les Jeux olympiques de Paris ont obligé les organisateurs à conclure l'épreuve à Nice, par un contre-la-montre.",
       "source": "Wikipédia (fr) — « Tour de France »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-02-5",
+      "categorie": "sport",
+      "niveau": 2,
+      "question": "Comment s'appellent les Jeux réservés aux sportifs en situation de handicap, disputés juste après les Jeux olympiques ?",
+      "reponse": "Jeux paralympiques",
+      "variantes": [
+        "paralympiques",
+        "Paralympics",
+        "Jeux paralympiques d'été"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Special Olympics",
+          "Deaflympics",
+          "Invictus Games",
+          "Jeux olympiques"
+        ]
+      },
+      "explication": "Le préfixe « para » venait d'abord de « paraplégique », avant d'être compris comme « parallèle » aux Jeux olympiques. Depuis Séoul en 1988 pour l'été, et Albertville en 1992 pour l'hiver, ils se tiennent dans la même ville et sur les mêmes sites que les Jeux olympiques. Les sportifs y sont répartis en catégories selon leur handicap, afin que les compétitions restent équitables.",
+      "source": "Wikipédia (fr) — « Jeux paralympiques »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-02-6",
+      "categorie": "sport",
+      "niveau": 2,
+      "question": "Quelle course automobile d'endurance se dispute chaque année dans la Sarthe, de jour comme de nuit ?",
+      "reponse": "24 Heures du Mans",
+      "variantes": [
+        "les 24 Heures du Mans",
+        "24h du Mans",
+        "Le Mans"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Bol d'or",
+          "24 Heures de Spa",
+          "Le Mans Classic",
+          "Grand Prix de France",
+          "Rallye Monte-Carlo"
+        ]
+      },
+      "explication": "Créée en 1923, la course se dispute sur le circuit de la Sarthe, long d'environ 13,6 kilomètres, dont une partie emprunte des routes ouvertes à la circulation le reste de l'année. Plusieurs pilotes se relaient au volant de chaque voiture, sur un tracé célèbre pour sa ligne droite des Hunaudières. Le Danois Tom Kristensen détient le record de victoires, avec neuf succès.",
+      "anecdote": "Jusqu'en 1969, les pilotes rejoignaient leur voiture en courant au signal du départ : c'est le fameux « départ type Le Mans ».",
+      "source": "Wikipédia (fr) — « 24 Heures du Mans »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-02-7",
+      "categorie": "sport",
+      "niveau": 2,
+      "question": "Quelle épreuve olympique de course à pied mesure exactement 42,195 kilomètres ?",
+      "reponse": "Marathon",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "semi-marathon",
+          "ultra-trail",
+          "triathlon",
+          "10 000 mètres"
+        ]
+      },
+      "explication": "Cette distance curieuse date des Jeux de Londres, en 1908 : le parcours partait du château de Windsor et s'achevait devant la loge royale du stade olympique. Elle n'est devenue la norme officielle qu'en 1921. Lors des premiers Jeux modernes, en 1896, le marathon ne mesurait qu'une quarantaine de kilomètres, la distance variant d'une édition à l'autre.",
+      "anecdote": "En 1908, l'Italien Dorando Pietri a franchi la ligne en tête, mais a été disqualifié : épuisé, il avait été aidé à se relever par des officiels.",
+      "source": "Wikipédia (fr) — « Marathon (sport) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-02-8",
+      "categorie": "sport",
+      "niveau": 2,
+      "question": "Quel sport de glisse, né en Polynésie, consiste à se tenir debout sur une planche portée par les vagues ?",
+      "reponse": "Surf",
+      "variantes": [
+        "surfing"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "windsurf",
+          "kitesurf",
+          "bodyboard",
+          "planche à voile",
+          "paddle"
+        ]
+      },
+      "explication": "Pratiqué depuis des siècles à Hawaï, le surf a été popularisé au début du XXe siècle par le nageur hawaïen Duke Kahanamoku, champion olympique du 100 m nage libre en 1912. Le surf lui-même n'est entré au programme olympique qu'aux Jeux de Tokyo, en 2021. En 2024, les épreuves des Jeux de Paris se sont tenues à Teahupoo, à Tahiti, célèbre pour sa vague puissante.",
+      "source": "Wikipédia (fr) — « Surf »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "spo-03-1",
@@ -109,11 +410,21 @@
       "question": "Quel sprinteur jamaïcain a couru le 100 mètres en 9,58 secondes en 2009 ?",
       "reponse": "Usain Bolt",
       "variantes": [],
-      "validation": {"type": "personne", "pieges": ["Yohan Blake", "Asafa Powell", "Carl Lewis"]},
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Yohan Blake",
+          "Asafa Powell",
+          "Carl Lewis"
+        ]
+      },
       "explication": "Ce chrono a été réalisé le 16 août 2009, en finale des championnats du monde de Berlin. Quatre jours plus tard, au même endroit, Usain Bolt courait le 200 mètres en 19,19 secondes. Aux Jeux olympiques, il a remporté huit titres entre 2008 et 2016, dont le doublé 100 m et 200 m à Pékin, Londres et Rio.",
       "anecdote": "Un neuvième titre olympique, celui du relais 4 × 100 m de 2008, lui a été retiré en 2017 à cause du dopage d'un coéquipier, Nesta Carter.",
       "source": "Wikipédia (fr) — « Usain Bolt »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "spo-03-2",
@@ -121,12 +432,26 @@
       "niveau": 3,
       "question": "Quel tournoi du Grand Chelem de tennis se dispute sur gazon ?",
       "reponse": "Wimbledon",
-      "variantes": ["tournoi de Wimbledon", "The Championships"],
-      "validation": {"type": "texte", "pieges": ["Roland-Garros", "US Open", "Open d'Australie", "Queen's"]},
+      "variantes": [
+        "tournoi de Wimbledon",
+        "The Championships"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Roland-Garros",
+          "US Open",
+          "Open d'Australie",
+          "Queen's"
+        ]
+      },
       "explication": "Créé en 1877 par l'All England Club, dans le sud-ouest de Londres, Wimbledon est le plus ancien tournoi de tennis au monde. C'est aussi le seul des quatre grands encore joué sur herbe : Roland-Garros se dispute sur terre battue, l'Open d'Australie et l'US Open sur surface dure, après avoir eux aussi été joués sur gazon.",
       "anecdote": "Le code vestimentaire impose une tenue presque entièrement blanche ; depuis 2023, les joueuses peuvent toutefois porter un sous-short de couleur foncée.",
       "source": "Wikipédia (fr) — « Tournoi de Wimbledon »",
-      "verification": {"statut": "relue", "note": "Nom exact du club en 1877 différent : remplacé par « All England Club ». Sous-short foncé autorisé depuis 2023 : confirmé."}
+      "verification": {
+        "statut": "relue",
+        "note": "Nom exact du club en 1877 différent : remplacé par « All England Club ». Sous-short foncé autorisé depuis 2023 : confirmé."
+      }
     },
     {
       "id": "spo-03-3",
@@ -135,11 +460,21 @@
       "question": "Quel nageur américain a remporté huit médailles d'or aux Jeux olympiques de Pékin en 2008 ?",
       "reponse": "Michael Phelps",
       "variantes": [],
-      "validation": {"type": "personne", "pieges": ["Mark Spitz", "Ryan Lochte", "Ian Thorpe"]},
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Mark Spitz",
+          "Ryan Lochte",
+          "Ian Thorpe"
+        ]
+      },
       "explication": "En huit épreuves disputées, Michael Phelps a gagné huit fois, battant le record de sept titres dans une même édition que son compatriote Mark Spitz détenait depuis les Jeux de Munich, en 1972. Entre 2004 et 2016, il a accumulé 28 médailles olympiques, dont 23 en or, un record absolu de l'histoire olympique, toujours inégalé après les Jeux de 2024.",
       "anecdote": "Sa septième victoire, sur 100 m papillon, s'est jouée à un centième de seconde devant le Serbe Milorad Čavić.",
       "source": "Wikipédia (fr) — « Michael Phelps »",
-      "verification": {"statut": "relue", "note": "« record jusqu'en 2024 » laissait croire qu'il avait été battu : reformulé."}
+      "verification": {
+        "statut": "relue",
+        "note": "« record jusqu'en 2024 » laissait croire qu'il avait été battu : reformulé."
+      }
     },
     {
       "id": "spo-03-4",
@@ -148,10 +483,109 @@
       "question": "Au basket-ball, combien de points rapporte un panier réussi derrière la ligne tracée loin du cercle ?",
       "reponse": "3",
       "variantes": [],
-      "validation": {"type": "nombre", "valeur": 3, "tolerance": 0},
+      "validation": {
+        "type": "nombre",
+        "valeur": 3,
+        "tolerance": 0
+      },
       "explication": "Le tir primé est une invention relativement récente : la NBA l'a adopté en 1979 et la Fédération internationale de basket-ball en 1984. La ligne se trouve à 6,75 mètres du panier dans les règles internationales, et jusqu'à 7,24 mètres en NBA. Un panier ordinaire vaut deux points, un lancer franc un seul.",
       "source": "Wikipédia (fr) — « Basket-ball »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-03-5",
+      "categorie": "sport",
+      "niveau": 3,
+      "question": "Au handball, combien de joueurs chaque équipe aligne-t-elle sur le terrain, gardien compris ?",
+      "reponse": "7",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 7,
+        "tolerance": 0
+      },
+      "explication": "Six joueurs de champ et un gardien s'affrontent sur un terrain de 40 mètres sur 20. Seul le gardien peut évoluer dans sa zone, délimitée par une ligne tracée à six mètres du but. Un joueur n'a pas le droit de faire plus de trois pas ballon en main, ni de le garder plus de trois secondes sans dribbler, passer ou tirer.",
+      "source": "Wikipédia (fr) — « Handball »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-03-6",
+      "categorie": "sport",
+      "niveau": 3,
+      "question": "Quel joueur espagnol a remporté quatorze fois le tournoi de Roland-Garros, entre 2005 et 2022 ?",
+      "reponse": "Rafael Nadal",
+      "variantes": [
+        "Rafa Nadal"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Carlos Alcaraz",
+          "Novak Djokovic",
+          "Roger Federer",
+          "Björn Borg",
+          "David Ferrer"
+        ]
+      },
+      "explication": "Surnommé « le roi de la terre battue », Rafael Nadal n'a perdu que quatre matchs à Roland-Garros en dix-neuf participations. Il a remporté au total 22 titres du Grand Chelem en simple. Une statue à son effigie a été installée dans l'enceinte du stade en 2021. Il a mis fin à sa carrière en novembre 2024, lors de la phase finale de la Coupe Davis, à Malaga.",
+      "anecdote": "Droitier dans la vie courante, il a pourtant toujours joué au tennis de la main gauche.",
+      "source": "Wikipédia (fr) — « Rafael Nadal »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-03-7",
+      "categorie": "sport",
+      "niveau": 3,
+      "question": "Quel judoka français a été sacré champion olympique des plus de 100 kg en 2012, 2016 et 2024 ?",
+      "reponse": "Teddy Riner",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "David Douillet",
+          "Angelo Parisi",
+          "Clarisse Agbegnenou",
+          "Hisayoshi Harasawa"
+        ]
+      },
+      "explication": "Né en Guadeloupe en 1989, Teddy Riner a aussi décroché le bronze individuel en 2008 et en 2021, ainsi que deux titres olympiques par équipes mixtes, à Tokyo puis à Paris. Il compte plus de dix titres de champion du monde. Entre 2010 et 2020, il est resté invaincu pendant 154 combats d'affilée, une série interrompue en février 2020, au Grand Chelem de Paris, par le Japonais Kokoro Kageura.",
+      "source": "Wikipédia (fr) — « Teddy Riner »",
+      "verification": {
+        "statut": "relue",
+        "note": "Fin de série d'invincibilité datée (Grand Chelem de Paris, février 2020) pour éviter la confusion avec les JO."
+      }
+    },
+    {
+      "id": "spo-03-8",
+      "categorie": "sport",
+      "niveau": 3,
+      "question": "Quel stade de Saint-Denis a accueilli la finale de la Coupe du monde de football en 1998 ?",
+      "reponse": "Stade de France",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Parc des Princes",
+          "Stade Vélodrome",
+          "Stade olympique Yves-du-Manoir",
+          "Stade Charléty"
+        ]
+      },
+      "explication": "Construit pour la Coupe du monde, il a été inauguré le 28 janvier 1998 par un match France-Espagne, gagné 1 à 0 grâce à un but de Zinédine Zidane. Avec environ 80 000 places, c'était en 2024 le plus grand stade du pays. Il accueille les grands matchs des équipes de France de football et de rugby, et a reçu les épreuves d'athlétisme des Jeux de Paris 2024.",
+      "source": "Wikipédia (fr) — « Stade de France »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "spo-04-1",
@@ -160,10 +594,21 @@
       "question": "Quel coureur breton, surnommé « le Blaireau », a remporté cinq fois le Tour de France entre 1978 et 1985 ?",
       "reponse": "Bernard Hinault",
       "variantes": [],
-      "validation": {"type": "personne", "pieges": ["Jacques Anquetil", "Laurent Fignon", "Louison Bobet", "Eddy Merckx"]},
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Jacques Anquetil",
+          "Laurent Fignon",
+          "Louison Bobet",
+          "Eddy Merckx"
+        ]
+      },
       "explication": "Bernard Hinault a gagné le Tour en 1978, 1979, 1981, 1982 et 1985, rejoignant Jacques Anquetil et Eddy Merckx parmi les quintuples vainqueurs, avant d'être imité par Miguel Indurain. Il a aussi remporté trois Tours d'Italie et deux Tours d'Espagne. En 2025, sa victoire de 1985 restait la dernière d'un Français dans la Grande Boucle.",
       "source": "Wikipédia (fr) — « Bernard Hinault »",
-      "verification": {"statut": "relue", "note": "« longtemps restée la dernière » ambigu : daté (2025)."}
+      "verification": {
+        "statut": "relue",
+        "note": "« longtemps restée la dernière » ambigu : daté (2025)."
+      }
     },
     {
       "id": "spo-04-2",
@@ -172,11 +617,23 @@
       "question": "Quel pilote allemand a remporté sept titres de champion du monde de Formule 1, dont cinq consécutifs avec Ferrari ?",
       "reponse": "Michael Schumacher",
       "variantes": [],
-      "validation": {"type": "personne", "nomSeul": true, "pieges": ["Ralf Schumacher", "Sebastian Vettel", "Nico Rosberg", "Mick Schumacher"]},
+      "validation": {
+        "type": "personne",
+        "nomSeul": true,
+        "pieges": [
+          "Ralf Schumacher",
+          "Sebastian Vettel",
+          "Nico Rosberg",
+          "Mick Schumacher"
+        ]
+      },
       "explication": "Michael Schumacher a été sacré en 1994 et 1995 avec Benetton, puis chaque année de 2000 à 2004 avec Ferrari, une écurie qui attendait un titre pilote depuis 1979. Son total de sept couronnes n'a été égalé qu'en 2020 par le Britannique Lewis Hamilton. Il a mis fin à sa carrière en 2012, après un retour chez Mercedes.",
       "anecdote": "Fin 2013, il a été grièvement blessé à la tête lors d'une chute à ski à Méribel, dans les Alpes françaises.",
       "source": "Wikipédia (fr) — « Michael Schumacher »",
-      "verification": {"statut": "relue", "note": "nomSeul: true (l'énoncé lève l'ambiguïté avec Ralf et Mick)."}
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul: true (l'énoncé lève l'ambiguïté avec Ralf et Mick)."
+      }
     },
     {
       "id": "spo-04-3",
@@ -184,11 +641,24 @@
       "niveau": 4,
       "question": "Au tennis, comment l'arbitre annonce-t-il le score lorsque les deux joueurs sont à 40 partout ?",
       "reponse": "Égalité",
-      "variantes": ["deuce"],
-      "validation": {"type": "texte", "pieges": ["avantage", "jeu", "balle de jeu", "40 A"]},
+      "variantes": [
+        "deuce"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "avantage",
+          "jeu",
+          "balle de jeu",
+          "40 A"
+        ]
+      },
       "explication": "À égalité, un joueur doit marquer deux points d'affilée pour gagner le jeu : le premier lui donne l'« avantage », le second le jeu. S'il perd le point suivant, on revient à égalité, ce qui peut prolonger un jeu très longtemps. Certains formats, comme le double sur le circuit professionnel, remplacent ce système par un point décisif.",
       "source": "Wikipédia (fr) — « Tennis »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "spo-04-4",
@@ -196,11 +666,120 @@
       "niveau": 4,
       "question": "En 2024, quel footballeur brésilien reste le seul joueur à avoir remporté trois Coupes du monde ?",
       "reponse": "Pelé",
-      "variantes": ["Edson Arantes do Nascimento"],
-      "validation": {"type": "texte", "pieges": ["Garrincha", "Ronaldo", "Maradona", "Cafu", "Ronaldinho"]},
+      "variantes": [
+        "Edson Arantes do Nascimento"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Garrincha",
+          "Ronaldo",
+          "Maradona",
+          "Cafu",
+          "Ronaldinho"
+        ]
+      },
       "explication": "Pelé, de son vrai nom Edson Arantes do Nascimento, a été champion du monde en 1958, 1962 et 1970. En Suède, en 1958, il n'avait que 17 ans et a marqué deux buts en finale contre le pays hôte, battu 5 à 2. Il a joué l'essentiel de sa carrière au club de Santos, avant de finir aux États-Unis. Il est mort en décembre 2022.",
       "source": "Wikipédia (fr) — « Pelé »",
-      "verification": {"statut": "relue", "note": "Énoncé daté autrement (« jusqu'en 2022 » ambigu) ; variante « Edson » seule retirée."}
+      "verification": {
+        "statut": "relue",
+        "note": "Énoncé daté autrement (« jusqu'en 2022 » ambigu) ; variante « Edson » seule retirée."
+      }
+    },
+    {
+      "id": "spo-04-5",
+      "categorie": "sport",
+      "niveau": 4,
+      "question": "Quel pilote français, surnommé « le Professeur », a été quatre fois champion du monde de Formule 1, entre 1985 et 1993 ?",
+      "reponse": "Alain Prost",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Ayrton Senna",
+          "Jean Alesi",
+          "René Arnoux",
+          "Didier Pironi",
+          "Nelson Piquet"
+        ]
+      },
+      "explication": "Alain Prost a été sacré en 1985, 1986 et 1989 avec McLaren, puis en 1993 avec Williams, avant de prendre sa retraite. Son surnom évoque son pilotage calculateur. Sa rivalité avec Ayrton Senna, son coéquipier chez McLaren en 1988 et 1989, a été marquée par deux accrochages décisifs au Grand Prix du Japon, en 1989 et 1990. En 2025, il restait le seul Français champion du monde de F1.",
+      "source": "Wikipédia (fr) — « Alain Prost »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-04-6",
+      "categorie": "sport",
+      "niveau": 4,
+      "question": "Quelle joueuse de tennis américaine a remporté 23 titres du Grand Chelem en simple, entre 1999 et 2017 ?",
+      "reponse": "Serena Williams",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "nomSeul": false,
+        "pieges": [
+          "Venus Williams",
+          "Steffi Graf",
+          "Margaret Court",
+          "Martina Navratilova",
+          "Chris Evert"
+        ]
+      },
+      "explication": "Serena Williams a gagné son premier tournoi majeur à l'US Open 1999, à 17 ans, et le dernier à l'Open d'Australie 2017, alors qu'elle était enceinte. Seule l'Australienne Margaret Court, titrée 24 fois, fait mieux. Avec sa sœur aînée Venus, elle a aussi remporté quatorze titres du Grand Chelem en double et trois médailles d'or olympiques dans cette discipline.",
+      "anecdote": "En 2012, elle a aussi été sacrée championne olympique en simple, sur le gazon de Wimbledon, en battant Maria Sharapova 6-0, 6-1 en finale.",
+      "source": "Wikipédia (fr) — « Serena Williams »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul passé à false (Venus Williams, tennis)."
+      }
+    },
+    {
+      "id": "spo-04-7",
+      "categorie": "sport",
+      "niveau": 4,
+      "question": "Quelle épreuve d'athlétisme masculine réunit dix disciplines disputées sur deux jours ?",
+      "reponse": "Décathlon",
+      "variantes": [
+        "decathlon"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "heptathlon",
+          "pentathlon",
+          "triathlon",
+          "pentathlon moderne",
+          "biathlon"
+        ]
+      },
+      "explication": "Le décathlon enchaîne quatre courses, trois sauts et trois lancers, du 100 mètres au 1 500 mètres, et chaque performance est convertie en points grâce à une table de cotation. Le Français Kevin Mayer en a établi le record du monde en septembre 2018, à Talence, avec 9 126 points. Chez les femmes, l'épreuve combinée des grands championnats est l'heptathlon, en sept disciplines.",
+      "source": "Wikipédia (fr) — « Décathlon »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-04-8",
+      "categorie": "sport",
+      "niveau": 4,
+      "question": "Au volley-ball, combien de touches de balle une équipe peut-elle faire au maximum avant de renvoyer le ballon, contre non compris ?",
+      "reponse": "3",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 3,
+        "tolerance": 0
+      },
+      "explication": "La séquence classique enchaîne la réception, la passe puis l'attaque, souvent un smash. Un même joueur ne peut pas toucher le ballon deux fois de suite, sauf après un contre. Depuis 1998, chaque équipe peut aligner un libéro, spécialiste de la défense reconnaissable à son maillot d'une autre couleur : dans les règles internationales, il ne peut ni servir, ni contrer, ni attaquer au-dessus du filet.",
+      "source": "Wikipédia (fr) — « Volley-ball »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "spo-05-1",
@@ -208,11 +787,25 @@
       "niveau": 5,
       "question": "Dans quelle ville se sont tenus les premiers Jeux olympiques de l'ère moderne, en 1896 ?",
       "reponse": "Athènes",
-      "variantes": ["Athens", "Athina"],
-      "validation": {"type": "texte", "pieges": ["Olympie", "Paris", "Londres", "Sparte"]},
+      "variantes": [
+        "Athens",
+        "Athina"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Olympie",
+          "Paris",
+          "Londres",
+          "Sparte"
+        ]
+      },
       "explication": "Voulus par Pierre de Coubertin, ces premiers Jeux se sont déroulés en avril 1896 et n'ont réuni que des hommes, venus de quatorze nations. Les épreuves phares avaient lieu dans le stade panathénaïque, un stade antique rénové en marbre. Le marathon, créé pour l'occasion en souvenir de la légende du messager grec, a été gagné par un Grec, Spyrídon Loúis.",
       "source": "Wikipédia (fr) — « Jeux olympiques d'été de 1896 »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "spo-05-2",
@@ -220,12 +813,29 @@
       "niveau": 5,
       "question": "Quel boxeur américain portait le nom de Cassius Clay avant d'en changer en 1964 ?",
       "reponse": "Mohamed Ali",
-      "variantes": ["Muhammad Ali", "Mohammed Ali", "Mohammad Ali"],
-      "validation": {"type": "personne", "nomSeul": true, "pieges": ["Cassius Clay", "Joe Frazier", "George Foreman", "Sonny Liston", "Mike Tyson"]},
+      "variantes": [
+        "Muhammad Ali",
+        "Mohammed Ali",
+        "Mohammad Ali"
+      ],
+      "validation": {
+        "type": "personne",
+        "nomSeul": true,
+        "pieges": [
+          "Cassius Clay",
+          "Joe Frazier",
+          "George Foreman",
+          "Sonny Liston",
+          "Mike Tyson"
+        ]
+      },
       "explication": "Champion olympique à Rome en 1960, il a conquis le titre mondial des poids lourds en 1964 face à Sonny Liston, puis a adopté son nouveau nom en rejoignant la Nation of Islam. En 1967, son refus d'être enrôlé pour la guerre du Viêt Nam lui a valu d'être privé de son titre et suspendu plus de trois ans.",
       "anecdote": "En 1974 à Kinshasa, il a reconquis son titre face à George Foreman lors d'un combat resté célèbre sous le nom de « Rumble in the Jungle ».",
       "source": "Wikipédia (fr) — « Mohamed Ali »",
-      "verification": {"statut": "relue", "note": "nomSeul: true (homonymes, dont sa fille Laila Ali ; l'énoncé lève l'ambiguïté)."}
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul: true (homonymes, dont sa fille Laila Ali ; l'énoncé lève l'ambiguïté)."
+      }
     },
     {
       "id": "spo-05-3",
@@ -233,12 +843,29 @@
       "niveau": 5,
       "question": "Quel club français a remporté la Ligue des champions de l'UEFA en 1993 ?",
       "reponse": "Olympique de Marseille",
-      "variantes": ["OM", "Marseille", "l'OM"],
-      "validation": {"type": "texte", "pieges": ["Paris Saint-Germain", "PSG", "Monaco", "AS Monaco", "Olympique lyonnais", "Saint-Étienne"]},
+      "variantes": [
+        "OM",
+        "Marseille",
+        "l'OM"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Paris Saint-Germain",
+          "PSG",
+          "Monaco",
+          "AS Monaco",
+          "Olympique lyonnais",
+          "Saint-Étienne"
+        ]
+      },
       "explication": "Le 26 mai 1993, à Munich, l'OM a battu le Milan AC 1 à 0 grâce à une tête de Basile Boli. C'était la première saison de la compétition sous le nom de Ligue des champions, héritière de la Coupe des clubs champions européens. Quelques semaines plus tard éclatait l'affaire VA-OM, qui a coûté au club son titre de champion de France, mais pas sa coupe européenne.",
       "anecdote": "Il a fallu attendre 2025 pour qu'un autre club français, le Paris Saint-Germain, remporte la compétition, lui aussi en finale à Munich.",
       "source": "Wikipédia (fr) — « Olympique de Marseille »",
-      "verification": {"statut": "relue", "note": "Anecdote ajoutée (PSG 2025)."}
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote ajoutée (PSG 2025)."
+      }
     },
     {
       "id": "spo-05-4",
@@ -247,10 +874,128 @@
       "question": "Quel Français a remporté le tournoi de Roland-Garros en simple messieurs en 1983 ?",
       "reponse": "Yannick Noah",
       "variantes": [],
-      "validation": {"type": "personne", "nomSeul": true, "pieges": ["Henri Leconte", "Guy Forget", "Jo-Wilfried Tsonga", "Mats Wilander"]},
+      "validation": {
+        "type": "personne",
+        "nomSeul": true,
+        "pieges": [
+          "Henri Leconte",
+          "Guy Forget",
+          "Jo-Wilfried Tsonga",
+          "Mats Wilander"
+        ]
+      },
       "explication": "Yannick Noah a battu le Suédois Mats Wilander, tenant du titre, en finale. En 2025, plus de quarante ans plus tard, aucun Français n'avait plus remporté de tournoi du Grand Chelem en simple messieurs. Devenu capitaine, il a mené l'équipe de France à la victoire en Coupe Davis en 1991, face aux États-Unis. Il a aussi mené une carrière de chanteur à succès.",
       "source": "Wikipédia (fr) — « Yannick Noah »",
-      "verification": {"statut": "relue", "note": "Chronologie chanteur/capitaine corrigée (premier album en 1990) ; nomSeul: true (Joakim Noah)."}
+      "verification": {
+        "statut": "relue",
+        "note": "Chronologie chanteur/capitaine corrigée (premier album en 1990) ; nomSeul: true (Joakim Noah)."
+      }
+    },
+    {
+      "id": "spo-05-5",
+      "categorie": "sport",
+      "niveau": 5,
+      "question": "Quel pays a remporté la Coupe du monde féminine de football en 2023, en Australie et en Nouvelle-Zélande ?",
+      "reponse": "Espagne",
+      "variantes": [
+        "Spain",
+        "España"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Angleterre",
+          "Suède",
+          "États-Unis",
+          "Australie",
+          "Portugal"
+        ]
+      },
+      "explication": "En finale, à Sydney, l'Espagne a battu l'Angleterre 1 à 0 grâce à un but d'Olga Carmona, décrochant son premier titre mondial chez les femmes. En 2023, les États-Unis restaient la nation la plus titrée, avec quatre victoires, en 1991, 1999, 2015 et 2019. La première édition officielle de la compétition s'était tenue en Chine, en 1991.",
+      "anecdote": "Après la finale, le baiser imposé par le président de la fédération espagnole, Luis Rubiales, à la joueuse Jenni Hermoso a déclenché un scandale qui l'a poussé à démissionner.",
+      "source": "Wikipédia (fr) — « Coupe du monde féminine de football 2023 »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-05-6",
+      "categorie": "sport",
+      "niveau": 5,
+      "question": "Quel pilote alsacien a été champion du monde des rallyes neuf fois de suite, de 2004 à 2012 ?",
+      "reponse": "Sébastien Loeb",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Sébastien Ogier",
+          "Didier Auriol",
+          "Carlos Sainz",
+          "Stéphane Peterhansel"
+        ]
+      },
+      "explication": "Toujours associé au copilote monégasque Daniel Elena, Sébastien Loeb a remporté tous ses titres au volant de Citroën. Ancien gymnaste, il a gagné 80 manches du championnat du monde, un record. Il s'est aussi illustré dans d'autres disciplines : deuxième des 24 Heures du Mans en 2006, il a battu en 2013 le record de la course de côte de Pikes Peak, aux États-Unis.",
+      "anecdote": "Son successeur au palmarès mondial, en 2013, porte le même prénom que lui : Sébastien Ogier, un Haut-Alpin.",
+      "source": "Wikipédia (fr) — « Sébastien Loeb »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-05-7",
+      "categorie": "sport",
+      "niveau": 5,
+      "question": "Quel trophée, offert en 1892 par un gouverneur général du Canada, récompense l'équipe championne de la LNH ?",
+      "reponse": "Coupe Stanley",
+      "variantes": [
+        "Stanley Cup",
+        "Stanley",
+        "trophée Stanley"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Coupe Grey",
+          "Trophée Hart",
+          "Coupe Memorial",
+          "Coupe Spengler"
+        ]
+      },
+      "explication": "Lord Stanley of Preston l'avait achetée pour récompenser la meilleure équipe amateur du Canada ; seules les équipes de la Ligue nationale de hockey se la disputent depuis 1926. Les noms des joueurs vainqueurs sont gravés sur les anneaux de sa base. En 2025, les Canadiens de Montréal restaient l'équipe la plus titrée, avec 24 coupes, la dernière remportée en 1993.",
+      "anecdote": "Chaque membre de l'équipe championne a droit à une journée avec la coupe, toujours escortée par un gardien du Temple de la renommée du hockey.",
+      "source": "Wikipédia (fr) — « Coupe Stanley »",
+      "verification": {
+        "statut": "relue",
+        "note": "Formulation prudente sur l'exclusivité LNH (1926)."
+      }
+    },
+    {
+      "id": "spo-05-8",
+      "categorie": "sport",
+      "niveau": 5,
+      "question": "Quelle athlète française a remporté le 200 m et le 400 m aux Jeux olympiques d'Atlanta, en 1996 ?",
+      "reponse": "Marie-José Pérec",
+      "variantes": [
+        "Marie-Jose Perec"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Christine Arron",
+          "Muriel Hurtis",
+          "Cathy Freeman",
+          "Michael Johnson"
+        ]
+      },
+      "explication": "Déjà championne olympique du 400 mètres à Barcelone en 1992, la Guadeloupéenne est devenue à Atlanta la première athlète, hommes et femmes confondus, à conserver son titre olympique sur cette distance. Aux mêmes Jeux, l'Américain Michael Johnson réussissait le même doublé chez les hommes. Surnommée « la Gazelle », elle a aussi été deux fois championne du monde du 400 m.",
+      "anecdote": "Le 26 juillet 2024, elle a allumé la vasque des Jeux de Paris aux côtés du judoka Teddy Riner.",
+      "source": "Wikipédia (fr) — « Marie-José Pérec »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "spo-06-1",
@@ -259,11 +1004,22 @@
       "question": "Quel pays a remporté la première Coupe du monde de football, en 1930 ?",
       "reponse": "Uruguay",
       "variantes": [],
-      "validation": {"type": "texte", "pieges": ["Argentine", "Brésil", "Paraguay", "Italie"]},
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Argentine",
+          "Brésil",
+          "Paraguay",
+          "Italie"
+        ]
+      },
       "explication": "L'Uruguay, double champion olympique en 1924 et 1928, organisait aussi le tournoi, l'année du centenaire de sa première Constitution. En finale, à Montevideo, il a battu l'Argentine voisine 4 à 2 dans le stade Centenario, construit pour l'occasion. Seules quatre équipes européennes, dont la France, avaient accepté la longue traversée de l'Atlantique.",
       "anecdote": "Le premier but de l'histoire de la Coupe du monde a été marqué par un Français, Lucien Laurent, contre le Mexique.",
       "source": "Wikipédia (fr) — « Coupe du monde de football 1930 »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "spo-06-2",
@@ -271,12 +1027,24 @@
       "niveau": 6,
       "question": "Quel athlète afro-américain a remporté quatre médailles d'or aux Jeux olympiques de Berlin, en 1936 ?",
       "reponse": "Jesse Owens",
-      "variantes": ["James Cleveland Owens"],
-      "validation": {"type": "personne", "pieges": ["Carl Lewis", "Ralph Metcalfe", "Jesse Jackson"]},
+      "variantes": [
+        "James Cleveland Owens"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Carl Lewis",
+          "Ralph Metcalfe",
+          "Jesse Jackson"
+        ]
+      },
       "explication": "Jesse Owens a gagné le 100 m, le 200 m, le saut en longueur et le relais 4 × 100 m, dans des Jeux que le régime nazi voulait transformer en vitrine de sa propagande raciste. Son exploit n'a été égalé qu'en 1984, à Los Angeles, par Carl Lewis, vainqueur des quatre mêmes épreuves. De retour aux États-Unis, il a pourtant continué de subir la ségrégation.",
       "anecdote": "Son prénom vient de ses initiales « J. C. » : une institutrice aurait mal compris sa prononciation et noté « Jesse ».",
       "source": "Wikipédia (fr) — « Jesse Owens »",
-      "verification": {"statut": "relue", "note": "Origine du prénom laissée au conditionnel (tradition)."}
+      "verification": {
+        "statut": "relue",
+        "note": "Origine du prénom laissée au conditionnel (tradition)."
+      }
     },
     {
       "id": "spo-06-3",
@@ -285,11 +1053,23 @@
       "question": "Quelle classique cycliste, célèbre pour ses secteurs pavés, est surnommée « l'Enfer du Nord » ?",
       "reponse": "Paris-Roubaix",
       "variantes": [],
-      "validation": {"type": "texte", "pieges": ["Tour des Flandres", "Gand-Wevelgem", "Paris-Tours", "Paris-Nice", "Liège-Bastogne-Liège"]},
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Tour des Flandres",
+          "Gand-Wevelgem",
+          "Paris-Tours",
+          "Paris-Nice",
+          "Liège-Bastogne-Liège"
+        ]
+      },
       "explication": "Créée en 1896, la course traverse chaque printemps des dizaines de kilomètres de chemins pavés du nord de la France, redoutés pour les chutes, la poussière ou la boue. L'arrivée est jugée sur la piste du vélodrome de Roubaix. Le surnom est souvent rattaché à l'édition de 1919, qui traversait des paysages dévastés par la Première Guerre mondiale.",
       "anecdote": "Le vainqueur ne reçoit pas de coupe classique, mais un véritable pavé monté sur un socle.",
       "source": "Wikipédia (fr) — « Paris-Roubaix »",
-      "verification": {"statut": "relue", "note": "Surnom rattaché à 1919 avec prudence (« souvent »)."}
+      "verification": {
+        "statut": "relue",
+        "note": "Surnom rattaché à 1919 avec prudence (« souvent »)."
+      }
     },
     {
       "id": "spo-06-4",
@@ -298,10 +1078,123 @@
       "question": "Au judo, comment s'appelle l'avantage décisif qui met immédiatement fin au combat ?",
       "reponse": "Ippon",
       "variantes": [],
-      "validation": {"type": "texte", "pieges": ["waza-ari", "yuko", "koka", "hansoku-make", "shido"]},
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "waza-ari",
+          "yuko",
+          "koka",
+          "hansoku-make",
+          "shido"
+        ]
+      },
       "explication": "L'ippon s'obtient notamment en projetant l'adversaire largement sur le dos avec force et vitesse, en l'immobilisant au sol assez longtemps ou en le forçant à abandonner sur une clé de bras ou un étranglement. Le judo a été fondé au Japon en 1882 par Jigoro Kano, et il est devenu olympique aux Jeux de Tokyo, en 1964.",
       "source": "Wikipédia (fr) — « Judo »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-06-5",
+      "categorie": "sport",
+      "niveau": 6,
+      "question": "Quel biathlète français a remporté sept fois de suite le classement général de la Coupe du monde, de 2012 à 2018 ?",
+      "reponse": "Martin Fourcade",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "nomSeul": false,
+        "pieges": [
+          "Simon Fourcade",
+          "Quentin Fillon Maillet",
+          "Raphaël Poirée",
+          "Ole Einar Bjørndalen",
+          "Johannes Thingnes Bø"
+        ]
+      },
+      "explication": "Le biathlon combine ski de fond et tir à la carabine, couché ou debout, chaque cible manquée coûtant un tour de pénalité ou une minute ajoutée au temps. Martin Fourcade y a gagné cinq titres olympiques, deux à Sotchi en 2014 et trois à Pyeongchang en 2018. Retiré en 2020, il a été élu en 2022 à la commission des athlètes du Comité international olympique.",
+      "source": "Wikipédia (fr) — « Martin Fourcade »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul passé à false (Simon Fourcade, biathlon)."
+      }
+    },
+    {
+      "id": "spo-06-6",
+      "categorie": "sport",
+      "niveau": 6,
+      "question": "Comment s'appelle le grade suprême des lutteurs de sumo ?",
+      "reponse": "Yokozuna",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "ozeki",
+          "sekiwake",
+          "komusubi",
+          "maegashira",
+          "rikishi"
+        ]
+      },
+      "explication": "Le terme désigne la grosse corde tressée que le lutteur porte autour de la taille lors de sa cérémonie d'entrée dans l'arène. Contrairement aux autres rangs, un yokozuna ne peut pas être rétrogradé : quand ses résultats déclinent, il est censé prendre sa retraite. L'Américain d'origine hawaïenne Akebono est devenu en 1993 le premier yokozuna né hors du Japon.",
+      "anecdote": "Le Mongol Hakuhō a ensuite remporté 45 tournois de la première division entre 2006 et 2021, un record.",
+      "source": "Wikipédia (fr) — « Yokozuna »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-06-7",
+      "categorie": "sport",
+      "niveau": 6,
+      "question": "Quelle course transatlantique à la voile en solitaire relie Saint-Malo à Pointe-à-Pitre tous les quatre ans ?",
+      "reponse": "Route du Rhum",
+      "variantes": [
+        "Route du Rhum-Destination Guadeloupe"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Transat Jacques Vabre",
+          "Vendée Globe",
+          "Solitaire du Figaro",
+          "Transat anglaise",
+          "Trophée Jules-Verne"
+        ]
+      },
+      "explication": "La première édition, en 1978, s'est jouée à 98 secondes près : après plus de 23 jours de mer, le Canadien Mike Birch a devancé le Français Michel Malinovsky. La même année, le navigateur Alain Colas a disparu en mer pendant la course. L'épreuve réunit des bateaux de toutes tailles, des multicoques géants des professionnels aux voiliers plus modestes des amateurs.",
+      "source": "Wikipédia (fr) — « Route du Rhum »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-06-8",
+      "categorie": "sport",
+      "niveau": 6,
+      "question": "Quel cheval, monté par Pierre Durand, a remporté le titre olympique de saut d'obstacles à Séoul en 1988 ?",
+      "reponse": "Jappeloup",
+      "variantes": [
+        "Jappeloup de Luze"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Baloubet du Rouet",
+          "Milton",
+          "Ratina Z",
+          "Quidam de Revel"
+        ]
+      },
+      "explication": "Petit cheval longtemps jugé peu prometteur à cause de sa taille modeste, Jappeloup avait d'abord connu un échec retentissant aux Jeux de Los Angeles, en 1984, où son cavalier avait chuté sur le parcours. Quatre ans plus tard, le couple français décrochait l'or individuel. Leur histoire a inspiré le film « Jappeloup », sorti en 2013, où Guillaume Canet incarne Pierre Durand.",
+      "source": "Wikipédia (fr) — « Jappeloup »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "spo-07-1",
@@ -310,10 +1203,21 @@
       "question": "Quel skieur français a remporté les trois épreuves de ski alpin aux Jeux olympiques de Grenoble, en 1968 ?",
       "reponse": "Jean-Claude Killy",
       "variantes": [],
-      "validation": {"type": "personne", "pieges": ["Toni Sailer", "Guy Périllat", "Karl Schranz", "Luc Alphand"]},
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Toni Sailer",
+          "Guy Périllat",
+          "Karl Schranz",
+          "Luc Alphand"
+        ]
+      },
       "explication": "Jean-Claude Killy a gagné la descente, le slalom géant et le slalom, égalant le triplé de l'Autrichien Toni Sailer en 1956. Son titre en slalom a pourtant été disputé : l'Autrichien Karl Schranz, d'abord autorisé à recourir, a finalement été disqualifié. Après sa carrière, Killy a coprésidé le comité d'organisation des Jeux d'Albertville, en 1992.",
       "source": "Wikipédia (fr) — « Jean-Claude Killy »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "spo-07-2",
@@ -321,11 +1225,25 @@
       "niveau": 7,
       "question": "Comment s'appelle la technique de saut en hauteur, dos à la barre, popularisée aux Jeux olympiques de 1968 ?",
       "reponse": "Fosbury-flop",
-      "variantes": ["Fosbury", "Fosbury flop"],
-      "validation": {"type": "texte", "pieges": ["rouleau ventral", "ciseaux", "rouleau costal", "rouleau californien"]},
+      "variantes": [
+        "Fosbury",
+        "Fosbury flop"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "rouleau ventral",
+          "ciseaux",
+          "rouleau costal",
+          "rouleau californien"
+        ]
+      },
       "explication": "L'Américain Dick Fosbury a été sacré champion olympique à Mexico en franchissant 2,24 mètres avec cette technique, alors que ses rivaux pratiquaient le rouleau ventral, face à la barre. Le saut dorsal n'est devenu possible qu'avec l'arrivée de tapis de réception en mousse. En quelques années, presque tous les sauteurs de haut niveau l'ont adopté.",
       "source": "Wikipédia (fr) — « Dick Fosbury »",
-      "verification": {"statut": "relue", "note": "Variante « flop » seule retirée (incomplète)."}
+      "verification": {
+        "statut": "relue",
+        "note": "Variante « flop » seule retirée (incomplète)."
+      }
     },
     {
       "id": "spo-07-3",
@@ -333,11 +1251,24 @@
       "niveau": 7,
       "question": "Quelle gymnaste roumaine a obtenu la première note parfaite de 10 aux Jeux olympiques, à Montréal en 1976 ?",
       "reponse": "Nadia Comăneci",
-      "variantes": ["Comaneci"],
-      "validation": {"type": "personne", "pieges": ["Olga Korbut", "Nellie Kim", "Simone Biles", "Ludmilla Tourischeva"]},
+      "variantes": [
+        "Comaneci"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Olga Korbut",
+          "Nellie Kim",
+          "Simone Biles",
+          "Ludmilla Tourischeva"
+        ]
+      },
       "explication": "Âgée de 14 ans, Nadia Comăneci a reçu ce 10 aux barres asymétriques, puis plusieurs autres pendant les Jeux. Le tableau d'affichage, conçu avec un seul chiffre avant la virgule, a dû montrer « 1,00 », les fabricants ayant jugé la note parfaite impossible. Elle est repartie de Montréal avec trois médailles d'or, dont celle du concours général.",
       "source": "Wikipédia (fr) — « Nadia Comăneci »",
-      "verification": {"statut": "relue", "note": "Affichage « 1,00 » confirmé."}
+      "verification": {
+        "statut": "relue",
+        "note": "Affichage « 1,00 » confirmé."
+      }
     },
     {
       "id": "spo-07-4",
@@ -345,12 +1276,132 @@
       "niveau": 7,
       "question": "Au golf, comment appelle-t-on un trou réussi en un coup de moins que le par ?",
       "reponse": "Birdie",
-      "variantes": ["oiselet"],
-      "validation": {"type": "texte", "pieges": ["eagle", "bogey", "albatros", "par", "condor", "trou en un"]},
+      "variantes": [
+        "oiselet"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "eagle",
+          "bogey",
+          "albatros",
+          "par",
+          "condor",
+          "trou en un"
+        ]
+      },
       "explication": "Le par est le nombre de coups prévu pour un bon joueur sur un trou, généralement de trois à cinq. Le vocabulaire en dessous suit une logique d'oiseaux de plus en plus rares : le birdie pour un coup de moins, l'eagle pour deux, l'albatros pour trois. Un coup de plus que le par s'appelle en revanche un bogey.",
       "anecdote": "Le terme « birdie » vient de l'argot américain de la fin du XIXe siècle, où « bird » désignait quelque chose d'excellent.",
       "source": "Wikipédia (fr) — « Golf »",
-      "verification": {"statut": "relue", "note": "Terme officiel français « oiselet » ajouté en variante."}
+      "verification": {
+        "statut": "relue",
+        "note": "Terme officiel français « oiselet » ajouté en variante."
+      }
+    },
+    {
+      "id": "spo-07-5",
+      "categorie": "sport",
+      "niveau": 7,
+      "question": "Quelle joueuse américaine a battu Bobby Riggs lors du match surnommé « la Bataille des sexes », en 1973 ?",
+      "reponse": "Billie Jean King",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Margaret Court",
+          "Chris Evert",
+          "Martina Navratilova",
+          "Bobby Riggs"
+        ]
+      },
+      "explication": "Le 20 septembre 1973, à l'Astrodome de Houston, devant plus de 30 000 spectateurs, Billie Jean King a battu en trois sets Bobby Riggs, ancien champion de 55 ans qui affirmait que les femmes ne pouvaient rivaliser avec les hommes. La même année, elle a fondé la WTA. Depuis 2020, la grande compétition par équipes nationales féminines de tennis porte son nom.",
+      "anecdote": "Quelques mois plus tôt, Riggs avait battu l'Australienne Margaret Court, numéro un mondiale, lors d'un match surnommé « le massacre de la fête des Mères ».",
+      "source": "Wikipédia (fr) — « Billie Jean King »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-07-6",
+      "categorie": "sport",
+      "niveau": 7,
+      "question": "Sur quel circuit belge de Formule 1 se trouve le célèbre enchaînement de virages de l'Eau Rouge et du Raidillon ?",
+      "reponse": "Spa-Francorchamps",
+      "variantes": [
+        "Spa",
+        "circuit de Spa-Francorchamps",
+        "Francorchamps"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Zolder",
+          "Nivelles",
+          "Zandvoort",
+          "Nürburgring",
+          "Monza"
+        ]
+      },
+      "explication": "Situé dans les Ardennes, près de Stavelot et de Malmedy, le circuit empruntait à l'origine plus de 14 kilomètres de routes ouvertes à la circulation. Raccourci de moitié en 1979, il restait en 2025 le plus long du calendrier de Formule 1, avec environ 7 kilomètres. Sa météo est réputée capricieuse : il peut pleuvoir sur une partie du tracé et pas sur une autre.",
+      "source": "Wikipédia (fr) — « Circuit de Spa-Francorchamps »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-07-7",
+      "categorie": "sport",
+      "niveau": 7,
+      "question": "Quel pays a battu l'URSS lors du « Miracle sur glace », aux Jeux olympiques d'hiver de Lake Placid en 1980 ?",
+      "reponse": "États-Unis",
+      "variantes": [
+        "USA",
+        "États-Unis d'Amérique",
+        "United States"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Canada",
+          "Finlande",
+          "Suède",
+          "Tchécoslovaquie"
+        ]
+      },
+      "explication": "Le 22 février 1980, en pleine guerre froide, une équipe américaine composée surtout d'étudiants a battu 4 à 3 les Soviétiques, quadruples champions olympiques en titre et grands favoris. Contrairement à une idée répandue, ce n'était pas la finale : les Américains ont décroché l'or deux jours plus tard face à la Finlande. Leur entraîneur, Herb Brooks, a inspiré le film « Miracle », en 2004.",
+      "source": "Wikipédia (fr) — « Miracle sur glace »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-07-8",
+      "categorie": "sport",
+      "niveau": 7,
+      "question": "Quelle épreuve olympique, imaginée par Pierre de Coubertin, réunit escrime, natation, équitation, tir et course à pied ?",
+      "reponse": "Pentathlon moderne",
+      "variantes": [
+        "pentathlon"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "décathlon",
+          "heptathlon",
+          "triathlon",
+          "biathlon"
+        ]
+      },
+      "explication": "Inscrite aux Jeux de Stockholm en 1912, l'épreuve s'inspire des aptitudes d'un officier de cavalerie chargé de traverser les lignes ennemies : monter un cheval inconnu, se battre à l'épée, nager, tirer et courir. L'adjectif « moderne » la distingue du pentathlon antique, qui comprenait notamment la lutte. Pour les Jeux de Los Angeles, en 2028, l'équitation doit céder la place à une course d'obstacles.",
+      "anecdote": "En 1912, le futur général américain George Patton a terminé cinquième de la toute première épreuve olympique de pentathlon moderne.",
+      "source": "Wikipédia (fr) — « Pentathlon moderne »",
+      "verification": {
+        "statut": "relue",
+        "note": "Phrase sur le remplacement de l'équitation datée (2028)."
+      }
     },
     {
       "id": "spo-08-1",
@@ -358,11 +1409,24 @@
       "niveau": 8,
       "question": "Quel athlète tchécoslovaque a remporté le 5 000 m, le 10 000 m et le marathon aux Jeux d'Helsinki, en 1952 ?",
       "reponse": "Emil Zátopek",
-      "variantes": ["Zatopek"],
-      "validation": {"type": "personne", "pieges": ["Paavo Nurmi", "Alain Mimoun", "Lasse Virén", "Abebe Bikila"]},
+      "variantes": [
+        "Zatopek"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Paavo Nurmi",
+          "Alain Mimoun",
+          "Lasse Virén",
+          "Abebe Bikila"
+        ]
+      },
       "explication": "Ce triplé reste unique dans l'histoire olympique. Emil Zátopek disputait à Helsinki le premier marathon de sa vie, ce qui ne l'a pas empêché de l'emporter. Surnommé « la locomotive tchèque » pour son style haletant, il avait déjà gagné le 10 000 m à Londres en 1948. Son épouse, Dana Zátopková, a été sacrée au javelot lors des mêmes Jeux de 1952.",
       "source": "Wikipédia (fr) — « Emil Zátopek »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "spo-08-2",
@@ -370,12 +1434,28 @@
       "niveau": 8,
       "question": "Quel trophée est remis à l'équipe victorieuse de la Coupe du monde de rugby à XV ?",
       "reponse": "Trophée Webb Ellis",
-      "variantes": ["Webb Ellis", "Coupe Webb Ellis", "Webb Ellis Cup", "William Webb Ellis"],
-      "validation": {"type": "texte", "pieges": ["Bouclier de Brennus", "Calcutta Cup", "Trophée Jules Rimet", "Bledisloe Cup"]},
+      "variantes": [
+        "Webb Ellis",
+        "Coupe Webb Ellis",
+        "Webb Ellis Cup",
+        "William Webb Ellis"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Bouclier de Brennus",
+          "Calcutta Cup",
+          "Trophée Jules Rimet",
+          "Bledisloe Cup"
+        ]
+      },
       "explication": "Le trophée porte le nom de William Webb Ellis, un élève de l'école de Rugby, en Angleterre, qui aurait inventé le jeu en 1823 en prenant le ballon à la main pendant une partie de football. L'histoire n'a jamais été prouvée. En 2023, l'Afrique du Sud est devenue la première nation à le remporter quatre fois, en 1995, 2007, 2019 et 2023.",
       "anecdote": "La première Coupe du monde, en 1987, a été coorganisée par la Nouvelle-Zélande et l'Australie, et gagnée par les All Blacks.",
       "source": "Wikipédia (fr) — « Coupe du monde de rugby à XV »",
-      "verification": {"statut": "relue", "note": "Source remplacée par l'article principal ; formulation du palmarès clarifiée."}
+      "verification": {
+        "statut": "relue",
+        "note": "Source remplacée par l'article principal ; formulation du palmarès clarifiée."
+      }
     },
     {
       "id": "spo-08-3",
@@ -384,11 +1464,21 @@
       "question": "Quel professeur d'éducation physique d'origine canadienne a inventé le basket-ball en 1891 ?",
       "reponse": "James Naismith",
       "variantes": [],
-      "validation": {"type": "personne", "pieges": ["William Morgan", "Pierre de Coubertin", "Walter Camp"]},
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "William Morgan",
+          "Pierre de Coubertin",
+          "Walter Camp"
+        ]
+      },
       "explication": "Enseignant dans une école de la YMCA à Springfield, dans le Massachusetts, James Naismith cherchait un jeu d'intérieur pour occuper ses élèves pendant l'hiver. Il a accroché deux paniers à pêches aux balcons du gymnase et rédigé treize règles. Le basket-ball est devenu sport olympique aux Jeux de Berlin, en 1936, en présence de son inventeur.",
       "anecdote": "Au début, les paniers avaient encore leur fond : il fallait aller récupérer le ballon après chaque panier marqué.",
       "source": "Wikipédia (fr) — « James Naismith »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "spo-08-4",
@@ -396,11 +1486,128 @@
       "niveau": 8,
       "question": "Quelle station de Haute-Savoie a accueilli les premiers Jeux olympiques d'hiver, en 1924 ?",
       "reponse": "Chamonix",
-      "variantes": ["Chamonix-Mont-Blanc"],
-      "validation": {"type": "texte", "pieges": ["Grenoble", "Albertville", "Saint-Moritz", "Megève", "Annecy"]},
+      "variantes": [
+        "Chamonix-Mont-Blanc"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Grenoble",
+          "Albertville",
+          "Saint-Moritz",
+          "Megève",
+          "Annecy"
+        ]
+      },
       "explication": "L'événement s'appelait à l'origine « Semaine internationale des sports d'hiver ». Il n'a été reconnu qu'après coup par le Comité international olympique comme les premiers Jeux d'hiver. La première médaille d'or a été remportée par le patineur de vitesse américain Charles Jewtraw, sur 500 mètres. La deuxième édition a eu lieu en 1928, à Saint-Moritz, en Suisse.",
       "source": "Wikipédia (fr) — « Jeux olympiques d'hiver de 1924 »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-08-5",
+      "categorie": "sport",
+      "niveau": 8,
+      "question": "Quelle ville a accueilli les premiers Jeux paralympiques officiels, en 1960 ?",
+      "reponse": "Rome",
+      "variantes": [
+        "Roma"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Stoke Mandeville",
+          "Tokyo",
+          "Londres",
+          "Turin"
+        ]
+      },
+      "explication": "Organisés juste après les Jeux olympiques de Rome, ils ont réuni environ 400 sportifs venus de 23 pays, tous en fauteuil roulant. Ils prolongeaient les Jeux de Stoke Mandeville, créés en Angleterre en 1948 par le neurologue Ludwig Guttmann pour des vétérans de guerre blessés à la moelle épinière. Les athlètes ayant d'autres types de handicap n'ont été admis qu'à partir de 1976.",
+      "source": "Wikipédia (fr) — « Jeux paralympiques d'été de 1960 »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-08-6",
+      "categorie": "sport",
+      "niveau": 8,
+      "question": "Quelle athlète néerlandaise, mère de deux enfants, a remporté quatre médailles d'or aux Jeux de Londres en 1948 ?",
+      "reponse": "Fanny Blankers-Koen",
+      "variantes": [
+        "Francina Blankers-Koen"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Babe Didrikson",
+          "Wilma Rudolph",
+          "Betty Cuthbert",
+          "Fanny Durack"
+        ]
+      },
+      "explication": "Âgée de 30 ans, Fanny Blankers-Koen a gagné le 100 m, le 200 m, le 80 m haies et le relais 4 × 100 m, alors que beaucoup la jugeaient trop âgée pour briller. La presse l'a surnommée « la ménagère volante ». Détentrice des records du monde de la hauteur et de la longueur, elle n'a pas pu les disputer, le règlement limitant le nombre d'épreuves individuelles.",
+      "anecdote": "À 18 ans, elle avait participé aux Jeux de Berlin en 1936, où elle avait obtenu un autographe de Jesse Owens.",
+      "source": "Wikipédia (fr) — « Fanny Blankers-Koen »",
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote : âge précisé (18 ans en 1936)."
+      }
+    },
+    {
+      "id": "spo-08-7",
+      "categorie": "sport",
+      "niveau": 8,
+      "question": "Quel Américain a sauté 8,90 mètres en longueur aux Jeux de Mexico, en 1968 ?",
+      "reponse": "Bob Beamon",
+      "variantes": [
+        "Robert Beamon"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Mike Powell",
+          "Carl Lewis",
+          "Ralph Boston",
+          "Igor Ter-Ovanesyan"
+        ]
+      },
+      "explication": "Le 18 octobre 1968, Bob Beamon a amélioré le record du monde de 55 centimètres. Le saut dépassait la portée de l'appareil optique de mesure, et les juges ont dû recourir à un mètre ruban. L'altitude de Mexico, à plus de 2 200 mètres, l'a sans doute aidé. Ce record mondial n'a été battu qu'en 1991, par Mike Powell, avec 8,95 m.",
+      "anecdote": "En 2025, ses 8,90 m constituaient toujours le record olympique du saut en longueur.",
+      "source": "Wikipédia (fr) — « Bob Beamon »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-08-8",
+      "categorie": "sport",
+      "niveau": 8,
+      "question": "Au curling, comment appelle-t-on la cible formée de cercles concentriques vers laquelle on fait glisser les pierres ?",
+      "reponse": "Maison",
+      "variantes": [
+        "house"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "bouton",
+          "cible",
+          "tee",
+          "palet"
+        ]
+      },
+      "explication": "Le centre de la maison s'appelle le bouton. À chaque manche, seule l'équipe dont la pierre est la plus proche du centre marque, à raison d'un point par pierre mieux placée que la meilleure pierre adverse. Les balayeurs frottent la glace devant la pierre pour la faire aller plus loin et plus droit. Une pierre réglementaire pèse un peu moins de 20 kilogrammes.",
+      "anecdote": "La plupart des pierres utilisées aux Jeux olympiques sont taillées dans le granit d'Ailsa Craig, un îlot inhabité au large de l'Écosse.",
+      "source": "Wikipédia (fr) — « Curling »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "spo-09-1",
@@ -408,11 +1615,26 @@
       "niveau": 9,
       "question": "Quel gardien de but soviétique a remporté le Ballon d'or en 1963 ?",
       "reponse": "Lev Yachine",
-      "variantes": ["Lev Yashin", "Lev Iachine", "Lev Jachin"],
-      "validation": {"type": "personne", "pieges": ["Dino Zoff", "Gianluigi Buffon", "Oleg Blokhine", "Gordon Banks"]},
+      "variantes": [
+        "Lev Yashin",
+        "Lev Iachine",
+        "Lev Jachin"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Dino Zoff",
+          "Gianluigi Buffon",
+          "Oleg Blokhine",
+          "Gordon Banks"
+        ]
+      },
       "explication": "Surnommé « l'Araignée noire » pour sa tenue sombre et ses longs bras, Lev Yachine a passé toute sa carrière au Dynamo Moscou. Jusqu'en 2025, il est resté le seul gardien de but récompensé par le Ballon d'or. Depuis 2019, le trophée Yachine, remis lors de la même cérémonie, distingue d'ailleurs le meilleur gardien de la saison.",
       "source": "Wikipédia (fr) — « Lev Yachine »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "spo-09-2",
@@ -420,12 +1642,25 @@
       "niveau": 9,
       "question": "En 1969, quel joueur australien a gagné les quatre tournois du Grand Chelem de tennis la même année ?",
       "reponse": "Rod Laver",
-      "variantes": ["Rodney Laver"],
-      "validation": {"type": "personne", "pieges": ["Ken Rosewall", "Roy Emerson", "Don Budge", "John Newcombe"]},
+      "variantes": [
+        "Rodney Laver"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Ken Rosewall",
+          "Roy Emerson",
+          "Don Budge",
+          "John Newcombe"
+        ]
+      },
       "explication": "Rod Laver avait déjà réussi ce Grand Chelem calendaire en 1962, chez les amateurs. Il est le seul joueur à l'avoir accompli deux fois, et le seul homme à l'avoir fait à l'ère Open, ouverte aux professionnels en 1968. Jusqu'en 2025, aucun homme ne l'avait imité : Novak Djokovic a échoué en finale de l'US Open en 2021.",
       "anecdote": "Le court central de l'Open d'Australie, à Melbourne, porte son nom : la Rod Laver Arena.",
       "source": "Wikipédia (fr) — « Rod Laver »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "spo-09-3",
@@ -433,11 +1668,27 @@
       "niveau": 9,
       "question": "Quel perchiste soviétique a été le premier à franchir six mètres, en 1985 à Paris ?",
       "reponse": "Sergueï Bubka",
-      "variantes": ["Serhiy Bubka", "Sergey Bubka", "Sergei Bubka", "Serguei Bubka"],
-      "validation": {"type": "personne", "pieges": ["Renaud Lavillenie", "Armand Duplantis", "Thierry Vigneron", "Pierre Quinon"]},
+      "variantes": [
+        "Serhiy Bubka",
+        "Sergey Bubka",
+        "Sergei Bubka",
+        "Serguei Bubka"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Renaud Lavillenie",
+          "Armand Duplantis",
+          "Thierry Vigneron",
+          "Pierre Quinon"
+        ]
+      },
       "explication": "Le 13 juillet 1985, l'Ukrainien, qui concourait alors pour l'URSS, a passé six mètres lors d'un meeting parisien. Au cours de sa carrière, il a amélioré le record du monde à 35 reprises, en plein air et en salle, souvent centimètre par centimètre. Il a été six fois champion du monde, de 1983 à 1997.",
       "source": "Wikipédia (fr) — « Sergueï Bubka »",
-      "verification": {"statut": "relue", "note": "Date et lieu (13 juillet 1985, Paris) confirmés."}
+      "verification": {
+        "statut": "relue",
+        "note": "Date et lieu (13 juillet 1985, Paris) confirmés."
+      }
     },
     {
       "id": "spo-09-4",
@@ -445,11 +1696,126 @@
       "niveau": 9,
       "question": "En 1983, quel pays a mis fin à 132 ans de domination américaine sur la Coupe de l'America ?",
       "reponse": "Australie",
-      "variantes": ["Australia"],
-      "validation": {"type": "texte", "pieges": ["Autriche", "Nouvelle-Zélande", "Royaume-Uni", "Angleterre", "Suisse"]},
+      "variantes": [
+        "Australia"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Autriche",
+          "Nouvelle-Zélande",
+          "Royaume-Uni",
+          "Angleterre",
+          "Suisse"
+        ]
+      },
       "explication": "Le trophée tient son nom de la goélette America, victorieuse en 1851 d'une régate autour de l'île de Wight. Le New York Yacht Club l'a ensuite défendu avec succès pendant plus d'un siècle. À Newport, en 1983, le voilier Australia II, doté d'une quille à ailettes révolutionnaire, l'a emporté par quatre manches à trois.",
       "source": "Wikipédia (fr) — « Coupe de l'America »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-09-5",
+      "categorie": "sport",
+      "niveau": 9,
+      "question": "Quelle joueuse de tennis britannique est devenue, en 1900, la première championne olympique dans une épreuve individuelle ?",
+      "reponse": "Charlotte Cooper",
+      "variantes": [
+        "Charlotte Cooper Sterry",
+        "Charlotte Sterry"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Hélène Prévost",
+          "Hélène de Pourtalès",
+          "Lottie Dod",
+          "Suzanne Lenglen"
+        ],
+        "nomSeul": true
+      },
+      "explication": "Les Jeux de Paris, en 1900, ont été les premiers ouverts aux femmes : elles n'étaient que 22 sur près de mille participants, dans quelques sports comme le tennis, le golf ou la voile. Charlotte Cooper a battu en finale la Française Hélène Prévost. Déjà triple gagnante de Wimbledon, elle s'y est imposée une cinquième fois en 1908, à 37 ans.",
+      "anecdote": "Devenue sourde à l'âge adulte, elle a pourtant continué à jouer à haut niveau pendant de nombreuses années.",
+      "source": "Wikipédia (fr) — « Charlotte Cooper »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-09-6",
+      "categorie": "sport",
+      "niveau": 9,
+      "question": "Quelle patineuse artistique norvégienne a été championne olympique en 1928, 1932 et 1936 ?",
+      "reponse": "Sonja Henie",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Katarina Witt",
+          "Herma Szabo",
+          "Cecilia Colledge",
+          "Peggy Fleming"
+        ]
+      },
+      "explication": "Sonja Henie avait disputé ses premiers Jeux à Chamonix, en 1924, à seulement 11 ans. Elle a aussi gagné dix titres de championne du monde consécutifs, de 1927 à 1936. On lui attribue la mode des jupes courtes et des patins blancs sur la glace. Elle a ensuite mené une carrière d'actrice à Hollywood, où ses films de patinage ont connu un grand succès.",
+      "source": "Wikipédia (fr) — « Sonja Henie »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-09-7",
+      "categorie": "sport",
+      "niveau": 9,
+      "question": "Quelle athlète tchécoslovaque a établi en 1983 le record du monde du 800 m féminin, toujours valable en 2025 ?",
+      "reponse": "Jarmila Kratochvílová",
+      "variantes": [
+        "Kratochvilova",
+        "Jarmila Kratochvilova"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Marita Koch",
+          "Nadejda Olizarenko",
+          "Pamela Jelimo",
+          "Caster Semenya"
+        ]
+      },
+      "explication": "Le 26 juillet 1983, à Munich, Jarmila Kratochvílová a couru le 800 mètres en 1 min 53 s 28 : c'était en 2025 le plus ancien record du monde de l'athlétisme encore en vigueur. Quelques semaines plus tard, aux premiers championnats du monde, à Helsinki, elle a gagné le 400 m et le 800 m. Établi à une époque marquée par le dopage, ce record suscite des doutes, bien qu'elle n'ait jamais été contrôlée positive.",
+      "source": "Wikipédia (fr) — « Jarmila Kratochvílová »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-09-8",
+      "categorie": "sport",
+      "niveau": 9,
+      "question": "Quel coureur de fond finlandais a remporté neuf titres olympiques entre 1920 et 1928 ?",
+      "reponse": "Paavo Nurmi",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Lasse Virén",
+          "Hannes Kolehmainen",
+          "Ville Ritola",
+          "Emil Zátopek"
+        ]
+      },
+      "explication": "Surnommé « le Finlandais volant », Paavo Nurmi courait un chronomètre à la main pour contrôler son allure. À Paris, en 1924, il a gagné cinq médailles d'or, dont le 1 500 m et le 5 000 m à environ une heure d'intervalle. Écarté des Jeux de 1932 pour avoir enfreint les règles de l'amateurisme, il a allumé la vasque olympique des Jeux d'Helsinki, en 1952.",
+      "anecdote": "Avec douze médailles olympiques au total, neuf en or et trois en argent, il reste l'un des athlètes les plus titrés de l'histoire des Jeux.",
+      "source": "Wikipédia (fr) — « Paavo Nurmi »",
+      "verification": {
+        "statut": "relue",
+        "note": "Intervalle 1 500 m / 5 000 m arrondi (environ une heure)."
+      }
     },
     {
       "id": "spo-10-1",
@@ -457,11 +1823,24 @@
       "niveau": 10,
       "question": "Quel pilote italien est devenu le premier champion du monde de Formule 1, en 1950 ?",
       "reponse": "Giuseppe Farina",
-      "variantes": ["Nino Farina"],
-      "validation": {"type": "personne", "pieges": ["Juan Manuel Fangio", "Alberto Ascari", "Luigi Fagioli", "Tazio Nuvolari"]},
+      "variantes": [
+        "Nino Farina"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Juan Manuel Fangio",
+          "Alberto Ascari",
+          "Luigi Fagioli",
+          "Tazio Nuvolari"
+        ]
+      },
       "explication": "Au volant d'une Alfa Romeo, Giuseppe « Nino » Farina a devancé son coéquipier argentin Juan Manuel Fangio au classement final. Il avait aussi remporté le tout premier Grand Prix de l'histoire du championnat, couru le 13 mai 1950 sur le circuit britannique de Silverstone. La saison ne comptait alors que sept courses, dont les 500 miles d'Indianapolis.",
       "source": "Wikipédia (fr) — « Giuseppe Farina »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "spo-10-2",
@@ -470,10 +1849,21 @@
       "question": "Quel coureur a remporté la première édition du Tour de France, en 1903 ?",
       "reponse": "Maurice Garin",
       "variantes": [],
-      "validation": {"type": "personne", "pieges": ["Henri Cornet", "Hippolyte Aucouturier", "Lucien Petit-Breton", "Henri Desgrange"]},
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Henri Cornet",
+          "Hippolyte Aucouturier",
+          "Lucien Petit-Breton",
+          "Henri Desgrange"
+        ]
+      },
       "explication": "Organisé par le journal L'Auto d'Henri Desgrange, le premier Tour ne comptait que six étapes, mais certaines dépassaient 400 kilomètres et se couraient en partie de nuit. Maurice Garin, surnommé « le petit ramoneur », né dans le Val d'Aoste et naturalisé français, l'a emporté avec près de trois heures d'avance. Vainqueur sur la route en 1904, il a ensuite été disqualifié pour tricherie.",
       "source": "Wikipédia (fr) — « Maurice Garin »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     },
     {
       "id": "spo-10-3",
@@ -481,12 +1871,28 @@
       "niveau": 10,
       "question": "Quel pays a remporté le premier Championnat d'Europe des nations de football, en 1960 ?",
       "reponse": "URSS",
-      "variantes": ["Union soviétique", "Union des républiques socialistes soviétiques"],
-      "validation": {"type": "texte", "pieges": ["Russie", "Yougoslavie", "Espagne", "Tchécoslovaquie", "France", "Ukraine"]},
+      "variantes": [
+        "Union soviétique",
+        "Union des républiques socialistes soviétiques"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Russie",
+          "Yougoslavie",
+          "Espagne",
+          "Tchécoslovaquie",
+          "France",
+          "Ukraine"
+        ]
+      },
       "explication": "La phase finale, réduite à quatre équipes, se jouait en France. En finale, au Parc des Princes, l'URSS a battu la Yougoslavie 2 à 1 après prolongation. Plus tôt dans le tournoi, l'Espagne de Franco avait refusé d'affronter les Soviétiques en quart de finale, offrant à ces derniers une qualification sans jouer.",
       "anecdote": "La compétition s'appelait alors Coupe d'Europe des nations ; elle a pris le nom de Championnat d'Europe à partir de l'édition 1968.",
       "source": "Wikipédia (fr) — « Championnat d'Europe de football 1960 »",
-      "verification": {"statut": "relue", "note": "Anecdote reformulée (changement de nom en 1968, conforme à mes connaissances)."}
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote reformulée (changement de nom en 1968, conforme à mes connaissances)."
+      }
     },
     {
       "id": "spo-10-4",
@@ -494,11 +1900,122 @@
       "niveau": 10,
       "question": "Quelle classique cycliste belge, disputée depuis 1892, est surnommée « la Doyenne » ?",
       "reponse": "Liège-Bastogne-Liège",
-      "variantes": ["LBL"],
-      "validation": {"type": "texte", "pieges": ["Paris-Roubaix", "Flèche wallonne", "Tour des Flandres", "Amstel Gold Race", "Paris-Bruxelles"]},
+      "variantes": [
+        "LBL"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Paris-Roubaix",
+          "Flèche wallonne",
+          "Tour des Flandres",
+          "Amstel Gold Race",
+          "Paris-Bruxelles"
+        ]
+      },
       "explication": "C'est la plus ancienne des cinq grandes classiques appelées « monuments » du cyclisme. Elle relie Liège à Bastogne puis revient vers la région liégeoise par une succession de côtes ardennaises, comme la célèbre Redoute. Le Belge Eddy Merckx détient le record de victoires, avec cinq succès remportés entre 1969 et 1975.",
       "source": "Wikipédia (fr) — « Liège-Bastogne-Liège »",
-      "verification": {"statut": "relue", "note": ""}
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-10-5",
+      "categorie": "sport",
+      "niveau": 10,
+      "question": "Quel journaliste français a été le premier président de la FIFA, fondée à Paris en 1904 ?",
+      "reponse": "Robert Guérin",
+      "variantes": [
+        "Robert Guerin"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Jules Rimet",
+          "Henri Delaunay",
+          "Daniel Burley Woolfall",
+          "Pierre de Coubertin"
+        ]
+      },
+      "explication": "La Fédération internationale de football association a été créée le 21 mai 1904, rue Saint-Honoré, au siège de l'Union des sociétés françaises de sports athlétiques, par sept pays européens. Robert Guérin l'a présidée jusqu'en 1906, avant de céder la place à l'Anglais Daniel Burley Woolfall. Un autre Français, Jules Rimet, l'a ensuite dirigée de 1921 à 1954, un record de longévité.",
+      "source": "Wikipédia (fr) — « Fédération internationale de football association »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-10-6",
+      "categorie": "sport",
+      "niveau": 10,
+      "question": "Quel pays a remporté le premier championnat du monde de handball masculin en salle, en 1938 ?",
+      "reponse": "Allemagne",
+      "variantes": [
+        "Germany",
+        "Reich allemand"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Autriche",
+          "Suède",
+          "Danemark",
+          "Roumanie",
+          "Hongrie"
+        ]
+      },
+      "explication": "Disputé à domicile, ce premier championnat du monde ne réunissait que quatre équipes. À l'époque, le handball se jouait surtout à onze, en plein air, sur un terrain de football : c'est cette version qui avait fait son entrée aux Jeux de Berlin, en 1936, remportée elle aussi par l'Allemagne. Le handball en salle n'est devenu olympique qu'aux Jeux de Munich, en 1972.",
+      "source": "Wikipédia (fr) — « Championnat du monde masculin de handball 1938 »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-10-7",
+      "categorie": "sport",
+      "niveau": 10,
+      "question": "Quel lanceur de disque américain a été champion olympique quatre fois de suite, de 1956 à 1968 ?",
+      "reponse": "Al Oerter",
+      "variantes": [
+        "Alfred Oerter"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Mac Wilkins",
+          "Ludvík Daněk",
+          "Virgilijus Alekna",
+          "Carl Lewis"
+        ]
+      },
+      "explication": "Al Oerter a gagné à Melbourne, Rome, Tokyo puis Mexico. À Tokyo, en 1964, il a concouru malgré des cartilages costaux déchirés. Il a été le premier athlète à remporter la même épreuve individuelle d'athlétisme lors de quatre Jeux consécutifs, un exploit égalé ensuite par son compatriote Carl Lewis au saut en longueur, de 1984 à 1996.",
+      "anecdote": "À chacune de ses quatre victoires olympiques, il a amélioré le record olympique de l'épreuve.",
+      "source": "Wikipédia (fr) — « Al Oerter »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "spo-10-8",
+      "categorie": "sport",
+      "niveau": 10,
+      "question": "En quelle année la France a-t-elle disputé pour la première fois le Tournoi britannique de rugby, devenu alors des Cinq Nations ?",
+      "reponse": "1910",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 1910,
+        "tolerance": 0
+      },
+      "explication": "Le Tournoi réunissait jusque-là l'Angleterre, l'Écosse, l'Irlande et le pays de Galles. La France y a longtemps fait figure de petit poucet, avant d'en être exclue de 1932 à 1939, sur fond d'accusations de professionnalisme déguisé. Elle a réussi son premier Grand Chelem en 1968. Le Tournoi est devenu celui des Six Nations en 2000, avec l'arrivée de l'Italie.",
+      "source": "Wikipédia (fr) — « Tournoi des Six Nations »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
     }
   ]
 }

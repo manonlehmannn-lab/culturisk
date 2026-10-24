@@ -39,7 +39,16 @@
       await click('[data-act="new"]');
       await click('[data-manches="1"]').catch(() => {});
       await click('[data-manches="3"]');
+      // Sélection des thèmes : « Tous », retrait d'un thème, puis retour aux 10 classiques.
+      await click('[data-preset="tous"]');
+      const tous = app.setup.categories.length;
+      await click('.cat-pick[data-cat="sport"]');
+      if (app.setup.categories.includes('sport') || app.setup.categories.length !== tous - 1) throw new Error('désélection de thème');
+      await click('[data-preset="classiques"]');
+      if (app.setup.categories.length !== 10) throw new Error('préréglage classiques');
+      log.push(`thèmes : ${tous} disponibles, 10 classiques retenus`);
       await click('[data-act="go"]');
+      if (app.game.categories.length !== 10) throw new Error('thèmes de la partie');
       log.push('partie lancée : ' + step());
 
       // Tour 1 : bonne réponse (avec faute de frappe), puis changement de thème, puis passer la main.

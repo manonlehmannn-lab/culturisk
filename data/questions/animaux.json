@@ -1,0 +1,2166 @@
+{
+  "categorie": "animaux",
+  "questions": [
+    {
+      "id": "ani-01-1",
+      "categorie": "animaux",
+      "niveau": 1,
+      "question": "Quel mammifère marin est le plus grand animal connu ayant jamais existé ?",
+      "reponse": "Baleine bleue",
+      "variantes": [
+        "Rorqual bleu",
+        "Balaenoptera musculus"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Cachalot",
+          "Baleine à bosse",
+          "Requin-baleine",
+          "Orque",
+          "Rorqual commun"
+        ]
+      },
+      "explication": "La baleine bleue, ou rorqual bleu, peut approcher 30 mètres de long et dépasser 150 tonnes. Son cœur pèse à lui seul plusieurs centaines de kilos. Ce géant se nourrit pourtant presque exclusivement de krill, de minuscules crustacés qu'il filtre à travers ses fanons, en avalant plusieurs tonnes de nourriture par jour pendant la saison d'alimentation.",
+      "anecdote": "Décimée par la chasse au XXe siècle, l'espèce est protégée dans le monde entier par la Commission baleinière internationale depuis 1966.",
+      "source": "Wikipédia (fr) — « Baleine bleue »",
+      "verification": {
+        "statut": "relue",
+        "note": "Longueur maximale ramenée à « approcher 30 m » (records de taille contestés)."
+      }
+    },
+    {
+      "id": "ani-01-2",
+      "categorie": "animaux",
+      "niveau": 1,
+      "question": "Comment appelle-t-on le petit de la vache ?",
+      "reponse": "Veau",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Génisse",
+          "Taurillon",
+          "Poulain",
+          "Agneau",
+          "Bouvillon"
+        ]
+      },
+      "explication": "Le veau naît après une gestation d'environ neuf mois, à peu près comme chez l'humain, et tient debout peu de temps après sa naissance. Une jeune femelle qui n'a pas encore eu de petit s'appelle une génisse, un jeune mâle un taurillon. La viande de veau provient d'animaux abattus jeunes, tandis que la vache adulte est élevée pour son lait ou sa viande.",
+      "anecdote": "La mise bas de la vache porte un nom particulier : le vêlage, du verbe « vêler ».",
+      "source": "Wikipédia (fr) — « Veau »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-01-3",
+      "categorie": "animaux",
+      "niveau": 1,
+      "question": "Quel animal africain au très long cou est le plus grand des animaux terrestres en hauteur ?",
+      "reponse": "Girafe",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Éléphant",
+          "Okapi",
+          "Chameau",
+          "Autruche",
+          "Dromadaire"
+        ]
+      },
+      "explication": "Un mâle girafe peut atteindre environ 5,5 mètres de haut, ce qui lui permet de brouter les feuilles d'acacia hors de portée des autres herbivores. Sa langue sombre, longue d'environ 45 centimètres, l'aide à saisir les feuilles entre les épines. Pour irriguer un cerveau situé si haut, son cœur doit maintenir une pression sanguine particulièrement élevée.",
+      "anecdote": "Son plus proche parent vivant est l'okapi, un habitant discret des forêts du Congo, connu des scientifiques occidentaux seulement depuis le début du XXe siècle.",
+      "source": "Wikipédia (fr) — « Girafe »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-01-4",
+      "categorie": "animaux",
+      "niveau": 1,
+      "question": "En quel insecte ailé une chenille se transforme-t-elle au terme de sa métamorphose ?",
+      "reponse": "Papillon",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Libellule",
+          "Mouche",
+          "Abeille",
+          "Coccinelle",
+          "Sauterelle"
+        ]
+      },
+      "explication": "La chenille est la larve du papillon. Après avoir mangé et grandi en muant plusieurs fois, elle se transforme en chrysalide, parfois protégée par un cocon de soie. À l'intérieur, son corps est profondément réorganisé avant l'émergence de l'adulte ailé. Ce cycle en quatre stades, œuf, larve, nymphe et adulte, s'appelle une métamorphose complète.",
+      "anecdote": "Le ver à soie n'est pas un ver : c'est la chenille d'un papillon, le bombyx du mûrier, dont le cocon fournit la soie.",
+      "source": "Wikipédia (fr) — « Chenille »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-01-5",
+      "categorie": "animaux",
+      "niveau": 1,
+      "question": "Quel animal domestique exprime souvent son bien-être en ronronnant ?",
+      "reponse": "Chat",
+      "variantes": [
+        "Chat domestique",
+        "Felis catus"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Chien",
+          "Lapin",
+          "Hamster",
+          "Cochon d'Inde"
+        ]
+      },
+      "explication": "Le ronronnement du chat naît dans son larynx, dont les vibrations rapides se produisent à l'inspiration comme à l'expiration. Il exprime souvent le contentement, mais le chat ronronne aussi lorsqu'il est stressé, blessé ou sur le point de mettre bas. Les chatons ronronnent dès leurs premiers jours, pendant la tétée, et ce son accompagne ensuite toute leur vie les échanges avec leur mère ou leurs humains.",
+      "anecdote": "À Chypre, une sépulture vieille d'environ 9 500 ans réunit un humain et un chat : c'est l'un des plus anciens indices de vie commune entre nos deux espèces.",
+      "source": "Wikipédia (fr) — « Chat »",
+      "verification": {
+        "statut": "relue",
+        "note": "Mécanisme du ronronnement formulé prudemment (encore débattu)."
+      }
+    },
+    {
+      "id": "ani-01-6",
+      "categorie": "animaux",
+      "niveau": 1,
+      "question": "Quel petit coléoptère, souvent rouge à points noirs, est apprécié des jardiniers parce qu'il dévore les pucerons ?",
+      "reponse": "Coccinelle",
+      "variantes": [
+        "Coccinelle à sept points",
+        "Bête à bon Dieu"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Doryphore",
+          "Gendarme",
+          "Hanneton",
+          "Scarabée",
+          "Punaise"
+        ]
+      },
+      "explication": "La coccinelle et sa larve sont de grandes mangeuses de pucerons : une seule larve peut en dévorer plusieurs centaines au cours de son développement. C'est pourquoi on les utilise en lutte biologique dans les jardins et les serres. Ses couleurs vives avertissent les prédateurs qu'elle a mauvais goût, et elle peut sécréter un liquide jaune et amer par les articulations de ses pattes.",
+      "anecdote": "Contrairement à une idée répandue, le nombre de points ne donne pas l'âge d'une coccinelle : il dépend de son espèce.",
+      "source": "Wikipédia (fr) — « Coccinellidae »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-01-7",
+      "categorie": "animaux",
+      "niveau": 1,
+      "question": "Quel oiseau de basse-cour est l'un des emblèmes de la France ?",
+      "reponse": "Coq",
+      "variantes": [
+        "Coq gaulois"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Aigle",
+          "Poule",
+          "Paon",
+          "Dindon",
+          "Canard"
+        ]
+      },
+      "explication": "Le coq doit en partie son statut d'emblème à un jeu de mots latin : « gallus » signifie à la fois coq et Gaulois. Il devient très présent sous la Révolution. Napoléon Ier lui préfère l'aigle, jugé plus puissant, mais le coq revient en force sur les drapeaux après 1830. Au XXIe siècle, il orne les maillots de plusieurs équipes de France sportives.",
+      "anecdote": "Le chant du coq s'écrit « cocorico » en français, mais « kikeriki » en allemand et « cock-a-doodle-doo » en anglais.",
+      "source": "Wikipédia (fr) — « Coq gaulois »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-01-8",
+      "categorie": "animaux",
+      "niveau": 1,
+      "question": "Quel ours noir et blanc de Chine se nourrit presque exclusivement de bambou ?",
+      "reponse": "Panda géant",
+      "variantes": [
+        "Panda",
+        "Grand panda",
+        "Ailuropoda melanoleuca"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Panda roux",
+          "Petit panda",
+          "Koala",
+          "Ours à lunettes"
+        ]
+      },
+      "explication": "Le panda géant appartient bien à la famille des ours, même s'il est presque végétarien. Son système digestif reste pourtant celui d'un carnivore et assimile mal le bambou : il doit en manger de 12 à 38 kilos par jour, ce qui l'occupe une grande partie de la journée. Un os du poignet allongé lui sert de « faux pouce » pour saisir les tiges.",
+      "anecdote": "Il sert d'emblème au WWF depuis la création de l'organisation, en 1961, en hommage à Chi Chi, une femelle panda du zoo de Londres.",
+      "source": "Wikipédia (fr) — « Panda géant »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-02-1",
+      "categorie": "animaux",
+      "niveau": 2,
+      "question": "Comment appelle-t-on le cri du lion ?",
+      "reponse": "Rugissement",
+      "variantes": [
+        "Rugir"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Feulement",
+          "Barrissement",
+          "Brame",
+          "Hurlement",
+          "Grognement"
+        ]
+      },
+      "explication": "Le rugissement du lion peut s'entendre jusqu'à environ huit kilomètres par temps calme. Les lions rugissent surtout au crépuscule et la nuit, pour signaler leur présence, défendre leur territoire et garder le contact avec les membres de leur troupe. Les mâles comme les femelles rugissent. Les grands félins capables de rugir le doivent à la structure particulière de leur larynx.",
+      "anecdote": "Le tigre, lui, « feule » : le feulement est le grondement rauque qui caractérise ce grand félin.",
+      "source": "Wikipédia (fr) — « Lion »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-02-2",
+      "categorie": "animaux",
+      "niveau": 2,
+      "question": "Quel oiseau de l'hémisphère Sud, incapable de voler, est souvent appelé à tort « pingouin » ?",
+      "reponse": "Manchot",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Pingouin",
+          "Macareux",
+          "Guillemot",
+          "Albatros",
+          "Cormoran"
+        ]
+      },
+      "explication": "Les manchots vivent dans l'hémisphère Sud, de l'Antarctique jusqu'aux îles Galápagos. Leurs ailes transformées en nageoires les empêchent de voler, mais en font d'excellents nageurs. Le seul pingouin actuel, le petit pingouin de l'Atlantique Nord, sait voler. La confusion vient notamment de l'anglais, où le mot « penguin » désigne justement le manchot.",
+      "anecdote": "Le grand pingouin, oiseau de l'Atlantique Nord incapable de voler, a disparu au milieu du XIXe siècle : c'est à lui que le nom « penguin » s'appliquait d'abord.",
+      "source": "Wikipédia (fr) — « Manchot »",
+      "verification": {
+        "statut": "relue",
+        "note": "Explication : « les vrais pingouins savent voler » contredisait l'anecdote sur le grand pingouin."
+      }
+    },
+    {
+      "id": "ani-02-3",
+      "categorie": "animaux",
+      "niveau": 2,
+      "question": "Quel marsupial figure avec l'émeu sur les armoiries de l'Australie ?",
+      "reponse": "Kangourou",
+      "variantes": [
+        "Kangourou roux"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Koala",
+          "Wallaby",
+          "Wombat",
+          "Ornithorynque",
+          "Opossum"
+        ]
+      },
+      "explication": "Le kangourou et l'émeu, deux animaux propres à l'Australie, soutiennent l'écu des armoiries du pays dans leur version accordée en 1912. Le kangourou roux, le plus grand des marsupiaux actuels, se déplace par bonds puissants en s'équilibrant avec sa queue. Comme chez les autres marsupiaux, la femelle porte son petit, minuscule à la naissance, dans une poche ventrale où il poursuit son développement.",
+      "anecdote": "À la naissance, le petit kangourou roux ne mesure qu'environ deux centimètres et grimpe seul jusqu'à la poche de sa mère.",
+      "source": "Wikipédia (fr) — « Armoiries de l'Australie »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-02-4",
+      "categorie": "animaux",
+      "niveau": 2,
+      "question": "Comment appelle-t-on la femelle du cheval ?",
+      "reponse": "Jument",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Pouliche",
+          "Ânesse",
+          "Mule",
+          "Poulain",
+          "Haquenée"
+        ]
+      },
+      "explication": "La jument porte son poulain pendant environ onze mois. Une jeune femelle est appelée pouliche, un jeune mâle poulain, et le mâle adulte non castré étalon. Le croisement d'une jument et d'un âne donne une mule ou un mulet, des animaux presque toujours stériles. À l'inverse, le croisement d'une ânesse et d'un étalon donne un bardot.",
+      "anecdote": "Le lait de jument fermenté, le koumis, est une boisson traditionnelle des steppes d'Asie centrale, notamment au Kazakhstan et en Mongolie.",
+      "source": "Wikipédia (fr) — « Jument »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-02-5",
+      "categorie": "animaux",
+      "niveau": 2,
+      "question": "Quel est le plus grand félin sauvage du monde ?",
+      "reponse": "Tigre",
+      "variantes": [
+        "Tigre de Sibérie",
+        "Tigre de l'Amour",
+        "Panthera tigris"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Lion",
+          "Jaguar",
+          "Léopard",
+          "Puma",
+          "Ligre"
+        ]
+      },
+      "explication": "Le tigre est le plus grand des félins : un mâle de Sibérie, ou tigre de l'Amour, peut dépasser trois mètres de long, queue comprise, et peser plus de 200 kilos. Contrairement à la plupart des chats, il aime l'eau et nage très bien. Solitaire, il chasse surtout à l'affût. Ses rayures sont propres à chaque individu et se retrouvent jusque sur sa peau.",
+      "source": "Wikipédia (fr) — « Tigre »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-02-6",
+      "categorie": "animaux",
+      "niveau": 2,
+      "question": "Quel reptile peut changer de couleur et orienter ses deux yeux indépendamment l'un de l'autre ?",
+      "reponse": "Caméléon",
+      "variantes": [
+        "Chamaeleonidae"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Gecko",
+          "Iguane",
+          "Lézard",
+          "Varan",
+          "Seiche"
+        ]
+      },
+      "explication": "Le caméléon change de couleur grâce à des cellules de sa peau contenant des nanocristaux, dont il modifie l'espacement. Ces changements servent surtout à communiquer, à exprimer son humeur ou à réguler sa température, bien plus qu'à se camoufler. Ses yeux pivotent séparément, ce qui lui offre une vision presque panoramique, et sa langue projectile peut dépasser la longueur de son corps.",
+      "anecdote": "Madagascar abrite une grande partie des espèces connues de caméléons, dont certaines comptent parmi les plus petits reptiles du monde.",
+      "source": "Wikipédia (fr) — « Chamaeleonidae »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-02-7",
+      "categorie": "animaux",
+      "niveau": 2,
+      "question": "Quel animal, domestiqué il y a plus de 15 000 ans, descend du loup ?",
+      "reponse": "Chien",
+      "variantes": [
+        "Chien domestique",
+        "Canis familiaris",
+        "Canis lupus familiaris"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Chat",
+          "Renard",
+          "Chacal",
+          "Coyote",
+          "Hyène"
+        ]
+      },
+      "explication": "Le chien est le plus ancien animal domestique : sa domestication à partir de populations de loups remonte à au moins 15 000 ans, bien avant l'agriculture. Elle a sans doute commencé chez des chasseurs-cueilleurs d'Eurasie. La sélection humaine a ensuite produit plusieurs centaines de races, du chihuahua au dogue allemand, qui appartiennent toutes à la même espèce.",
+      "anecdote": "Le chien et le loup peuvent encore se croiser et donner des descendants fertiles, signe de leur grande proximité.",
+      "source": "Wikipédia (fr) — « Chien »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-02-8",
+      "categorie": "animaux",
+      "niveau": 2,
+      "question": "Quel oiseau échassier rose niche en Camargue et doit sa couleur à son alimentation ?",
+      "reponse": "Flamant rose",
+      "variantes": [
+        "Flamant",
+        "Phoenicopterus roseus"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Ibis rouge",
+          "Spatule",
+          "Héron",
+          "Cigogne",
+          "Ibis"
+        ]
+      },
+      "explication": "Le flamant rose filtre la vase et l'eau avec son bec recourbé, tenu la tête à l'envers. Les pigments caroténoïdes contenus dans les petits crustacés et les algues qu'il absorbe colorent ses plumes : un flamant privé de ces pigments pâlit. En France, il se reproduit principalement en Camargue, où des milliers de couples nichent chaque année sur des îlots des salins.",
+      "anecdote": "L'articulation de sa patte qui semble plier à l'envers est en fait sa cheville : son vrai genou est caché sous les plumes.",
+      "source": "Wikipédia (fr) — « Flamant rose »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-03-1",
+      "categorie": "animaux",
+      "niveau": 3,
+      "question": "Quel rongeur construit des barrages de branches et de boue sur les cours d'eau ?",
+      "reponse": "Castor",
+      "variantes": [
+        "Castor d'Europe",
+        "Castor du Canada"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Ragondin",
+          "Loutre",
+          "Rat musqué",
+          "Marmotte",
+          "Campagnol"
+        ]
+      },
+      "explication": "Le castor élève des barrages pour créer un plan d'eau profond où il installe sa hutte, dont l'entrée est immergée, à l'abri des prédateurs. Ses incisives orangées, renforcées de fer, poussent toute sa vie et lui permettent d'abattre des arbres. Le castor d'Europe, presque disparu de France au début du XXe siècle, y a été protégé puis réintroduit dans de nombreuses rivières.",
+      "anecdote": "Le castor d'Europe est le plus grand rongeur du continent : il peut peser une trentaine de kilos.",
+      "source": "Wikipédia (fr) — « Castor d'Europe »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-03-2",
+      "categorie": "animaux",
+      "niveau": 3,
+      "question": "Comment appelle-t-on le petit de la biche ?",
+      "reponse": "Faon",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Chevreau",
+          "Daim",
+          "Biquet",
+          "Marcassin",
+          "Chevrette"
+        ]
+      },
+      "explication": "Le faon naît au printemps avec un pelage tacheté de blanc qui l'aide à se fondre dans la lumière des sous-bois. Pendant ses premières semaines, sa mère le laisse souvent seul, couché dans les herbes, et ne revient que pour l'allaiter. Un faon isolé n'est donc généralement pas abandonné : il ne faut pas le toucher. Le mot désigne aussi le petit du chevreuil et du daim.",
+      "anecdote": "Le mot se prononce « fan », de la même façon que « paon » se prononce « pan ».",
+      "source": "Wikipédia (fr) — « Faon »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-03-3",
+      "categorie": "animaux",
+      "niveau": 3,
+      "question": "Quel serpent venimeux dresse l'avant de son corps en déployant un capuchon quand il se sent menacé ?",
+      "reponse": "Cobra",
+      "variantes": [
+        "Naja",
+        "Cobra royal",
+        "Cobra indien"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Vipère",
+          "Mamba",
+          "Python",
+          "Crotale",
+          "Boa"
+        ]
+      },
+      "explication": "Le cobra écarte les côtes de son cou pour déployer son célèbre capuchon, une posture d'intimidation. Le cobra royal, qui peut dépasser cinq mètres, est le plus long serpent venimeux du monde et se nourrit surtout d'autres serpents. Certains najas d'Afrique et d'Asie, dits cracheurs, projettent leur venin vers les yeux de leurs agresseurs.",
+      "anecdote": "Face au charmeur de serpents, le cobra ne réagit pas à la musique : il suit le mouvement de la flûte et du musicien, qu'il perçoit comme une menace.",
+      "source": "Wikipédia (fr) — « Naja »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-03-4",
+      "categorie": "animaux",
+      "niveau": 3,
+      "question": "Quel cétacé noir et blanc, le plus grand membre de la famille des dauphins, est aussi appelé épaulard ?",
+      "reponse": "Orque",
+      "variantes": [
+        "Orca",
+        "Orcinus orca"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Dauphin",
+          "Globicéphale",
+          "Béluga",
+          "Marsouin",
+          "Narval",
+          "Cachalot"
+        ]
+      },
+      "explication": "Malgré son surnom anglais de « baleine tueuse », l'orque est un dauphin, le plus grand de tous : les mâles peuvent dépasser huit mètres. Superprédateur présent dans tous les océans, elle chasse en groupes familiaux très soudés, souvent menés par des femelles âgées. Selon les populations, elle se nourrit de poissons, de phoques, de manchots, voire de baleines.",
+      "anecdote": "En Patagonie, certaines orques s'échouent volontairement sur les plages pour y capturer de jeunes otaries, avant de regagner l'eau.",
+      "source": "Wikipédia (fr) — « Orque »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-03-5",
+      "categorie": "animaux",
+      "niveau": 3,
+      "question": "Comment appelle-t-on la larve aquatique de la grenouille ?",
+      "reponse": "Têtard",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Alevin",
+          "Asticot",
+          "Triton",
+          "Nymphe",
+          "Axolotl"
+        ]
+      },
+      "explication": "Le têtard sort de l'œuf avec une queue et des branchies et vit uniquement dans l'eau. Au fil de sa métamorphose, les pattes arrière apparaissent d'abord, puis les pattes avant, tandis que la queue se résorbe et que des poumons se développent. Il devient alors une petite grenouille capable de vivre hors de l'eau. Selon les espèces, la transformation prend de quelques semaines à plusieurs mois.",
+      "anecdote": "Les têtards de la plupart des grenouilles se nourrissent surtout d'algues, alors que les grenouilles adultes sont carnivores.",
+      "source": "Wikipédia (fr) — « Têtard »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-03-6",
+      "categorie": "animaux",
+      "niveau": 3,
+      "question": "Comment appelle-t-on le cri de la chouette hulotte ?",
+      "reponse": "Hululement",
+      "variantes": [
+        "Ululement",
+        "Hululer",
+        "Ululer"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Chuintement",
+          "Hurlement",
+          "Roucoulement",
+          "Gazouillis",
+          "Sifflement"
+        ]
+      },
+      "explication": "Le hululement, ou ululement, est le cri typique des chouettes et des hiboux. Celui de la chouette hulotte, très répandue dans les bois et les parcs d'Europe, est le plus connu : le célèbre « hou-hou » chevroté est souvent un duo, la femelle répondant au mâle par un « kéwick » aigu. L'effraie des clochers, elle, ne hulule pas : elle chuinte, en poussant des cris rauques et soufflés.",
+      "source": "Wikipédia (fr) — « Chouette hulotte »",
+      "verification": {
+        "statut": "relue",
+        "note": "Énoncé resserré sur la hulotte : l'effraie chuinte, « chuintement » aurait été juste pour « la chouette »."
+      },
+      "anecdote": "En français, on réserve en principe le nom de hibou aux espèces qui portent des aigrettes, ces touffes de plumes en forme d'oreilles."
+    },
+    {
+      "id": "ani-03-7",
+      "categorie": "animaux",
+      "niveau": 3,
+      "question": "Quel est le plus grand oiseau vivant ?",
+      "reponse": "Autruche",
+      "variantes": [
+        "Autruche d'Afrique",
+        "Struthio camelus"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Émeu",
+          "Casoar",
+          "Nandou",
+          "Albatros",
+          "Condor"
+        ]
+      },
+      "explication": "L'autruche d'Afrique peut dépasser deux mètres et demi de haut et 100 kilos. Incapable de voler, elle court en revanche jusqu'à environ 70 km/h, sur des pattes qui ne comptent que deux doigts. Elle pond les plus gros œufs des oiseaux actuels, d'environ 1,4 kilo, et possède les plus grands yeux de tous les animaux terrestres.",
+      "anecdote": "Contrairement à la légende, elle ne cache pas sa tête dans le sable : elle la baisse pour retourner ses œufs ou pour se faire discrète.",
+      "source": "Wikipédia (fr) — « Autruche d'Afrique »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-03-8",
+      "categorie": "animaux",
+      "niveau": 3,
+      "question": "Quel coléoptère, dont la femelle sans ailes brille dans l'herbe les nuits d'été, porte un nom trompeur ?",
+      "reponse": "Ver luisant",
+      "variantes": [
+        "Lampyre",
+        "Lampyre luisant",
+        "Lampyris noctiluca"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Luciole",
+          "Mille-pattes",
+          "Hanneton",
+          "Taupin",
+          "Ver de terre"
+        ]
+      },
+      "explication": "Le ver luisant n'est pas un ver mais un insecte, le lampyre. La femelle, dépourvue d'ailes, ressemble à une larve et allume l'extrémité de son abdomen pour attirer les mâles, qui volent. Cette lumière froide provient d'une réaction chimique, la bioluminescence, entre une molécule appelée luciférine et une enzyme, la luciférase. Ses larves se nourrissent d'escargots.",
+      "source": "Wikipédia (fr) — « Lampyris noctiluca »",
+      "verification": {
+        "statut": "relue",
+        "note": "« Luciole » retirée des variantes (autre genre, mâles et femelles ailés), passée en piège."
+      }
+    },
+    {
+      "id": "ani-04-1",
+      "categorie": "animaux",
+      "niveau": 4,
+      "question": "Avec quel animal marin le poisson-clown vit-il en symbiose, à l'abri de ses tentacules urticants ?",
+      "reponse": "Anémone de mer",
+      "variantes": [
+        "Anémone",
+        "Actinie",
+        "Actiniaria"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Méduse",
+          "Corail",
+          "Oursin",
+          "Éponge",
+          "Poulpe"
+        ]
+      },
+      "explication": "Le poisson-clown se protège des piqûres de l'anémone de mer grâce au mucus qui recouvre sa peau. Réfugié entre ses tentacules, il échappe à ses prédateurs. En échange, il la débarrasse de débris, la défend contre certains poissons qui la broutent et l'enrichit de ses déjections. On compte une trentaine d'espèces de poissons-clowns, toutes liées aux récifs coralliens de l'Indo-Pacifique.",
+      "source": "Wikipédia (fr) — « Poisson-clown »",
+      "verification": {
+        "statut": "relue",
+        "note": "Remplacée : les trois cœurs de la pieuvre figurent déjà dans l'anecdote de sci-09-3."
+      },
+      "anecdote": "Tous les poissons-clowns naissent mâles : quand la femelle dominante d'un groupe disparaît, le plus gros mâle change de sexe pour la remplacer."
+    },
+    {
+      "id": "ani-04-2",
+      "categorie": "animaux",
+      "niveau": 4,
+      "question": "Quel requin, qui se nourrit de plancton, est le plus grand poisson du monde ?",
+      "reponse": "Requin-baleine",
+      "variantes": [
+        "Rhincodon typus"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Requin pèlerin",
+          "Grand requin blanc",
+          "Baleine bleue",
+          "Raie manta",
+          "Requin-tigre"
+        ]
+      },
+      "explication": "Le requin-baleine peut dépasser douze mètres de long. Ce géant inoffensif se nourrit de plancton, de petits poissons et d'œufs, qu'il filtre en nageant la gueule ouverte. Le motif de taches claires sur son dos est propre à chaque individu, ce qui permet aux chercheurs de les identifier sur photo. L'UICN le classe « en danger » depuis 2016.",
+      "anecdote": "Le deuxième plus grand poisson du monde est un autre requin filtreur, le requin pèlerin, présent jusque sur les côtes bretonnes.",
+      "source": "Wikipédia (fr) — « Requin-baleine »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-04-3",
+      "categorie": "animaux",
+      "niveau": 4,
+      "question": "Quel gros oiseau incapable de voler, disparu au XVIIe siècle, vivait sur l'île Maurice ?",
+      "reponse": "Dodo",
+      "variantes": [
+        "Dronte",
+        "Dronte de Maurice",
+        "Raphus cucullatus"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Solitaire de Rodrigues",
+          "Grand pingouin",
+          "Moa",
+          "Kiwi",
+          "Casoar"
+        ]
+      },
+      "explication": "Le dodo, apparenté aux pigeons, vivait sans prédateur sur l'île Maurice. Découvert par des marins néerlandais à la fin du XVIe siècle, il disparaît moins d'un siècle plus tard, la dernière observation largement acceptée datant de 1662. Plus encore que la chasse, les animaux introduits, comme les rats, les porcs et les macaques, qui dévoraient ses œufs, ont causé sa perte.",
+      "anecdote": "Lewis Carroll en a fait un personnage d'« Alice au pays des merveilles », peut-être en clin d'œil à son propre bégaiement : « Do-Do-Dodgson ».",
+      "source": "Wikipédia (fr) — « Dronte de Maurice »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-04-4",
+      "categorie": "animaux",
+      "niveau": 4,
+      "question": "Comment appelle-t-on le cri de l'éléphant ?",
+      "reponse": "Barrissement",
+      "variantes": [
+        "Barrir"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Brame",
+          "Rugissement",
+          "Bramement",
+          "Feulement",
+          "Blatèrement"
+        ]
+      },
+      "explication": "Le barrissement est le puissant cri que l'éléphant pousse avec sa trompe. Mais ces animaux communiquent aussi par des grondements très graves, en partie infrasonores, c'est-à-dire trop bas pour l'oreille humaine. Ces sons portent à plusieurs kilomètres et seraient également perçus à travers le sol, grâce à la sensibilité de leurs pattes et de leur trompe.",
+      "anecdote": "Le chameau, lui, blatère, tout comme le bélier.",
+      "source": "Wikipédia (fr) — « Éléphant »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-04-5",
+      "categorie": "animaux",
+      "niveau": 4,
+      "question": "Quel petit mammifère du désert du Kalahari se dresse sur ses pattes arrière pour monter la garde ?",
+      "reponse": "Suricate",
+      "variantes": [
+        "Suricata suricatta",
+        "Meerkat"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Chien de prairie",
+          "Marmotte",
+          "Gerboise",
+          "Écureuil",
+          "Gerbille"
+        ]
+      },
+      "explication": "Le suricate, une petite mangouste d'Afrique australe, vit en groupes pouvant compter plusieurs dizaines d'individus. Pendant que les autres cherchent insectes, scorpions et lézards, une sentinelle se poste en hauteur et pousse des cris d'alarme différents selon le type de prédateur, aérien ou terrestre. Les adultes apprennent aussi aux jeunes à manipuler les scorpions, en leur apportant d'abord des proies mortes ou privées de leur dard.",
+      "source": "Wikipédia (fr) — « Suricate »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-04-6",
+      "categorie": "animaux",
+      "niveau": 4,
+      "question": "Quel oiseau est capable de faire du surplace et même de voler en marche arrière ?",
+      "reponse": "Colibri",
+      "variantes": [
+        "Oiseau-mouche",
+        "Colibris",
+        "Trochilidae"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Martinet",
+          "Martin-pêcheur",
+          "Faucon crécerelle",
+          "Libellule",
+          "Sphinx"
+        ]
+      },
+      "explication": "Le colibri, ou oiseau-mouche, bat des ailes en dessinant un huit couché, ce qui lui permet de produire de la portance dans les deux sens et de rester immobile devant une fleur pour en aspirer le nectar. Chez les petites espèces, les battements dépassent 50 par seconde. Ce vol très coûteux en énergie l'oblige à visiter des centaines de fleurs chaque jour.",
+      "anecdote": "La nuit, il peut entrer en torpeur, abaissant fortement sa température et son rythme cardiaque pour économiser son énergie.",
+      "source": "Wikipédia (fr) — « Trochilidae »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-04-7",
+      "categorie": "animaux",
+      "niveau": 4,
+      "question": "Quel grand dinosaure carnivore de la fin du Crétacé porte un nom signifiant « roi des lézards tyrans » ?",
+      "reponse": "Tyrannosaure",
+      "variantes": [
+        "Tyrannosaurus",
+        "Tyrannosaurus rex",
+        "T. rex",
+        "T-rex"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Vélociraptor",
+          "Spinosaure",
+          "Allosaure",
+          "Giganotosaure",
+          "Tarbosaure"
+        ]
+      },
+      "explication": "Le tyrannosaure vivait en Amérique du Nord il y a environ 68 à 66 millions d'années, juste avant la grande extinction de la fin du Crétacé. Long d'environ 12 mètres, il possédait l'une des morsures les plus puissantes connues chez un animal terrestre, capable de broyer les os. Ses bras, en revanche, étaient minuscules et ne comptaient que deux doigts. Il a été nommé en 1905.",
+      "anecdote": "L'un des squelettes les plus complets connus, surnommé Sue, est exposé au Field Museum de Chicago.",
+      "source": "Wikipédia (fr) — « Tyrannosaurus »",
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote : « le plus complet » nuancé en « l'un des plus complets »."
+      }
+    },
+    {
+      "id": "ani-04-8",
+      "categorie": "animaux",
+      "niveau": 4,
+      "question": "Comment appelle-t-on le cri du corbeau ?",
+      "reponse": "Croassement",
+      "variantes": [
+        "Croasser"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Coassement",
+          "Coasser",
+          "Jacassement",
+          "Cacardement",
+          "Roucoulement"
+        ]
+      },
+      "explication": "Le corbeau croasse, alors que la grenouille coasse : une seule lettre sépare les deux verbes. Le grand corbeau, le plus grand des passereaux, est réputé pour son intelligence. Comme d'autres corvidés, il sait résoudre des problèmes complexes, se souvenir des endroits où il a caché sa nourriture et même tenir compte des congénères qui l'observent pour éviter de se la faire voler.",
+      "anecdote": "Selon la légende, si les corbeaux quittent la tour de Londres, le royaume s'effondrera : plusieurs y sont donc entretenus en permanence.",
+      "source": "Wikipédia (fr) — « Grand corbeau »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-05-1",
+      "categorie": "animaux",
+      "niveau": 5,
+      "question": "Quel mammifère australien pond des œufs et possède un bec semblable à celui d'un canard ?",
+      "reponse": "Ornithorynque",
+      "variantes": [
+        "Ornithorhynchus anatinus"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Échidné",
+          "Wombat",
+          "Koala",
+          "Kiwi"
+        ]
+      },
+      "explication": "L'ornithorynque fait partie des monotrèmes, les seuls mammifères qui pondent des œufs, avec les échidnés. La femelle allaite pourtant ses petits, mais sans tétines : le lait suinte de sa peau. Son bec souple, couvert de récepteurs, détecte les champs électriques de ses proies sous l'eau. Les mâles portent aux pattes arrière un ergot venimeux.",
+      "anecdote": "Quand les premiers spécimens arrivèrent en Grande-Bretagne vers 1799, certains naturalistes crurent à un canular : un bec de canard cousu sur une peau de mammifère.",
+      "source": "Wikipédia (fr) — « Ornithorynque »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-05-2",
+      "categorie": "animaux",
+      "niveau": 5,
+      "question": "Quel est le plus grand lézard vivant, originaire de quelques îles d'Indonésie ?",
+      "reponse": "Dragon de Komodo",
+      "variantes": [
+        "Varan de Komodo",
+        "Komodo",
+        "Varanus komodoensis"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Iguane",
+          "Varan du Nil",
+          "Crocodile",
+          "Monstre de Gila",
+          "Iguane marin"
+        ]
+      },
+      "explication": "Le dragon de Komodo, un varan, peut atteindre trois mètres de long et peser plus de 70 kilos. Il ne vit que sur quelques îles indonésiennes, dont Komodo, Rinca et Florès. Sa morsure, longtemps attribuée à des bactéries, injecte en réalité un venin anticoagulant. Il chasse à l'affût des proies parfois aussi grandes qu'un cerf ou un buffle.",
+      "anecdote": "En 2006, des femelles isolées dans des zoos britanniques ont pondu des œufs viables sans aucun mâle : un cas de parthénogenèse.",
+      "source": "Wikipédia (fr) — « Dragon de Komodo »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-05-3",
+      "categorie": "animaux",
+      "niveau": 5,
+      "question": "Comment appelle-t-on la femelle du sanglier ?",
+      "reponse": "Laie",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Truie",
+          "Hase",
+          "Biche",
+          "Louve",
+          "Chevrette"
+        ]
+      },
+      "explication": "La laie vit en groupe, appelé compagnie, avec d'autres femelles et leurs petits, alors que les vieux mâles sont souvent solitaires. Elle met bas, surtout au printemps, des marcassins au pelage rayé de bandes claires, qui disparaissent au bout de quelques mois. Le sanglier est l'ancêtre du cochon domestique, avec lequel il peut d'ailleurs se croiser.",
+      "anecdote": "En forêt, le mot « laie » désigne aussi un sentier rectiligne tracé pour délimiter des parcelles.",
+      "source": "Wikipédia (fr) — « Sanglier »",
+      "verification": {
+        "statut": "relue",
+        "note": "Fait cité en exemple dans l'explication de lan-02-4 (laie, hase) : exemple à retirer côté langue."
+      }
+    },
+    {
+      "id": "ani-05-4",
+      "categorie": "animaux",
+      "niveau": 5,
+      "question": "Quel amphibien mexicain conserve ses branchies et sa forme larvaire durant toute sa vie adulte ?",
+      "reponse": "Axolotl",
+      "variantes": [
+        "Ambystoma mexicanum"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Triton",
+          "Salamandre",
+          "Protée",
+          "Têtard",
+          "Ajolote"
+        ]
+      },
+      "explication": "L'axolotl est une salamandre qui reste à l'état larvaire, un phénomène appelé néoténie : il garde ses branchies plumeuses et vit dans l'eau, tout en pouvant se reproduire. Il est célèbre pour sa capacité à régénérer ses membres, mais aussi une partie de son cœur ou de son cerveau. À l'état sauvage, il ne subsiste guère que dans les canaux de Xochimilco, près de Mexico.",
+      "anecdote": "En 2024, l'UICN le classait en danger critique d'extinction, alors que des millions d'axolotls vivent en captivité dans les laboratoires et les aquariums.",
+      "source": "Wikipédia (fr) — « Axolotl »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-05-5",
+      "categorie": "animaux",
+      "niveau": 5,
+      "question": "Quel camélidé domestique des Andes, plus petit que le lama, est élevé pour sa laine fine ?",
+      "reponse": "Alpaga",
+      "variantes": [
+        "Alpaca",
+        "Vicugna pacos"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Lama",
+          "Vigogne",
+          "Guanaco",
+          "Chameau",
+          "Dromadaire"
+        ]
+      },
+      "explication": "L'alpaga a été domestiqué dans les Andes il y a plusieurs milliers d'années, probablement à partir de la vigogne, sa cousine sauvage, tandis que le lama descend du guanaco. Le Pérou abrite la majorité des alpagas du monde. Sa toison, chaude et légère, est tondue environ une fois par an. Contrairement au lama, utilisé comme animal de bât, il ne sert pas à porter des charges.",
+      "anecdote": "Les alpagas d'un troupeau déposent leurs crottes dans quelques tas communs, ce qui facilite l'entretien des pâturages.",
+      "source": "Wikipédia (fr) — « Alpaga »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-05-6",
+      "categorie": "animaux",
+      "niveau": 5,
+      "question": "Quel est le plus grand reptile vivant, capable de nager loin en mer, de l'Inde à l'Australie ?",
+      "reponse": "Crocodile marin",
+      "variantes": [
+        "Crocodile de mer",
+        "Crocodile d'estuaire",
+        "Crocodylus porosus"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Crocodile du Nil",
+          "Alligator",
+          "Gavial",
+          "Caïman noir",
+          "Dragon de Komodo"
+        ]
+      },
+      "explication": "Le crocodile marin, ou crocodile d'estuaire, est le plus grand reptile actuel : les plus grands mâles atteignent six mètres et une tonne. Il fréquente les mangroves, les estuaires et les côtes de l'Inde, de l'Asie du Sud-Est et du nord de l'Australie, et parcourt de longues distances en mer en profitant des courants. Sa morsure compte parmi les plus puissantes jamais mesurées dans le monde animal.",
+      "source": "Wikipédia (fr) — « Crocodile marin »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-05-7",
+      "categorie": "animaux",
+      "niveau": 5,
+      "question": "Quelle baleine aux très longues nageoires pectorales est célèbre pour les chants complexes de ses mâles ?",
+      "reponse": "Baleine à bosse",
+      "variantes": [
+        "Mégaptère",
+        "Jubarte",
+        "Megaptera novaeangliae"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Baleine bleue",
+          "Béluga",
+          "Baleine franche",
+          "Rorqual commun",
+          "Orque"
+        ]
+      },
+      "explication": "Le chant de la baleine à bosse, fait de motifs répétés, peut durer une vingtaine de minutes et être répété pendant des heures. Il est produit par les mâles, surtout dans les zones de reproduction, et ceux d'une même population chantent une version proche, qui évolue au fil des saisons. Ses nageoires pectorales, longues d'environ un tiers de son corps, ont inspiré son nom scientifique, qui signifie « grandes ailes ».",
+      "anecdote": "En 1970, le disque « Songs of the Humpback Whale », produit par le biologiste Roger Payne, a connu un grand succès et nourri la mobilisation contre la chasse à la baleine.",
+      "source": "Wikipédia (fr) — « Baleine à bosse »",
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote : Payne a produit le disque (enregistrements en partie de Frank Watlington)."
+      }
+    },
+    {
+      "id": "ani-05-8",
+      "categorie": "animaux",
+      "niveau": 5,
+      "question": "Quel oiseau européen pond ses œufs dans le nid d'autres espèces, qui élèvent ses petits ?",
+      "reponse": "Coucou",
+      "variantes": [
+        "Coucou gris",
+        "Cuculus canorus"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Pie",
+          "Geai",
+          "Étourneau",
+          "Vacher",
+          "Pic"
+        ]
+      },
+      "explication": "Le coucou gris est un parasite de couvée. La femelle dépose un œuf unique dans le nid d'un petit passereau, comme la rousserolle effarvatte ou l'accenteur mouchet, souvent avec une couleur imitant celle des œufs de l'hôte. Après l'éclosion, le jeune coucou pousse hors du nid les autres œufs ou oisillons, puis se fait nourrir par des parents adoptifs parfois bien plus petits que lui.",
+      "anecdote": "Le mot « cocu » viendrait du nom de cet oiseau, dont la femelle fait élever ses petits par d'autres.",
+      "source": "Wikipédia (fr) — « Coucou gris »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-06-1",
+      "categorie": "animaux",
+      "niveau": 6,
+      "question": "Quel cétacé de l'Arctique, dont le mâle porte une longue défense torsadée, est surnommé « licorne des mers » ?",
+      "reponse": "Narval",
+      "variantes": [
+        "Monodon monoceros"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Béluga",
+          "Morse",
+          "Orque",
+          "Dugong",
+          "Espadon"
+        ]
+      },
+      "explication": "La défense du narval est une dent de la mâchoire supérieure, en général la gauche, qui traverse la lèvre et peut dépasser deux mètres. Elle pousse en spirale et sert notamment dans les rivalités entre mâles. Au Moyen Âge, ces défenses vendues comme cornes de licorne valaient une fortune et passaient pour neutraliser les poisons.",
+      "anecdote": "Le trône de couronnement des rois du Danemark, conservé au château de Rosenborg, est fabriqué en grande partie avec des défenses de narval.",
+      "source": "Wikipédia (fr) — « Narval »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-06-2",
+      "categorie": "animaux",
+      "niveau": 6,
+      "question": "Comment appelle-t-on le petit du lièvre ?",
+      "reponse": "Levraut",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Lapereau",
+          "Lapin",
+          "Faon",
+          "Marcassin"
+        ]
+      },
+      "explication": "Contrairement au lapin, dont les lapereaux naissent nus et aveugles au fond d'un terrier, le lièvre met au monde des levrauts déjà couverts de poils et les yeux ouverts, à même le sol, dans une simple dépression appelée gîte. La mère ne les rejoint qu'une ou deux fois par jour pour les allaiter, afin d'attirer le moins possible les prédateurs.",
+      "anecdote": "Le lièvre et le lapin ne peuvent pas se croiser : ils appartiennent à deux genres bien distincts.",
+      "source": "Wikipédia (fr) — « Lièvre »",
+      "verification": {
+        "statut": "relue",
+        "note": "Variante « Levreau » (graphie non reconnue) et piège inventé « Lièvreteau » retirés."
+      }
+    },
+    {
+      "id": "ani-06-3",
+      "categorie": "animaux",
+      "niveau": 6,
+      "question": "Combien de compartiments compte l'estomac d'une vache ?",
+      "reponse": "4",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 4,
+        "tolerance": 0
+      },
+      "explication": "On dit souvent que la vache a quatre estomacs : il s'agit en fait d'un seul estomac divisé en quatre poches. Avalée sans être beaucoup mâchée, l'herbe fermente d'abord dans la panse, ou rumen, qui peut contenir plus de 100 litres, et dans le bonnet, où des micro-organismes dégradent la cellulose. Elle remonte ensuite dans la bouche pour être mâchée de nouveau, c'est la rumination, puis passe dans le feuillet et la caillette.",
+      "anecdote": "La caillette des jeunes veaux fournit la présure, utilisée depuis l'Antiquité pour faire cailler le lait et fabriquer de nombreux fromages.",
+      "source": "Wikipédia (fr) — « Ruminant »",
+      "verification": {
+        "statut": "relue",
+        "note": "Remplacée : les arachnides (araignées, scorpions, acariens) figurent déjà dans sci-01-3."
+      }
+    },
+    {
+      "id": "ani-06-4",
+      "categorie": "animaux",
+      "niveau": 6,
+      "question": "Quel rapace détient le record de vitesse du monde animal, atteint lors de ses piqués sur ses proies ?",
+      "reponse": "Faucon pèlerin",
+      "variantes": [
+        "Pèlerin",
+        "Falco peregrinus"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Aigle royal",
+          "Faucon crécerelle",
+          "Martinet",
+          "Épervier",
+          "Gerfaut"
+        ]
+      },
+      "explication": "En piqué, le faucon pèlerin peut dépasser 300 km/h, ce qui en fait l'animal le plus rapide connu. Il fond sur des oiseaux en vol et les frappe avec ses serres. Décimé dans les années 1950 à 1970 par le DDT, un pesticide qui fragilisait la coquille de ses œufs, il a retrouvé des effectifs importants après son interdiction et niche désormais aussi sur les immeubles des villes.",
+      "source": "Wikipédia (fr) — « Faucon pèlerin »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-06-5",
+      "categorie": "animaux",
+      "niveau": 6,
+      "question": "Quel est le plus grand rongeur du monde, qui vit près des cours d'eau d'Amérique du Sud ?",
+      "reponse": "Capybara",
+      "variantes": [
+        "Cabiai",
+        "Capivara",
+        "Hydrochoerus hydrochaeris"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Castor",
+          "Ragondin",
+          "Paca",
+          "Agouti",
+          "Mara"
+        ]
+      },
+      "explication": "Le capybara, aussi appelé cabiai, peut peser plus de 60 kilos. Semi-aquatique, il possède des pattes légèrement palmées et peut rester plusieurs minutes sous l'eau pour échapper aux prédateurs comme le jaguar. Il vit en groupes et broute les herbes des berges. Son calme apparent l'a rendu très populaire sur les réseaux sociaux, où on le voit côtoyer sans heurt de nombreux autres animaux.",
+      "source": "Wikipédia (fr) — « Capybara »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-06-6",
+      "categorie": "animaux",
+      "niveau": 6,
+      "question": "Comment appelle-t-on les reptiles volants de l'ère des dinosaures, comme le ptéranodon, qui n'étaient pas des dinosaures ?",
+      "reponse": "Ptérosaures",
+      "variantes": [
+        "Ptérosaure",
+        "Pterosauria"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Dinosaures",
+          "Ichtyosaures",
+          "Plésiosaures"
+        ]
+      },
+      "explication": "Les ptérosaures ont été les premiers vertébrés à voler activement, dès le Trias, bien avant les oiseaux. Leur aile était une membrane de peau tendue par un quatrième doigt démesuré. Proches cousins des dinosaures, ils ont disparu avec eux il y a 66 millions d'années. Le Quetzalcoatlus, l'un des plus grands, atteignait environ dix mètres d'envergure, comme un petit avion de tourisme.",
+      "anecdote": "Le premier fossile décrit, celui du ptérodactyle, en 1784, fut pris pour un animal marin dont les bras auraient servi de nageoires.",
+      "source": "Wikipédia (fr) — « Pterosauria »",
+      "verification": {
+        "statut": "relue",
+        "note": "Piège « Archosaures » retiré (les ptérosaures en font partie)."
+      }
+    },
+    {
+      "id": "ani-06-7",
+      "categorie": "animaux",
+      "niveau": 6,
+      "question": "Quel félin ibérique, tombé à une centaine d'individus vers 2002, a été reclassé « vulnérable » par l'UICN en 2024 ?",
+      "reponse": "Lynx pardelle",
+      "variantes": [
+        "Lynx ibérique",
+        "Lynx d'Espagne",
+        "Lynx pardinus"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Lynx boréal",
+          "Lynx d'Europe",
+          "Chat sauvage",
+          "Caracal",
+          "Lynx roux"
+        ]
+      },
+      "explication": "Le lynx pardelle, qui se nourrit presque exclusivement de lapins, a souffert de l'effondrement de leurs populations, causé par la myxomatose et une maladie hémorragique, ainsi que de la destruction de son habitat. Grâce à l'élevage en captivité, aux réintroductions et à la protection de son territoire, ses effectifs ont dépassé 2 000 individus en 2023, ce qui a permis à l'UICN de le faire passer de « en danger » à « vulnérable ».",
+      "source": "Wikipédia (fr) — « Lynx pardelle »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-06-8",
+      "categorie": "animaux",
+      "niveau": 6,
+      "question": "Quel oiseau de mer effectue chaque année la plus longue migration connue, entre l'Arctique et l'Antarctique ?",
+      "reponse": "Sterne arctique",
+      "variantes": [
+        "Sterna paradisaea"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Puffin fuligineux",
+          "Albatros hurleur",
+          "Barge rousse",
+          "Sterne pierregarin",
+          "Fou de Bassan"
+        ]
+      },
+      "explication": "La sterne arctique niche dans le Grand Nord, puis passe l'été austral près de l'Antarctique. En suivant des routes sinueuses pour profiter des vents, ces oiseaux parcourent en moyenne plus de 70 000 kilomètres par an, selon des suivis par géolocalisateurs publiés en 2010. Comme une sterne peut vivre une trentaine d'années, elle parcourt au cours de sa vie l'équivalent de plusieurs allers-retours entre la Terre et la Lune.",
+      "anecdote": "Passant d'un été polaire à l'autre, elle est sans doute l'animal qui profite du plus de lumière du jour au cours de l'année.",
+      "source": "Wikipédia (fr) — « Sterne arctique »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-07-1",
+      "categorie": "animaux",
+      "niveau": 7,
+      "question": "Quel papillon orange et noir migre chaque automne par millions d'Amérique du Nord vers les forêts du centre du Mexique ?",
+      "reponse": "Monarque",
+      "variantes": [
+        "Danaus plexippus"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Vice-roi",
+          "Belle-dame",
+          "Machaon",
+          "Vanesse",
+          "Paon du jour"
+        ]
+      },
+      "explication": "Le monarque parcourt plusieurs milliers de kilomètres pour hiverner en colonies serrées sur les sapins des montagnes mexicaines. Aucun individu ne fait l'aller-retour complet : la remontée vers le nord s'étale sur plusieurs générations. Sa chenille se nourrit d'asclépiades, des plantes toxiques dont elle stocke les substances, ce qui rend le papillon amer et dangereux pour les oiseaux.",
+      "anecdote": "La réserve de biosphère du papillon monarque, au Mexique, est inscrite au patrimoine mondial de l'UNESCO depuis 2008.",
+      "source": "Wikipédia (fr) — « Monarque (papillon) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-07-2",
+      "categorie": "animaux",
+      "niveau": 7,
+      "question": "À quel ordre de mammifères, distinct des rongeurs, appartiennent les lapins et les lièvres ?",
+      "reponse": "Lagomorphes",
+      "variantes": [
+        "Lagomorpha",
+        "Lagomorphe"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Rongeurs",
+          "Rodentia",
+          "Insectivores",
+          "Marsupiaux",
+          "Rongeur"
+        ]
+      },
+      "explication": "Longtemps classés parmi les rongeurs, les lapins et les lièvres forment depuis le début du XXe siècle un ordre à part, les lagomorphes, avec les pikas. Leur particularité la plus visible est une seconde paire de petites incisives située derrière les grandes incisives supérieures. Ils pratiquent aussi la cæcotrophie : ils réingèrent certaines crottes molles pour mieux digérer la cellulose.",
+      "source": "Wikipédia (fr) — « Lagomorpha »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-07-3",
+      "categorie": "animaux",
+      "niveau": 7,
+      "question": "Combien de vertèbres cervicales compte le long cou d'une girafe ?",
+      "reponse": "7",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 7,
+        "tolerance": 0
+      },
+      "explication": "Comme presque tous les mammifères, de la souris à l'humain, la girafe possède sept vertèbres cervicales, mais chacune peut mesurer plus de 25 centimètres. Les rares exceptions connues chez les mammifères sont les paresseux et les lamantins, dont le nombre de vertèbres du cou diffère. Chez les oiseaux, ce nombre varie beaucoup : le cygne tuberculé en compte plus de vingt.",
+      "source": "Wikipédia (fr) — « Girafe »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-07-4",
+      "categorie": "animaux",
+      "niveau": 7,
+      "question": "Quel éthologue autrichien a décrit l'empreinte chez des oisons qui le suivaient comme leur mère ?",
+      "reponse": "Konrad Lorenz",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "nomSeul": true,
+        "pieges": [
+          "Karl von Frisch",
+          "Nikolaas Tinbergen",
+          "Ivan Pavlov",
+          "Tinbergen",
+          "Frisch"
+        ]
+      },
+      "explication": "Dans les années 1930, Konrad Lorenz montre que de jeunes oies cendrées s'attachent au premier objet mobile qu'elles voient après l'éclosion, en l'occurrence lui-même. Ce phénomène, l'empreinte, ne peut survenir que pendant une courte période sensible. Considéré comme l'un des fondateurs de l'éthologie moderne, il reçoit en 1973 le prix Nobel de physiologie ou médecine, partagé avec deux autres spécialistes du comportement animal.",
+      "anecdote": "Son livre « Il parlait avec les mammifères, les oiseaux et les poissons », paru en 1949, a fait connaître l'éthologie au grand public.",
+      "source": "Wikipédia (fr) — « Konrad Lorenz »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-07-5",
+      "categorie": "animaux",
+      "niveau": 7,
+      "question": "Comment appelle-t-on la femelle du lièvre ?",
+      "reponse": "Hase",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Lapine",
+          "Laie",
+          "Levrette",
+          "Biche",
+          "Daine"
+        ]
+      },
+      "explication": "La hase peut avoir plusieurs portées par an. Au printemps, on observe parfois des lièvres qui semblent « boxer », dressés sur leurs pattes arrière : il s'agit le plus souvent d'une femelle qui repousse un mâle trop insistant, et non de deux mâles rivaux comme on l'a longtemps cru. Le mâle porte, lui, le nom de bouquin, un terme également employé pour le lapin mâle.",
+      "anecdote": "Le mot « hase » vient de l'allemand « Hase », qui y désigne le lièvre en général.",
+      "source": "Wikipédia (fr) — « Lièvre d'Europe »",
+      "verification": {
+        "statut": "relue",
+        "note": "Fait cité en exemple dans l'explication de lan-02-4 (laie, hase) : exemple à retirer côté langue."
+      }
+    },
+    {
+      "id": "ani-07-6",
+      "categorie": "animaux",
+      "niveau": 7,
+      "question": "Environ combien de mois dure la gestation d'une éléphante d'Afrique, la plus longue des mammifères terrestres ?",
+      "reponse": "22",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 22,
+        "tolerance": 1
+      },
+      "explication": "La gestation de l'éléphante dure environ 22 mois, soit près de deux ans. Le petit pèse autour de 100 kilos à la naissance et peut marcher au bout de quelques heures. Il est élevé au sein d'un groupe familial de femelles apparentées, mené par la plus âgée, la matriarche, dont la mémoire des points d'eau devient précieuse en période de sécheresse.",
+      "source": "Wikipédia (fr) — « Éléphant »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-07-7",
+      "categorie": "animaux",
+      "niveau": 7,
+      "question": "Quel cheval sauvage d'Asie, disparu de la nature puis réintroduit en Mongolie, porte le nom d'un explorateur russe ?",
+      "reponse": "Cheval de Przewalski",
+      "variantes": [
+        "Przewalski",
+        "Takhi",
+        "Equus przewalskii"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Tarpan",
+          "Mustang",
+          "Brumby",
+          "Hémione",
+          "Cheval mongol"
+        ]
+      },
+      "explication": "Le cheval de Przewalski doit son nom à l'explorateur Nikolaï Przewalski, qui le fit connaître des scientifiques européens à la fin du XIXe siècle. Déclaré éteint à l'état sauvage à la fin des années 1960, il a survécu grâce aux zoos : tous les individus actuels descendent d'une douzaine d'animaux capturés vers 1900. Il a été réintroduit en Mongolie à partir de 1992.",
+      "anecdote": "Des analyses génétiques publiées en 2018 suggèrent qu'il descend de chevaux domestiqués par la culture de Botaï, au Kazakhstan, puis retournés à l'état sauvage.",
+      "source": "Wikipédia (fr) — « Cheval de Przewalski »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-07-8",
+      "categorie": "animaux",
+      "niveau": 7,
+      "question": "Quel poisson européen naît dans la mer des Sargasses avant de traverser l'Atlantique pour grandir dans nos rivières ?",
+      "reponse": "Anguille",
+      "variantes": [
+        "Anguille européenne",
+        "Anguille d'Europe",
+        "Anguilla anguilla"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Saumon",
+          "Lamproie",
+          "Truite",
+          "Esturgeon",
+          "Congre",
+          "Murène"
+        ]
+      },
+      "explication": "L'anguille européenne accomplit un cycle inverse de celui du saumon : elle se reproduit en mer et grandit en eau douce. Ses larves, transparentes et en forme de feuille, dérivent pendant des mois avec les courants de l'Atlantique, puis se transforment en civelles près des côtes. Adulte, devenue argentée, elle repart vers les Sargasses. Victime de la pêche des civelles, des barrages et de la pollution, elle est classée en danger critique par l'UICN depuis 2008.",
+      "anecdote": "Sa ponte n'a jamais été observée : c'est le Danois Johannes Schmidt qui, au début du XXe siècle, a situé sa zone de reproduction en y découvrant les plus petites larves.",
+      "source": "Wikipédia (fr) — « Anguille d'Europe »",
+      "verification": {
+        "statut": "relue",
+        "note": "Statut UICN déplacé dans l'explication ; anecdote sur la ponte jamais observée (Schmidt)."
+      }
+    },
+    {
+      "id": "ani-08-1",
+      "categorie": "animaux",
+      "niveau": 8,
+      "question": "Quel céphalopode des eaux antarctiques, plus lourd encore que le calmar géant, est le plus massif des invertébrés connus ?",
+      "reponse": "Calmar colossal",
+      "variantes": [
+        "Mesonychoteuthis hamiltoni",
+        "Calmar colosse"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Calmar géant",
+          "Architeuthis",
+          "Pieuvre géante",
+          "Seiche",
+          "Nautile"
+        ]
+      },
+      "explication": "Le calmar colossal vit dans les profondeurs de l'océan Austral. Le plus gros spécimen connu, capturé en 2007 par des pêcheurs néo-zélandais, pesait près de 500 kilos. Moins long que le calmar géant mais bien plus massif, il porte sur ses bras et ses tentacules des crochets acérés. Ses yeux, larges d'environ 27 centimètres, comptent parmi les plus grands du règne animal et lui permettraient de repérer de loin les cachalots.",
+      "source": "Wikipédia (fr) — « Calmar colossal »",
+      "verification": {
+        "statut": "relue",
+        "note": "Énoncé reformulé : le record des plus grands yeux est disputé avec le calmar géant ; record de masse retenu."
+      },
+      "anecdote": "Il a fallu attendre 2025 pour qu'un calmar colossal soit filmé vivant dans son milieu naturel : un juvénile d'une trentaine de centimètres, près des îles Sandwich du Sud."
+    },
+    {
+      "id": "ani-08-2",
+      "categorie": "animaux",
+      "niveau": 8,
+      "question": "Quel oiseau australien est célèbre pour imiter le chant d'autres oiseaux, mais aussi des appareils photo et des tronçonneuses ?",
+      "reponse": "Oiseau-lyre",
+      "variantes": [
+        "Ménure",
+        "Ménure superbe",
+        "Ménure lyre"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Mainate",
+          "Perroquet",
+          "Moqueur",
+          "Jardinier satiné",
+          "Cacatoès"
+        ]
+      },
+      "explication": "Le ménure superbe, ou oiseau-lyre, doit son nom à la queue spectaculaire du mâle, dont les plumes externes dessinent une lyre lors de la parade. Pour séduire, le mâle chante sur une petite butte de terre en reprenant le répertoire de nombreuses autres espèces. Ses imitations de bruits humains ont été popularisées par le naturaliste David Attenborough dans un documentaire de 1998.",
+      "anecdote": "Il figure sur la pièce australienne de dix cents.",
+      "source": "Wikipédia (fr) — « Ménure superbe »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-08-3",
+      "categorie": "animaux",
+      "niveau": 8,
+      "question": "Quel minuscule animal à huit pattes, surnommé « ourson d'eau », peut résister à la dessiccation et au vide spatial ?",
+      "reponse": "Tardigrade",
+      "variantes": [
+        "Tardigrada"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Rotifère",
+          "Acarien",
+          "Collembole",
+          "Copépode",
+          "Nématode"
+        ]
+      },
+      "explication": "Les tardigrades mesurent en général moins d'un millimètre. Face à la sécheresse, ils se replient en un état desséché appelé cryptobiose, où leur métabolisme devient presque indétectable. Ils peuvent alors supporter des froids extrêmes, de fortes radiations et même le vide spatial : en 2007, certains ont survécu à une exposition directe dans l'espace lors de la mission FOTON-M3.",
+      "anecdote": "On en trouve presque partout, des sommets de l'Himalaya aux grands fonds marins, et jusque dans les mousses humides des jardins.",
+      "source": "Wikipédia (fr) — « Tardigrada »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-08-4",
+      "categorie": "animaux",
+      "niveau": 8,
+      "question": "Quel animal fossile à plumes, découvert en Bavière en 1861, a longtemps été considéré comme le plus ancien oiseau connu ?",
+      "reponse": "Archaeopteryx",
+      "variantes": [
+        "Archéoptéryx",
+        "Archeopteryx"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Ptérodactyle",
+          "Microraptor",
+          "Confuciusornis",
+          "Vélociraptor",
+          "Ptéranodon"
+        ]
+      },
+      "explication": "Découvert dans le calcaire de Solnhofen, l'Archaeopteryx a vécu il y a environ 150 millions d'années, au Jurassique supérieur. Il réunit des traits d'oiseau, comme les plumes et les ailes, et des traits de dinosaure : des dents, des griffes aux doigts et une longue queue osseuse. Décrit deux ans après la parution de « L'Origine des espèces » de Darwin, il est devenu un argument majeur en faveur de l'évolution.",
+      "source": "Wikipédia (fr) — « Archaeopteryx »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-08-5",
+      "categorie": "animaux",
+      "niveau": 8,
+      "question": "Quel serpent australien possède le venin le plus toxique de tous les serpents terrestres, d'après les tests sur souris ?",
+      "reponse": "Taïpan du désert",
+      "variantes": [
+        "Taïpan de McCoy",
+        "Taïpan intérieur",
+        "Oxyuranus microlepidotus"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Taïpan côtier",
+          "Mamba noir",
+          "Serpent brun",
+          "Cobra royal",
+          "Vipère heurtante"
+        ]
+      },
+      "explication": "Le taïpan du désert, ou taïpan de McCoy, vit dans les plaines arides du centre-est de l'Australie. Son venin est le plus puissant mesuré chez un serpent terrestre : une seule morsure contiendrait de quoi tuer de nombreux humains. Pourtant, ce serpent discret, qui vit dans des régions très peu peuplées, mord très rarement l'humain. Sa peau fonce en hiver pour mieux absorber la chaleur.",
+      "source": "Wikipédia (fr) — « Oxyuranus microlepidotus »",
+      "verification": {
+        "statut": "relue",
+        "note": "« Aucun décès documenté » remplacé par une formulation prudente."
+      }
+    },
+    {
+      "id": "ani-08-6",
+      "categorie": "animaux",
+      "niveau": 8,
+      "question": "Quel est le plus petit oiseau du monde, endémique de Cuba ?",
+      "reponse": "Colibri d'Elena",
+      "variantes": [
+        "Colibri d'Hélène",
+        "Colibri abeille",
+        "Oiseau-mouche d'Elena",
+        "Mellisuga helenae"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Roitelet",
+          "Colibri",
+          "Colibri à gorge rubis",
+          "Troglodyte",
+          "Sucrier"
+        ]
+      },
+      "explication": "Le colibri d'Elena, surnommé colibri abeille, mesure environ cinq à six centimètres du bec à la queue et pèse moins de deux grammes. Il ne vit qu'à Cuba et sur l'île de la Jeunesse. En période nuptiale, le mâle arbore une tête et une gorge d'un rouge rosé irisé. La femelle construit seule un nid de quelques centimètres, où elle pond deux œufs pas plus gros que des petits pois.",
+      "source": "Wikipédia (fr) — « Colibri d'Elena »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-08-7",
+      "categorie": "animaux",
+      "niveau": 8,
+      "question": "Quel poisson, connu seulement par des fossiles et cru disparu, a été pêché vivant en 1938 au large de l'Afrique du Sud ?",
+      "reponse": "Cœlacanthe",
+      "variantes": [
+        "Coelacanthe",
+        "Latimeria",
+        "Latimeria chalumnae"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Dipneuste",
+          "Esturgeon",
+          "Polyptère",
+          "Lamproie",
+          "Requin lutin"
+        ]
+      },
+      "explication": "En décembre 1938, Marjorie Courtenay-Latimer, conservatrice du musée d'East London, repère un étrange poisson bleu parmi les prises d'un chalutier. L'ichtyologue James Leonard Brierley Smith y reconnaît un cœlacanthe, groupe que l'on croyait éteint depuis environ 66 millions d'années. Une seconde espèce a été découverte en Indonésie en 1997. Ses nageoires charnues l'apparentent aux ancêtres des vertébrés terrestres.",
+      "anecdote": "Smith promit une récompense pour un second spécimen : il fallut attendre 1952 pour qu'un cœlacanthe soit pêché aux Comores.",
+      "source": "Wikipédia (fr) — « Cœlacanthe »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-08-8",
+      "categorie": "animaux",
+      "niveau": 8,
+      "question": "Tous les combien d'années émergent en masse les cigales périodiques d'Amérique du Nord au cycle le plus long ?",
+      "reponse": "17",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 17,
+        "tolerance": 0
+      },
+      "explication": "Les cigales périodiques du genre Magicicada passent l'essentiel de leur vie sous terre à l'état de larves, à sucer la sève des racines. Selon les populations, elles émergent toutes ensemble tous les 13 ou 17 ans, par milliards. Cette stratégie sature les prédateurs, incapables de toutes les manger. Les adultes ne vivent ensuite que quelques semaines, le temps de chanter, de s'accoupler et de pondre.",
+      "anecdote": "En 2024, une couvée au cycle de 13 ans et une autre au cycle de 17 ans ont émergé en même temps dans l'Illinois, une coïncidence inédite depuis 1803.",
+      "source": "Wikipédia (fr) — « Magicicada »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-09-1",
+      "categorie": "animaux",
+      "niveau": 9,
+      "question": "Sur quelle île arctique les derniers mammouths laineux ont-ils survécu jusqu'à il y a environ 4 000 ans ?",
+      "reponse": "Île Wrangel",
+      "variantes": [
+        "Wrangel"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Île Saint-Paul",
+          "Spitzberg",
+          "Nouvelle-Sibérie",
+          "Groenland",
+          "Nouvelle-Zemble"
+        ]
+      },
+      "explication": "Alors que les mammouths laineux avaient disparu du continent il y a environ 10 000 ans, une petite population isolée a subsisté sur l'île Wrangel, au large de la Sibérie, jusqu'à il y a environ 4 000 ans. Les pyramides de Gizeh étaient alors déjà construites. L'analyse de leur ADN a révélé une faible diversité génétique, liée à la consanguinité de cette population réduite.",
+      "anecdote": "Une autre population insulaire a survécu sur l'île Saint-Paul, en Alaska, jusqu'à il y a environ 5 600 ans, probablement victime du manque d'eau douce.",
+      "source": "Wikipédia (fr) — « Île Wrangel »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-09-2",
+      "categorie": "animaux",
+      "niveau": 9,
+      "question": "Quel oiseau australien construit une tonnelle qu'il décore d'objets bleus pour séduire les femelles ?",
+      "reponse": "Jardinier satiné",
+      "variantes": [
+        "Ptilonorhynque satiné",
+        "Ptilonorhynchus violaceus"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Oiseau-lyre",
+          "Ménure",
+          "Martin-chasseur",
+          "Tisserin",
+          "Martin-pêcheur"
+        ]
+      },
+      "explication": "Le mâle du jardinier satiné, au plumage noir bleuté, bâtit au sol une allée de brindilles qu'il entoure d'objets bleus : plumes, fleurs, baies, mais aussi capsules et pailles en plastique. La femelle visite plusieurs de ces constructions avant de choisir son partenaire, puis élève seule les petits dans un nid construit ailleurs. Les mâles volent parfois les décorations de leurs rivaux.",
+      "anecdote": "Certains mâles peignent l'intérieur de leur tonnelle avec une pâte de fruits ou de charbon mâchés, en s'aidant parfois d'un morceau d'écorce.",
+      "source": "Wikipédia (fr) — « Jardinier satiné »",
+      "verification": {
+        "statut": "relue",
+        "note": "Variantes génériques « Jardinier » et « Oiseau à berceau » (toute une famille) retirées."
+      }
+    },
+    {
+      "id": "ani-09-3",
+      "categorie": "animaux",
+      "niveau": 9,
+      "question": "Quel oiseau est le seul à posséder des narines à l'extrémité de son bec, qui lui servent à flairer les vers dans le sol ?",
+      "reponse": "Kiwi",
+      "variantes": [
+        "Aptéryx",
+        "Apteryx"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Bécasse",
+          "Courlis",
+          "Ibis",
+          "Kakapo",
+          "Moa",
+          "Kéa"
+        ]
+      },
+      "explication": "Emblème de la Nouvelle-Zélande, le kiwi est un oiseau nocturne incapable de voler, aux ailes atrophiées cachées sous un plumage qui ressemble à du poil. Ses narines, placées au bout de son long bec, lui permettent de détecter à l'odeur les vers et les larves enfouis : son odorat est très développé pour un oiseau. On en reconnaît cinq espèces, fragilisées par les prédateurs introduits comme les hermines.",
+      "anecdote": "Son œuf peut peser environ un cinquième du poids de la femelle, l'une des plus fortes proportions connues chez les oiseaux.",
+      "source": "Wikipédia (fr) — « Apteryx »",
+      "verification": {
+        "statut": "relue",
+        "note": "Remplacée : la danse des abeilles de von Frisch figure déjà dans l'anecdote de sci-01-2."
+      }
+    },
+    {
+      "id": "ani-09-4",
+      "categorie": "animaux",
+      "niveau": 9,
+      "question": "De quelle île des Galápagos était originaire George le Solitaire (« Lonesome George »), tortue géante morte en 2012, dernier représentant connu de son espèce ?",
+      "reponse": "Pinta",
+      "variantes": [
+        "Île Pinta",
+        "Abingdon"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Santa Cruz",
+          "Isabela",
+          "Española",
+          "San Cristóbal",
+          "Floreana",
+          "Pinzón"
+        ]
+      },
+      "explication": "Découvert en 1971 sur l'île Pinta, dont la végétation avait été ravagée par des chèvres introduites, George le Solitaire était le dernier représentant connu de la tortue géante de Pinta. Installé à la station de recherche Charles-Darwin, sur l'île Santa Cruz, il n'a jamais eu de descendance malgré plusieurs tentatives d'accouplement. Sa mort, le 24 juin 2012, en a fait un symbole mondial de l'extinction.",
+      "anecdote": "Son corps naturalisé a été exposé à New York avant de revenir aux Galápagos en 2017.",
+      "source": "Wikipédia (fr) — « George le Solitaire »",
+      "verification": {
+        "statut": "relue",
+        "note": "Nom de l'individu précisé (fr « George le Solitaire », angl. « Lonesome George ») ; dates vérifiées."
+      }
+    },
+    {
+      "id": "ani-09-5",
+      "categorie": "animaux",
+      "niveau": 9,
+      "question": "Comment appelle-t-on l'enveloppe vide qu'abandonne un insecte, une araignée ou un serpent après sa mue ?",
+      "reponse": "Exuvie",
+      "variantes": [
+        "Exuvies"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Chrysalide",
+          "Cocon",
+          "Carapace",
+          "Cuticule",
+          "Élytre"
+        ]
+      },
+      "explication": "L'exuvie est l'ancien squelette externe, ou l'ancienne peau, laissé par l'animal qui a mué. Les arthropodes doivent muer pour grandir, car leur cuticule rigide ne s'étire pas. Les naturalistes collectent les exuvies de libellules accrochées aux tiges près de l'eau : elles permettent d'identifier les espèces présentes sans capturer d'animal. Chez les serpents, l'exuvie se détache souvent d'un seul tenant, retournée comme un gant.",
+      "source": "Wikipédia (fr) — « Exuvie »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-09-6",
+      "categorie": "animaux",
+      "niveau": 9,
+      "question": "Comment appelle-t-on le mâle du chevreuil ?",
+      "reponse": "Brocard",
+      "variantes": [
+        "Broquart"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Cerf",
+          "Bouc",
+          "Bouquin",
+          "Daim",
+          "Chevrillard"
+        ]
+      },
+      "explication": "Le brocard est le seul à porter des bois, qu'il perd à la fin de l'automne et qui repoussent pendant l'hiver, couverts de velours. La femelle, la chevrette, présente une particularité rare chez les ongulés : l'ovule fécondé lors du rut, en été, ne s'implante dans l'utérus que vers la fin de l'année. Cette ovo-implantation différée fait naître les faons au printemps, à la belle saison.",
+      "source": "Wikipédia (fr) — « Chevreuil européen »",
+      "verification": {
+        "statut": "relue",
+        "note": "Réécrite sur le mâle (brocard) : « chèvre », piège, désigne aussi la femelle du chevreuil en vénerie."
+      }
+    },
+    {
+      "id": "ani-09-7",
+      "categorie": "animaux",
+      "niveau": 9,
+      "question": "Quel perroquet nocturne de Nouvelle-Zélande, incapable de voler, est le plus lourd du monde ?",
+      "reponse": "Kakapo",
+      "variantes": [
+        "Kākāpō",
+        "Strigops habroptilus"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Kéa",
+          "Kaka",
+          "Kiwi",
+          "Ara hyacinthe",
+          "Takahé"
+        ]
+      },
+      "explication": "Le kakapo peut peser jusqu'à quatre kilos. Faute de prédateurs terrestres sur ses îles, il a perdu l'usage du vol et se fige quand il se sent menacé, une stratégie inefficace face aux chats et aux hermines introduits. Tombé à 51 individus en 1995, il ne vit plus que dans des sanctuaires débarrassés des prédateurs, surtout des îles, où chaque oiseau est suivi individuellement. Il se reproduit surtout les années de forte fructification du rimu, un conifère.",
+      "anecdote": "Pour attirer les femelles, le mâle émet des « booms » très graves depuis une cuvette creusée dans le sol, audibles à plusieurs kilomètres.",
+      "source": "Wikipédia (fr) — « Kakapo »",
+      "verification": {
+        "statut": "relue",
+        "note": "« Ne survit plus que sur des îles » corrigé (sanctuaire continental depuis 2023)."
+      }
+    },
+    {
+      "id": "ani-09-8",
+      "categorie": "animaux",
+      "niveau": 9,
+      "question": "Quel marsupial carnivore, surnommé « tigre de Tasmanie », a vu son dernier représentant connu mourir dans un zoo en 1936 ?",
+      "reponse": "Thylacine",
+      "variantes": [
+        "Thylacinus cynocephalus",
+        "Loup de Tasmanie"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Diable de Tasmanie",
+          "Dasyure",
+          "Dingo",
+          "Quoll",
+          "Wombat"
+        ]
+      },
+      "explication": "Le thylacine ressemblait à un chien, avec des rayures sombres sur le bas du dos. Disparu du continent australien depuis environ 3 000 ans, il survivait en Tasmanie, où il fut traqué contre des primes, accusé de tuer les moutons. Le dernier individu connu meurt au zoo de Hobart le 7 septembre 1936. L'UICN a déclaré l'espèce éteinte en 1982.",
+      "anecdote": "Comme chez les kangourous, la femelle portait ses petits dans une poche ; fait rare, le mâle avait lui aussi une poche, qui protégeait ses organes génitaux.",
+      "source": "Wikipédia (fr) — « Thylacine »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-10-1",
+      "categorie": "animaux",
+      "niveau": 10,
+      "question": "Quel grand mammifère marin herbivore, découvert en 1741 lors d'une expédition de Béring, fut exterminé en moins de trente ans ?",
+      "reponse": "Rhytine de Steller",
+      "variantes": [
+        "Rhytine",
+        "Vache de mer de Steller",
+        "Hydrodamalis gigas"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Dugong",
+          "Lamantin",
+          "Phoque moine",
+          "Otarie de Steller",
+          "Lion de mer de Steller"
+        ]
+      },
+      "explication": "La rhytine de Steller, un sirénien apparenté au dugong, pouvait mesurer près de huit mètres. Le naturaliste Georg Wilhelm Steller la décrit en 1741, après le naufrage de l'expédition de Vitus Béring sur l'île qui sera baptisée île de Béring. Chassée pour sa viande et sa graisse par les marins et les chasseurs de fourrures, elle disparaît vers 1768.",
+      "source": "Wikipédia (fr) — « Rhytine de Steller »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-10-2",
+      "categorie": "animaux",
+      "niveau": 10,
+      "question": "Comment s'appellent les organes sensoriels qui permettent aux requins de détecter les champs électriques de leurs proies ?",
+      "reponse": "Ampoules de Lorenzini",
+      "variantes": [
+        "Ampoule de Lorenzini",
+        "Ampullae de Lorenzini"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Ligne latérale",
+          "Neuromastes",
+          "Spiracles",
+          "Organe de Jacobson"
+        ]
+      },
+      "explication": "Les ampoules de Lorenzini sont de petits pores remplis d'un gel conducteur, concentrés autour du museau des requins et des raies. Elles détectent les infimes champs électriques produits par les muscles et le cœur des proies, même enfouies dans le sable. Elles portent le nom du médecin italien Stefano Lorenzini, qui les décrivit en 1678 sans en comprendre la fonction.",
+      "anecdote": "La tête élargie du requin-marteau, qui porte davantage de ces récepteurs, lui permettrait de balayer le fond comme un détecteur de métaux.",
+      "source": "Wikipédia (fr) — « Ampoules de Lorenzini »",
+      "verification": {
+        "statut": "relue",
+        "note": "Variante trop vague « Ampoules » retirée."
+      }
+    },
+    {
+      "id": "ani-10-3",
+      "categorie": "animaux",
+      "niveau": 10,
+      "question": "Quel crustacé marin aux pattes ravisseuses possède des yeux dotés de 12 à 16 types de photorécepteurs ?",
+      "reponse": "Crevette-mante",
+      "variantes": [
+        "Squille",
+        "Stomatopode",
+        "Stomatopoda",
+        "Mante de mer",
+        "Squille-mante"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Crevette",
+          "Homard",
+          "Langouste",
+          "Mante religieuse",
+          "Crabe"
+        ]
+      },
+      "explication": "Les stomatopodes, appelés crevettes-mantes ou squilles, possèdent l'un des systèmes visuels les plus complexes connus, avec 12 à 16 types de photorécepteurs, contre trois chez l'humain. Ils perçoivent l'ultraviolet et la lumière polarisée. Certaines espèces frappent leurs proies avec leurs pattes ravisseuses à une vitesse telle qu'elles brisent des coquilles de crabes ou d'escargots.",
+      "anecdote": "Le coup est si rapide qu'il crée des bulles de cavitation, dont l'implosion frappe la proie une seconde fois.",
+      "source": "Wikipédia (fr) — « Stomatopoda »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-10-4",
+      "categorie": "animaux",
+      "niveau": 10,
+      "question": "Quel verbe désigne le bruit que fait la cigogne en entrechoquant rapidement les deux parties de son bec ?",
+      "reponse": "Craqueter",
+      "variantes": [
+        "Claqueter",
+        "Glottorer",
+        "Craquètement",
+        "Claquètement",
+        "Glottorement"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Caqueter",
+          "Jacasser",
+          "Cacarder",
+          "Croasser",
+          "Trompeter",
+          "Craquer"
+        ]
+      },
+      "explication": "La cigogne blanche adulte est presque muette. Pour communiquer, notamment lorsque les partenaires se retrouvent au nid, elle renverse la tête en arrière et fait claquer son bec, produisant un bruit sec de crécelle. On dit qu'elle craquette, qu'elle claquette ou qu'elle glottore. La poule, elle, caquette, un verbe proche qu'il ne faut pas confondre.",
+      "source": "Wikipédia (fr) — « Cigogne blanche »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-10-5",
+      "categorie": "animaux",
+      "niveau": 10,
+      "question": "Quel cétacé détient les records de plongée des mammifères, avec près de 3 000 mètres de profondeur et plus de trois heures d'apnée ?",
+      "reponse": "Baleine à bec de Cuvier",
+      "variantes": [
+        "Ziphius",
+        "Ziphius cavirostris",
+        "Ziphius de Cuvier"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Cachalot",
+          "Éléphant de mer",
+          "Baleine bleue",
+          "Hyperoodon",
+          "Baleine à bec de Blainville"
+        ]
+      },
+      "explication": "En 2014, des balises posées au large de la Californie ont enregistré une baleine à bec de Cuvier à 2 992 mètres de profondeur. En 2020, une autre a été suivie pendant 222 minutes sans remonter respirer, soit plus de trois heures et demie. Ce cétacé discret, rarement observé, chasse surtout des calmars dans les grands fonds. Il est particulièrement sensible aux sonars militaires.",
+      "source": "Wikipédia (fr) — « Baleine à bec de Cuvier »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-10-6",
+      "categorie": "animaux",
+      "niveau": 10,
+      "question": "Dans quel pays est morte en 1627 la dernière femelle aurochs connue ?",
+      "reponse": "Pologne",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Lituanie",
+          "Allemagne",
+          "Russie",
+          "Biélorussie",
+          "Hongrie"
+        ]
+      },
+      "explication": "L'aurochs, grand bovin sauvage ancêtre des bovins domestiques, est représenté sur les parois de la grotte de Lascaux. Chassé et privé de son habitat, il ne subsistait au XVIIe siècle que dans la forêt de Jaktorów, en Pologne, où une réserve royale le protégeait. La dernière femelle y meurt en 1627. Les grands mâles pouvaient mesurer près de 1,80 mètre au garrot.",
+      "anecdote": "Dans les années 1930, les frères Heck ont tenté de « recréer » l'aurochs par croisements : les bovins obtenus, dits de Heck, n'en sont qu'une approximation.",
+      "source": "Wikipédia (fr) — « Aurochs »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-10-7",
+      "categorie": "animaux",
+      "niveau": 10,
+      "question": "Quel prénom portait la dernière tourte voyageuse, morte au zoo de Cincinnati en 1914 ?",
+      "reponse": "Martha",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "George",
+          "Maria",
+          "Margaret",
+          "Mary",
+          "Marie"
+        ]
+      },
+      "explication": "La tourte voyageuse, ou pigeon migrateur, était sans doute l'oiseau le plus abondant d'Amérique du Nord au XIXe siècle, avec des vols de milliards d'individus qui obscurcissaient le ciel pendant des heures. La chasse commerciale et la déforestation l'ont anéantie en quelques décennies. Martha, dernière de son espèce, meurt le 1er septembre 1914. Son corps est conservé à la Smithsonian Institution, à Washington.",
+      "anecdote": "Elle devait son prénom à Martha Washington, l'épouse du premier président des États-Unis.",
+      "source": "Wikipédia (fr) — « Tourte voyageuse »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "ani-10-8",
+      "categorie": "animaux",
+      "niveau": 10,
+      "question": "Quelle branche de la zoologie étudie les mollusques, comme les escargots, les moules ou les pieuvres ?",
+      "reponse": "Malacologie",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Conchyliologie",
+          "Ichtyologie",
+          "Herpétologie",
+          "Entomologie",
+          "Carcinologie"
+        ]
+      },
+      "explication": "La malacologie, du grec « malakos », « mou », étudie les mollusques, le deuxième embranchement animal par le nombre d'espèces décrites, après les arthropodes. Elle se distingue de la conchyliologie, centrée sur les coquilles. Les spécialistes d'autres groupes ont aussi leur discipline : l'ichtyologie pour les poissons, l'herpétologie pour les reptiles et les amphibiens, l'entomologie pour les insectes.",
+      "source": "Wikipédia (fr) — « Malacologie »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    }
+  ]
+}

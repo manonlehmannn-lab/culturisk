@@ -23,10 +23,10 @@ export function indexBank(files) {
 export async function loadBank(base = new URL('../../data/questions/', import.meta.url)) {
   const files = await Promise.all(
     CATEGORY_IDS.map((cat) =>
-      fetch(new URL(`${cat}.json`, base)).then((r) => {
-        if (!r.ok) throw new Error(`Banque introuvable : ${cat}`);
-        return r.json();
-      }),
+      // Un thème dont le fichier manque devient simplement indisponible (le vérificateur le signale).
+      fetch(new URL(`${cat}.json`, base))
+        .then((r) => (r.ok ? r.json() : { categorie: cat, questions: [] }))
+        .catch(() => ({ categorie: cat, questions: [] })),
     ),
   );
   return indexBank(files);

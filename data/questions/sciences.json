@@ -95,6 +95,113 @@
       }
     },
     {
+      "id": "sci-01-5",
+      "categorie": "sciences",
+      "niveau": 1,
+      "question": "Quel astre est le satellite naturel de la Terre ?",
+      "reponse": "Lune",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Soleil",
+          "Mars",
+          "Phobos",
+          "Titan",
+          "Étoile polaire"
+        ]
+      },
+      "explication": "La Lune tourne autour de la Terre à environ 384 000 kilomètres en moyenne. Elle met à peu près autant de temps à tourner sur elle-même qu'à faire le tour de notre planète, environ 27 jours : c'est pourquoi elle nous montre toujours la même face. Selon l'hypothèse la plus admise, elle serait née d'une collision géante entre la Terre et un astre de la taille de Mars, il y a environ 4,5 milliards d'années.",
+      "anecdote": "La Lune s'éloigne de la Terre d'environ 3,8 centimètres par an, comme l'ont montré des tirs laser sur des réflecteurs déposés par les missions Apollo.",
+      "source": "Wikipédia (fr) — « Lune »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-01-6",
+      "categorie": "sciences",
+      "niveau": 1,
+      "question": "Quelle est la formule chimique de l'eau ?",
+      "reponse": "H2O",
+      "variantes": [
+        "H₂O"
+      ],
+      "validation": {
+        "type": "texte",
+        "exact": true,
+        "pieges": [
+          "HO",
+          "H2O2",
+          "OH",
+          "CO2",
+          "H3O"
+        ]
+      },
+      "explication": "Une molécule d'eau est formée de deux atomes d'hydrogène liés à un atome d'oxygène. Pendant des siècles, on a pourtant considéré l'eau comme un élément simple, jusqu'à ce que l'Anglais Henry Cavendish, au début des années 1780, en obtienne en faisant brûler de l'hydrogène dans l'air. L'eau couvre environ 71 % de la surface de la Terre, essentiellement sous forme d'océans salés.",
+      "anecdote": "Contrairement à la plupart des substances, l'eau est moins dense à l'état solide qu'à l'état liquide : c'est pour cela que les glaçons et les icebergs flottent.",
+      "source": "Wikipédia (fr) — « Eau »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-01-7",
+      "categorie": "sciences",
+      "niveau": 1,
+      "question": "Quel phénomène coloré apparaît dans le ciel lorsque le soleil éclaire des gouttes de pluie ?",
+      "reponse": "Arc-en-ciel",
+      "variantes": [
+        "Arcs-en-ciel"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Aurore boréale",
+          "Aurore polaire",
+          "Halo",
+          "Mirage",
+          "Éclair"
+        ]
+      },
+      "explication": "Chaque goutte d'eau agit comme un petit prisme : la lumière du Soleil y entre, se réfléchit sur sa paroi intérieure et ressort décomposée en couleurs, du rouge à l'extérieur de l'arc jusqu'au violet à l'intérieur. Pour en voir un, il faut avoir le soleil dans le dos. Au XVIIe siècle, René Descartes puis Isaac Newton ont donné les premières explications scientifiques de ce phénomène.",
+      "anecdote": "Un second arc, plus pâle et aux couleurs inversées, apparaît parfois au-dessus du premier. La bande de ciel plus sombre entre les deux s'appelle la bande d'Alexandre.",
+      "source": "Wikipédia (fr) — « Arc-en-ciel »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-01-8",
+      "categorie": "sciences",
+      "niveau": 1,
+      "question": "Quel organe, protégé par la boîte crânienne, commande l'ensemble du corps ?",
+      "reponse": "Cerveau",
+      "variantes": [
+        "Encéphale"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Cœur",
+          "Cervelet",
+          "Moelle épinière",
+          "Crâne",
+          "Système nerveux"
+        ]
+      },
+      "explication": "Le cerveau d'un adulte pèse environ 1,3 à 1,4 kilo et compte près de 86 milliards de neurones, reliés par des milliers de milliards de connexions. Il ne représente qu'environ 2 % de la masse du corps, mais consomme à lui seul près de 20 % de son énergie. L'hémisphère gauche commande surtout la moitié droite du corps, et inversement.",
+      "anecdote": "Le cerveau lui-même ne possède pas de récepteurs de la douleur : certaines opérations y sont pratiquées sur des patients éveillés, pour vérifier en direct qu'aucune zone essentielle n'est touchée.",
+      "source": "Wikipédia (fr) — « Cerveau humain »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
       "id": "sci-02-1",
       "categorie": "sciences",
       "niveau": 2,
@@ -199,6 +306,107 @@
       }
     },
     {
+      "id": "sci-02-5",
+      "categorie": "sciences",
+      "niveau": 2,
+      "question": "Depuis 2006, combien de planètes compte officiellement le Système solaire ?",
+      "reponse": "8",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 8,
+        "tolerance": 0
+      },
+      "explication": "En août 2006, l'Union astronomique internationale, réunie à Prague, a adopté une définition précise du mot « planète ». Pluton, découverte en 1930 par l'Américain Clyde Tombaugh, n'y répond pas, car elle partage son orbite avec de nombreux autres corps : elle a été reclassée « planète naine », comme Cérès et Éris. Restent Mercure, Vénus, la Terre, Mars, Jupiter, Saturne, Uranus et Neptune.",
+      "anecdote": "Une partie des cendres de Clyde Tombaugh voyage à bord de la sonde New Horizons, qui a survolé Pluton en 2015.",
+      "source": "Wikipédia (fr) — « Pluton (planète naine) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-02-6",
+      "categorie": "sciences",
+      "niveau": 2,
+      "question": "Comment appelle-t-on le processus par lequel les plantes fabriquent leur matière grâce à la lumière du Soleil ?",
+      "reponse": "Photosynthèse",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Respiration",
+          "Chlorophylle",
+          "Transpiration",
+          "Fermentation",
+          "Germination",
+          "Pollinisation"
+        ]
+      },
+      "explication": "Dans les feuilles, la chlorophylle capte l'énergie de la lumière. La plante s'en sert pour transformer le dioxyde de carbone de l'air et l'eau puisée par ses racines en sucres, qui la nourrissent et lui servent de matériaux de construction, en rejetant du dioxygène. Des bactéries photosynthétiques, les cyanobactéries, ont commencé à enrichir l'atmosphère en dioxygène il y a environ 2,4 milliards d'années.",
+      "anecdote": "En 1779, le médecin néerlandais Jan Ingenhousz a montré que les plantes ne « purifient » l'air qu'à la lumière : dans l'obscurité, elles respirent et rejettent du dioxyde de carbone.",
+      "source": "Wikipédia (fr) — « Photosynthèse »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-02-7",
+      "categorie": "sciences",
+      "niveau": 2,
+      "question": "Quel physicien est l'auteur de la célèbre formule E = mc² ?",
+      "reponse": "Albert Einstein",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Isaac Newton",
+          "Newton",
+          "Max Planck",
+          "Planck",
+          "Niels Bohr",
+          "Bohr",
+          "Robert Oppenheimer",
+          "Oppenheimer"
+        ],
+        "nomSeul": true
+      },
+      "explication": "Albert Einstein l'a publiée en 1905, alors qu'il travaillait à l'Office des brevets de Berne. Elle exprime l'équivalence entre la masse et l'énergie : comme c, la vitesse de la lumière, est élevée au carré, une infime quantité de masse correspond à une énergie colossale. Son prix Nobel de physique de 1921 ne récompensa pourtant pas la relativité, mais son explication de l'effet photoélectrique.",
+      "anecdote": "En 1952, Israël proposa à Einstein d'en devenir le président. Il déclina l'offre, s'estimant dépourvu des qualités nécessaires.",
+      "source": "Wikipédia (fr) — « Albert Einstein »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-02-8",
+      "categorie": "sciences",
+      "niveau": 2,
+      "question": "Quel théorème permet de calculer un côté d'un triangle rectangle à partir des deux autres ?",
+      "reponse": "Théorème de Pythagore",
+      "variantes": [
+        "Pythagore"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Thalès",
+          "Théorème de Thalès",
+          "Euclide",
+          "Al-Kashi",
+          "Théorème d'Al-Kashi"
+        ]
+      },
+      "explication": "Dans un triangle rectangle, le carré de l'hypoténuse, le côté opposé à l'angle droit, est égal à la somme des carrés des deux autres côtés. Le théorème porte le nom du Grec Pythagore, qui vécut au VIe siècle avant notre ère, mais des scribes babyloniens connaissaient déjà de tels triplets de nombres plus de mille ans auparavant, comme en témoigne la tablette Plimpton 322.",
+      "source": "Wikipédia (fr) — « Théorème de Pythagore »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
       "id": "sci-03-1",
       "categorie": "sciences",
       "niveau": 3,
@@ -297,6 +505,117 @@
       "verification": {
         "statut": "relue",
         "note": ""
+      }
+    },
+    {
+      "id": "sci-03-5",
+      "categorie": "sciences",
+      "niveau": 3,
+      "question": "Quel savant français a sauvé de la rage le jeune Joseph Meister en 1885 ?",
+      "reponse": "Louis Pasteur",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Edward Jenner",
+          "Jenner",
+          "Robert Koch",
+          "Koch",
+          "Émile Roux",
+          "Roux",
+          "Claude Bernard"
+        ],
+        "nomSeul": true
+      },
+      "explication": "Le 6 juillet 1885, Joseph Meister, un Alsacien de 9 ans mordu par un chien enragé, reçoit une série d'injections d'un vaccin préparé à partir de moelles épinières de lapins infectés. L'enfant survit, et le retentissement est immense : une souscription internationale permet d'inaugurer l'Institut Pasteur en 1888. Chimiste de formation et non médecin, Louis Pasteur avait aussi mis au point la pasteurisation.",
+      "anecdote": "Devenu adulte, Joseph Meister fut employé comme gardien à l'Institut Pasteur, à Paris.",
+      "source": "Wikipédia (fr) — « Louis Pasteur »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-03-6",
+      "categorie": "sciences",
+      "niveau": 3,
+      "question": "Quelle est la plus grosse planète du Système solaire ?",
+      "reponse": "Jupiter",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Saturne",
+          "Neptune",
+          "Uranus",
+          "Soleil",
+          "Terre"
+        ]
+      },
+      "explication": "Jupiter a un diamètre environ onze fois supérieur à celui de la Terre et une masse deux fois et demie plus grande que celle de toutes les autres planètes réunies. Cette géante gazeuse, composée surtout d'hydrogène et d'hélium, n'a pas de surface solide. Elle est célèbre pour sa Grande Tache rouge, une gigantesque tempête observée depuis plus de 150 ans et plus large que la Terre.",
+      "anecdote": "Jupiter est la planète qui tourne le plus vite sur elle-même : une journée n'y dure qu'environ 9 heures et 56 minutes.",
+      "source": "Wikipédia (fr) — « Jupiter (planète) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-03-7",
+      "categorie": "sciences",
+      "niveau": 3,
+      "question": "Quel gaz forme, dans la stratosphère, une couche qui nous protège des rayons ultraviolets du Soleil ?",
+      "reponse": "Ozone",
+      "variantes": [
+        "O3",
+        "O₃",
+        "Trioxygène"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Azote",
+          "Oxygène",
+          "Dioxygène",
+          "Dioxyde de carbone",
+          "Hélium",
+          "Argon",
+          "Méthane"
+        ]
+      },
+      "explication": "La molécule d'ozone est formée de trois atomes d'oxygène. En 1985, des chercheurs britanniques ont révélé un « trou » dans la couche d'ozone au-dessus de l'Antarctique, causé par les chlorofluorocarbures, ou CFC, alors utilisés dans les aérosols et les réfrigérateurs. Le protocole de Montréal, signé en 1987, a progressivement interdit ces gaz, et la couche d'ozone se reconstitue lentement.",
+      "anecdote": "Son nom vient du grec ozein, « exhaler une odeur » : l'ozone a une odeur piquante caractéristique, que l'on peut sentir près de certains appareils électriques ou après un orage.",
+      "source": "Wikipédia (fr) — « Couche d'ozone »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-03-8",
+      "categorie": "sciences",
+      "niveau": 3,
+      "question": "Quelle lettre grecque désigne le rapport entre la circonférence d'un cercle et son diamètre ?",
+      "reponse": "Pi",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "exact": true,
+        "pieges": [
+          "Phi",
+          "Psi",
+          "Rho",
+          "Sigma",
+          "Tau",
+          "Oméga"
+        ]
+      },
+      "explication": "Pi vaut environ 3,14159, mais ses décimales se poursuivent à l'infini sans jamais se répéter : le savant Jean-Henri Lambert, né à Mulhouse, a démontré dans les années 1760 qu'il s'agit d'un nombre irrationnel. L'usage de la lettre π, initiale du mot grec signifiant « périphérie », a été introduit en 1706 par le Gallois William Jones, puis popularisé par Leonhard Euler. Des ordinateurs en ont calculé des milliers de milliards de décimales.",
+      "anecdote": "Le 14 mars, noté 3/14 dans les pays anglo-saxons, est célébré comme la « journée de Pi ». C'est aussi le jour anniversaire de la naissance d'Albert Einstein.",
+      "source": "Wikipédia (fr) — « Pi »",
+      "verification": {
+        "statut": "relue",
+        "note": "Lambert : date de la démonstration rendue prudente (1761, publiée en 1768), nationalité retirée. Variante « π » retirée (vidée par la normalisation du moteur)."
       }
     },
     {
@@ -415,6 +734,122 @@
       }
     },
     {
+      "id": "sci-04-5",
+      "categorie": "sciences",
+      "niveau": 4,
+      "question": "Quelle scientifique a été la première personne à recevoir deux prix Nobel, en 1903 puis en 1911 ?",
+      "reponse": "Marie Curie",
+      "variantes": [
+        "Maria Skłodowska-Curie",
+        "Marie Skłodowska-Curie",
+        "Maria Sklodowska-Curie",
+        "Marie Sklodowska-Curie"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Pierre Curie",
+          "Irène Joliot-Curie",
+          "Irène Curie",
+          "Ève Curie",
+          "Lise Meitner"
+        ],
+        "nomSeul": false
+      },
+      "explication": "Née Maria Skłodowska à Varsovie en 1867, elle reçoit en 1903 le prix Nobel de physique avec son mari Pierre Curie et Henri Becquerel, pour leurs travaux sur la radioactivité. En 1911, elle obtient seule le prix Nobel de chimie pour la découverte du polonium et du radium. En 2024, elle reste la seule personne récompensée dans deux disciplines scientifiques différentes.",
+      "anecdote": "En 1995, elle est devenue la première femme inhumée au Panthéon pour ses propres mérites, aux côtés de Pierre Curie.",
+      "source": "Wikipédia (fr) — « Marie Curie »",
+      "verification": {
+        "statut": "relue",
+        "note": "Variante « Maria Skłodowska » seule retirée ; nomSeul passé à false (Pierre et Irène Curie)."
+      }
+    },
+    {
+      "id": "sci-04-6",
+      "categorie": "sciences",
+      "niveau": 4,
+      "question": "Comment s'appelle la galaxie qui abrite le Système solaire ?",
+      "reponse": "Voie lactée",
+      "variantes": [
+        "Milky Way"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Andromède",
+          "Galaxie d'Andromède",
+          "Nuage de Magellan",
+          "Grand Nuage de Magellan",
+          "Orion",
+          "Voie céleste"
+        ]
+      },
+      "explication": "La Voie lactée est une galaxie spirale barrée d'environ 100 000 années-lumière de diamètre, qui rassemble entre 100 et 400 milliards d'étoiles. Le Soleil se trouve à environ 26 000 années-lumière de son centre, occupé par un trou noir supermassif, Sagittarius A*. Son nom vient de la mythologie grecque, qui voyait dans cette bande blanchâtre du ciel nocturne du lait répandu par la déesse Héra.",
+      "anecdote": "La Voie lactée et la galaxie d'Andromède se rapprochent l'une de l'autre : elles pourraient entrer en collision dans quelques milliards d'années.",
+      "source": "Wikipédia (fr) — « Voie lactée »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-04-7",
+      "categorie": "sciences",
+      "niveau": 4,
+      "question": "Quels organes filtrent le sang pour produire l'urine ?",
+      "reponse": "Reins",
+      "variantes": [
+        "Rein"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Foie",
+          "Vessie",
+          "Rate",
+          "Pancréas",
+          "Uretères",
+          "Intestins"
+        ]
+      },
+      "explication": "Les deux reins, en forme de haricot, sont logés à l'arrière de l'abdomen, de part et d'autre de la colonne vertébrale. Ils filtrent environ 180 litres de plasma par jour, mais en réabsorbent presque toute l'eau : seuls 1 à 2 litres d'urine sont produits. Chacun contient environ un million de néphrons, ses unités de filtration. On peut vivre normalement avec un seul rein.",
+      "anecdote": "La première greffe de rein réussie a été réalisée en 1954 à Boston, entre deux jumeaux identiques, par l'équipe du chirurgien Joseph Murray, futur prix Nobel.",
+      "source": "Wikipédia (fr) — « Rein »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-04-8",
+      "categorie": "sciences",
+      "niveau": 4,
+      "question": "Quel savant grec se serait écrié « Eurêka ! » en sortant de son bain ?",
+      "reponse": "Archimède",
+      "variantes": [
+        "Archimedes",
+        "Archimède de Syracuse"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Pythagore",
+          "Euclide",
+          "Aristote",
+          "Thalès",
+          "Ératosthène",
+          "Démocrite"
+        ]
+      },
+      "explication": "Selon l'architecte romain Vitruve, le roi Hiéron II de Syracuse soupçonnait son orfèvre d'avoir mêlé de l'argent à l'or d'une couronne. En entrant dans son bain, Archimède aurait compris qu'il pouvait mesurer le volume de l'objet grâce à l'eau déplacée. « Eurêka » signifie « j'ai trouvé ». Le savant mourut lors de la prise de Syracuse par les Romains, en 212 avant notre ère.",
+      "anecdote": "On attribue à Archimède la formule « Donnez-moi un point d'appui, et je soulèverai le monde », à propos du principe du levier.",
+      "source": "Wikipédia (fr) — « Archimède »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
       "id": "sci-05-1",
       "categorie": "sciences",
       "niveau": 5,
@@ -514,6 +949,125 @@
       "verification": {
         "statut": "relue",
         "note": "Doute tranché : séisme de Valdivia (1960), magnitude de moment 9,5."
+      }
+    },
+    {
+      "id": "sci-05-5",
+      "categorie": "sciences",
+      "niveau": 5,
+      "question": "Quel chimiste français, guillotiné en 1794, est considéré comme le père de la chimie moderne ?",
+      "reponse": "Antoine Lavoisier",
+      "variantes": [
+        "Antoine-Laurent de Lavoisier",
+        "Antoine Laurent de Lavoisier",
+        "Antoine-Laurent Lavoisier"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Claude Louis Berthollet",
+          "Berthollet",
+          "Gay-Lussac",
+          "Joseph Priestley",
+          "Priestley",
+          "Louis Pasteur",
+          "Condorcet"
+        ]
+      },
+      "explication": "Antoine Lavoisier a établi, par des pesées rigoureuses, que la masse se conserve au cours des réactions chimiques. Il a montré le rôle de l'oxygène dans la combustion et la respiration, ruinant la vieille théorie du phlogistique, et proposé une nomenclature chimique encore utilisée. Fermier général, chargé de collecter des impôts pour le roi, il fut guillotiné sous la Terreur, le 8 mai 1794.",
+      "anecdote": "Le mathématicien Lagrange aurait déclaré : « Il ne leur a fallu qu'un moment pour faire tomber cette tête, et cent années peut-être ne suffiront pas pour en reproduire une semblable. »",
+      "source": "Wikipédia (fr) — « Antoine Lavoisier »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-05-6",
+      "categorie": "sciences",
+      "niveau": 5,
+      "question": "Quel moine a découvert les lois de l'hérédité en croisant des variétés de petits pois ?",
+      "reponse": "Gregor Mendel",
+      "variantes": [
+        "Johann Gregor Mendel"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Mendeleïev",
+          "Dmitri Mendeleïev",
+          "Charles Darwin",
+          "Darwin",
+          "Lamarck",
+          "Thomas Morgan",
+          "Morgan"
+        ]
+      },
+      "explication": "Au monastère augustinien de Brno, en Moravie, Gregor Mendel a cultivé et croisé des milliers de plants de pois entre 1856 et 1863. En comptant les descendants, il a constaté que des caractères comme la couleur ou la forme des graines se transmettaient selon des proportions régulières. Publiés en 1866, ses travaux sont passés presque inaperçus jusqu'à leur redécouverte par trois botanistes en 1900.",
+      "anecdote": "Élu abbé de son monastère en 1868, Mendel dut délaisser ses recherches, accaparé par l'administration et par un long conflit fiscal avec l'État.",
+      "source": "Wikipédia (fr) — « Gregor Mendel »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-05-7",
+      "categorie": "sciences",
+      "niveau": 5,
+      "question": "Quel groupe d'experts, créé en 1988 sous l'égide de l'ONU, évalue l'état des connaissances sur le changement climatique ?",
+      "reponse": "GIEC",
+      "variantes": [
+        "IPCC",
+        "Groupe d'experts intergouvernemental sur l'évolution du climat"
+      ],
+      "validation": {
+        "type": "texte",
+        "exact": true,
+        "pieges": [
+          "OMM",
+          "PNUE",
+          "COP",
+          "UICN",
+          "OMS"
+        ]
+      },
+      "explication": "Le Groupe d'experts intergouvernemental sur l'évolution du climat a été fondé par l'Organisation météorologique mondiale et le Programme des Nations unies pour l'environnement. Il ne mène pas lui-même de recherches : des centaines de scientifiques y synthétisent des milliers d'études publiées. Son sixième rapport d'évaluation, achevé en 2023, juge « sans équivoque » le réchauffement causé par les activités humaines.",
+      "anecdote": "En 2007, le GIEC a reçu le prix Nobel de la paix, partagé avec l'ancien vice-président américain Al Gore.",
+      "source": "Wikipédia (fr) — « Groupe d'experts intergouvernemental sur l'évolution du climat »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-05-8",
+      "categorie": "sciences",
+      "niveau": 5,
+      "question": "Comment appelle-t-on l'organe femelle de la fleur, formé de l'ovaire, du style et du stigmate ?",
+      "reponse": "Pistil",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Étamine",
+          "Étamines",
+          "Ovaire",
+          "Stigmate",
+          "Style",
+          "Pétale",
+          "Sépale",
+          "Pollen",
+          "Anthère",
+          "Corolle"
+        ]
+      },
+      "explication": "Au cœur de la fleur, le pistil reçoit le pollen produit par les étamines, les organes mâles. Le stigmate, souvent collant, retient les grains, puis un tube pollinique traverse le style pour atteindre les ovules logés dans l'ovaire. Après la fécondation, l'ovaire se transforme en fruit et les ovules deviennent des graines : la chair d'une cerise ou d'une tomate provient ainsi d'un ovaire.",
+      "anecdote": "Chaque fil de la « barbe » qui dépasse d'un épi de maïs est un style très allongé : il conduit le pollen jusqu'à un seul ovule, futur grain.",
+      "source": "Wikipédia (fr) — « Pistil »",
+      "verification": {
+        "statut": "relue",
+        "note": "Énoncé précisé (« ovaire » était une réponse défendable) ; variantes Gynécée/Carpelle retirées (pas synonymes) ; anecdote du safran remplacée (doublon de gas-03-1)."
       }
     },
     {
@@ -623,6 +1177,114 @@
       }
     },
     {
+      "id": "sci-06-5",
+      "categorie": "sciences",
+      "niveau": 6,
+      "question": "Quel médecin allemand a identifié en 1882 la bactérie responsable de la tuberculose ?",
+      "reponse": "Robert Koch",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Louis Pasteur",
+          "Pasteur",
+          "Rudolf Virchow",
+          "Virchow",
+          "Paul Ehrlich",
+          "Ehrlich",
+          "Albert Calmette",
+          "Calmette"
+        ],
+        "nomSeul": true
+      },
+      "explication": "Robert Koch a présenté sa découverte à Berlin le 24 mars 1882 : cette date est devenue la Journée mondiale de la tuberculose. La bactérie, Mycobacterium tuberculosis, est souvent appelée « bacille de Koch ». Le médecin a ensuite isolé celle du choléra, lors de missions en Égypte et en Inde en 1883 et 1884. Il a reçu le prix Nobel de médecine en 1905.",
+      "anecdote": "Le vaccin BCG, ou bacille de Calmette et Guérin, mis au point à l'Institut Pasteur de Lille, a été administré pour la première fois à un nourrisson en 1921.",
+      "source": "Wikipédia (fr) — « Robert Koch »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-06-6",
+      "categorie": "sciences",
+      "niveau": 6,
+      "question": "Quelle planète met plus de temps à tourner sur elle-même qu'à faire le tour du Soleil ?",
+      "reponse": "Vénus",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Mercure",
+          "Mars",
+          "Uranus",
+          "Neptune",
+          "Jupiter"
+        ]
+      },
+      "explication": "Vénus accomplit une rotation sur elle-même en 243 jours terrestres, alors que son année ne dure qu'environ 225 jours. Elle tourne en outre dans le sens inverse de la plupart des planètes : vu depuis sa surface, le Soleil se lèverait à l'ouest. Son atmosphère épaisse, faite surtout de dioxyde de carbone, exerce au sol une pression environ 90 fois supérieure à celle de la Terre.",
+      "anecdote": "Après la Lune, Vénus est l'astre le plus brillant du ciel nocturne. Visible le soir ou à l'aube, elle est surnommée « l'étoile du Berger ».",
+      "source": "Wikipédia (fr) — « Vénus (planète) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-06-7",
+      "categorie": "sciences",
+      "niveau": 6,
+      "question": "Quelle roche volcanique sombre forme les colonnes de la Chaussée des Géants, en Irlande du Nord ?",
+      "reponse": "Basalte",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Granite",
+          "Obsidienne",
+          "Andésite",
+          "Pierre ponce",
+          "Ponce",
+          "Gabbro",
+          "Phonolite"
+        ]
+      },
+      "explication": "La Chaussée des Géants compte environ 40 000 colonnes, pour la plupart hexagonales. Elles se sont formées il y a 50 à 60 millions d'années, lorsqu'une épaisse coulée de lave s'est refroidie lentement : en se contractant, la roche s'est fracturée en prismes réguliers. Le basalte est la roche volcanique la plus répandue sur Terre ; il forme notamment le plancher des océans et les « mers » sombres de la Lune.",
+      "anecdote": "Selon la légende irlandaise, le géant Finn McCool aurait bâti cette chaussée pour traverser la mer jusqu'en Écosse et y affronter un rival.",
+      "source": "Wikipédia (fr) — « Chaussée des Géants »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-06-8",
+      "categorie": "sciences",
+      "niveau": 6,
+      "question": "Quel phénomène climatique réchauffe, tous les deux à sept ans environ, les eaux de surface du Pacifique équatorial ?",
+      "reponse": "El Niño",
+      "variantes": [
+        "Niño"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "La Niña",
+          "Niña",
+          "Mousson",
+          "Gulf Stream",
+          "Courant de Humboldt"
+        ]
+      },
+      "explication": "Les pêcheurs péruviens appelaient ainsi un courant chaud qui apparaissait vers Noël, en référence à l'Enfant Jésus. Lors d'un épisode, les alizés faiblissent et les eaux chaudes s'étendent vers l'est du Pacifique, ce qui perturbe la météo de nombreuses régions : sécheresses en Indonésie et en Australie, pluies diluviennes au Pérou. Sa phase opposée, plus froide, porte le nom de La Niña.",
+      "anecdote": "Les épisodes de 1997-1998 et de 2015-2016 comptent parmi les plus intenses jamais mesurés.",
+      "source": "Wikipédia (fr) — « El Niño »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
       "id": "sci-07-1",
       "categorie": "sciences",
       "niveau": 7,
@@ -725,6 +1387,127 @@
       "explication": "Une mole contient exactement 6,022 140 76 × 10²³ entités, atomes ou molécules : c'est le nombre d'Avogadro, fixé par définition lors de la refonte du Système international en 2019. Cette unité fait le lien entre l'échelle des atomes et celle du laboratoire : une mole d'eau, soit environ 18 grammes, contient ce nombre gigantesque de molécules.",
       "anecdote": "Chaque 23 octobre, de 6 h 02 à 18 h 02, des chimistes américains célèbrent le « Mole Day », clin d'œil au nombre 6,02 × 10²³.",
       "source": "Wikipédia (fr) — « Mole (unité) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-07-5",
+      "categorie": "sciences",
+      "niveau": 7,
+      "question": "Quel naturaliste suédois a imposé au XVIIIe siècle les noms scientifiques en deux mots latins, comme Homo sapiens ?",
+      "reponse": "Carl von Linné",
+      "variantes": [
+        "Linné",
+        "Carl Linnaeus",
+        "Linnaeus",
+        "Carolus Linnaeus",
+        "Carl Linné",
+        "Charles Linné"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Buffon",
+          "Lamarck",
+          "Cuvier",
+          "Darwin",
+          "Anders Celsius",
+          "Celsius"
+        ]
+      },
+      "explication": "Carl von Linné, professeur à l'université d'Uppsala, a généralisé cette nomenclature binominale, qui associe un nom de genre et un nom d'espèce. Son « Species Plantarum », publié en 1753 pour les plantes, et la dixième édition de son « Systema Naturae », en 1758 pour les animaux, servent de point de départ officiel aux noms scientifiques. Il classait les plantes d'après leurs étamines et leurs pistils.",
+      "anecdote": "Linné a imaginé une « horloge florale » : un parterre de fleurs choisies pour s'ouvrir chacune à une heure différente de la journée.",
+      "source": "Wikipédia (fr) — « Carl von Linné »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-07-6",
+      "categorie": "sciences",
+      "niveau": 7,
+      "question": "Quel outil d'édition du génome a valu le prix Nobel de chimie 2020 à Emmanuelle Charpentier et Jennifer Doudna ?",
+      "reponse": "CRISPR-Cas9",
+      "variantes": [
+        "CRISPR",
+        "CRISPR/Cas9",
+        "Crispr Cas9"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "PCR",
+          "TALEN",
+          "ARN messager",
+          "ARNm",
+          "Séquençage",
+          "OGM"
+        ]
+      },
+      "explication": "Décrit en 2012 par la Française et l'Américaine, cet outil est dérivé d'un système de défense des bactéries contre les virus. Une enzyme, Cas9, guidée par un brin d'ARN, coupe l'ADN à un endroit précis, ce qui permet de supprimer ou de corriger un gène. Fin 2023, un premier traitement fondé sur cette technique a été autorisé contre la drépanocytose.",
+      "anecdote": "Ce prix était le premier Nobel scientifique attribué uniquement à des femmes.",
+      "source": "Wikipédia (fr) — « CRISPR »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-07-7",
+      "categorie": "sciences",
+      "niveau": 7,
+      "question": "Quel mathématicien français a laissé un « dernier théorème », démontré seulement en 1994 par Andrew Wiles ?",
+      "reponse": "Pierre de Fermat",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Blaise Pascal",
+          "Pascal",
+          "René Descartes",
+          "Descartes",
+          "Évariste Galois",
+          "Galois",
+          "Joseph Fourier"
+        ]
+      },
+      "explication": "Vers 1637, en marge de son exemplaire de l'« Arithmétique » de Diophante, Pierre de Fermat note que l'équation xⁿ + yⁿ = zⁿ n'a aucune solution en nombres entiers positifs dès que n dépasse 2. Il affirme en avoir une démonstration merveilleuse, que la marge est trop étroite pour contenir. Le Britannique Andrew Wiles y a consacré sept ans de travail, avant de combler une dernière lacune avec Richard Taylor.",
+      "anecdote": "Fermat n'était pas mathématicien de métier : il était magistrat, conseiller au parlement de Toulouse, et pratiquait les mathématiques en amateur.",
+      "source": "Wikipédia (fr) — « Dernier théorème de Fermat »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-07-8",
+      "categorie": "sciences",
+      "niveau": 7,
+      "question": "Quelle particule élémentaire, prédite en 1964, a été découverte au CERN en 2012 ?",
+      "reponse": "Boson de Higgs",
+      "variantes": [
+        "Higgs",
+        "Boson BEH",
+        "Boson de Brout-Englert-Higgs"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Neutrino",
+          "Quark",
+          "Gluon",
+          "Photon",
+          "Graviton",
+          "Boson W",
+          "Boson Z"
+        ]
+      },
+      "explication": "Sa découverte a été annoncée le 4 juillet 2012 par les équipes des expériences ATLAS et CMS du grand collisionneur de hadrons, le LHC, un anneau de 27 kilomètres enfoui près de Genève. Cette particule confirme le mécanisme qui explique comment les particules élémentaires acquièrent leur masse. François Englert et Peter Higgs ont reçu le prix Nobel de physique en 2013 ; Robert Brout était mort en 2011.",
+      "anecdote": "Son surnom de « particule de Dieu » vient d'un livre du physicien Leon Lederman, paru en 1993. Peter Higgs n'appréciait guère cette expression.",
+      "source": "Wikipédia (fr) — « Boson de Higgs »",
       "verification": {
         "statut": "relue",
         "note": ""
@@ -843,6 +1626,119 @@
       }
     },
     {
+      "id": "sci-08-5",
+      "categorie": "sciences",
+      "niveau": 8,
+      "question": "Quelle chimiste britannique a dirigé les travaux ayant produit en 1952 le « cliché 51 » de l'ADN ?",
+      "reponse": "Rosalind Franklin",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Benjamin Franklin",
+          "Marie Curie",
+          "Dorothy Hodgkin",
+          "Hodgkin",
+          "Maurice Wilkins",
+          "Wilkins",
+          "Barbara McClintock"
+        ],
+        "nomSeul": false
+      },
+      "explication": "Au King's College de Londres, Rosalind Franklin étudiait l'ADN par diffraction des rayons X. Le cliché 51, pris en mai 1952 par son doctorant Raymond Gosling, révélait une structure en hélice. Montré à James Watson à son insu, il a aidé Watson et Francis Crick à publier leur modèle en double hélice en 1953. Morte en 1958, elle n'a pas partagé leur prix Nobel de 1962.",
+      "anecdote": "Franklin a aussi mené d'importants travaux sur la structure des virus, notamment celui de la mosaïque du tabac.",
+      "source": "Wikipédia (fr) — « Rosalind Franklin »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul passé à false (Benjamin Franklin, scientifique)."
+      }
+    },
+    {
+      "id": "sci-08-6",
+      "categorie": "sciences",
+      "niveau": 8,
+      "question": "Quel métal se cache derrière le symbole chimique W ?",
+      "reponse": "Tungstène",
+      "variantes": [
+        "Wolfram",
+        "Tungsten"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Tantale",
+          "Vanadium",
+          "Molybdène",
+          "Titane",
+          "Tellure",
+          "Wolframite"
+        ]
+      },
+      "explication": "Le symbole W vient de wolfram, son nom allemand, tiré de la wolframite, l'un de ses minerais. « Tungstène » signifie, lui, « pierre lourde » en suédois. Ce métal détient le point de fusion le plus élevé de tous les métaux, environ 3 422 °C, ce qui en a fait le matériau des filaments des ampoules à incandescence. Il a été isolé en 1783 par les frères espagnols Elhuyar.",
+      "anecdote": "Sa densité, très proche de celle de l'or, en fait un métal prisé des faussaires, qui en glissent parfois à l'intérieur de lingots d'or.",
+      "source": "Wikipédia (fr) — « Tungstène »",
+      "verification": {
+        "statut": "relue",
+        "note": "Énoncé reformulé pour ne pas calquer sci-08-1 (Sn)."
+      }
+    },
+    {
+      "id": "sci-08-7",
+      "categorie": "sciences",
+      "niveau": 8,
+      "question": "Quelle étoile supergéante rouge marque l'une des épaules de la constellation d'Orion ?",
+      "reponse": "Bételgeuse",
+      "variantes": [
+        "Alpha Orionis",
+        "Bételgeuze"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Rigel",
+          "Bellatrix",
+          "Aldébaran",
+          "Antarès",
+          "Sirius",
+          "Saïph"
+        ]
+      },
+      "explication": "Bételgeuse se trouve à quelques centaines d'années-lumière de nous. Si elle prenait la place du Soleil, sa surface dépasserait l'orbite de Mars. Entre la fin de 2019 et le début de 2020, elle a perdu une grande partie de son éclat : ce « grand obscurcissement » s'expliquerait par un nuage de poussière qu'elle a éjecté. Arrivée en fin de vie, elle finira par exploser en supernova.",
+      "anecdote": "Son nom vient d'une expression arabe désignant « la main » d'un personnage céleste, déformée par une erreur de transcription au Moyen Âge.",
+      "source": "Wikipédia (fr) — « Bételgeuse »",
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote étymologique simplifiée (l'« aisselle » est une interprétation erronée tardive)."
+      }
+    },
+    {
+      "id": "sci-08-8",
+      "categorie": "sciences",
+      "niveau": 8,
+      "question": "Quel biologiste allemand a créé le mot « écologie » en 1866 ?",
+      "reponse": "Ernst Haeckel",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Alexander von Humboldt",
+          "Humboldt",
+          "Charles Darwin",
+          "Darwin",
+          "Arthur Tansley",
+          "Tansley",
+          "Gregor Mendel"
+        ]
+      },
+      "explication": "Ernst Haeckel a forgé le terme à partir du grec oikos, « la maison », et logos, « le discours », pour désigner la science des relations des êtres vivants avec leur milieu. Fervent défenseur des idées de Darwin en Allemagne, il a aussi popularisé les arbres généalogiques du vivant. Ses planches illustrées, réunies dans « Formes artistiques de la nature », ont inspiré l'Art nouveau.",
+      "anecdote": "Le mot « écosystème » est plus tardif : il a été proposé en 1935 par le botaniste britannique Arthur Tansley.",
+      "source": "Wikipédia (fr) — « Ernst Haeckel »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
       "id": "sci-09-1",
       "categorie": "sciences",
       "niveau": 9,
@@ -944,6 +1840,131 @@
       "explication": "Le parsec, contraction de « parallaxe-seconde », est la distance à laquelle une étoile présenterait une parallaxe d'une seconde d'arc, c'est-à-dire un minuscule décalage apparent dû au déplacement de la Terre sur son orbite. Il vaut environ 30 900 milliards de kilomètres. L'étoile la plus proche du Soleil, Proxima du Centaure, se trouve à environ 1,3 parsec.",
       "anecdote": "Dans « La Guerre des étoiles » (1977), Han Solo se vante d'avoir couru le raid de Kessel en moins de douze parsecs, comme s'il s'agissait d'une durée.",
       "source": "Wikipédia (fr) — « Parsec »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-09-5",
+      "categorie": "sciences",
+      "niveau": 9,
+      "question": "Quel médecin hongrois a imposé en 1847 à Vienne le lavage des mains pour lutter contre la fièvre puerpérale ?",
+      "reponse": "Ignace Semmelweis",
+      "variantes": [
+        "Ignaz Semmelweis",
+        "Ignác Semmelweis",
+        "Semmelweis Ignác",
+        "Ignaz Philipp Semmelweis",
+        "Ignace Philippe Semmelweis",
+        "Philippe Ignace Semmelweis"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Joseph Lister",
+          "Lister",
+          "Louis Pasteur",
+          "Pasteur",
+          "Robert Koch",
+          "Koch"
+        ]
+      },
+      "explication": "À la maternité de l'hôpital général de Vienne, Ignace Semmelweis constate que les femmes meurent bien plus souvent de fièvre puerpérale dans le service tenu par les médecins et les étudiants, qui pratiquent aussi des autopsies, que dans celui des sages-femmes. Il impose le lavage des mains avec une solution chlorée, et la mortalité s'effondre. Faute d'explication avant la théorie microbienne, ses collègues rejettent pourtant ses idées.",
+      "anecdote": "En 1924, Louis-Ferdinand Destouches, le futur Céline, a consacré sa thèse de médecine à la vie et à l'œuvre de Semmelweis.",
+      "source": "Encyclopædia Britannica — « Ignaz Semmelweis »",
+      "verification": {
+        "statut": "relue",
+        "note": "Variante « Philippe Ignace » ajoutée (titre de la thèse de Céline) ; dernière phrase clarifiée."
+      }
+    },
+    {
+      "id": "sci-09-6",
+      "categorie": "sciences",
+      "niveau": 9,
+      "question": "Quelle hormone végétale gazeuse déclenche le mûrissement de nombreux fruits ?",
+      "reponse": "Éthylène",
+      "variantes": [
+        "Éthène",
+        "C2H4"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Auxine",
+          "Gibbérelline",
+          "Cytokinine",
+          "Acide abscissique",
+          "Méthane",
+          "Acétylène",
+          "Éthanol"
+        ]
+      },
+      "explication": "Certains fruits, dits climactériques, comme la banane, la pomme, la tomate ou l'avocat, produisent de l'éthylène en mûrissant, ce qui accélère leur propre maturation et celle de leurs voisins. D'où le conseil de placer un avocat trop dur près d'une banane. Les bananes, cueillies vertes, sont mûries à leur arrivée dans des chambres où l'on diffuse ce gaz. L'éthylène intervient aussi dans la chute des feuilles.",
+      "anecdote": "Au XIXe siècle, on remarqua que des arbres bordant des conduites de gaz d'éclairage qui fuyaient perdaient leurs feuilles : en cause, l'éthylène contenu dans ce gaz.",
+      "source": "Wikipédia (fr) — « Éthylène »",
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote précisée (fuites des conduites, pas les becs de gaz)."
+      }
+    },
+    {
+      "id": "sci-09-7",
+      "categorie": "sciences",
+      "niveau": 9,
+      "question": "Quel mathématicien russe a démontré la conjecture de Poincaré, puis refusé la médaille Fields en 2006 ?",
+      "reponse": "Grigori Perelman",
+      "variantes": [
+        "Grigory Perelman",
+        "Grisha Perelman",
+        "Gregori Perelman"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Henri Poincaré",
+          "Poincaré",
+          "Andrew Wiles",
+          "Wiles",
+          "Andreï Kolmogorov",
+          "Kolmogorov",
+          "Terence Tao"
+        ]
+      },
+      "explication": "Formulée en 1904 par Henri Poincaré, la conjecture caractérise la sphère en dimension trois. Grigori Perelman en a publié la démonstration en 2002 et 2003, non dans une revue, mais en ligne, sur le site arXiv. Après des années de vérification, il a refusé la médaille Fields en 2006, puis, en 2010, le prix d'un million de dollars de l'institut Clay, qui en avait fait l'un des sept « problèmes du millénaire ».",
+      "anecdote": "En 2024, la conjecture de Poincaré reste le seul des sept problèmes du millénaire à avoir été résolu.",
+      "source": "Wikipédia (fr) — « Grigori Perelman »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-09-8",
+      "categorie": "sciences",
+      "niveau": 9,
+      "question": "Comment appelle-t-on la propriété d'une molécule qui n'est pas superposable à son image dans un miroir ?",
+      "reponse": "Chiralité",
+      "variantes": [
+        "Chiral",
+        "Chirale",
+        "Chiralité moléculaire"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Isomérie",
+          "Symétrie",
+          "Polarité",
+          "Énantiomère",
+          "Énantiomérie",
+          "Isomère",
+          "Mésomérie"
+        ]
+      },
+      "explication": "Le mot vient du grec kheir, « la main » : comme nos mains gauche et droite, deux molécules chirales sont l'image l'une de l'autre dans un miroir sans pouvoir se superposer. Ces deux formes, appelées énantiomères, peuvent avoir des effets très différents : l'une des formes de la carvone sent la menthe verte, l'autre le carvi. Louis Pasteur a mis le phénomène en évidence en 1848, en triant à la main des cristaux de tartrate.",
+      "anecdote": "Le vivant a fait un choix : les protéines terrestres sont presque exclusivement construites à partir d'acides aminés de forme « gauche », dite L.",
+      "source": "Wikipédia (fr) — « Chiralité (chimie) »",
       "verification": {
         "statut": "relue",
         "note": ""
@@ -1064,6 +2085,136 @@
       "verification": {
         "statut": "relue",
         "note": "Variantes « Chandra » (surnom) et « Limite de Chandrasekhar » (nom de la limite, pas de la personne) retirées."
+      }
+    },
+    {
+      "id": "sci-10-5",
+      "categorie": "sciences",
+      "niveau": 10,
+      "question": "Quel scientifique serbe a relié les grandes glaciations aux variations cycliques de l'orbite et de l'axe de la Terre ?",
+      "reponse": "Milutin Milanković",
+      "variantes": [
+        "Milankovitch",
+        "Milankovic",
+        "Milutin Milankovitch",
+        "Milutin Milankovic",
+        "Milanković"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Alfred Wegener",
+          "Wegener",
+          "Louis Agassiz",
+          "Agassiz",
+          "Svante Arrhenius",
+          "Arrhenius",
+          "James Croll",
+          "Croll",
+          "Nikola Tesla",
+          "Tesla"
+        ]
+      },
+      "explication": "Dans l'entre-deux-guerres, Milutin Milanković a calculé à la main, pendant des années, l'ensoleillement reçu par la Terre sur plusieurs centaines de milliers d'années. Il combine trois cycles : l'excentricité de l'orbite, d'environ 100 000 ans, l'inclinaison de l'axe, d'environ 41 000 ans, et la précession, d'environ 20 000 ans. Sa théorie a été confirmée en 1976 par l'étude de sédiments marins.",
+      "anecdote": "Un cratère de la Lune et un cratère de Mars portent son nom.",
+      "source": "Wikipédia (fr) — « Milutin Milanković »",
+      "verification": {
+        "statut": "relue",
+        "note": "Durées rendues prudentes (période calculée, précession)."
+      }
+    },
+    {
+      "id": "sci-10-6",
+      "categorie": "sciences",
+      "niveau": 10,
+      "question": "Quel médecin militaire français a découvert en 1880, en Algérie, le parasite responsable du paludisme ?",
+      "reponse": "Alphonse Laveran",
+      "variantes": [
+        "Charles Louis Alphonse Laveran",
+        "Charles Laveran"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Ronald Ross",
+          "Ross",
+          "Louis Pasteur",
+          "Pasteur",
+          "Albert Calmette",
+          "Calmette",
+          "Alexandre Yersin",
+          "Yersin",
+          "Robert Koch"
+        ]
+      },
+      "explication": "À l'hôpital militaire de Constantine, Alphonse Laveran observe en novembre 1880, dans le sang de malades, des organismes mobiles : le paludisme n'est donc pas dû à un « mauvais air », comme le suggère son nom italien de malaria, mais à un parasite, plus tard nommé Plasmodium. Le Britannique Ronald Ross montrera en 1897 son lien avec les moustiques. Laveran a reçu le prix Nobel de médecine en 1907.",
+      "anecdote": "Laveran consacra une partie de la somme de son prix Nobel à la création d'un laboratoire de maladies tropicales à l'Institut Pasteur.",
+      "source": "Wikipédia (fr) — « Alphonse Laveran »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-10-7",
+      "categorie": "sciences",
+      "niveau": 10,
+      "question": "Quel chimiste allemand a proposé en 1865 la structure en anneau de la molécule de benzène ?",
+      "reponse": "August Kekulé",
+      "variantes": [
+        "Kekule",
+        "Friedrich August Kekulé",
+        "August Kekule",
+        "Kekulé von Stradonitz",
+        "August Kekulé von Stradonitz"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Justus von Liebig",
+          "Liebig",
+          "Michael Faraday",
+          "Faraday",
+          "Robert Bunsen",
+          "Bunsen",
+          "Friedrich Wöhler",
+          "Wöhler",
+          "Archibald Couper"
+        ]
+      },
+      "explication": "Isolé en 1825 par Michael Faraday, le benzène, de formule C6H6, intriguait les chimistes. August Kekulé, qui avait déjà établi que le carbone forme quatre liaisons, propose que ses six atomes de carbone forment un hexagone, avec une alternance de liaisons simples et doubles. Cette idée a ouvert la voie à la chimie des composés dits aromatiques, dont font partie de nombreux colorants et médicaments.",
+      "anecdote": "En 1890, Kekulé raconta que l'idée lui était venue en somnolant devant le feu : il aurait vu en rêve un serpent se mordre la queue.",
+      "source": "Wikipédia (fr) — « August Kekulé »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "sci-10-8",
+      "categorie": "sciences",
+      "niveau": 10,
+      "question": "Quel éon, le plus ancien de l'histoire de la Terre, doit son nom au dieu grec des Enfers ?",
+      "reponse": "Hadéen",
+      "variantes": [
+        "Hadean"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Archéen",
+          "Protérozoïque",
+          "Phanérozoïque",
+          "Précambrien",
+          "Cambrien",
+          "Paléozoïque"
+        ]
+      },
+      "explication": "L'Hadéen s'étend de la formation de la Terre, il y a environ 4,6 milliards d'années, jusqu'à environ 4 milliards d'années. Son nom, tiré d'Hadès, évoque les conditions infernales qu'on imaginait à cette époque : océans de magma, volcanisme intense, pluie de météorites. Pourtant, des zircons de Jack Hills, en Australie, vieux d'environ 4,4 milliards d'années, suggèrent que de l'eau liquide existait déjà.",
+      "source": "Wikipédia (fr) — « Hadéen »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
       }
     }
   ]

@@ -10,6 +10,8 @@ import { damerau, tolerance } from '../js/engine/distance.js';
 const PREFIXES = {
   sport: 'spo', histoire: 'his', geographie: 'geo', sciences: 'sci', litterature: 'lit',
   cinema: 'cin', musique: 'mus', internet: 'web', religions: 'rel', art: 'art',
+  gastronomie: 'gas', langue: 'lan', animaux: 'ani', bd: 'bdm', jeux: 'jeu',
+  inventions: 'inv', television: 'tel', marques: 'mar',
 };
 const MIN_PAR_NIVEAU = 4;
 const TEMPS = /\b(actuellement|aujourd'hui|aujourd’hui|en ce moment|récemment|recemment|le plus récent|la plus récente|de nos jours|à ce jour)\b/i;
@@ -127,8 +129,25 @@ export function verifyBank(files) {
 
       // --- Doublons de réponse dans un même thème.
       const ent = ctx.entity(repKey);
+      // (Deux nombres identiques désignent normalement deux faits différents : « 3 » touches, « 3 » points.)
+      if (v.type === 'nombre' || /^\d+$/.test(repKey)) continue;
       if (answersInCat.has(ent)) W(`Même réponse que ${answersInCat.get(ent)} : vérifier qu'il ne s'agit pas du même fait`);
       else answersInCat.set(ent, id);
+    }
+  }
+
+  // --- Énoncés en double ou quasi identiques dans toute la banque (mots communs ≥ 85 %).
+  const all = bank.questions.map((q) => ({ q, toks: new Set(normalize(q.question || '').split(' ').filter((t) => t.length > 2)) }));
+  for (let i = 0; i < all.length; i++) {
+    for (let j = i + 1; j < all.length; j++) {
+      const a = all[i].toks;
+      const b = all[j].toks;
+      if (!a.size || !b.size) continue;
+      let common = 0;
+      for (const t of a) if (b.has(t)) common++;
+      const sim = common / Math.max(a.size, b.size);
+      if (sim === 1 && a.size === b.size) add('erreur', all[j].q.id, all[j].q.categorie, `Énoncé identique à ${all[i].q.id}`);
+      else if (sim >= 0.85) add('attention', all[j].q.id, all[j].q.categorie, `Énoncé très proche de ${all[i].q.id}`);
     }
   }
 

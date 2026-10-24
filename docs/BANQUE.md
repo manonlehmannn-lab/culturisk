@@ -4,7 +4,8 @@ La banque est entièrement générée et contrôlée **avant** l'installation. A
 ni aucun appel réseau n'a lieu pendant une partie.
 
 - Un fichier par thème : `data/questions/<categorie>.json`.
-- 10 niveaux de difficulté par thème, **au moins 4 questions par niveau** (tirage aléatoire à chaque partie).
+- 18 thèmes, 10 niveaux de difficulté par thème, **8 questions par niveau** (au moins 4), tirées au hasard à chaque partie.
+- Les joueurs choisissent les thèmes de leur partie (les 10 thèmes « classiques » par défaut).
 - Contrôle : `node tools/verifier.mjs` (ou `tools/verifier.html` dans un navigateur).
 
 ## Structure d'un fichier
@@ -62,6 +63,21 @@ ni aucun appel réseau n'a lieu pendant une partie.
 | `internet` | Internet et culture web | `web` |
 | `religions` | Religions et mythologies | `rel` |
 | `art` | Art et culture générale | `art` |
+| `gastronomie` | Gastronomie | `gas` |
+| `langue` | Langue française | `lan` |
+| `animaux` | Animaux | `ani` |
+| `bd` | BD et mangas | `bdm` |
+| `jeux` | Jeux vidéo et de société | `jeu` |
+| `inventions` | Inventions et techniques | `inv` |
+| `television` | Télévision et médias | `tel` |
+| `marques` | Marques et économie | `mar` |
+
+Les 10 premiers thèmes sont les thèmes « classiques ». Pour éviter les doublons entre thèmes voisins :
+la gastronomie, la langue française et la bande dessinée relèvent désormais de leurs propres thèmes
+(et plus de « Art et culture générale ») ; les jeux vidéo relèvent de « Jeux vidéo et de société »
+(et plus de « Internet et culture web ») ; les animaux de « Animaux » (« Sciences et nature » garde
+la biologie générale, les plantes, l'écologie) ; la télévision de « Télévision et médias »
+(« Cinéma et séries » garde le cinéma et les séries).
 
 ## Règles de validation (`validation`)
 

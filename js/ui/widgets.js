@@ -1,6 +1,6 @@
 // Petits composants HTML partagés : échappement, pictogrammes, compteurs, tableau des thèmes.
 
-import { CATEGORIES, LEVELS, categoryById, pointsFor } from '../engine/categories.js';
+import { LEVELS, categoryById, pointsFor } from '../engine/categories.js';
 import { nextLevel, exhausted } from '../engine/game.js';
 
 export function esc(s) {
@@ -32,6 +32,14 @@ const PATHS = {
   internet: '<path d="M5 3.5 19 10l-6.2 1.8L10.5 18z"/><path d="m12.8 11.8 5 5"/>',
   religions: '<circle cx="12" cy="12" r="3.6"/><path d="M12 2.5v3M12 18.5v3M2.5 12h3M18.5 12h3M5.3 5.3l2.1 2.1M16.6 16.6l2.1 2.1M5.3 18.7l2.1-2.1M16.6 7.4l2.1-2.1"/>',
   art: '<path d="M12 3.5a8.5 8.5 0 1 0 0 17c1.4 0 2-.9 2-1.8 0-1.2-1-1.5-1-2.5 0-.9.8-1.5 1.8-1.5h2.2a3.5 3.5 0 0 0 3.5-3.5c0-4.3-3.9-7.7-8.5-7.7z"/><circle cx="7.8" cy="11" r="1.2" fill="currentColor"/><circle cx="10.5" cy="7.3" r="1.2" fill="currentColor"/><circle cx="15" cy="7.5" r="1.2" fill="currentColor"/>',
+  gastronomie: '<path d="M7 3v7.5a2 2 0 0 0 2 2V21M5 3v5a2 2 0 0 0 2 2M9 3v5a2 2 0 0 1-2 2"/><path d="M17.5 21V3c-2.2 1.6-3.3 4.4-3.3 8.2 0 1.3.9 2.3 2.2 2.3h1.1"/>',
+  langue: '<path d="M20 3.5c-7.5.5-12.5 5.5-13.5 13l-2 4"/><path d="M20 3.5c.3 6.5-4.4 11.6-11.6 12.6"/><path d="M8.5 11.5h5M11 8h5.5"/>',
+  animaux: '<circle cx="6.5" cy="10" r="1.9"/><circle cx="10" cy="5.8" r="1.9"/><circle cx="14.5" cy="5.8" r="1.9"/><circle cx="18" cy="10" r="1.9"/><path d="M12.2 11.5c-3 0-5.7 3.5-5.7 6 0 1.6 1.2 2.5 2.7 2.5 1.2 0 2-.6 3-.6s1.8.6 3 .6c1.5 0 2.7-.9 2.7-2.5 0-2.5-2.7-6-5.7-6z"/>',
+  bd: '<path d="M4 4.5h16a1 1 0 0 1 1 1v9a1 1 0 0 1-1 1h-9.5L6 20v-4.5H4a1 1 0 0 1-1-1v-9a1 1 0 0 1 1-1z"/><circle cx="8.5" cy="10" r=".9" fill="currentColor"/><circle cx="12" cy="10" r=".9" fill="currentColor"/><circle cx="15.5" cy="10" r=".9" fill="currentColor"/>',
+  jeux: '<rect x="3.5" y="3.5" width="17" height="17" rx="3.5"/><circle cx="8.3" cy="8.3" r="1.2" fill="currentColor"/><circle cx="15.7" cy="8.3" r="1.2" fill="currentColor"/><circle cx="12" cy="12" r="1.2" fill="currentColor"/><circle cx="8.3" cy="15.7" r="1.2" fill="currentColor"/><circle cx="15.7" cy="15.7" r="1.2" fill="currentColor"/>',
+  inventions: '<path d="M9 17.5h6M10 21h4"/><path d="M12 3a6 6 0 0 0-3.8 10.6c.6.6.8 1.2.8 2v1.9h6v-1.9c0-.8.2-1.4.8-2A6 6 0 0 0 12 3z"/><path d="M12 7.5v3l1.5 1.5"/>',
+  television: '<rect x="3" y="7.5" width="18" height="12.5" rx="2"/><path d="m8 3 4 4.5L16 3"/><path d="M17.5 11v5"/>',
+  marques: '<path d="M3.5 12.2V4.5a1 1 0 0 1 1-1h7.7a1 1 0 0 1 .7.3l8.2 8.2a1 1 0 0 1 0 1.4l-7.7 7.7a1 1 0 0 1-1.4 0l-8.2-8.2a1 1 0 0 1-.3-.7z"/><circle cx="8.3" cy="8.3" r="1.6"/>',
   lock: '<rect x="5" y="10.5" width="14" height="10" rx="2"/><path d="M8 10.5V8a4 4 0 0 1 8 0v2.5"/>',
   check: '<path d="m5 12.5 4.5 4.5L19 7.5"/>',
   cross: '<path d="M6.5 6.5l11 11M17.5 6.5l-11 11"/>',
@@ -90,8 +98,8 @@ function ladder(game, cat, { flash = null } = {}) {
 
 // Grand tableau (écran de choix) : une ligne par thème, sélectionnable.
 export function boardRows(game, { selectable = [], selected = null, current = null } = {}) {
-  return CATEGORIES.map((c) => {
-    const cat = c.id;
+  return game.categories.map((cat) => {
+    const c = categoryById(cat);
     const done = exhausted(game, cat);
     const locked = game.turn.left.includes(cat);
     const can = selectable.includes(cat);
@@ -116,8 +124,11 @@ export function boardRows(game, { selectable = [], selected = null, current = nu
 
 // Tableau compact (pendant une question, en fin de tour) : 10 colonnes de 10 segments.
 export function miniBoard(game, { active = null, flash = null } = {}) {
-  const cols = CATEGORIES.map((c) => {
-    const cat = c.id;
+  const n = game.categories.length;
+  // Au-delà de 10 thèmes, le tableau passe sur deux rangées pour rester lisible.
+  const perRow = Math.ceil(n / Math.ceil(n / 10));
+  const cols = game.categories.map((cat) => {
+    const c = categoryById(cat);
     const locked = game.turn.left.includes(cat);
     const done = exhausted(game, cat);
     return `<div class="mini-col${cat === active ? ' is-active' : ''}${locked ? ' is-locked' : ''}${done ? ' is-done' : ''}" style="${catStyle(cat)}" title="${esc(c.nom)}">
@@ -125,7 +136,7 @@ export function miniBoard(game, { active = null, flash = null } = {}) {
       <span class="mini-ladder">${ladder(game, cat, { flash })}</span>
     </div>`;
   }).join('');
-  return `<div class="mini-board" role="img" aria-label="Progression des 10 thèmes">${cols}</div>`;
+  return `<div class="mini-board" style="--cols:${perRow}" role="img" aria-label="Progression des ${n} thèmes">${cols}</div>`;
 }
 
 // ------------------------------------------------------------------ pupitres des équipes

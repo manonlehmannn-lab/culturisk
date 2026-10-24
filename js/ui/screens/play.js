@@ -2,7 +2,7 @@
 
 import { app, play, ui, render, openOverlay, closeOverlay, confirmBox, go, quitGame, updateSettings, tap } from '../core.js';
 import { available, nextLevel, recap, standings } from '../../engine/game.js';
-import { CATEGORIES, categoryById, pointsFor } from '../../engine/categories.js';
+import { categoryById, pointsFor } from '../../engine/categories.js';
 import { RAISONS } from '../../engine/validation.js';
 import { sfx } from '../sound.js';
 import { esc, typo, icon, catStyle, catChip, digits, boardRows, miniBoard, scoreboard, roundBanner } from '../widgets.js';
@@ -65,7 +65,7 @@ export function step_choose(g) {
   const scr = frame(g, {
     id: 'choose',
     body: `<section class="lead">${lead}</section>
-      <div class="board" role="group" aria-label="Les 10 thèmes">${boardRows(g, { selectable: can, selected: sel, current })}</div>
+      <div class="board" role="group" aria-label="Les thèmes de la partie">${boardRows(g, { selectable: can, selected: sel, current })}</div>
       ${hint}`,
     actions: `${passBtn}${playBtn}`,
   });
@@ -383,8 +383,9 @@ export function step_over(g) {
     const b = r.best[i];
     return b ? `${catChip(b.cat, { short: true })}<b>Niv. ${b.level}</b>` : '<span class="muted">—</span>';
   };
-  const maxCat = Math.max(1, ...CATEGORIES.map((c) => Math.max(...r.perCat[c.id].points)));
-  const catRows = CATEGORIES.filter((c) => r.perCat[c.id].played)
+  const cats = g.categories.map(categoryById);
+  const maxCat = Math.max(1, ...cats.map((c) => Math.max(...r.perCat[c.id].points)));
+  const catRows = cats.filter((c) => r.perCat[c.id].played)
     .map((c) => {
       const [a, b] = r.perCat[c.id].points;
       return `<li style="${catStyle(c.id)}"><span class="cr-ico">${icon(c.icone)}</span><span class="cr-name">${esc(c.court)}</span>

@@ -103,6 +103,102 @@
       }
     },
     {
+      "id": "art-01-5",
+      "categorie": "art",
+      "niveau": 1,
+      "question": "Quelle statue, offerte par la France aux États-Unis, brandit une torche à l'entrée du port de New York ?",
+      "reponse": "Statue de la Liberté",
+      "variantes": [
+        "La Liberté éclairant le monde",
+        "Statue of Liberty"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Marianne",
+          "Statue de la République"
+        ]
+      },
+      "explication": "Sculptée par Auguste Bartholdi, la statue a été offerte par la France pour célébrer l'amitié entre les deux pays et le centenaire de l'indépendance américaine. Son revêtement de cuivre, épais de quelques millimètres, a pris avec le temps sa teinte vert-de-gris. Expédiée en pièces détachées, elle a été inaugurée le 28 octobre 1886. Haute de 46 mètres, elle en atteint 93 avec son piédestal.",
+      "anecdote": "Son nom officiel est « La Liberté éclairant le monde ». Elle est inscrite au patrimoine mondial de l'Unesco depuis 1984.",
+      "source": "Wikipédia (fr) — « Statue de la Liberté »",
+      "verification": {
+        "statut": "relue",
+        "note": "Mention d'Eiffel retirée (fait déjà demandé en inv-04-1), remplacée par le revêtement de cuivre."
+      }
+    },
+    {
+      "id": "art-01-6",
+      "categorie": "art",
+      "niveau": 1,
+      "question": "Sur quelle planchette percée d'un trou pour le pouce le peintre mélange-t-il ses couleurs ?",
+      "reponse": "Palette",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Chevalet",
+          "Toile",
+          "Godet",
+          "Pinceau"
+        ]
+      },
+      "explication": "Tenue sur l'avant-bras grâce au trou où passe le pouce, la palette permet au peintre d'avoir ses couleurs sous la main et de les mélanger. Par extension, le mot désigne aussi l'ensemble des couleurs qu'un artiste utilise. Le tube de peinture souple, inventé en 1841 par le peintre américain John Goffe Rand, a facilité la peinture en plein air.",
+      "source": "Dictionnaire Larousse — « palette »",
+      "verification": {
+        "statut": "relue",
+        "note": "Source incertaine remplacée."
+      }
+    },
+    {
+      "id": "art-01-7",
+      "categorie": "art",
+      "niveau": 1,
+      "question": "Quel monument parisien, commandé par Napoléon, abrite la tombe du Soldat inconnu ?",
+      "reponse": "Arc de triomphe",
+      "variantes": [
+        "Arc de triomphe de l'Étoile"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Arc de triomphe du Carrousel",
+          "Panthéon",
+          "Invalides",
+          "Obélisque"
+        ]
+      },
+      "explication": "Napoléon Ier commanda l'Arc de triomphe en 1806, après la victoire d'Austerlitz, pour honorer la Grande Armée. Il ne vit jamais le monument achevé, inauguré en 1836 sous Louis-Philippe. Haut d'environ 50 mètres, il domine la place de l'Étoile, d'où partent douze avenues. Un soldat français mort pendant la Première Guerre mondiale y est inhumé depuis le 28 janvier 1921.",
+      "anecdote": "Depuis le 11 novembre 1923, la flamme qui veille sur la tombe du Soldat inconnu est ravivée chaque soir.",
+      "source": "Wikipédia (fr) — « Arc de triomphe de l'Étoile »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-01-8",
+      "categorie": "art",
+      "niveau": 1,
+      "question": "Comment appelle-t-on la jupe légère et bouffante des danseuses de ballet ?",
+      "reponse": "Tutu",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Justaucorps",
+          "Jupon",
+          "Crinoline"
+        ]
+      },
+      "explication": "Le tutu est fait de plusieurs couches de tulle ou de tarlatane. Sa version longue, dite « romantique », s'est imposée en 1832 avec la danseuse Marie Taglioni dans La Sylphide. À la fin du XIXe siècle apparaît le tutu court et rigide, presque horizontal, qui dévoile les jambes et permet d'admirer le travail des pieds et les sauts des ballerines.",
+      "source": "Dictionnaire Larousse — « tutu »",
+      "verification": {
+        "statut": "relue",
+        "note": "Source incertaine remplacée."
+      }
+    },
+    {
       "id": "art-02-1",
       "categorie": "art",
       "niveau": 2,
@@ -204,6 +300,107 @@
       }
     },
     {
+      "id": "art-02-5",
+      "categorie": "art",
+      "niveau": 2,
+      "question": "Quelle statue grecque sans bras, découverte en 1820 sur une île des Cyclades, est exposée au Louvre ?",
+      "reponse": "Vénus de Milo",
+      "variantes": [
+        "Aphrodite de Milo",
+        "Aphrodite de Mélos"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Victoire de Samothrace",
+          "Vénus de Willendorf",
+          "Vénus de Médicis"
+        ]
+      },
+      "explication": "En avril 1820, un paysan de l'île de Milo, ou Mélos, mit au jour cette statue de marbre haute d'environ deux mètres. Acquise par l'ambassadeur de France, le marquis de Rivière, elle fut offerte à Louis XVIII, qui la donna au Louvre en 1821. Sculptée au IIe siècle av. J.-C., elle représente probablement Aphrodite. Ses bras n'ont jamais été retrouvés.",
+      "anecdote": "Le Louvre a fait de la Vénus de Milo l'une de ses trois « grandes dames », avec la Joconde et la Victoire de Samothrace.",
+      "source": "Wikipédia (fr) — « Vénus de Milo »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-02-6",
+      "categorie": "art",
+      "niveau": 2,
+      "question": "Quel peintre surréaliste espagnol, célèbre pour sa moustache, a peint des montres molles ?",
+      "reponse": "Salvador Dalí",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Joan Miró",
+          "René Magritte",
+          "Pablo Picasso",
+          "Max Ernst"
+        ]
+      },
+      "explication": "Les montres molles apparaissent en 1931 dans La Persistance de la mémoire, une toile de petit format, environ 24 sur 33 centimètres, conservée au MoMA de New York. Dalí racontait qu'un camembert coulant lui en avait donné l'idée. Né en 1904 à Figueras, en Catalogne, il y a créé son propre Théâtre-Musée, ouvert en 1974, où il est enterré.",
+      "anecdote": "Dalí a dessiné en 1969 le logo des sucettes Chupa Chups, une marguerite jaune et rouge.",
+      "source": "Wikipédia (fr) — « La Persistance de la mémoire »",
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote Chupa Chups allégée (« toujours utilisée » retiré)."
+      }
+    },
+    {
+      "id": "art-02-7",
+      "categorie": "art",
+      "niveau": 2,
+      "question": "Quelle cathédrale de Paris a perdu sa flèche dans un incendie le 15 avril 2019 ?",
+      "reponse": "Notre-Dame de Paris",
+      "variantes": [
+        "Notre-Dame",
+        "Cathédrale Notre-Dame"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Sacré-Cœur",
+          "Sainte-Chapelle",
+          "Basilique Saint-Denis",
+          "Saint-Sulpice"
+        ]
+      },
+      "explication": "Commencée en 1163 sous l'évêque Maurice de Sully, Notre-Dame est un chef-d'œuvre de l'art gothique. Le 15 avril 2019, le feu a détruit sa charpente médiévale, surnommée « la forêt », et la flèche ajoutée au XIXe siècle par l'architecte Eugène Viollet-le-Duc. Après plus de cinq ans de chantier, la cathédrale a rouvert ses portes le 7 décembre 2024.",
+      "source": "Wikipédia (fr) — « Cathédrale Notre-Dame de Paris »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-02-8",
+      "categorie": "art",
+      "niveau": 2,
+      "question": "Comment appelle-t-on une fenêtre faite de morceaux de verre coloré assemblés par des baguettes de plomb ?",
+      "reponse": "Vitrail",
+      "variantes": [
+        "Vitraux"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Mosaïque",
+          "Émail",
+          "Marqueterie"
+        ]
+      },
+      "explication": "Le verre est coloré dans la masse par des oxydes métalliques, puis découpé ; les détails des visages ou des drapés sont peints à la grisaille et cuits au four. Les vitraux ont fait entrer la lumière dans les cathédrales gothiques : celle de Chartres en conserve environ 2 600 mètres carrés, célèbres pour leur « bleu de Chartres ».",
+      "anecdote": "Le peintre Pierre Soulages a créé 104 vitraux pour l'abbatiale de Conques, réalisés entre 1987 et 1994.",
+      "source": "Wikipédia (fr) — « Vitrail »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
       "id": "art-03-1",
       "categorie": "art",
       "niveau": 3,
@@ -295,6 +492,107 @@
       "verification": {
         "statut": "relue",
         "note": ""
+      }
+    },
+    {
+      "id": "art-03-5",
+      "categorie": "art",
+      "niveau": 3,
+      "question": "Quel artiste de rue britannique anonyme a vu sa Petite Fille au ballon s'autodétruire aux enchères en 2018 ?",
+      "reponse": "Banksy",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Blek le Rat",
+          "Invader",
+          "Shepard Fairey",
+          "JR"
+        ]
+      },
+      "explication": "Le 5 octobre 2018, chez Sotheby's à Londres, la toile venait d'être adjugée pour un peu plus d'un million de livres lorsqu'une broyeuse cachée dans le cadre l'a découpée en lanières à moitié. Rebaptisée Love is in the Bin, l'œuvre a été revendue en 2021 pour environ 18,6 millions de livres. Originaire de la région de Bristol, Banksy n'a jamais révélé son identité.",
+      "source": "Wikipédia (fr) — « Banksy »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-03-6",
+      "categorie": "art",
+      "niveau": 3,
+      "question": "Quel artiste du pop art a peint en série les boîtes de soupe Campbell ?",
+      "reponse": "Andy Warhol",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Roy Lichtenstein",
+          "Keith Haring",
+          "Jasper Johns",
+          "Jeff Koons"
+        ]
+      },
+      "explication": "En 1962, Andy Warhol expose à Los Angeles trente-deux toiles représentant chacune une variété de soupe Campbell, des produits que tout Américain connaît. Ancien illustrateur publicitaire, il fait de la répétition des objets de consommation et des célébrités, comme Marilyn Monroe, sa marque de fabrique, grâce à la sérigraphie. Son atelier new-yorkais, la Factory, devient un lieu culte. Les trente-deux toiles appartiennent au MoMA.",
+      "anecdote": "On attribue à Warhol la formule selon laquelle, à l'avenir, chacun aura droit à son « quart d'heure de célébrité » mondiale.",
+      "source": "Wikipédia (fr) — « Campbell's Soup Cans »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-03-7",
+      "categorie": "art",
+      "niveau": 3,
+      "question": "Quel style architectural médiéval, né en Île-de-France au XIIe siècle, se caractérise par la croisée d'ogives ?",
+      "reponse": "Gothique",
+      "variantes": [
+        "Art gothique",
+        "Style gothique",
+        "Architecture gothique"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Roman",
+          "Art roman",
+          "Baroque",
+          "Byzantin"
+        ]
+      },
+      "explication": "On fait souvent naître l'architecture gothique vers 1140 avec le chœur de la basilique de Saint-Denis, reconstruit sous l'abbé Suger. La croisée d'ogives et les arcs-boutants reportent le poids des voûtes vers l'extérieur : les murs s'amincissent, les édifices s'élèvent et s'ouvrent sur de grandes verrières. Le mot « gothique », synonyme de « barbare », a été donné par dénigrement à la Renaissance.",
+      "source": "Wikipédia (fr) — « Architecture gothique »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-03-8",
+      "categorie": "art",
+      "niveau": 3,
+      "question": "Comment appelle-t-on les poupées russes en bois qui s'emboîtent les unes dans les autres ?",
+      "reponse": "Matriochka",
+      "variantes": [
+        "Matriochkas",
+        "Matryoshka",
+        "Matrioshka",
+        "Matriochki"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Babouchka",
+          "Balalaïka",
+          "Kokochnik"
+        ]
+      },
+      "explication": "La première matriochka a été fabriquée dans les années 1890 dans un atelier moscovite lié à la famille de mécènes Mamontov : tournée par Vassili Zviozdotchkine et peinte par Sergueï Malioutine, elle comptait huit poupées. Elle se serait inspirée de figurines gigognes japonaises. Son nom est un diminutif de Matriona, prénom paysan très répandu, issu du latin mater, « mère ».",
+      "source": "Wikipédia (fr) — « Matriochka »",
+      "verification": {
+        "statut": "relue",
+        "note": "Datation de la première matriochka élargie (années 1890)."
       }
     },
     {
@@ -396,6 +694,106 @@
       }
     },
     {
+      "id": "art-04-5",
+      "categorie": "art",
+      "niveau": 4,
+      "question": "Quel peintre florentin a représenté La Naissance de Vénus, la déesse debout sur une coquille ?",
+      "reponse": "Sandro Botticelli",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Raphaël",
+          "Titien",
+          "Filippo Lippi",
+          "Léonard de Vinci",
+          "Fra Angelico"
+        ]
+      },
+      "explication": "Peinte vers 1485 à la détrempe sur toile, La Naissance de Vénus montre la déesse de l'amour poussée vers le rivage par le souffle de Zéphyr, tandis qu'une Heure s'apprête à la couvrir d'un manteau. Ce grand nu mythologique, rare à l'époque, a sans doute été réalisé pour l'entourage des Médicis. Il est conservé à la galerie des Offices de Florence.",
+      "anecdote": "Une légende tenace voit dans le visage de Vénus celui de Simonetta Vespucci, beauté florentine morte en 1476, mais rien ne le prouve.",
+      "source": "Wikipédia (fr) — « La Naissance de Vénus (Botticelli) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-04-6",
+      "categorie": "art",
+      "niveau": 4,
+      "question": "Quelle peintre mexicaine, épouse de Diego Rivera, est célèbre pour ses nombreux autoportraits ?",
+      "reponse": "Frida Kahlo",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "prenomSeul": true,
+        "pieges": [
+          "Diego Rivera",
+          "Tina Modotti",
+          "Leonora Carrington",
+          "Remedios Varo"
+        ]
+      },
+      "explication": "En 1925, à dix-huit ans, Frida Kahlo est grièvement blessée dans un accident de bus. Clouée au lit, elle commence à peindre grâce à un miroir fixé au-dessus d'elle. Sur environ 140 tableaux, plus d'une cinquantaine sont des autoportraits, mêlant souffrance, culture populaire mexicaine et symboles. Elle épousa le muraliste Diego Rivera en 1929, divorça puis l'épousa à nouveau en 1940.",
+      "anecdote": "Sa maison natale de Coyoacán, la « Casa Azul » aux murs bleu vif, est devenue un musée en 1958.",
+      "source": "Wikipédia (fr) — « Frida Kahlo »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-04-7",
+      "categorie": "art",
+      "niveau": 4,
+      "question": "Quel peintre impressionniste a fait des danseuses de l'Opéra de Paris l'un de ses sujets favoris ?",
+      "reponse": "Edgar Degas",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Auguste Renoir",
+          "Claude Monet",
+          "Édouard Manet",
+          "Henri de Toulouse-Lautrec",
+          "Monet",
+          "Manet"
+        ]
+      },
+      "explication": "Familier de l'Opéra, Edgar Degas fréquentait ses coulisses et ses salles de répétition. Il a peint, dessiné et sculpté les danseuses en plein effort, à la barre ou attendant leur entrée en scène, souvent au pastel. Il se disait d'ailleurs plutôt « réaliste » qu'impressionniste. En 1881, sa Petite Danseuse de quatorze ans, en cire, vêtue d'un vrai tutu et coiffée de vrais cheveux, fit scandale.",
+      "source": "Wikipédia (fr) — « Edgar Degas »",
+      "verification": {
+        "statut": "relue",
+        "note": "Formulation prudente sur l'abonnement de Degas à l'Opéra."
+      }
+    },
+    {
+      "id": "art-04-8",
+      "categorie": "art",
+      "niveau": 4,
+      "question": "Comment appelle-t-on une peinture murale réalisée sur un enduit encore frais ?",
+      "reponse": "Fresque",
+      "variantes": [
+        "A fresco"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Mosaïque",
+          "Tempera",
+          "Détrempe",
+          "Graffiti"
+        ]
+      },
+      "explication": "Le mot vient de l'italien a fresco, « dans le frais ». Les pigments, délayés dans l'eau, sont posés sur un enduit de chaux humide ; en séchant, la chaux les emprisonne et les fixe durablement. Le peintre ne prépare donc que la surface qu'il peut couvrir dans la journée. Giotto, vers 1305, a ainsi décoré la chapelle des Scrovegni, à Padoue.",
+      "source": "Wikipédia (fr) — « Fresque »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
       "id": "art-05-1",
       "categorie": "art",
       "niveau": 5,
@@ -490,6 +888,111 @@
       "verification": {
         "statut": "relue",
         "note": "Citation de Carmel Snow rétablie dans sa forme usuelle ; longueur des jupes précisée."
+      }
+    },
+    {
+      "id": "art-05-5",
+      "categorie": "art",
+      "niveau": 5,
+      "question": "Quel peintre de la cour d'Espagne s'est représenté lui-même, pinceau en main, dans Les Ménines en 1656 ?",
+      "reponse": "Diego Velázquez",
+      "variantes": [
+        "Vélasquez",
+        "Diego Vélasquez",
+        "Velasquez"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Francisco de Goya",
+          "Bartolomé Esteban Murillo",
+          "Francisco de Zurbarán",
+          "Le Greco"
+        ]
+      },
+      "explication": "Au centre des Ménines se tient l'infante Marguerite-Thérèse, entourée de ses demoiselles d'honneur, les « meninas ». Le roi Philippe IV et la reine n'apparaissent que reflétés dans un miroir au fond de la pièce, comme s'ils se tenaient à la place du spectateur. Ce jeu de regards fait du tableau, conservé au musée du Prado, l'un des plus commentés de l'histoire de l'art.",
+      "anecdote": "En 1957, Picasso a peint cinquante-huit variations sur Les Ménines, réunies au musée Picasso de Barcelone.",
+      "source": "Wikipédia (fr) — « Les Ménines »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-05-6",
+      "categorie": "art",
+      "niveau": 5,
+      "question": "Quel peintre viennois a réalisé Le Baiser, un couple enlacé couvert de feuilles d'or ?",
+      "reponse": "Gustav Klimt",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Egon Schiele",
+          "Oskar Kokoschka",
+          "Alfons Mucha",
+          "Koloman Moser"
+        ]
+      },
+      "explication": "Peint en 1907-1908, au sommet de sa « période dorée », Le Baiser a été acheté par l'État autrichien dès sa présentation en 1908. Il est conservé au Belvédère, à Vienne. Fils d'un graveur sur or, Gustav Klimt avait été marqué par les mosaïques byzantines de Ravenne. En 1897, il fut l'un des fondateurs et le premier président de la Sécession viennoise.",
+      "source": "Wikipédia (fr) — « Le Baiser (Klimt) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-05-7",
+      "categorie": "art",
+      "niveau": 5,
+      "question": "Quel mouvement André Breton a-t-il lancé en publiant un manifeste en 1924 ?",
+      "reponse": "Surréalisme",
+      "variantes": [
+        "Mouvement surréaliste"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Dadaïsme",
+          "Dada",
+          "Cubisme",
+          "Symbolisme",
+          "Futurisme"
+        ]
+      },
+      "explication": "Dans le Manifeste du surréalisme, André Breton définit le mouvement comme un « automatisme psychique pur », qui veut exprimer le fonctionnement réel de la pensée, hors de tout contrôle de la raison. Nourris par les travaux de Freud sur le rêve et l'inconscient, les surréalistes ont pratiqué l'écriture automatique. Max Ernst, René Magritte et Joan Miró en ont été les peintres majeurs.",
+      "source": "Wikipédia (fr) — « Surréalisme »",
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote retirée (Apollinaire et le mot « surréalisme » : déjà l'anecdote de lit-05-5)."
+      }
+    },
+    {
+      "id": "art-05-8",
+      "categorie": "art",
+      "niveau": 5,
+      "question": "Quel peintre néerlandais a composé des grilles de lignes noires et d'aplats rouges, jaunes et bleus ?",
+      "reponse": "Piet Mondrian",
+      "variantes": [
+        "Mondriaan",
+        "Piet Mondriaan",
+        "Pieter Mondriaan"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Theo van Doesburg",
+          "Kasimir Malevitch",
+          "Vassily Kandinsky",
+          "Paul Klee"
+        ]
+      },
+      "explication": "Piet Mondrian a d'abord peint des paysages et des arbres, qu'il a peu à peu simplifiés jusqu'à l'abstraction après avoir découvert le cubisme à Paris. En 1917, il cofonde avec Theo van Doesburg le mouvement De Stijl. Il se limite alors aux lignes horizontales et verticales, aux trois couleurs primaires et aux non-couleurs. Réfugié à New York en 1940, il y meurt en 1944.",
+      "anecdote": "En 1965, Yves Saint Laurent a présenté des robes droites en jersey reprenant ses compositions : les robes « Mondrian ».",
+      "source": "Wikipédia (fr) — « Piet Mondrian »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
       }
     },
     {
@@ -595,6 +1098,113 @@
       }
     },
     {
+      "id": "art-06-5",
+      "categorie": "art",
+      "niveau": 6,
+      "question": "Quel photographe français a réalisé en 1950 Le Baiser de l'hôtel de ville ?",
+      "reponse": "Robert Doisneau",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Willy Ronis",
+          "Henri Cartier-Bresson",
+          "Brassaï",
+          "Izis"
+        ]
+      },
+      "explication": "Commandée par le magazine américain Life pour un reportage sur les amoureux de Paris, la photographie n'est pas prise sur le vif : Robert Doisneau a fait poser deux jeunes comédiens, Françoise Bornet et Jacques Carteaud. Devenue une affiche à succès dans les années 1980, elle a valu au photographe des procès de couples se reconnaissant dans l'image, qui ont révélé la mise en scène.",
+      "anecdote": "En 2005, Françoise Bornet a vendu aux enchères le tirage original que Doisneau lui avait offert, pour plus de 150 000 euros.",
+      "source": "Wikipédia (fr) — « Le Baiser de l'hôtel de ville »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-06-6",
+      "categorie": "art",
+      "niveau": 6,
+      "question": "Quel peuple a bâti au XIIe siècle le temple d'Angkor Vat, au Cambodge ?",
+      "reponse": "Khmers",
+      "variantes": [
+        "Khmer",
+        "Empire khmer",
+        "Les Khmers"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Thaïs",
+          "Siamois",
+          "Chams",
+          "Birmans"
+        ]
+      },
+      "explication": "Angkor Vat a été édifié dans la première moitié du XIIe siècle sous le roi Suryavarman II, à Angkor, capitale de l'Empire khmer. D'abord dédié au dieu hindou Vishnou, il est devenu un sanctuaire bouddhiste. Entouré de douves, c'est le plus vaste des centaines de temples du site d'Angkor, inscrit au patrimoine mondial de l'Unesco en 1992. Sa silhouette figure sur le drapeau cambodgien.",
+      "source": "Wikipédia (fr) — « Angkor Vat »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-06-7",
+      "categorie": "art",
+      "niveau": 6,
+      "question": "Quel artiste d'origine bulgare a emballé le Pont-Neuf de Paris dans une toile en 1985, avec sa compagne Jeanne-Claude ?",
+      "reponse": "Christo",
+      "variantes": [
+        "Christo et Jeanne-Claude",
+        "Christo Javacheff",
+        "Christo Vladimirov Javacheff"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Jeanne-Claude",
+          "Jean Tinguely",
+          "Arman",
+          "César"
+        ]
+      },
+      "explication": "Pendant quatorze jours, à partir du 22 septembre 1985, le plus vieux pont de Paris a disparu sous environ 40 000 mètres carrés de toile couleur pierre. Né en Bulgarie, Christo formait avec Jeanne-Claude, née au Maroc, un couple d'artistes nés le même jour, le 13 juin 1935. Ils finançaient leurs projets éphémères en vendant dessins et maquettes préparatoires. Ils ont aussi emballé le Reichstag de Berlin en 1995.",
+      "anecdote": "Leur projet d'emballer l'Arc de triomphe a été réalisé en septembre 2021, après la mort de Christo en 2020.",
+      "source": "Wikipédia (fr) — « Christo et Jeanne-Claude »",
+      "verification": {
+        "statut": "relue",
+        "note": "Question reformulée (réponse « Christo », le couple accepté en variante) pour que toutes les réponses acceptées soient justes ; dates de l'emballage corrigées (fin sept.-début oct.)."
+      }
+    },
+    {
+      "id": "art-06-8",
+      "categorie": "art",
+      "niveau": 6,
+      "question": "Quel danseur soviétique a fui l'URSS en 1961 à l'aéroport du Bourget, près de Paris ?",
+      "reponse": "Rudolf Noureev",
+      "variantes": [
+        "Rudolf Nureyev",
+        "Noureïev",
+        "Rudolf Noureïev",
+        "Nureyev"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Mikhaïl Barychnikov",
+          "Vaslav Nijinski",
+          "Maurice Béjart"
+        ]
+      },
+      "explication": "Le 16 juin 1961, alors que le KGB voulait le renvoyer à Moscou au milieu d'une tournée du Kirov, Rudolf Noureev demanda l'asile à la police française. Devenu une star mondiale, il forma un couple légendaire avec Margot Fonteyn au Royal Ballet de Londres. Directeur de la danse à l'Opéra de Paris de 1983 à 1989, il y nomma notamment Sylvie Guillem étoile. Il mourut en 1993.",
+      "anecdote": "Sa tombe, au cimetière russe de Sainte-Geneviève-des-Bois, est recouverte d'une mosaïque imitant un tapis oriental.",
+      "source": "Wikipédia (fr) — « Rudolf Noureev »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
       "id": "art-07-1",
       "categorie": "art",
       "niveau": 7,
@@ -682,6 +1292,115 @@
       "verification": {
         "statut": "relue",
         "note": ""
+      }
+    },
+    {
+      "id": "art-07-5",
+      "categorie": "art",
+      "niveau": 7,
+      "question": "Quel peintre italien, maître du clair-obscur, dut fuir Rome en 1606 après avoir tué un homme ?",
+      "reponse": "Caravage",
+      "variantes": [
+        "Le Caravage",
+        "Caravaggio",
+        "Michelangelo Merisi",
+        "Michelangelo Merisi da Caravaggio"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Annibale Carrache",
+          "Artemisia Gentileschi",
+          "Georges de La Tour",
+          "Guido Reni"
+        ]
+      },
+      "explication": "Michelangelo Merisi, dit le Caravage, du nom du bourg lombard d'où venait sa famille, a révolutionné la peinture avec ses violents contrastes d'ombre et de lumière et ses saints aux traits de gens du peuple. En mai 1606, il tue Ranuccio Tomassoni dans une rixe et doit s'enfuir, condamné à mort. Après Naples, Malte et la Sicile, il meurt en 1610 en espérant la grâce du pape.",
+      "anecdote": "Son influence fut telle qu'on appelle « caravagesques » les nombreux peintres européens qui imitèrent son style au XVIIe siècle.",
+      "source": "Wikipédia (fr) — « Caravage »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-07-6",
+      "categorie": "art",
+      "niveau": 7,
+      "question": "Quel couturier a fait entrer le smoking dans la garde-robe féminine en 1966 ?",
+      "reponse": "Yves Saint Laurent",
+      "variantes": [
+        "YSL"
+      ],
+      "validation": {
+        "type": "personne",
+        "nom": "Saint Laurent",
+        "pieges": [
+          "Pierre Cardin",
+          "André Courrèges",
+          "Hubert de Givenchy",
+          "Karl Lagerfeld",
+          "Christian Dior"
+        ]
+      },
+      "explication": "Présenté dans sa collection automne-hiver 1966, « Le Smoking » détournait un vêtement de soirée masculin. Il s'est peu vendu en haute couture, mais a triomphé dans la boutique de prêt-à-porter Saint Laurent Rive Gauche, ouverte la même année. Yves Saint Laurent avait succédé à Christian Dior en 1957, à seulement vingt et un ans, avant de fonder sa maison avec Pierre Bergé en 1961.",
+      "anecdote": "En 1975, Helmut Newton photographia pour Vogue Paris un mannequin en smoking dans une ruelle nocturne du Marais, image devenue culte.",
+      "source": "Wikipédia (fr) — « Yves Saint Laurent (couturier) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-07-7",
+      "categorie": "art",
+      "niveau": 7,
+      "question": "Quel musée de Saint-Pétersbourg, fondé par Catherine II, occupe notamment le palais d'Hiver ?",
+      "reponse": "Ermitage",
+      "variantes": [
+        "Musée de l'Ermitage",
+        "Hermitage"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Musée russe",
+          "Galerie Tretiakov",
+          "Musée Pouchkine",
+          "Peterhof"
+        ]
+      },
+      "explication": "En 1764, Catherine II achète à un marchand berlinois plus de deux cents tableaux, point de départ de l'une des plus grandes collections au monde. Elle les installe dans un pavillon attenant au palais d'Hiver, son « ermitage », lieu de retraite réservé à quelques intimes. Le musée n'a été ouvert au public qu'en 1852. Il conserve environ trois millions d'objets, des antiquités à Matisse.",
+      "anecdote": "Depuis le XVIIIe siècle, des chats vivent dans les sous-sols du musée pour chasser les rongeurs ; ils sont devenus l'une de ses mascottes.",
+      "source": "Wikipédia (fr) — « Musée de l'Ermitage »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-07-8",
+      "categorie": "art",
+      "niveau": 7,
+      "question": "Quel sculpteur suisse a créé L'Homme qui marche, silhouette de bronze filiforme ?",
+      "reponse": "Alberto Giacometti",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Diego Giacometti",
+          "Constantin Brâncuși",
+          "Henry Moore",
+          "Germaine Richier",
+          "Jean Tinguely"
+        ]
+      },
+      "explication": "Installé à Paris dès 1922, Alberto Giacometti passe par le surréalisme avant d'inventer, après la Seconde Guerre mondiale, ses figures étirées et fragiles, comme rongées par l'espace. L'Homme qui marche I, de 1960, est devenu le symbole de la condition humaine. En février 2010, un exemplaire a été vendu 65 millions de livres chez Sotheby's à Londres, alors un record mondial pour une œuvre d'art aux enchères.",
+      "anecdote": "L'Homme qui marche figurait au verso de l'ancien billet suisse de 100 francs, avec le portrait du sculpteur.",
+      "source": "Wikipédia (fr) — « Alberto Giacometti »",
+      "verification": {
+        "statut": "relue",
+        "note": "Record de 2010 présenté comme record de l'époque ; source principale."
       }
     },
     {
@@ -786,6 +1505,105 @@
       }
     },
     {
+      "id": "art-08-5",
+      "categorie": "art",
+      "niveau": 8,
+      "question": "Quelle designer française a conçu en 1928, avec Le Corbusier et Pierre Jeanneret, la chaise longue LC4 ?",
+      "reponse": "Charlotte Perriand",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Eileen Gray",
+          "Sonia Delaunay",
+          "Ray Eames",
+          "Andrée Putman"
+        ]
+      },
+      "explication": "En 1927, Charlotte Perriand se présente à l'atelier de Le Corbusier, qui l'éconduit d'un « Ici, on ne brode pas de coussins ». Quelques mois plus tard, son « Bar sous le toit » en métal chromé, exposé au Salon d'automne, le convainc de l'engager. Elle y dessine des meubles en tube d'acier devenus des classiques. Invitée au Japon en 1940, elle y conseille le design industriel.",
+      "anecdote": "De la fin des années 1960 aux années 1980, elle a conçu l'architecture et l'aménagement de la station de ski des Arcs, en Savoie.",
+      "source": "Wikipédia (fr) — « Charlotte Perriand »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-08-6",
+      "categorie": "art",
+      "niveau": 8,
+      "question": "Quelle artiste franco-américaine a sculpté Maman, une araignée géante de plus de neuf mètres de haut ?",
+      "reponse": "Louise Bourgeois",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Niki de Saint Phalle",
+          "Annette Messager",
+          "Yayoi Kusama",
+          "Camille Claudel"
+        ]
+      },
+      "explication": "Née à Paris en 1911 dans une famille de restaurateurs de tapisseries anciennes, Louise Bourgeois s'installe à New York en 1938. Son araignée, qui tisse et protège, rend hommage à sa mère. Créée en 1999 et présentée en 2000 à l'ouverture de la Tate Modern, à Londres, Maman a été coulée en bronze en plusieurs exemplaires, visibles notamment à Bilbao, Ottawa, Tokyo et Séoul. L'artiste est morte en 2010, à 98 ans.",
+      "source": "Wikipédia (fr) — « Louise Bourgeois »",
+      "verification": {
+        "statut": "relue",
+        "note": "Chronologie Tate Modern précisée (création 1999, ouverture 2000) ; source principale."
+      }
+    },
+    {
+      "id": "art-08-7",
+      "categorie": "art",
+      "niveau": 8,
+      "question": "Quel photographe a dessiné deux ouïes de violon sur le dos nu de Kiki de Montparnasse en 1924 ?",
+      "reponse": "Man Ray",
+      "variantes": [
+        "Emmanuel Radnitzky"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Brassaï",
+          "André Kertész",
+          "Marcel Duchamp",
+          "Lee Miller"
+        ]
+      },
+      "explication": "Intitulée Le Violon d'Ingres, l'image joue sur la Baigneuse de dos peinte par Ingres et sur l'expression désignant un passe-temps : le peintre jouait du violon. Kiki de Montparnasse, modèle et figure des nuits parisiennes, était alors la compagne de Man Ray. Né Emmanuel Radnitzky aux États-Unis, il s'était installé à Paris en 1921, où il réalisa ses « rayographies » sans appareil.",
+      "anecdote": "En mai 2022, un tirage original s'est vendu 12,4 millions de dollars chez Christie's, à New York, record pour une photographie aux enchères.",
+      "source": "Wikipédia (fr) — « Man Ray »",
+      "verification": {
+        "statut": "relue",
+        "note": "Source principale."
+      }
+    },
+    {
+      "id": "art-08-8",
+      "categorie": "art",
+      "niveau": 8,
+      "question": "Quelle manufacture de tapisseries, rachetée par Colbert en 1662, doit son nom à une famille de teinturiers ?",
+      "reponse": "Gobelins",
+      "variantes": [
+        "Manufacture des Gobelins",
+        "Les Gobelins"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Aubusson",
+          "Beauvais",
+          "Sèvres",
+          "Savonnerie"
+        ]
+      },
+      "explication": "Au XVe siècle, la famille de teinturiers Gobelin s'installe à Paris au bord de la Bièvre. En 1662, Colbert rachète le site et y regroupe des ateliers qui deviennent en 1667 la Manufacture royale des meubles de la Couronne, dirigée par le peintre Charles Le Brun. On y tisse encore à la main, sur des métiers de haute lice, des tapisseries pour l'État, rattachées au Mobilier national.",
+      "source": "Wikipédia (fr) — « Manufacture des Gobelins »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
       "id": "art-09-1",
       "categorie": "art",
       "niveau": 9,
@@ -879,6 +1697,113 @@
       "verification": {
         "statut": "relue",
         "note": "Dates 1961-1995 (direction du design chez Braun) conservées."
+      }
+    },
+    {
+      "id": "art-09-5",
+      "categorie": "art",
+      "niveau": 9,
+      "question": "Dans quel pays actuel se trouvait le royaume du Bénin, dont les célèbres bronzes ont été pillés par les Britanniques en 1897 ?",
+      "reponse": "Nigeria",
+      "variantes": [
+        "Nigéria",
+        "République fédérale du Nigeria"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Bénin",
+          "Dahomey",
+          "Niger",
+          "Ghana",
+          "Togo",
+          "Cameroun"
+        ]
+      },
+      "explication": "Le royaume du Bénin, peuplé d'Edo, avait pour capitale Benin City, dans le sud de l'actuel Nigeria. Il n'a aucun lien avec l'État voisin du Bénin, l'ancien Dahomey, qui a pris ce nom en 1975. Ses fondeurs réalisaient en laiton et en bronze des têtes et des plaques ornant le palais de l'oba. En 1897, une expédition punitive britannique incendia la ville et emporta des milliers d'objets.",
+      "anecdote": "En 2022, l'Allemagne a transféré au Nigeria la propriété de plus d'un millier de ces œuvres conservées dans ses musées.",
+      "source": "Wikipédia (fr) — « Royaume du Bénin »",
+      "verification": {
+        "statut": "relue",
+        "note": "Question reformulée (réponse « Nigeria », l'État du Bénin en piège) : la variante « Bénin » rendait la question ambiguë face au piège classique."
+      }
+    },
+    {
+      "id": "art-09-6",
+      "categorie": "art",
+      "niveau": 9,
+      "question": "Quelle nourrice américaine, photographe de rue inconnue de son vivant, fut révélée par la découverte de ses négatifs en 2007 ?",
+      "reponse": "Vivian Maier",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Diane Arbus",
+          "Dorothea Lange",
+          "Lisette Model",
+          "Berenice Abbott"
+        ]
+      },
+      "explication": "Née à New York en 1926 et élevée en partie dans les Hautes-Alpes, Vivian Maier a été pendant une quarantaine d'années nourrice et gouvernante, surtout à Chicago. Elle a photographié la rue avec son Rolleiflex, laissant plus de cent mille négatifs, souvent jamais développés. En 2007, John Maloof en acquiert une partie lors d'une vente aux enchères. Elle meurt en 2009, peu avant de devenir célèbre.",
+      "anecdote": "Le documentaire À la recherche de Vivian Maier, coréalisé par John Maloof, a été nommé à l'Oscar du meilleur documentaire en 2015.",
+      "source": "Wikipédia (fr) — « Vivian Maier »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-09-7",
+      "categorie": "art",
+      "niveau": 9,
+      "question": "Dans quelle ville allemande se tient la documenta, grande exposition d'art contemporain créée en 1955 ?",
+      "reponse": "Kassel",
+      "variantes": [
+        "Cassel"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Münster",
+          "Cologne",
+          "Düsseldorf",
+          "Bâle",
+          "Venise"
+        ]
+      },
+      "explication": "La documenta a été fondée par le peintre et professeur Arnold Bode pour renouer le lien entre l'Allemagne et l'art moderne, que les nazis avaient qualifié de « dégénéré ». Organisée tous les cinq ans depuis 1972, elle dure cent jours, d'où son surnom de « musée des cent jours ». Elle investit le Fridericianum, l'un des plus anciens musées publics d'Europe, et toute la ville.",
+      "anecdote": "En 1982, Joseph Beuys y lança 7 000 Chênes : sept mille arbres plantés dans la ville, chacun accompagné d'une colonne de basalte.",
+      "source": "Wikipédia (fr) — « Documenta »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-09-8",
+      "categorie": "art",
+      "niveau": 9,
+      "question": "Quelle danse japonaise d'avant-garde, née en 1959, montre souvent des danseurs au corps peint en blanc ?",
+      "reponse": "Butō",
+      "variantes": [
+        "Buto",
+        "Butoh",
+        "Ankoku butō"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Nô",
+          "Kabuki",
+          "Bunraku",
+          "Kagura"
+        ]
+      },
+      "explication": "Le butō naît en 1959 avec Kinjiki, pièce de Tatsumi Hijikata inspirée du roman de Yukio Mishima Les Amours interdites. Avec Kazuo Ōno, Hijikata invente une « danse des ténèbres » qui rompt à la fois avec la danse occidentale et avec les arts traditionnels japonais. Crânes rasés, corps blanchis, gestes lents ou convulsifs : le butō explore la mort, l'érotisme et le grotesque.",
+      "source": "Wikipédia (fr) — « Butō »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
       }
     },
     {
@@ -978,6 +1903,113 @@
       "verification": {
         "statut": "relue",
         "note": ""
+      }
+    },
+    {
+      "id": "art-10-5",
+      "categorie": "art",
+      "niveau": 10,
+      "question": "Quel pochoiriste parisien peint des rats sur les murs depuis 1981 et a inspiré Banksy ?",
+      "reponse": "Blek le Rat",
+      "variantes": [
+        "Blek",
+        "Xavier Prou"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Miss.Tic",
+          "Jef Aérosol",
+          "Invader",
+          "Speedy Graphito",
+          "Banksy"
+        ]
+      },
+      "explication": "Xavier Prou, alias Blek le Rat, est considéré comme l'un des pionniers du pochoir urbain. Marqué par les graffitis découverts à New York au début des années 1970, il commence en 1981 à peupler les rues de Paris de rats, animal choisi notamment parce que « rat » est l'anagramme d'« art ». Banksy a reconnu sa dette, disant avoir toujours découvert que Blek avait eu la même idée vingt ans plus tôt.",
+      "anecdote": "Son pseudonyme est un clin d'œil à Blek le Roc, héros d'une bande dessinée de trappeur populaire en France.",
+      "source": "Wikipédia (fr) — « Blek le Rat »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-10-6",
+      "categorie": "art",
+      "niveau": 10,
+      "question": "Quel verrier et ébéniste a présidé l'École de Nancy, fondée en 1901 ?",
+      "reponse": "Émile Gallé",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Louis Majorelle",
+          "Antonin Daum",
+          "Victor Prouvé",
+          "Jacques Gruber",
+          "René Lalique"
+        ]
+      },
+      "explication": "Officiellement nommée Alliance provinciale des industries d'art, l'École de Nancy réunit en 1901 verriers, ébénistes, ferronniers et peintres autour d'un Art nouveau inspiré de la nature. Passionné de botanique, Émile Gallé ornait ses vases de fleurs, d'insectes et de vers de poètes : il les appelait ses « verreries parlantes ». Primé aux Expositions universelles de 1889 et 1900, il meurt en 1904.",
+      "anecdote": "Dreyfusard convaincu, Gallé prit publiquement la défense du capitaine Dreyfus pendant l'Affaire.",
+      "source": "Wikipédia (fr) — « Émile Gallé »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-10-7",
+      "categorie": "art",
+      "niveau": 10,
+      "question": "Quel architecte danois a remporté en 1957 le concours pour l'Opéra de Sydney ?",
+      "reponse": "Jørn Utzon",
+      "variantes": [
+        "Jorn Utzon",
+        "Joern Utzon"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Arne Jacobsen",
+          "Alvar Aalto",
+          "Eero Saarinen",
+          "Bjarke Ingels"
+        ]
+      },
+      "explication": "Le projet de Jørn Utzon, avec ses coques évoquant des voiles gonflées, a été retenu parmi plus de deux cents propositions. Mais les difficultés techniques, l'explosion des coûts et un conflit avec le gouvernement de Nouvelle-Galles du Sud l'ont poussé à démissionner en 1966. Il a quitté l'Australie et n'a jamais vu le bâtiment achevé, inauguré par Élisabeth II en 1973.",
+      "anecdote": "Lauréat du prix Pritzker en 2003, Utzon a vu l'Opéra inscrit au patrimoine mondial de l'Unesco en 2007, un an avant sa mort.",
+      "source": "Wikipédia (fr) — « Jørn Utzon »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "art-10-8",
+      "categorie": "art",
+      "niveau": 10,
+      "question": "Quel miniaturiste persan, actif à Hérat à la fin du XVe siècle, est considéré comme le maître de la peinture persane ?",
+      "reponse": "Behzad",
+      "variantes": [
+        "Bihzad",
+        "Kamal ud-Din Behzad",
+        "Kamaleddin Behzad",
+        "Kamal al-Din Bihzad"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Reza Abbasi",
+          "Sultan Muhammad",
+          "Mir Sayyid Ali"
+        ]
+      },
+      "explication": "Kamal ud-Din Behzad a travaillé à Hérat, dans l'actuel Afghanistan, pour le sultan timouride Husayn Bayqara. Il a renouvelé l'art de la miniature par des compositions animées, des personnages expressifs et des scènes de la vie quotidienne. Une copie illustrée du Bustan du poète Saadi, datée de 1488, lui est attribuée. En 1522, le chah safavide Ismaïl Ier le nomma directeur de l'atelier royal de Tabriz.",
+      "source": "Encyclopædia Britannica — « Bihzād »",
+      "verification": {
+        "statut": "relue",
+        "note": "Source incertaine remplacée."
       }
     }
   ]

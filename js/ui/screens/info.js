@@ -36,7 +36,8 @@ export function rulesContent() {
   return `
     <section class="rule-block">
       <h2>Le principe</h2>
-      <p>Deux équipes s'affrontent autour d'un seul téléphone sur <b>10 thèmes</b>, chacun gravi du niveau 1 au niveau 10.
+      <p>Deux équipes s'affrontent autour d'un seul téléphone sur les <b>thèmes choisis</b> avant la partie
+      (les 10 classiques par défaut, jusqu'à 18), chacun gravi du niveau 1 au niveau 10.
       Le tableau est commun : un niveau joué est consommé pour tout le monde.</p>
     </section>
     <section class="rule-block">
@@ -69,7 +70,7 @@ export function rulesContent() {
     </section>
     <section class="rule-block">
       <h2>Fin de partie</h2>
-      <p>Après le nombre de manches choisi (chaque équipe joue un tour par manche), ou quand les 100 cases du tableau sont jouées.
+      <p>Après le nombre de manches choisi (chaque équipe joue un tour par manche), ou quand toutes les cases du tableau sont jouées.
       L'équipe qui a le plus de points l'emporte.</p>
     </section>
     <section class="rule-block">

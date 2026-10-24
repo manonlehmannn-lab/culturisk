@@ -1,0 +1,1968 @@
+{
+  "categorie": "jeux",
+  "questions": [
+    {
+      "id": "jeu-01-1",
+      "categorie": "jeux",
+      "niveau": 1,
+      "question": "Quel jeu vidéo soviétique consiste à empiler des pièces de quatre carrés pour compléter des lignes ?",
+      "reponse": "Tetris",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Columns",
+          "Puyo Puyo",
+          "Dr. Mario"
+        ]
+      },
+      "explication": "Tetris a été programmé en 1984 par Alexeï Pajitnov, chercheur au centre de calcul de l'Académie des sciences de Moscou. Les sept pièces, appelées tétriminos, tombent de plus en plus vite et chaque ligne complète disparaît. Le jeu franchit le rideau de fer à la fin des années 1980 et connaît un succès planétaire en 1989, vendu avec la console portable de Nintendo.",
+      "anecdote": "Son nom associe « tétra », pour les quatre carrés de chaque pièce, et « tennis », le sport favori de son créateur.",
+      "source": "Wikipédia (fr) — « Tetris »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-01-2",
+      "categorie": "jeux",
+      "niveau": 1,
+      "question": "Aux échecs, quelle pièce faut-il mettre échec et mat pour remporter la partie ?",
+      "reponse": "Roi",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Reine",
+          "Dame",
+          "Tour"
+        ]
+      },
+      "explication": "Le roi n'est jamais capturé : la partie s'arrête dès qu'il est attaqué sans pouvoir échapper à la menace, c'est l'échec et mat. L'expression vient du persan « shâh mât », souvent traduit par « le roi est mort ». Chaque camp ne possède qu'un roi, qui ne se déplace que d'une case à la fois, dans toutes les directions : peu mobile, il doit être protégé en priorité.",
+      "source": "Wikipédia (fr) — « Échecs »",
+      "verification": {
+        "statut": "relue",
+        "note": "Dernière phrase de l'explication reformulée."
+      }
+    },
+    {
+      "id": "jeu-01-3",
+      "categorie": "jeux",
+      "niveau": 1,
+      "question": "Quel personnage jaune et rond avale des pastilles dans un labyrinthe hanté par quatre fantômes ?",
+      "reponse": "Pac-Man",
+      "variantes": [
+        "Pacman",
+        "Puck-Man",
+        "Puckman"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Ms. Pac-Man",
+          "Kirby"
+        ]
+      },
+      "explication": "Pac-Man est sorti dans les salles d'arcade japonaises en 1980, édité par Namco. Le joueur doit vider le labyrinthe de ses pastilles en échappant à Blinky, Pinky, Inky et Clyde ; les super pac-gommes lui permettent un court instant de dévorer ses poursuivants. D'abord baptisé Puck-Man, il a été renommé pour l'Amérique, où l'on craignait que des vandales ne transforment le P en F.",
+      "anecdote": "Chaque fantôme a son propre comportement : Blinky fonce droit sur Pac-Man tandis que Pinky cherche à lui couper la route.",
+      "source": "Wikipédia (fr) — « Pac-Man »",
+      "verification": {
+        "statut": "relue",
+        "note": "Énoncé : « pac-gommes » remplacé par « pastilles » (indice trop proche de la réponse)."
+      }
+    },
+    {
+      "id": "jeu-01-4",
+      "categorie": "jeux",
+      "niveau": 1,
+      "question": "Combien de faces compte un dé à jouer classique ?",
+      "reponse": "6",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 6,
+        "tolerance": 0
+      },
+      "explication": "Le dé cubique est l'un des plus vieux objets de jeu : on en a retrouvé datant du IIIe millénaire av. J.-C., au Proche-Orient et dans la vallée de l'Indus. Sur un dé moderne, les points de deux faces opposées font toujours sept : le 1 fait face au 6, le 2 au 5 et le 3 au 4. Les jeux de rôle utilisent aussi des dés à 4, 8, 12 ou 20 faces.",
+      "anecdote": "« Alea jacta est », la phrase prêtée à César au passage du Rubicon, signifie littéralement « le dé est jeté ».",
+      "source": "Wikipédia (fr) — « Dé »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-01-5",
+      "categorie": "jeux",
+      "niveau": 1,
+      "question": "Quel Pokémon jaune aux joues rouges, de type électrique, est la mascotte de la franchise ?",
+      "reponse": "Pikachu",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Raichu",
+          "Pichu",
+          "Évoli",
+          "Psykokwak"
+        ]
+      },
+      "explication": "Pikachu, le Pokémon numéro 25, a été dessiné par Atsuko Nishida. Son nom associe deux onomatopées japonaises : « pika », le crépitement d'une étincelle, et « chu », le petit cri de la souris. Compagnon inséparable de Sacha dans le dessin animé lancé en 1997, il est devenu le visage de toute la franchise, au point de suivre le joueur à l'écran dans Pokémon Jaune, en 1998.",
+      "anecdote": "Contrairement aux autres Pokémon de Sacha, il refuse presque toujours d'entrer dans sa Poké Ball.",
+      "source": "Wikipédia (fr) — « Pikachu »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-01-6",
+      "categorie": "jeux",
+      "niveau": 1,
+      "question": "Combien de cartes compte un jeu classique de poker ou de bridge, sans les jokers ?",
+      "reponse": "52",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 52,
+        "tolerance": 0
+      },
+      "explication": "Le jeu de 52 cartes réunit quatre couleurs, cœur, carreau, trèfle et pique, de treize cartes chacune, de l'as au roi. Ces enseignes françaises, apparues à la fin du XVe siècle, se sont imposées dans une grande partie du monde grâce à leur simplicité d'impression. En France, on retire souvent les cartes du 2 au 6 pour obtenir le jeu de 32 cartes de la belote.",
+      "anecdote": "Le joker est né aux États-Unis au XIXe siècle comme atout supplémentaire du jeu d'euchre.",
+      "source": "Wikipédia (fr) — « Carte à jouer »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-01-7",
+      "categorie": "jeux",
+      "niveau": 1,
+      "question": "Quel hérisson bleu supersonique est la mascotte de Sega depuis 1991 ?",
+      "reponse": "Sonic",
+      "variantes": [
+        "Sonic the Hedgehog"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Tails",
+          "Knuckles",
+          "Shadow"
+        ]
+      },
+      "explication": "Sonic apparaît en juin 1991 sur Mega Drive dans Sonic the Hedgehog, conçu par le programmeur Yuji Naka et le dessinateur Naoto Ohshima. Sega voulait une mascotte capable de rivaliser avec le plombier de Nintendo : un héros insolent, taillé pour la vitesse. Sa couleur bleue reprend celle du logo de l'entreprise. Le personnage a aussi conquis le cinéma, avec un premier film sorti en 2020.",
+      "anecdote": "Ses chaussures rouges et blanches s'inspireraient des bottes de Michael Jackson sur la pochette de l'album « Bad ».",
+      "source": "Wikipédia (fr) — « Sonic the Hedgehog »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-01-8",
+      "categorie": "jeux",
+      "niveau": 1,
+      "question": "Dans quel jeu de grilles annonce-t-on « touché » ou « coulé » en visant les navires adverses ?",
+      "reponse": "Bataille navale",
+      "variantes": [
+        "Touché-coulé",
+        "Battleship"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Puissance 4",
+          "Stratego",
+          "Morpion"
+        ]
+      },
+      "explication": "Chaque joueur dispose secrètement sa flotte sur une grille de dix cases sur dix, puis tente de deviner la position des navires adverses en annonçant des coordonnées, comme B7. L'adversaire répond « à l'eau », « touché » ou « coulé ». Longtemps joué avec un crayon et du papier, le jeu a été commercialisé en version plastique par Milton Bradley en 1967, sous le nom de Battleship.",
+      "anecdote": "Hollywood en a tiré en 2012 un film à grand spectacle, « Battleship », où la flotte américaine affronte des extraterrestres.",
+      "source": "Wikipédia (fr) — « Bataille navale (jeu) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-02-1",
+      "categorie": "jeux",
+      "niveau": 2,
+      "question": "Quel jeune héros en tunique verte et bonnet pointu tente de sauver la princesse Zelda ?",
+      "reponse": "Link",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Zelda",
+          "Ganon",
+          "Peter Pan"
+        ]
+      },
+      "explication": "Link est le héros de la saga The Legend of Zelda, inaugurée par Nintendo en 1986. Beaucoup de joueurs l'appellent à tort Zelda, du nom de la princesse du royaume d'Hyrule qu'il protège. Son prénom, qui signifie « lien » en anglais, évoquerait le lien entre le joueur et l'univers du jeu. Muet ou presque, il parcourt les épisodes armé d'une épée, d'un bouclier et souvent d'un arc.",
+      "anecdote": "Selon les épisodes, Link n'est pas toujours le même personnage : plusieurs héros portant ce nom se succèdent à travers les siècles d'Hyrule.",
+      "source": "Wikipédia (fr) — « The Legend of Zelda »",
+      "verification": {
+        "statut": "relue",
+        "note": "Origine du prénom mise au conditionnel."
+      }
+    },
+    {
+      "id": "jeu-02-2",
+      "categorie": "jeux",
+      "niveau": 2,
+      "question": "Dans quel jeu de société achète-t-on des propriétés pour y bâtir maisons et hôtels, en espérant éviter la prison ?",
+      "reponse": "Monopoly",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "La Bonne Paye",
+          "Destins",
+          "Cashflow"
+        ]
+      },
+      "explication": "Commercialisé en 1935 aux États-Unis par Parker Brothers, le Monopoly arrive en France dès 1936 avec des rues parisiennes. Les joueurs lancent deux dés, achètent des terrains et encaissent des loyers jusqu'à ruiner leurs adversaires. Une case « Allez en prison » et les cartes Chance ou Caisse de communauté viennent bouleverser la partie. Il existe des centaines d'éditions locales ou thématiques.",
+      "source": "Wikipédia (fr) — « Monopoly »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-02-3",
+      "categorie": "jeux",
+      "niveau": 2,
+      "question": "Quelle console de Nintendo, sortie en 2006, se pilotait par les mouvements d'une manette en forme de télécommande ?",
+      "reponse": "Wii",
+      "variantes": [
+        "Nintendo Wii"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Wii U",
+          "Switch",
+          "Kinect",
+          "GameCube"
+        ],
+        "exact": true
+      },
+      "explication": "Avec sa Wiimote, équipée d'accéléromètres et d'un capteur infrarouge, la Wii invitait à mimer un coup de raquette ou un lancer de bowling. Vendue avec Wii Sports dans la plupart des pays, elle a séduit les familles et les seniors, bien au-delà du public habituel des jeux vidéo. Elle s'est écoulée à plus de 100 millions d'exemplaires, devant ses concurrentes de Sony et Microsoft.",
+      "source": "Wikipédia (fr) — « Wii »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-02-4",
+      "categorie": "jeux",
+      "niveau": 2,
+      "question": "Aux échecs, quelle pièce se déplace en forme de L et peut sauter par-dessus les autres ?",
+      "reponse": "Cavalier",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Fou",
+          "Tour",
+          "Pion"
+        ]
+      },
+      "explication": "Le cavalier avance de deux cases dans une direction puis d'une case à angle droit, et c'est la seule pièce qui peut enjamber les autres. Chaque joueur en possède deux, placés au départ entre la tour et le fou. À chaque coup, il change de couleur de case. En anglais, il s'appelle « knight », le chevalier, et il est souvent représenté par une tête de cheval.",
+      "anecdote": "Le « problème du cavalier », qui consiste à lui faire visiter les 64 cases une seule fois, a été étudié par le mathématicien Leonhard Euler.",
+      "source": "Wikipédia (fr) — « Cavalier (échecs) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-02-5",
+      "categorie": "jeux",
+      "niveau": 2,
+      "question": "Comment appelle-t-on, dans un jeu vidéo, l'adversaire redoutable qu'il faut vaincre à la fin d'un niveau ?",
+      "reponse": "Boss",
+      "variantes": [
+        "Boss de fin",
+        "Boss final",
+        "Big boss",
+        "Boss de fin de niveau"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Mob",
+          "Bot",
+          "Sbire"
+        ]
+      },
+      "explication": "Emprunté à l'anglais, où il désigne le patron, le mot « boss » s'applique à un ennemi bien plus résistant que les autres, souvent doté d'une barre de vie et d'attaques qu'il faut apprendre à esquiver. Il conclut un niveau ou un chapitre, tandis qu'un « mini-boss » barre la route à mi-parcours. Bowser, l'ennemi juré de Mario, est l'un des plus célèbres.",
+      "source": "Wikipédia (fr) — « Boss (jeu vidéo) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-02-6",
+      "categorie": "jeux",
+      "niveau": 2,
+      "question": "Dans quel jeu fait-on glisser des jetons dans une grille verticale pour en aligner quatre de sa couleur ?",
+      "reponse": "Puissance 4",
+      "variantes": [
+        "Puissance quatre",
+        "Connect Four",
+        "Connect 4"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Morpion",
+          "Othello",
+          "Gomoku"
+        ]
+      },
+      "explication": "Commercialisé en 1974 par Milton Bradley sous le nom de Connect Four, le jeu se pratique sur une grille de sept colonnes et six rangées. Chaque jeton tombe au plus bas de la colonne choisie, et l'on peut aligner ses pions à l'horizontale, à la verticale ou en diagonale. En 1988, deux chercheurs ont démontré séparément que le premier joueur gagne à coup sûr s'il joue parfaitement.",
+      "anecdote": "Pour s'assurer la victoire, ce premier joueur doit commencer par la colonne centrale.",
+      "source": "Wikipédia (fr) — « Puissance 4 »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-02-7",
+      "categorie": "jeux",
+      "niveau": 2,
+      "question": "Quelle console hybride de Nintendo, sortie en 2017, se branche sur la télévision ou s'emporte comme une portable ?",
+      "reponse": "Switch",
+      "variantes": [
+        "Nintendo Switch"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Switch 2",
+          "Wii U",
+          "Nintendo 3DS",
+          "Steam Deck"
+        ]
+      },
+      "explication": "Sortie le 3 mars 2017, la Switch se glisse dans une station reliée au téléviseur ou s'utilise en mode portable. Ses deux manettes détachables, les Joy-Con, permettent de jouer à deux n'importe où. Lancée avec The Legend of Zelda: Breath of the Wild, elle dépasse les 140 millions d'exemplaires dès 2024, avant l'arrivée de la Switch 2 en juin 2025.",
+      "source": "Wikipédia (fr) — « Nintendo Switch »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-02-8",
+      "categorie": "jeux",
+      "niveau": 2,
+      "question": "Quel jeu d'adresse consiste à retirer un à un les blocs de bois d'une tour, puis à les reposer au sommet ?",
+      "reponse": "Jenga",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Mikado",
+          "Kapla",
+          "Jungle Speed"
+        ]
+      },
+      "explication": "Le Jenga a été imaginé par la Britannique Leslie Scott, qui a grandi en Afrique, à partir d'un jeu de blocs pratiqué en famille au Ghana. Présenté en 1983 dans un salon du jouet à Londres, il se compose de 54 blocs empilés en 18 étages de trois. La partie s'arrête quand la tour s'effondre : celui qui l'a fait tomber a perdu.",
+      "anecdote": "Son nom vient du swahili « kujenga », qui signifie « construire ».",
+      "source": "Wikipédia (fr) — « Jenga »",
+      "verification": {
+        "statut": "relue",
+        "note": "Enfance de Leslie Scott formulée plus prudemment."
+      }
+    },
+    {
+      "id": "jeu-03-1",
+      "categorie": "jeux",
+      "niveau": 3,
+      "question": "Quelle entreprise japonaise a lancé la console PlayStation en 1994 ?",
+      "reponse": "Sony",
+      "variantes": [
+        "Sony Computer Entertainment",
+        "Sony Interactive Entertainment"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Sega",
+          "Nintendo",
+          "Panasonic",
+          "NEC"
+        ]
+      },
+      "explication": "La PlayStation est née d'un partenariat avorté : Sony devait concevoir un lecteur de CD-ROM pour la Super Nintendo, mais Nintendo s'est retiré du projet en 1991. Sony a alors développé sa propre console, sous l'impulsion de l'ingénieur Ken Kutaragi. Sortie au Japon en décembre 1994, elle est devenue la première console à dépasser les 100 millions d'exemplaires vendus.",
+      "anecdote": "Ses quatre boutons portent des symboles choisis pour leur sens : le rond et la croix pour oui et non, le triangle pour un point de vue, le carré pour un menu.",
+      "source": "Wikipédia (fr) — « PlayStation »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-03-2",
+      "categorie": "jeux",
+      "niveau": 3,
+      "question": "Dans quel jeu de société faut-il découvrir le coupable, l'arme et la pièce du meurtre du docteur Lenoir ?",
+      "reponse": "Cluedo",
+      "variantes": [
+        "Clue"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Mysterium",
+          "Loups-garous",
+          "Sherlock Holmes Détective Conseil"
+        ]
+      },
+      "explication": "Publié en 1949 par l'éditeur britannique Waddingtons, le Cluedo se déroule dans un manoir de neuf pièces. Les joueurs, qui incarnent des suspects comme le colonel Moutarde ou Mademoiselle Rose, se déplacent en lançant les dés et émettent des hypothèses que les autres doivent réfuter. Le nom mêle l'anglais « clue », l'indice, et « Ludo », un jeu de plateau britannique proche des petits chevaux.",
+      "anecdote": "Aux États-Unis, le jeu s'appelle simplement « Clue », et la victime y porte le nom de Mr. Boddy.",
+      "source": "Wikipédia (fr) — « Cluedo »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-03-3",
+      "categorie": "jeux",
+      "niveau": 3,
+      "question": "Quel jeu gratuit d'Epic Games, sorti en 2017, lâche cent joueurs sur une île jusqu'au dernier survivant ?",
+      "reponse": "Fortnite",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "PUBG",
+          "PlayerUnknown's Battlegrounds",
+          "Apex Legends",
+          "Warzone"
+        ]
+      },
+      "explication": "Fortnite est d'abord un jeu coopératif de construction et de survie, auquel Epic Games ajoute en septembre 2017 un mode Battle Royale gratuit. Le succès est foudroyant : le jeu se finance par la vente de tenues et de danses, les fameuses « emotes ». En août 2020, son retrait de l'App Store, après un conflit avec Apple sur les paiements, déclenche une longue bataille judiciaire.",
+      "anecdote": "En avril 2020, un concert virtuel du rappeur Travis Scott y a réuni plus de douze millions de joueurs connectés en même temps.",
+      "source": "Wikipédia (fr) — « Fortnite »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-03-4",
+      "categorie": "jeux",
+      "niveau": 3,
+      "question": "Dans quel pays le Rubik's Cube a-t-il été inventé, en 1974 ?",
+      "reponse": "Hongrie",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Autriche",
+          "Roumanie",
+          "Tchécoslovaquie",
+          "Pologne"
+        ]
+      },
+      "explication": "Ernő Rubik, qui enseignait l'architecture intérieure à Budapest, a conçu son cube pour faire réfléchir ses étudiants aux volumes et aux mouvements dans l'espace. Breveté en Hongrie en 1975 sous le nom de « cube magique », il s'exporte à partir de 1980 et devient un phénomène mondial. Il compte plus de 43 milliards de milliards de combinaisons, mais toutes peuvent être résolues en vingt mouvements au plus.",
+      "source": "Wikipédia (fr) — « Rubik's Cube »",
+      "verification": {
+        "statut": "relue",
+        "note": "Fonction d'Ernő Rubik précisée. Pas de doublon dans inventions.json."
+      }
+    },
+    {
+      "id": "jeu-03-5",
+      "categorie": "jeux",
+      "niveau": 3,
+      "question": "Quel jeu fourni avec Windows consiste à découvrir les cases d'une grille sans tomber sur une mine ?",
+      "reponse": "Démineur",
+      "variantes": [
+        "Minesweeper"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Solitaire",
+          "Bataille navale",
+          "Picross"
+        ]
+      },
+      "explication": "Le Démineur est installé d'office avec Windows 3.1, en 1992. Chaque case découverte indique combien de mines l'entourent, et un clic droit permet de planter un drapeau sur une case suspecte. En niveau expert, la grille de 30 cases sur 16 cache 99 mines. Le jeu a cessé d'être fourni par défaut avec Windows 8, en 2012, mais reste téléchargeable gratuitement.",
+      "source": "Wikipedia (en) — « Minesweeper (video game) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-03-6",
+      "categorie": "jeux",
+      "niveau": 3,
+      "question": "Quel jeu de cartes, créé en 1971 dans l'Ohio, oblige à crier son nom quand il ne reste qu'une carte ?",
+      "reponse": "Uno",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Duo",
+          "Skip-Bo",
+          "Huit américain",
+          "Mau-mau"
+        ],
+        "exact": true
+      },
+      "explication": "Uno a été inventé en 1971 par Merle Robbins, un barbier de Reading, dans l'Ohio, après une dispute familiale sur les règles du huit américain. Le paquet classique compte 108 cartes de quatre couleurs, avec des cartes spéciales qui font passer son tour, inversent le sens du jeu ou font piocher. Le nom signifie « un » en espagnol et en italien. Mattel le possède depuis 1992.",
+      "source": "Wikipedia (en) — « Uno (card game) »",
+      "verification": {
+        "statut": "relue",
+        "note": "« Paquet classique » : les éditions récentes comptent 112 cartes."
+      }
+    },
+    {
+      "id": "jeu-03-7",
+      "categorie": "jeux",
+      "niveau": 3,
+      "question": "Quelle petite boule rose de Nintendo aspire ses ennemis pour copier leurs pouvoirs ?",
+      "reponse": "Kirby",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Rondoudou",
+          "Jigglypuff",
+          "Yoshi"
+        ]
+      },
+      "explication": "Kirby naît en 1992 sur Game Boy dans Kirby's Dream Land, conçu par Masahiro Sakurai au studio HAL Laboratory. Ce héros tout rond gonfle pour flotter dans les airs et avale ses adversaires. Son pouvoir de copie, qui lui fait adopter les capacités des ennemis avalés, apparaît en 1993 dans Kirby's Adventure. Sakurai a ensuite créé la série de combat Super Smash Bros.",
+      "anecdote": "Son nom rendrait hommage à John Kirby, l'avocat qui défendit Nintendo face à Universal dans un procès autour de King Kong.",
+      "source": "Wikipedia (en) — « Kirby (character) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-03-8",
+      "categorie": "jeux",
+      "niveau": 3,
+      "question": "Au Trivial Pursuit, quel surnom fromager donne-t-on en France au pion rond que l'on remplit de six parts ?",
+      "reponse": "Camembert",
+      "variantes": [
+        "Camemberts"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Fromage",
+          "Brie",
+          "Roue",
+          "Gâteau"
+        ]
+      },
+      "explication": "Au Trivial Pursuit, chaque joueur déplace un pion rond divisé en six emplacements, un par catégorie de questions, de la géographie aux sports et loisirs. On gagne une part en répondant juste depuis une case spéciale, puis il faut rejoindre le centre du plateau et répondre à une dernière question. Le jeu a été inventé en 1979 à Montréal par Chris Haney et Scott Abbott.",
+      "source": "Wikipédia (fr) — « Trivial Pursuit »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-04-1",
+      "categorie": "jeux",
+      "niveau": 4,
+      "question": "Quelle archéologue britannique, armée de deux pistolets, est l'héroïne de la saga Tomb Raider ?",
+      "reponse": "Lara Croft",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Indiana Jones",
+          "Nathan Drake",
+          "Jill Valentine"
+        ],
+        "prenomSeul": true
+      },
+      "explication": "Lara Croft apparaît en 1996 dans le premier Tomb Raider, développé par le studio britannique Core Design à Derby. Aventurière aristocrate, elle explore tombeaux et temples en résolvant des énigmes en 3D. Devenue une icône de la culture populaire, elle a été incarnée au cinéma par Angelina Jolie en 2001 et 2003, puis par Alicia Vikander en 2018. La saga a été relancée en 2013.",
+      "anecdote": "Son créateur, Toby Gard, aurait d'abord envisagé un héros masculin, avant d'opter pour une femme afin d'éviter une copie d'Indiana Jones.",
+      "source": "Wikipédia (fr) — « Lara Croft »",
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote mise au conditionnel."
+      }
+    },
+    {
+      "id": "jeu-04-2",
+      "categorie": "jeux",
+      "niveau": 4,
+      "question": "Quel jeu de stratégie d'origine chinoise consiste à encercler des territoires avec des pierres noires et blanches ?",
+      "reponse": "Go",
+      "variantes": [
+        "Jeu de go",
+        "Weiqi",
+        "Baduk",
+        "Igo"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Othello",
+          "Reversi",
+          "Gomoku",
+          "Dames"
+        ],
+        "exact": true
+      },
+      "explication": "Pratiqué en Chine depuis plus de 2 500 ans, le go se joue sur un goban de 19 lignes sur 19, soit 361 intersections. Les joueurs posent tour à tour une pierre et capturent celles de l'adversaire en les encerclant. À la fin, on compte le territoire délimité par chacun ; comme les Noirs jouent en premier, les Blancs reçoivent une compensation de quelques points, le komi.",
+      "anecdote": "On l'appelle weiqi en Chine, baduk en Corée et igo au Japon, d'où vient le nom utilisé en Occident.",
+      "source": "Wikipédia (fr) — « Go (jeu) »",
+      "verification": {
+        "statut": "relue",
+        "note": "Mention d'AlphaGo retirée de l'explication (fait déjà couvert par web-05-5)."
+      }
+    },
+    {
+      "id": "jeu-04-3",
+      "categorie": "jeux",
+      "niveau": 4,
+      "question": "Quelle console portable de Nintendo, sortie en 1989, affichait ses jeux en nuances de vert ?",
+      "reponse": "Game Boy",
+      "variantes": [
+        "Gameboy"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Game Boy Color",
+          "Game Gear",
+          "Game & Watch",
+          "Lynx",
+          "Nintendo DS"
+        ]
+      },
+      "explication": "La Game Boy sort au Japon en avril 1989. Son écran monochrome, moins impressionnant que ceux de ses concurrentes, lui permet de tenir des dizaines d'heures avec quatre piles. Vendue avec Tetris en Amérique et en Europe, elle connaît une seconde jeunesse en 1996 avec Pokémon. Avec la Game Boy Color, elle dépasse les 118 millions d'exemplaires.",
+      "source": "Wikipédia (fr) — « Game Boy »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-04-4",
+      "categorie": "jeux",
+      "niveau": 4,
+      "question": "Au Monopoly français classique, quelle rue bleu foncé est la propriété la plus chère du plateau ?",
+      "reponse": "Rue de la Paix",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Avenue des Champs-Élysées",
+          "Champs-Élysées",
+          "Avenue Foch",
+          "Boulevard Malesherbes"
+        ]
+      },
+      "explication": "L'édition française de 1936 a remplacé les rues d'Atlantic City par des adresses parisiennes. La rue de la Paix, voie prestigieuse des grands joailliers près de la place Vendôme, forme avec l'avenue des Champs-Élysées le groupe bleu foncé, juste avant la case Départ. À l'autre bout du plateau, le boulevard de Belleville et la rue Lecourbe sont les terrains les moins chers.",
+      "anecdote": "Son équivalent est Boardwalk dans la version américaine et Mayfair dans la version londonienne.",
+      "source": "Wikipédia (fr) — « Monopoly »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-04-5",
+      "categorie": "jeux",
+      "niveau": 4,
+      "question": "Quel sigle désigne, dans un jeu vidéo ou de rôle, un personnage qui n'est pas contrôlé par un joueur ?",
+      "reponse": "PNJ",
+      "variantes": [
+        "NPC",
+        "Personnage non joueur",
+        "Personnage non-joueur"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "PJ",
+          "IA",
+          "Bot",
+          "MJ"
+        ],
+        "exact": true
+      },
+      "explication": "L'expression vient des jeux de rôle sur table, où le maître du jeu anime tous les personnages que croisent les joueurs, par opposition aux personnages joueurs, les PJ. Dans les jeux vidéo, les PNJ sont pilotés par le programme : marchands, villageois, gardes ou donneurs de quêtes. En anglais, on parle de NPC, pour « non-player character ».",
+      "anecdote": "Sur les réseaux sociaux, « NPC » est devenu une moquerie visant ceux qui semblent répéter des opinions toutes faites.",
+      "source": "Wikipédia (fr) — « Personnage non-joueur »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-04-6",
+      "categorie": "jeux",
+      "niveau": 4,
+      "question": "Combien de cases compte le damier du jeu de dames international ?",
+      "reponse": "100",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 100,
+        "tolerance": 0
+      },
+      "explication": "Le jeu de dames international se joue sur un damier de dix cases sur dix, où chaque joueur aligne vingt pions sur les cases foncées. Un pion qui atteint la dernière rangée devient une dame, capable de parcourir les diagonales sur plusieurs cases. La prise y est obligatoire, et il faut choisir celle qui capture le plus de pièces. Les Anglo-Saxons jouent plutôt sur 64 cases, avec douze pions chacun.",
+      "source": "Wikipédia (fr) — « Dames »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-04-7",
+      "categorie": "jeux",
+      "niveau": 4,
+      "question": "Quel jeu de serpent qui s'allonge en mangeant était préinstallé sur les téléphones Nokia dès 1997 ?",
+      "reponse": "Snake",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Tetris",
+          "Pong",
+          "Nibbles",
+          "Slither.io"
+        ]
+      },
+      "explication": "Snake a été programmé par l'ingénieur finlandais Taneli Armanto pour le Nokia 6110, sorti en 1997. Le joueur guide un serpent qui grandit à chaque proie avalée et perd s'il se mord la queue ou heurte un mur. Le principe remonte au jeu d'arcade Blockade, de 1976, mais la version de Nokia, installée sur des centaines de millions de téléphones, l'a rendu universel.",
+      "anecdote": "Le Nokia 3310, sorti en 2000, embarquait une suite, Snake II.",
+      "source": "Wikipedia (en) — « Snake (video game genre) »",
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote simplifiée (détail incertain sur les bords de l'écran retiré)."
+      }
+    },
+    {
+      "id": "jeu-04-8",
+      "categorie": "jeux",
+      "niveau": 4,
+      "question": "Au poker, comment appelle-t-on une suite de l'as au dix dans la même couleur, la meilleure main possible ?",
+      "reponse": "Quinte flush royale",
+      "variantes": [
+        "Quinte royale",
+        "Royal flush",
+        "Flush royale",
+        "Quinte flush royal"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Quinte flush",
+          "Carré",
+          "Full",
+          "Couleur",
+          "Suite"
+        ]
+      },
+      "explication": "La quinte flush royale réunit l'as, le roi, la dame, le valet et le dix d'une même couleur. C'est la meilleure main du poker classique, devant la quinte flush, le carré et le full. Avec cinq cartes distribuées au hasard dans un jeu de 52, la probabilité de l'obtenir n'est que d'une sur 649 740. Le poker s'est développé au XIXe siècle aux États-Unis, notamment sur les bateaux du Mississippi.",
+      "source": "Wikipédia (fr) — « Poker »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-05-1",
+      "categorie": "jeux",
+      "niveau": 5,
+      "question": "Quel éditeur français, fondé en 1986 par les cinq frères Guillemot, a créé la saga Assassin's Creed ?",
+      "reponse": "Ubisoft",
+      "variantes": [
+        "Ubi Soft"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Infogrames",
+          "Gameloft",
+          "Atari",
+          "Vivendi"
+        ]
+      },
+      "explication": "Ubisoft est né à Carentoir, dans le Morbihan, où la famille Guillemot tenait un commerce. D'abord distributeur de jeux, il devient l'un des plus grands éditeurs mondiaux, avec de nombreux studios dont celui de Montréal, qui lance Assassin's Creed en 2007. Le groupe a résisté entre 2015 et 2018 à une tentative de prise de contrôle hostile menée par Vivendi.",
+      "anecdote": "Les frères Guillemot ont aussi fondé en 1999 Gameloft, spécialiste des jeux pour téléphones, finalement racheté par Vivendi en 2016.",
+      "source": "Wikipédia (fr) — « Ubisoft »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-05-2",
+      "categorie": "jeux",
+      "niveau": 5,
+      "question": "Quel Américain a ravi le titre mondial d'échecs au Soviétique Boris Spassky en 1972, à Reykjavik ?",
+      "reponse": "Bobby Fischer",
+      "variantes": [
+        "Robert Fischer",
+        "Robert James Fischer"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Garry Kasparov",
+          "Anatoli Karpov",
+          "Paul Morphy"
+        ]
+      },
+      "explication": "Disputé en pleine guerre froide, le « match du siècle » a mis fin à une domination soviétique sur le titre mondial qui durait depuis 1948. Après un début chaotique, Fischer s'est imposé 12,5 à 8,5. En 1975, il refuse de défendre sa couronne faute d'obtenir ses conditions et disparaît presque de la scène. Il meurt en 2008 en Islande, dont il avait obtenu la nationalité.",
+      "anecdote": "Fischer avait perdu la première partie, puis déclaré forfait pour la deuxième en protestant contre la présence des caméras.",
+      "source": "Wikipédia (fr) — « Bobby Fischer »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-05-3",
+      "categorie": "jeux",
+      "niveau": 5,
+      "question": "Dans quelle saga de Rockstar Games la ville fictive de Los Santos parodie-t-elle Los Angeles ?",
+      "reponse": "Grand Theft Auto",
+      "variantes": [
+        "GTA"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Red Dead Redemption",
+          "Saints Row",
+          "Mafia",
+          "Driver"
+        ]
+      },
+      "explication": "Lancée en 1997, la série Grand Theft Auto laisse le joueur parcourir librement des villes inspirées des États-Unis : Liberty City pour New York, Vice City pour Miami et Los Santos pour Los Angeles. GTA San Andreas, en 2004, puis GTA V, en 2013, s'y déroulent. Ce dernier a rapporté un milliard de dollars en trois jours, un record pour un produit de divertissement à l'époque.",
+      "source": "Wikipédia (fr) — « Grand Theft Auto »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-05-4",
+      "categorie": "jeux",
+      "niveau": 5,
+      "question": "Au tarot, combien de « bouts », aussi appelés oudlers, compte le jeu ?",
+      "reponse": "3",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 3,
+        "tolerance": 0
+      },
+      "explication": "Les trois bouts sont le Petit, c'est-à-dire le 1 d'atout, le 21 d'atout et l'Excuse. Ils déterminent le nombre de points que le preneur doit réunir : 56 sans bout, 51 avec un, 41 avec deux et seulement 36 avec les trois. Le jeu de tarot compte 78 cartes, dont 21 atouts, l'Excuse et 56 cartes réparties en quatre couleurs, avec un cavalier entre la dame et le valet.",
+      "anecdote": "Mener le Petit jusqu'au dernier pli rapporte une prime appelée « petit au bout ».",
+      "source": "Fédération française de tarot — règlement officiel",
+      "verification": {
+        "statut": "relue",
+        "note": "Intitulé de la source généralisé."
+      }
+    },
+    {
+      "id": "jeu-05-5",
+      "categorie": "jeux",
+      "niveau": 5,
+      "question": "Quel jeune renard à deux queues, capable de voler, est le fidèle acolyte de Sonic ?",
+      "reponse": "Tails",
+      "variantes": [
+        "Miles Prower",
+        "Miles « Tails » Prower"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Knuckles",
+          "Shadow",
+          "Amy Rose"
+        ]
+      },
+      "explication": "Tails fait ses débuts en 1992 dans Sonic the Hedgehog 2, où un second joueur peut le contrôler. Ses deux queues tournent comme les pales d'un hélicoptère pour lui permettre de voler. Son nom complet, Miles Prower, est un jeu de mots sur « miles per hour », les miles par heure, clin d'œil à la vitesse de son ami. Il a été dessiné par Yasushi Yamaguchi.",
+      "source": "Wikipedia (en) — « Tails (Sonic the Hedgehog) »",
+      "verification": {
+        "statut": "relue",
+        "note": "Source : article principal (en) du personnage."
+      }
+    },
+    {
+      "id": "jeu-05-6",
+      "categorie": "jeux",
+      "niveau": 5,
+      "question": "Au Scrabble, combien de points de prime rapporte la pose des sept lettres de son chevalet en un seul coup ?",
+      "reponse": "50",
+      "variantes": [
+        "50 points"
+      ],
+      "validation": {
+        "type": "nombre",
+        "valeur": 50,
+        "tolerance": 0
+      },
+      "explication": "Placer ses sept lettres d'un coup s'appelle faire un « scrabble » et rapporte 50 points de prime, en plus de la valeur du mot. La version française compte 102 jetons, dont deux jokers ; le K, le W, le X, le Y et le Z y valent chacun 10 points. Les compétitions francophones se disputent souvent en duplicate, formule où tous les joueurs reçoivent le même tirage.",
+      "anecdote": "En 2015, le Néo-Zélandais Nigel Richards est devenu champion du monde de Scrabble francophone sans parler français.",
+      "source": "Wikipédia (fr) — « Scrabble »",
+      "verification": {
+        "statut": "relue",
+        "note": "Énoncé reformulé pour appeler un nombre."
+      }
+    },
+    {
+      "id": "jeu-05-7",
+      "categorie": "jeux",
+      "niveau": 5,
+      "question": "De quel pays vient le studio Rovio, créateur du jeu mobile Angry Birds en 2009 ?",
+      "reponse": "Finlande",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Suède",
+          "Norvège",
+          "Danemark",
+          "Estonie"
+        ]
+      },
+      "explication": "Angry Birds sort en décembre 2009 sur iPhone. Le joueur catapulte des oiseaux furieux sur des constructions abritant des cochons verts, coupables d'avoir volé leurs œufs. Il devient l'un des premiers grands succès des smartphones, décliné en jouets et en film d'animation en 2016. Le studio Rovio, installé à Espoo, près d'Helsinki, a été racheté par le japonais Sega en 2023.",
+      "source": "Wikipédia (fr) — « Angry Birds »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-05-8",
+      "categorie": "jeux",
+      "niveau": 5,
+      "question": "Quel jeu de cartes français de 1954 simule une course automobile semée de crevaisons et d'accidents ?",
+      "reponse": "Mille Bornes",
+      "variantes": [
+        "1000 Bornes"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Uno",
+          "Rummikub",
+          "Speed"
+        ]
+      },
+      "explication": "Créé en 1954 par le Français Edmond Dujardin, le Mille Bornes fait parcourir mille kilomètres aux joueurs. On se ralentit les uns les autres avec des cartes d'attaque, comme le feu rouge, la crevaison ou la panne d'essence, que l'on répare avec des parades. Les bottes, comme l'as du volant ou la citerne d'essence, protègent définitivement d'une attaque.",
+      "anecdote": "Jouer une botte au moment même où l'on subit l'attaque correspondante s'appelle un « coup fourré ».",
+      "source": "Wikipédia (fr) — « Mille Bornes »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-06-1",
+      "categorie": "jeux",
+      "niveau": 6,
+      "question": "Quelle console, sortie au Japon en 1998, fut la dernière console de salon de Sega ?",
+      "reponse": "Dreamcast",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Saturn",
+          "Mega Drive",
+          "Master System",
+          "Mega-CD"
+        ]
+      },
+      "explication": "En avance sur son temps, la Dreamcast intégrait un modem pour jouer en ligne et a accueilli des titres marquants comme Shenmue ou Soulcalibur. Mais face à l'arrivée de la PlayStation 2 en 2000 et après l'échec de la Saturn, Sega arrête sa production en 2001, avec environ neuf millions d'exemplaires vendus. L'entreprise se consacre ensuite à l'édition de jeux pour les consoles concurrentes.",
+      "source": "Wikipédia (fr) — « Dreamcast »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-06-2",
+      "categorie": "jeux",
+      "niveau": 6,
+      "question": "Quel jeu de Klaus Teuber, paru en 1995, fait coloniser une île en échangeant bois, argile, laine, blé et minerai ?",
+      "reponse": "Catan",
+      "variantes": [
+        "Les Colons de Catane",
+        "Colons de Catane",
+        "Die Siedler von Catan",
+        "Settlers of Catan",
+        "The Settlers of Catan"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Carcassonne",
+          "Agricola",
+          "Les Aventuriers du Rail",
+          "Risk"
+        ]
+      },
+      "explication": "Le plateau de Catan, composé de tuiles hexagonales disposées différemment à chaque partie, rapporte des ressources selon le résultat de deux dés. Les joueurs construisent routes, colonies et villes, et négocient entre eux : le premier à dix points de victoire l'emporte. Récompensé par le Spiel des Jahres en 1995, il a popularisé les jeux de société allemands dans le monde entier.",
+      "anecdote": "Quand un joueur obtient 7 aux dés, il déplace le voleur, qui bloque la production d'une tuile.",
+      "source": "Wikipédia (fr) — « Les Colons de Catane »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-06-3",
+      "categorie": "jeux",
+      "niveau": 6,
+      "question": "Quel jeu d'arcade d'Atari, sorti en 1972, simulait une partie de tennis de table ?",
+      "reponse": "Pong",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Breakout",
+          "Ping-pong",
+          "Tennis",
+          "Space Invaders"
+        ]
+      },
+      "explication": "Pong a été programmé par l'ingénieur Allan Alcorn, d'abord comme exercice d'entraînement. Le premier prototype, installé dans un bar de Sunnyvale, en Californie, serait tombé en panne parce que son monnayeur débordait de pièces. Premier grand succès commercial du jeu vidéo, il s'inspirait d'un jeu de tennis de la console Magnavox Odyssey, ce qui valut à Atari un procès réglé à l'amiable.",
+      "source": "Wikipédia (fr) — « Pong »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-06-4",
+      "categorie": "jeux",
+      "niveau": 6,
+      "question": "Quel jeu de tuiles de Klaus-Jürgen Wrede, prix Spiel des Jahres 2001, fait bâtir villes fortifiées, routes et abbayes ?",
+      "reponse": "Carcassonne",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Catan",
+          "Kingdomino",
+          "Aigues-Mortes"
+        ]
+      },
+      "explication": "Dans Carcassonne, sorti en 2000, les joueurs piochent et posent des tuiles pour construire peu à peu un paysage médiéval de villes, de routes, d'abbayes et de prés. Ils y placent leurs partisans, petits pions en bois, pour marquer des points. Le jeu tire son nom de la célèbre cité fortifiée de l'Aude. Le Spiel des Jahres, qu'il a remporté, est le plus prestigieux prix allemand de jeu de société.",
+      "anecdote": "Ses pions en forme de bonhomme ont popularisé le mot « meeple », contraction de « my people ».",
+      "source": "Wikipédia (fr) — « Carcassonne (jeu) »",
+      "verification": {
+        "statut": "relue",
+        "note": "Énoncé réécrit : l'indice « cité médiévale de l'Aude » donnait la réponse par la géographie (niveau trop facile)."
+      }
+    },
+    {
+      "id": "jeu-06-5",
+      "categorie": "jeux",
+      "niveau": 6,
+      "question": "En 2024, quelle console de Sony détenait le record de la console la plus vendue de l'histoire ?",
+      "reponse": "PlayStation 2",
+      "variantes": [
+        "PS2"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "PlayStation",
+          "PlayStation 4",
+          "PS4",
+          "PS1",
+          "Nintendo DS"
+        ]
+      },
+      "explication": "Sortie au Japon en mars 2000, la PlayStation 2 a profité de son lecteur de DVD, à une époque où ces appareils coûtaient cher, et d'un immense catalogue de jeux. Sony l'a fabriquée jusqu'au début de 2013, soit pendant près de treize ans. Avec plus de 155 millions d'exemplaires, elle devançait de peu la Nintendo DS, à environ 154 millions.",
+      "source": "Wikipédia (fr) — « PlayStation 2 »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-06-6",
+      "categorie": "jeux",
+      "niveau": 6,
+      "question": "Quel jeu de rôle, publié en 1974 par Gary Gygax et Dave Arneson, a fondé le genre ?",
+      "reponse": "Donjons et Dragons",
+      "variantes": [
+        "Dungeons & Dragons",
+        "Dungeons and Dragons",
+        "Donjons & Dragons",
+        "D&D"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Warhammer",
+          "L'Appel de Cthulhu",
+          "Pathfinder",
+          "Magic"
+        ]
+      },
+      "explication": "Publié par la société TSR, Donjons et Dragons est né des jeux de guerre avec figurines, comme Chainmail, et de l'univers de Tolkien. Chaque joueur y incarne un aventurier dont un maître du jeu raconte les péripéties, les dés tranchant l'issue des actions. Racheté par Wizards of the Coast en 1997, lui-même filiale de Hasbro depuis 1999, il a connu un regain de popularité grâce à la série Stranger Things.",
+      "anecdote": "Le dé à vingt faces, ou d20, est devenu son emblème : c'est lui qui décide de la réussite de la plupart des actions.",
+      "source": "Wikipédia (fr) — « Donjons et Dragons »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-06-7",
+      "categorie": "jeux",
+      "niveau": 6,
+      "question": "De quel pays vient le studio CD Projekt, créateur de la saga The Witcher ?",
+      "reponse": "Pologne",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "République tchèque",
+          "Ukraine",
+          "Russie",
+          "Hongrie"
+        ]
+      },
+      "explication": "Fondé à Varsovie en 1994, CD Projekt a d'abord distribué des jeux étrangers en Pologne. Son studio adapte ensuite les romans de fantasy d'Andrzej Sapkowski, qui suivent le chasseur de monstres Geralt de Riv. The Witcher 3: Wild Hunt, sorti en 2015, a dépassé les 50 millions d'exemplaires vendus en 2023. Le studio a aussi créé Cyberpunk 2077, au lancement chaotique en 2020.",
+      "source": "Wikipédia (fr) — « CD Projekt »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-06-8",
+      "categorie": "jeux",
+      "niveau": 6,
+      "question": "Quel jeu chinois se joue avec 144 tuiles ornées de bambous, de cercles, de dragons et de vents ?",
+      "reponse": "Mah-jong",
+      "variantes": [
+        "Mahjong",
+        "Mah-jongg",
+        "Majiang"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Dominos",
+          "Go",
+          "Rummikub"
+        ]
+      },
+      "explication": "Apparu en Chine au XIXe siècle, le mah-jong se joue généralement à quatre. Les tuiles forment trois familles numérotées, bambous, cercles et caractères, auxquelles s'ajoutent les honneurs, vents et dragons, ainsi que les fleurs et les saisons. Il s'agit de former des combinaisons, un peu comme au rami. Le jeu a suscité un véritable engouement aux États-Unis et en Europe dans les années 1920.",
+      "anecdote": "Le jeu de solitaire sur ordinateur où l'on retire les tuiles par paires est un jeu différent, popularisé en 1986 par Shanghai.",
+      "source": "Wikipédia (fr) — « Mah-jong »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-07-1",
+      "categorie": "jeux",
+      "niveau": 7,
+      "question": "Quel créateur japonais a imaginé la saga d'infiltration Metal Gear, avec son héros Solid Snake ?",
+      "reponse": "Hideo Kojima",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Hidetaka Miyazaki",
+          "Shinji Mikami",
+          "Shigeru Miyamoto"
+        ]
+      },
+      "explication": "Hideo Kojima signe le premier Metal Gear en 1987 sur l'ordinateur MSX2. Plutôt que de combattre, le joueur doit se cacher et éviter les gardes, un principe novateur. Metal Gear Solid, en 1998 sur PlayStation, impose son goût pour les longues cinématiques. Après son départ de son éditeur historique en 2015, il fonde son propre studio et sort Death Stranding en 2019.",
+      "source": "Wikipédia (fr) — « Hideo Kojima »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-07-2",
+      "categorie": "jeux",
+      "niveau": 7,
+      "question": "Quel joueur norvégien a été champion du monde d'échecs de 2013 à 2023 ?",
+      "reponse": "Magnus Carlsen",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Viswanathan Anand",
+          "Ding Liren",
+          "Fabiano Caruana",
+          "Garry Kasparov"
+        ]
+      },
+      "explication": "Magnus Carlsen devient champion du monde en 2013 en battant l'Indien Viswanathan Anand à Chennai. Il conserve son titre à quatre reprises, face à Anand, Sergueï Karjakine, Fabiano Caruana et Ian Nepomniachtchi. Lassé des matchs de championnat, il annonce en 2022 qu'il ne défendra pas sa couronne, qui revient en 2023 au Chinois Ding Liren. Il détient le record du plus haut classement de l'histoire, 2 882 points, atteint en 2014.",
+      "anecdote": "Il est devenu grand maître international en 2004, à 13 ans.",
+      "source": "Wikipédia (fr) — « Magnus Carlsen »",
+      "verification": {
+        "statut": "relue",
+        "note": "Renoncement annoncé en 2022 (titre perdu en 2023) : explication corrigée."
+      }
+    },
+    {
+      "id": "jeu-07-3",
+      "categorie": "jeux",
+      "niveau": 7,
+      "question": "Quel concepteur américain a créé SimCity en 1989, puis Les Sims en 2000 ?",
+      "reponse": "Will Wright",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Sid Meier",
+          "Peter Molyneux",
+          "Richard Garriott"
+        ],
+        "nomSeul": true
+      },
+      "explication": "Will Wright a eu l'idée de SimCity en s'amusant davantage avec l'éditeur de cartes de son premier jeu qu'avec le jeu lui-même. Avec Jeff Braun, il fonde le studio Maxis pour le publier. Les Sims, qui simulent la vie quotidienne d'un foyer, deviennent l'une des séries les plus vendues sur ordinateur. Il a aussi conçu Spore, sorti en 2008.",
+      "anecdote": "L'idée des Sims lui serait venue après avoir perdu sa maison dans l'incendie d'Oakland, en 1991, et dû tout reconstruire.",
+      "source": "Wikipédia (fr) — « Will Wright »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul: true explicite (aucun autre Wright célèbre dans le jeu vidéo ; homonymes hors domaine)."
+      }
+    },
+    {
+      "id": "jeu-07-4",
+      "categorie": "jeux",
+      "niveau": 7,
+      "question": "Dans le portrait français des cartes à jouer, quel empereur figure sur le roi de cœur ?",
+      "reponse": "Charlemagne",
+      "variantes": [
+        "Charles",
+        "Charles le Grand",
+        "Charles Ier le Grand"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "César",
+          "Jules César",
+          "Alexandre",
+          "David",
+          "Napoléon"
+        ]
+      },
+      "explication": "Le portrait de Paris, devenu la norme en France, associe chaque figure à un personnage nommé sur la carte. Les quatre rois sont David pour le pique, Alexandre pour le trèfle, César pour le carreau et Charlemagne, désigné par « Charles », pour le cœur. Les dames sont Pallas, Rachel, Argine et Judith, et les valets Ogier, Lancelot, Hector et La Hire.",
+      "anecdote": "Sous la Révolution, les rois et les reines ont été remplacés par des « génies » et des « libertés », jugés plus républicains.",
+      "source": "Wikipédia (fr) — « Carte à jouer »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-07-5",
+      "categorie": "jeux",
+      "niveau": 7,
+      "question": "Sous quel nom la NES de Nintendo est-elle sortie au Japon, en 1983 ?",
+      "reponse": "Famicom",
+      "variantes": [
+        "Family Computer"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Super Famicom",
+          "Mega Drive",
+          "Game Boy",
+          "SNES"
+        ]
+      },
+      "explication": "Lancée au Japon le 15 juillet 1983, la Family Computer, abrégée en Famicom, arbore des couleurs rouge et blanche. Pour l'Amérique, Nintendo la transforme en 1985 en boîtier gris évoquant un magnétoscope : après le krach de 1983, il fallait éviter l'image de console de jeux. La NES et la Famicom se sont vendues ensemble à près de 62 millions d'exemplaires.",
+      "anecdote": "Les manettes de la Famicom étaient fixées à la console, et la seconde intégrait un petit microphone.",
+      "source": "Wikipédia (fr) — « Nintendo Entertainment System »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-07-6",
+      "categorie": "jeux",
+      "niveau": 7,
+      "question": "Quel jeu africain de semailles consiste à distribuer des graines dans deux rangées de six trous ?",
+      "reponse": "Awalé",
+      "variantes": [
+        "Awélé",
+        "Oware",
+        "Ouri",
+        "Wari",
+        "Mancala"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Senet",
+          "Bao",
+          "Mah-jong"
+        ]
+      },
+      "explication": "L'awalé appartient à la famille des mancalas, des jeux de semailles très répandus en Afrique. Les 48 graines sont d'abord réparties par quatre dans les douze trous. À son tour, un joueur prend toutes les graines d'un de ses trous et les sème une à une ; il capture quand la dernière graine porte un trou adverse à deux ou trois. Il est surtout pratiqué en Afrique de l'Ouest.",
+      "anecdote": "En 2002, des chercheurs néerlandais l'ont résolu par ordinateur : parfaitement joué, il aboutit à un match nul.",
+      "source": "Wikipédia (fr) — « Awalé »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-07-7",
+      "categorie": "jeux",
+      "niveau": 7,
+      "question": "Quel créateur français a imaginé Rayman, héros sans bras ni jambes apparu en 1995 ?",
+      "reponse": "Michel Ancel",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Frédéric Raynal",
+          "Éric Chahi",
+          "David Cage",
+          "Yves Guillemot"
+        ]
+      },
+      "explication": "Rayman sort en 1995, notamment sur PlayStation, édité par Ubisoft. Michel Ancel a imaginé ce héros dont les mains et les pieds flottent sans être reliés au corps, ce qui simplifiait aussi son animation. Il signe ensuite Beyond Good & Evil, en 2003, et donne naissance aux Lapins crétins, apparus en 2006 dans un épisode de Rayman avant de vivre leur propre série. Il quitte le jeu vidéo en 2020.",
+      "source": "Wikipédia (fr) — « Michel Ancel »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-07-8",
+      "categorie": "jeux",
+      "niveau": 7,
+      "question": "Quel jeu de pions noirs et blancs, mis au point au Japon par Goro Hasegawa, porte le nom d'une pièce de Shakespeare ?",
+      "reponse": "Othello",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Reversi",
+          "Go",
+          "Hamlet",
+          "Macbeth"
+        ]
+      },
+      "explication": "Commercialisé au Japon en 1973, l'Othello se joue sur un plateau vert de 64 cases, avec des pions noirs d'un côté et blancs de l'autre. En encadrant des pions adverses, on les retourne à sa couleur ; celui qui en possède le plus à la fin l'emporte. Le nom évoque le drame du Maure Othello et de Desdémone. Ses règles sont très proches de celles du reversi, connu en Angleterre dès la fin du XIXe siècle.",
+      "source": "Wikipédia (fr) — « Othello (jeu) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-08-1",
+      "categorie": "jeux",
+      "niveau": 8,
+      "question": "Quel créateur japonais, passionné de collection d'insectes dans son enfance, a imaginé Pokémon ?",
+      "reponse": "Satoshi Tajiri",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Ken Sugimori",
+          "Tsunekazu Ishihara",
+          "Shigeru Miyamoto",
+          "Junichi Masuda"
+        ]
+      },
+      "explication": "Satoshi Tajiri a fondé Game Freak, d'abord un fanzine consacré aux jeux vidéo. En voyant le câble qui reliait deux Game Boy, il imagine des créatures que l'on capture et que l'on échange comme les insectes de son enfance. Pokémon Rouge et Vert sortent au Japon en février 1996, après six ans de développement, et lancent l'une des franchises les plus lucratives au monde.",
+      "anecdote": "Dans la version japonaise, le héros du dessin animé, Sacha en français, s'appelle Satoshi en son honneur.",
+      "source": "Wikipédia (fr) — « Satoshi Tajiri »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-08-2",
+      "categorie": "jeux",
+      "niveau": 8,
+      "question": "Aux échecs, quelle défense répond au premier coup 1.e4 par 1...c5 ?",
+      "reponse": "Défense sicilienne",
+      "variantes": [
+        "Sicilienne"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Défense française",
+          "Défense Caro-Kann",
+          "Caro-Kann",
+          "Défense scandinave",
+          "Défense Alekhine"
+        ]
+      },
+      "explication": "La défense sicilienne crée d'emblée un déséquilibre : les Noirs contestent le centre depuis l'aile dame, ce qui mène à des parties tranchantes. C'est la réponse la plus jouée contre 1.e4 dans les compétitions de haut niveau. Elle compte de nombreuses variantes, dont la Najdorf et le Dragon, et fut l'arme favorite de Bobby Fischer et de Garry Kasparov.",
+      "source": "Wikipédia (fr) — « Défense sicilienne »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-08-3",
+      "categorie": "jeux",
+      "niveau": 8,
+      "question": "Dans quel État américain Atari a-t-il enfoui en 1983 des cartouches invendues, dont celles du jeu E.T. ?",
+      "reponse": "Nouveau-Mexique",
+      "variantes": [
+        "New Mexico"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Nevada",
+          "Arizona",
+          "Texas",
+          "Californie",
+          "Mexique"
+        ]
+      },
+      "explication": "Adapté du film de Spielberg et développé en environ cinq semaines pour Noël 1982, le jeu E.T. sur Atari 2600 fut un échec retentissant, symbole du krach du jeu vidéo de 1983. Des camions d'invendus furent enterrés dans une décharge d'Alamogordo. Longtemps tenue pour une légende urbaine, l'histoire a été confirmée par des fouilles en avril 2014.",
+      "anecdote": "Les fouilles de 2014 ont été filmées pour le documentaire « Atari: Game Over ».",
+      "source": "Wikipédia (fr) — « E.T. the Extra-Terrestrial (jeu vidéo) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-08-4",
+      "categorie": "jeux",
+      "niveau": 8,
+      "question": "Quel architecte américain, au chômage pendant la Grande Dépression, a inventé l'ancêtre du Scrabble ?",
+      "reponse": "Alfred Butts",
+      "variantes": [
+        "Alfred Mosher Butts"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "James Brunot",
+          "Charles Darrow"
+        ]
+      },
+      "explication": "Alfred Mosher Butts imagine au début des années 1930 un jeu de lettres, Lexiko, puis Criss-Crosswords en 1938, qui se joue sur une grille. Pour fixer la valeur et le nombre de chaque lettre, il compte leur fréquence dans les pages du New York Times. Le jeu ne décolle qu'après 1948, quand James Brunot le commercialise sous le nom de Scrabble.",
+      "anecdote": "Le mot anglais « scrabble » signifie « gratter, fouiller à tâtons ».",
+      "source": "Wikipédia (fr) — « Alfred Mosher Butts »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-08-5",
+      "categorie": "jeux",
+      "niveau": 8,
+      "question": "Quelles cartes à jouer traditionnelles japonaises Nintendo fabriquait-elle à sa fondation, en 1889 ?",
+      "reponse": "Hanafuda",
+      "variantes": [
+        "Cartes hanafuda",
+        "Cartes à fleurs"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Tarot",
+          "Shogi",
+          "Mah-jong"
+        ]
+      },
+      "explication": "Nintendo est fondé à Kyoto en septembre 1889 par Fusajiro Yamauchi pour fabriquer des hanafuda, des « cartes à fleurs » peintes à la main. Un jeu en compte 48, réparties en douze mois associés chacun à une plante. Avant de se tourner vers les jouets puis les jeux électroniques, l'entreprise s'est aussi essayée dans les années 1960 aux taxis, aux hôtels et au riz instantané.",
+      "source": "Wikipédia (fr) — « Hanafuda »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-08-6",
+      "categorie": "jeux",
+      "niveau": 8,
+      "question": "Quelle Hongroise est devenue grand maître international d'échecs en 1991, à 15 ans, battant un record de Bobby Fischer ?",
+      "reponse": "Judit Polgár",
+      "variantes": [
+        "Judit Polgar"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Susan Polgár",
+          "Zsuzsa Polgár",
+          "Sofia Polgár",
+          "Hou Yifan"
+        ],
+        "nomSeul": false
+      },
+      "explication": "Judit Polgár est la plus jeune de trois sœurs élevées par leur père, le pédagogue László Polgár, pour démontrer que le génie se cultive par l'éducation. Elle devient grand maître en décembre 1991, à 15 ans et 4 mois. Refusant les compétitions féminines, elle affronte l'élite masculine et atteint la 8e place mondiale en 2005. Elle a notamment battu Garry Kasparov en partie rapide en 2002.",
+      "source": "Wikipédia (fr) — « Judit Polgár »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul passé à false (sœurs Susan et Sofia Polgár, aussi joueuses d'échecs)."
+      }
+    },
+    {
+      "id": "jeu-08-7",
+      "categorie": "jeux",
+      "niveau": 8,
+      "question": "Dans quelle ville du Nord est installé le studio Ankama, créateur du jeu en ligne Dofus ?",
+      "reponse": "Roubaix",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Lille",
+          "Tourcoing",
+          "Valenciennes",
+          "Montpellier"
+        ]
+      },
+      "explication": "Ankama a été fondé en 2001 à Roubaix par Anthony Roux, Camille Chafer et Emmanuel Darras, d'abord comme agence de création web. En 2004, le studio lance Dofus, un jeu de rôle en ligne massivement multijoueur aux combats au tour par tour, qui attire des millions de joueurs. Son univers, le Monde des Douze, a été décliné en bandes dessinées, en séries animées et en long métrage en 2016.",
+      "source": "Wikipédia (fr) — « Ankama »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-08-8",
+      "categorie": "jeux",
+      "niveau": 8,
+      "question": "Au bridge, comment appelle-t-on le partenaire du déclarant, dont les cartes sont étalées face visible ?",
+      "reponse": "Mort",
+      "variantes": [
+        "Le mort",
+        "Dummy"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Déclarant",
+          "Flanc",
+          "Défenseur",
+          "Partenaire"
+        ]
+      },
+      "explication": "Au bridge, quatre joueurs forment deux équipes, Nord-Sud et Est-Ouest. Après les enchères, le déclarant doit réaliser le contrat annoncé. Dès la première carte jouée, son partenaire étale sa main sur la table et n'intervient plus : le déclarant joue les deux jeux. La forme moderne, le bridge contrat, a été mise au point en 1925 par l'Américain Harold Vanderbilt.",
+      "source": "Wikipédia (fr) — « Bridge »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-09-1",
+      "categorie": "jeux",
+      "niveau": 9,
+      "question": "Quel ingénieur germano-américain a conçu la Magnavox Odyssey, première console de salon, sortie en 1972 ?",
+      "reponse": "Ralph Baer",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Nolan Bushnell",
+          "Allan Alcorn",
+          "William Higinbotham"
+        ]
+      },
+      "explication": "Né en Allemagne en 1922, Ralph Baer fuit le nazisme avec sa famille en 1938. Ingénieur chez un sous-traitant militaire, il imagine dès 1966 de jouer sur un téléviseur et construit un prototype, la « Brown Box ». Commercialisée par Magnavox, l'Odyssey n'avait pas de son : des calques en plastique posés sur l'écran servaient de décor aux jeux.",
+      "anecdote": "Il est aussi le co-inventeur de Simon, le jeu électronique de mémoire aux quatre touches colorées, sorti en 1978.",
+      "source": "Wikipédia (fr) — « Ralph Baer »",
+      "verification": {
+        "statut": "relue",
+        "note": "Simon : co-invention."
+      }
+    },
+    {
+      "id": "jeu-09-2",
+      "categorie": "jeux",
+      "niveau": 9,
+      "question": "Quel joueur né à Prague est devenu en 1886 le premier champion du monde d'échecs officiel ?",
+      "reponse": "Wilhelm Steinitz",
+      "variantes": [
+        "William Steinitz"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Emanuel Lasker",
+          "Johannes Zukertort",
+          "Paul Morphy",
+          "Adolf Anderssen"
+        ]
+      },
+      "explication": "Wilhelm Steinitz remporte en 1886 un match contre Johannes Zukertort, disputé dans plusieurs villes américaines, à l'issue duquel il est reconnu premier champion du monde. Théoricien du jeu positionnel, il montre qu'il faut accumuler de petits avantages plutôt que de lancer des attaques hasardeuses. Il conserve son titre jusqu'en 1894, battu par Emanuel Lasker.",
+      "source": "Wikipédia (fr) — « Wilhelm Steinitz »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-09-3",
+      "categorie": "jeux",
+      "niveau": 9,
+      "question": "Quel jeu d'Infogrames, conçu par Frédéric Raynal en 1992, a posé les bases du survival horror en 3D ?",
+      "reponse": "Alone in the Dark",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Resident Evil",
+          "Silent Hill",
+          "Another World",
+          "Flashback"
+        ]
+      },
+      "explication": "Alone in the Dark place des personnages en 3D polygonale devant des décors fixes dessinés à l'avance, avec des angles de caméra de cinéma. Le joueur explore un manoir hanté de Louisiane inspiré de l'univers de Lovecraft, en gérant munitions et objets. Quatre ans plus tard, Resident Evil reprendra largement ces principes et popularisera le terme de « survival horror ».",
+      "anecdote": "Le joueur peut choisir d'incarner le détective Edward Carnby ou Emily Hartwood, nièce du propriétaire défunt.",
+      "source": "Wikipédia (fr) — « Alone in the Dark »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-09-4",
+      "categorie": "jeux",
+      "niveau": 9,
+      "question": "Quelle Américaine a breveté en 1904 « The Landlord's Game », l'ancêtre du Monopoly ?",
+      "reponse": "Elizabeth Magie",
+      "variantes": [
+        "Lizzie Magie",
+        "Elizabeth Magie Phillips"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Charles Darrow",
+          "Lizzie Borden"
+        ]
+      },
+      "explication": "Elizabeth Magie a conçu son jeu pour dénoncer l'enrichissement des propriétaires fonciers, dans l'esprit de l'économiste Henry George. Le plateau en boucle, les loyers et la prison y figurent déjà. Dans les années 1930, Charles Darrow présente une version modifiée comme sa propre invention et la vend à Parker Brothers, qui rachète ensuite le brevet de Magie pour 500 dollars.",
+      "anecdote": "Elle proposait deux jeux de règles : l'un où l'on accumule les monopoles, l'autre où toute la richesse créée est récompensée.",
+      "source": "Wikipedia (en) — « Lizzie Magie »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-09-5",
+      "categorie": "jeux",
+      "niveau": 9,
+      "question": "Quel ingénieur de Nintendo, père des Game & Watch, a inventé la croix directionnelle des manettes ?",
+      "reponse": "Gunpei Yokoi",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Satoru Iwata",
+          "Hiroshi Yamauchi",
+          "Shigeru Miyamoto",
+          "Masayuki Uemura"
+        ]
+      },
+      "explication": "Gunpei Yokoi entre chez Nintendo en 1965 pour entretenir les machines de l'usine de cartes. Sa pince extensible, l'Ultra Hand, devient en 1966 un succès de jouet. Ses Game & Watch, lancées en 1980, tiennent dans la poche grâce à des écrans à cristaux liquides de calculatrice. Sa philosophie : détourner des technologies éprouvées et bon marché. Après l'échec du Virtual Boy, sorti en 1995, il quitte l'entreprise l'année suivante.",
+      "source": "Wikipédia (fr) — « Gunpei Yokoi »",
+      "verification": {
+        "statut": "relue",
+        "note": "Départ de Nintendo daté de 1996."
+      }
+    },
+    {
+      "id": "jeu-09-6",
+      "categorie": "jeux",
+      "niveau": 9,
+      "question": "Quel jeu de plateau de l'Égypte antique, à trente cases, figurait dans le tombeau de Toutânkhamon ?",
+      "reponse": "Senet",
+      "variantes": [
+        "Sénet"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Mehen",
+          "Jeu royal d'Ur",
+          "Backgammon",
+          "Awalé"
+        ]
+      },
+      "explication": "Le senet se joue sur un plateau de trente cases réparties en trois rangées de dix. On y fait progresser ses pions selon le jet de bâtonnets ou d'osselets, dans une course dont les règles exactes restent incertaines. Attesté dès les débuts de l'Égypte pharaonique, il prend peu à peu une dimension religieuse, associé au voyage de l'âme vers l'au-delà. Plusieurs plateaux ont été trouvés chez Toutânkhamon.",
+      "anecdote": "Une peinture du tombeau de la reine Néfertari la montre en train d'y jouer.",
+      "source": "Wikipédia (fr) — « Senet »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-09-7",
+      "categorie": "jeux",
+      "niveau": 9,
+      "question": "Quel concepteur japonais de Taito a créé le jeu d'arcade Space Invaders, en 1978 ?",
+      "reponse": "Tomohiro Nishikado",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Tōru Iwatani",
+          "Toru Iwatani",
+          "Shigeru Miyamoto"
+        ]
+      },
+      "explication": "Tomohiro Nishikado a conçu Space Invaders presque seul, y compris le matériel électronique qui l'anime. Les rangées d'extraterrestres descendent en accélérant à mesure qu'on les abat, un effet né des limites du processeur, qui tournait plus vite avec moins d'ennemis à afficher. Le jeu connaît un succès phénoménal au Japon et ouvre l'âge d'or des salles d'arcade.",
+      "source": "Wikipédia (fr) — « Space Invaders »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-09-8",
+      "categorie": "jeux",
+      "niveau": 9,
+      "question": "Quel auteur français a créé le jeu de cartes Citadelles, paru en 2000 ?",
+      "reponse": "Bruno Faidutti",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Antoine Bauza",
+          "Bruno Cathala",
+          "Philippe des Pallières"
+        ],
+        "nomSeul": true
+      },
+      "explication": "Dans Citadelles, chaque joueur bâtit une cité en posant des cartes de quartiers. À chaque tour, il choisit en secret un personnage, comme l'Assassin, le Voleur, l'Architecte ou le Roi, dont le pouvoir change le cours de la partie. Bruno Faidutti, historien de formation, a signé de nombreux jeux de bluff et d'ambiance, comme Mascarade ou Diamant, conçu avec Alan R. Moon.",
+      "anecdote": "Il a consacré sa thèse d'histoire aux licornes.",
+      "source": "Wikipédia (fr) — « Citadelles (jeu) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-10-1",
+      "categorie": "jeux",
+      "niveau": 10,
+      "question": "Quel physicien américain a créé en 1958 « Tennis for Two », un jeu affiché sur un oscilloscope ?",
+      "reponse": "William Higinbotham",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Ralph Baer",
+          "Steve Russell",
+          "Nolan Bushnell"
+        ]
+      },
+      "explication": "Physicien au laboratoire national de Brookhaven, William Higinbotham voulait animer la journée portes ouvertes d'octobre 1958. Avec un ordinateur analogique, il affiche une balle rebondissant sur un filet, vue de profil, que deux visiteurs renvoient avec des boîtiers. Il n'a jamais breveté son invention. Il avait auparavant travaillé sur l'électronique du projet Manhattan.",
+      "source": "Wikipédia (fr) — « Tennis for Two »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-10-2",
+      "categorie": "jeux",
+      "niveau": 10,
+      "question": "Quel compositeur français du XVIIIe siècle passait pour le meilleur joueur d'échecs de son temps ?",
+      "reponse": "François-André Danican Philidor",
+      "variantes": [
+        "Philidor",
+        "François-André Philidor"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Rameau",
+          "Légal",
+          "Kermur de Légal"
+        ],
+        "nom": "Philidor"
+      },
+      "explication": "Philidor publie en 1749 à Londres « L'Analyse du jeu des échecs », où il affirme que « les pions sont l'âme des échecs ». Habitué du café de la Régence à Paris, il joue parfois plusieurs parties à l'aveugle simultanément. Il est aussi un compositeur reconnu d'opéras-comiques, comme « Tom Jones ». Une ouverture porte son nom : la défense Philidor.",
+      "anecdote": "Il est mort à Londres en 1795, sans avoir pu rentrer en France, où son nom figurait sur une liste d'émigrés.",
+      "source": "Wikipédia (fr) — « François-André Danican Philidor »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-10-3",
+      "categorie": "jeux",
+      "niveau": 10,
+      "question": "Quel jeu de 1991, conçu presque seul par le Français Éric Chahi, suit le physicien Lester ?",
+      "reponse": "Another World",
+      "variantes": [
+        "Out of This World",
+        "Outer World"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Flashback",
+          "Alone in the Dark",
+          "Prince of Persia"
+        ]
+      },
+      "explication": "Développé par Éric Chahi sur Amiga pendant environ deux ans et édité par Delphine Software, Another World raconte l'histoire d'un physicien projeté dans un monde extraterrestre à la suite d'une expérience ratée. Ses graphismes vectoriels et sa narration sans dialogue, faite de cinématiques fluides, en ont fait une référence. Il est sorti en Amérique du Nord sous le titre « Out of This World ».",
+      "source": "Wikipédia (fr) — « Another World »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-10-4",
+      "categorie": "jeux",
+      "niveau": 10,
+      "question": "Quel musicien anglais a inventé le Cluedo pendant la Seconde Guerre mondiale ?",
+      "reponse": "Anthony Pratt",
+      "variantes": [
+        "Anthony E. Pratt",
+        "Anthony Ernest Pratt"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "John Waddington",
+          "Charles Darrow"
+        ],
+        "nomSeul": true
+      },
+      "explication": "Pianiste qui animait des soirées dans des hôtels où l'on jouait à des enquêtes criminelles, Anthony Pratt imagine pendant la guerre un jeu de plateau sur le même principe, avec l'aide de son épouse Elva. Le brevet est déposé en 1944 et l'éditeur Waddingtons sort le jeu en 1949, retardé par les pénuries d'après-guerre. Pratt n'en a guère profité financièrement.",
+      "source": "Wikipédia (fr) — « Cluedo »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul: true explicite (Hugo Pratt relève de la BD, pas des jeux)."
+      }
+    },
+    {
+      "id": "jeu-10-5",
+      "categorie": "jeux",
+      "niveau": 10,
+      "question": "Quelle borne de 1971, conçue par Nolan Bushnell et Ted Dabney, fut le premier jeu vidéo d'arcade vendu en série ?",
+      "reponse": "Computer Space",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Pong",
+          "Spacewar!",
+          "Galaxy Game",
+          "Space Invaders"
+        ]
+      },
+      "explication": "Computer Space adapte Spacewar!, un jeu créé en 1962 sur un ordinateur du MIT. Fabriquée par Nutting Associates, la borne au boîtier futuriste en fibre de verre s'est vendue à environ 1 500 exemplaires, un résultat décevant pour un jeu jugé trop complexe. Bushnell et Dabney fondent ensuite Atari en 1972 et misent sur une idée bien plus simple.",
+      "anecdote": "Sa borne apparaît dans le film de science-fiction « Soleil vert », sorti en 1973.",
+      "source": "Wikipédia (fr) — « Computer Space »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-10-6",
+      "categorie": "jeux",
+      "niveau": 10,
+      "question": "Quel assyriologue du British Museum a reconstitué les règles du jeu royal d'Ur grâce à une tablette cunéiforme ?",
+      "reponse": "Irving Finkel",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Leonard Woolley",
+          "Howard Carter",
+          "Jean Bottéro"
+        ]
+      },
+      "explication": "Le jeu royal d'Ur a été mis au jour dans les années 1920 par l'archéologue Leonard Woolley, dans les tombes royales de cette cité de Mésopotamie, vieilles de plus de 4 500 ans. Ses règles étaient perdues jusqu'à ce qu'Irving Finkel déchiffre une tablette babylonienne de 177 av. J.-C. décrivant une partie. Il s'agit d'une course entre deux joueurs sur vingt cases, avec des dés en forme de tétraèdre.",
+      "source": "Wikipédia (fr) — « Jeu royal d'Ur »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "jeu-10-7",
+      "categorie": "jeux",
+      "niveau": 10,
+      "question": "Quel studio écossais, créateur de Lemmings en 1991, est devenu Rockstar North ?",
+      "reponse": "DMA Design",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Psygnosis",
+          "Rare",
+          "Rockstar Games",
+          "Bullfrog"
+        ]
+      },
+      "explication": "DMA Design est fondé à la fin des années 1980 à Dundee par David Jones. Lemmings, édité par Psygnosis, demande de guider de petites créatures suicidaires en leur attribuant des tâches : creuser, bâtir, bloquer. Le studio crée ensuite Grand Theft Auto, en 1997. Racheté par Take-Two, il prend le nom de Rockstar North en 2002 et développe depuis Édimbourg les épisodes suivants de la série.",
+      "source": "Wikipédia (fr) — « Rockstar North »",
+      "verification": {
+        "statut": "relue",
+        "note": "Date de fondation (1987 ou 1988 selon les sources) rendue prudente."
+      }
+    },
+    {
+      "id": "jeu-10-8",
+      "categorie": "jeux",
+      "niveau": 10,
+      "question": "Quel jeu de guerre sur cartes topographiques, mis au point en 1824 par le Prussien Georg von Reisswitz, formait les officiers ?",
+      "reponse": "Kriegsspiel",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Stratego",
+          "Risk",
+          "Diplomatie",
+          "Wargame"
+        ]
+      },
+      "explication": "En allemand, Kriegsspiel signifie simplement « jeu de guerre ». Le lieutenant Georg von Reisswitz, reprenant un travail de son père, fait manœuvrer des blocs représentant des unités sur des cartes topographiques, sous l'autorité d'un arbitre, les dés tranchant les combats. Adopté par l'armée prussienne, il gagne en prestige après les victoires de 1866 et 1870. Il est l'ancêtre des wargames modernes.",
+      "anecdote": "Découvrant le jeu, le chef d'état-major Karl von Müffling se serait exclamé : « Ce n'est pas un jeu, c'est un entraînement à la guerre ! »",
+      "source": "Wikipédia (fr) — « Kriegsspiel »",
+      "verification": {
+        "statut": "relue",
+        "note": "Énoncé : « cartes topographiques » pour éviter la confusion avec un jeu de cartes."
+      }
+    }
+  ]
+}

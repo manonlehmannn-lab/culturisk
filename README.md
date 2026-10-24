@@ -1,7 +1,7 @@
 # Culturisk
 
 **Le grand quiz de culture générale où chaque bonne réponse est un pari.**
-Deux équipes, un seul iPhone, 10 thèmes, 10 niveaux par thème — et une carte « Le saviez-vous ? »
+Deux équipes, un seul iPhone, jusqu'à 18 thèmes au choix, 10 niveaux par thème — et une carte « Le saviez-vous ? »
 après chaque question pour repartir plus cultivé qu'on est arrivé.
 
 Application web installable (PWA), **100 % hors ligne** une fois ouverte : aucune API, aucun modèle d'IA
@@ -19,6 +19,8 @@ pendant la partie, aucune donnée envoyée.
 
 ## Règles
 
+0. Avant la partie, les joueurs **choisissent leurs thèmes** parmi 18 (3 au minimum) : les 10 classiques
+   par défaut, tous, ou 10 au hasard, et chaque thème s'active ou se désactive d'un geste.
 1. À son tour, une équipe choisit un thème et joue son **prochain niveau** : 10 points par niveau
    (niveau 4 = 40 points). Le tableau est commun aux deux équipes.
 2. **Bonne réponse** : les points sont acquis et l'équipe continue. Elle peut monter dans le même thème,
@@ -27,7 +29,8 @@ pendant la partie, aucune donnée envoyée.
 3. **Mauvaise réponse** (ou « Je passe ») : l'équipe adverse a un **droit de réponse gratuit**, sans voir
    la solution. Réussi : elle marque **le double**. Raté : personne ne marque. La question est consommée,
    la réponse et son explication sont révélées, puis la main passe.
-4. La partie s'arrête après le nombre de manches choisi (3, 5, 8) ou quand les 100 cases sont jouées.
+4. La partie s'arrête après le nombre de manches choisi (3, 5, 8) ou quand toutes les cases sont jouées
+   (10 par thème choisi).
 
 > Le cahier des charges fixe la validation, l'interception, la révélation et la progression par thème.
 > Le reste (10 points par niveau, enchaînement tant que l'équipe répond juste, droit de passer la main,
@@ -55,12 +58,17 @@ une orthographe parfaite :
 
 ## La banque de questions
 
-- 400 questions : 10 thèmes × 10 niveaux × 4 questions (tirage aléatoire, en évitant les questions déjà vues).
+- **1 440 questions** : 18 thèmes × 10 niveaux × 8 questions (tirage aléatoire, en évitant les questions déjà vues).
+  - Thèmes classiques : Sport, Histoire, Géographie, Sciences et nature, Littérature, Cinéma et séries, Musique,
+    Internet et culture web, Religions et mythologies, Art et culture générale.
+  - Nouveaux thèmes : Gastronomie, Langue française, Animaux, BD et mangas, Jeux vidéo et de société,
+    Inventions et techniques, Télévision et médias, Marques et économie.
 - Chaque question : identifiant, thème, niveau, énoncé, réponse, variantes, règles de validation, pièges,
   explication de 40 à 80 mots, anecdote facultative, source, statut de vérification.
   Schéma et charte éditoriale : [`docs/BANQUE.md`](docs/BANQUE.md).
 - **Statut honnête** : les questions ont été rédigées par IA, puis **relues par une seconde passe IA
-  indépendante** (faits, ambiguïtés, variantes, niveaux), qui a corrigé, nuancé ou réécrit 86 d'entre elles.
+  indépendante** (faits, ambiguïtés, variantes, niveaux, doublons entre thèmes), qui a corrigé, nuancé ou
+  remplacé 335 d'entre elles.
   Elles sont marquées `relue`, **pas** `verifiee` : aucune n'a encore été vérifiée par une personne
   à partir de sa source. Chaque carte affiche sa source pour permettre ce contrôle.
 
@@ -81,15 +89,16 @@ d'une autre entité, doublons. Il échoue (code 1) en cas d'erreur.
 node tests/run.mjs           # ou ouvrir tests/index.html
 ```
 
-45 tests couvrent les fautes de frappe, synonymes, noms propres, faux positifs, nombres, et tout le
-déroulement d'une partie (interception, arbitrage, verrouillage des thèmes, fin de partie).
+49 tests couvrent les fautes de frappe, synonymes, noms propres, faux positifs, nombres, et tout le
+déroulement d'une partie (sélection des thèmes, interception, arbitrage, verrouillage des thèmes,
+reprise d'une ancienne sauvegarde, fin de partie).
 `tests/e2e.html` joue une partie complète dans le navigateur par de vrais clics.
 L'intégration continue GitHub lance les tests et la vérification de la banque à chaque envoi.
 
 ## Direction artistique
 
 « Studio 10 » : plateau de quiz télé rétro modernisé, pupitres lumineux, compteurs 7 segments,
-tableau de 10 thèmes en échelles lumineuses. Détails, palette, typographies, animations :
+tableau des thèmes en échelles lumineuses. Détails, palette, typographies, animations :
 [`docs/DIRECTION_ARTISTIQUE.md`](docs/DIRECTION_ARTISTIQUE.md).
 
 ## Structure

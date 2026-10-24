@@ -1,0 +1,1945 @@
+{
+  "categorie": "bd",
+  "questions": [
+    {
+      "id": "bdm-01-1",
+      "categorie": "bd",
+      "niveau": 1,
+      "question": "Comment s'appelle le petit chien blanc qui accompagne Tintin dans toutes ses aventures ?",
+      "reponse": "Milou",
+      "variantes": [
+        "Snowy"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Idéfix",
+          "Rantanplan",
+          "Bill"
+        ]
+      },
+      "explication": "Fox-terrier blanc, Milou accompagne Tintin dès sa toute première aventure. Son nom serait un clin d'œil à Marie-Louise Van Cutsem, surnommée Milou, premier amour de l'auteur. Le lecteur entend ses pensées, mais Tintin ne les comprend pas. Très bavard dans les premiers albums, le chien cède peu à peu la vedette au capitaine Haddock, et ses répliques se font plus rares.",
+      "anecdote": "Dans la version anglaise des albums, il s'appelle Snowy ; en allemand, Struppi.",
+      "source": "Wikipédia (fr) — « Milou »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-01-2",
+      "categorie": "bd",
+      "niveau": 1,
+      "question": "Quel ami d'Astérix est tombé dans la marmite de potion magique quand il était petit ?",
+      "reponse": "Obélix",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Idéfix",
+          "Panoramix",
+          "Abraracourcix"
+        ]
+      },
+      "explication": "Parce qu'il est tombé dedans bébé, Obélix bénéficie en permanence des effets de la potion : le druide refuse donc de lui en servir, ce qui le vexe à chaque fois. Tailleur et livreur de menhirs, grand amateur de sanglier rôti, il ne supporte pas qu'on le traite de « gros ». Sa chute dans la marmite est racontée dans un récit illustré publié en 1989.",
+      "anecdote": "Son nom évoque l'obélisque, mais aussi l'obèle, signe typographique en forme de croix qui fait écho à l'astérisque d'Astérix.",
+      "source": "Wikipédia (fr) — « Obélix »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-01-3",
+      "categorie": "bd",
+      "niveau": 1,
+      "question": "De quelle couleur est la peau des Schtroumpfs ?",
+      "reponse": "Bleu",
+      "variantes": [
+        "Bleue"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Vert",
+          "Blanc",
+          "Violet"
+        ]
+      },
+      "explication": "Les Schtroumpfs vivent dans un village de maisons-champignons au cœur d'une forêt. Hauts de « trois pommes », ils portent un bonnet et un pantalon blancs, sauf le Grand Schtroumpf, vêtu de rouge et doté d'une barbe blanche. Leur langage remplace de nombreux mots par « schtroumpf » ou « schtroumpfer ». Rebaptisés Smurfs, ils ont conquis le monde grâce à un dessin animé américain lancé en 1981.",
+      "source": "Wikipédia (fr) — « Les Schtroumpfs »",
+      "verification": {
+        "statut": "relue",
+        "note": "« un mot sur deux » remplacé par « de nombreux mots »."
+      }
+    },
+    {
+      "id": "bdm-01-4",
+      "categorie": "bd",
+      "niveau": 1,
+      "question": "Quel super-héros est, dans la vie civile, le jeune photographe new-yorkais Peter Parker ?",
+      "reponse": "Spider-Man",
+      "variantes": [
+        "Spiderman",
+        "Homme-Araignée",
+        "L'Homme-Araignée"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Superman",
+          "Batman",
+          "Iron Man",
+          "Ant-Man"
+        ]
+      },
+      "explication": "Mordu par une araignée radioactive, l'adolescent Peter Parker acquiert force, agilité et un « sens d'araignée » qui l'avertit du danger. Apparu chez Marvel en 1962, il est l'un des rares super-héros adolescents de l'époque, avec des soucis d'argent et de cœur. Orphelin élevé par son oncle Ben et sa tante May, il gagne sa vie en vendant au Daily Bugle des photos… de lui-même.",
+      "anecdote": "Il a débuté dans le dernier numéro d'Amazing Fantasy, revue promise à l'arrêt : son succès inattendu lui vaut sa propre série dès 1963.",
+      "source": "Wikipédia (fr) — « Spider-Man »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-01-5",
+      "categorie": "bd",
+      "niveau": 1,
+      "question": "Quel légume en conserve donne une force herculéenne à Popeye le marin ?",
+      "reponse": "Épinards",
+      "variantes": [
+        "Épinard"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Brocolis",
+          "Haricots",
+          "Petits pois"
+        ]
+      },
+      "explication": "Popeye apparaît en 1929 dans « Thimble Theatre », un comic strip d'Elzie Crisler Segar publié dans la presse américaine depuis 1919. Ce marin au menton saillant et aux avant-bras énormes, toujours la pipe à la bouche, éclipse vite les autres personnages et devient la vedette de dessins animés à succès. Il se dispute sa fiancée Olive avec la brute Bluto, appelée Brutus dans certaines versions.",
+      "source": "Wikipédia (fr) — « Popeye »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-01-6",
+      "categorie": "bd",
+      "niveau": 1,
+      "question": "Quel justicier masqué de Gotham City est, dans le civil, le milliardaire Bruce Wayne ?",
+      "reponse": "Batman",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Superman",
+          "Robin",
+          "Spider-Man"
+        ]
+      },
+      "explication": "Apparu en 1939, Batman n'a aucun super-pouvoir : il compte sur son intelligence, son entraînement physique et ses gadgets. Enfant, Bruce Wayne a vu ses parents assassinés dans une ruelle ; devenu adulte, il choisit la chauve-souris pour effrayer les criminels. Il est épaulé par son majordome Alfred et affronte une galerie d'ennemis célèbres, dont le Joker.",
+      "anecdote": "Le Joker apparaît dès le premier numéro de la revue consacrée à Batman, au printemps 1940.",
+      "source": "Wikipédia (fr) — « Batman »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-01-7",
+      "categorie": "bd",
+      "niveau": 1,
+      "question": "Quel chat orange, paresseux et fou de lasagnes, déteste les lundis ?",
+      "reponse": "Garfield",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Gros Minet",
+          "Félix",
+          "Le Chat",
+          "Azraël"
+        ]
+      },
+      "explication": "Créé par l'Américain Jim Davis, Garfield paraît dans les journaux à partir du 19 juin 1978. Il vit chez son maître, Jon Arbuckle, avec le chien Odie, souffre-douleur de ses farces. Sa paresse, son appétit et son cynisme en ont fait l'un des comic strips les plus diffusés au monde, publié par des milliers de journaux. Il doit son nom au grand-père de son créateur.",
+      "anecdote": "Selon ses aventures, Garfield est né dans la cuisine d'un restaurant italien, ce qui expliquerait sa passion pour les lasagnes.",
+      "source": "Wikipédia (fr) — « Garfield »",
+      "verification": {
+        "statut": "relue",
+        "note": "« depuis » remplacé par « à partir du » (formulation non datée)."
+      }
+    },
+    {
+      "id": "bdm-01-8",
+      "categorie": "bd",
+      "niveau": 1,
+      "question": "Quel cow-boy solitaire de bande dessinée est réputé « tirer plus vite que son ombre » ?",
+      "reponse": "Lucky Luke",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Jolly Jumper",
+          "Blueberry",
+          "Billy the Kid"
+        ]
+      },
+      "explication": "Né à la fin de 1946 dans le journal Spirou, Lucky Luke parcourt le Far West sur Jolly Jumper, un cheval particulièrement malin. Presque chaque album se termine par la même image : le héros s'éloigne au soleil couchant en chantant « I'm a poor lonesome cowboy ». Dans les années 1980, sa cigarette est remplacée par un brin d'herbe.",
+      "anecdote": "Rantanplan, le chien de pénitencier « plus bête que son ombre », est une parodie du célèbre Rintintin.",
+      "source": "Wikipédia (fr) — « Lucky Luke »",
+      "verification": {
+        "statut": "relue",
+        "note": "Formulation subjective sur Jolly Jumper adoucie."
+      }
+    },
+    {
+      "id": "bdm-02-1",
+      "categorie": "bd",
+      "niveau": 2,
+      "question": "Quel druide prépare la potion magique dans le village d'Astérix ?",
+      "reponse": "Panoramix",
+      "variantes": [
+        "Getafix"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Abraracourcix",
+          "Assurancetourix",
+          "Agecanonix",
+          "Obélix"
+        ]
+      },
+      "explication": "Sage respecté du village, Panoramix cueille le gui avec une serpe d'or et garde secrète la recette de la potion qui rend les Gaulois invincibles face aux Romains. Dans « Le Combat des chefs » (1966), un menhir lancé par Obélix lui fait perdre la mémoire, et le village se retrouve privé de potion. En anglais, il s'appelle Getafix, jeu de mots sur l'expression « get a fix ».",
+      "source": "Wikipédia (fr) — « Panoramix »",
+      "verification": {
+        "statut": "relue",
+        "note": "Panoramix n'est pas le doyen du village (c'est Agecanonix) : « Doyen » remplacé par « Sage »."
+      }
+    },
+    {
+      "id": "bdm-02-2",
+      "categorie": "bd",
+      "niveau": 2,
+      "question": "Quel héros de « Dragon Ball », doté d'une queue de singe dans son enfance, part en quête des boules de cristal ?",
+      "reponse": "Son Goku",
+      "variantes": [
+        "Goku",
+        "Sangoku",
+        "San Goku",
+        "Son Gokû",
+        "Kakarot"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Son Gohan",
+          "Gohan",
+          "Vegeta",
+          "Krilin"
+        ]
+      },
+      "explication": "Inspiré du Roi des singes du roman chinois « La Pérégrination vers l'Ouest », Son Goku apparaît en 1984 dans un hebdomadaire japonais. On découvre plus tard qu'il appartient aux Saiyans, peuple guerrier extraterrestre, qui l'avaient baptisé Kakarot. En France, le dessin animé diffusé dans le Club Dorothée à partir de 1988 l'a rendu célèbre auprès de toute une génération, sous le nom de Sangoku.",
+      "anecdote": "Les boules de cristal sont au nombre de sept : une fois réunies, elles font apparaître le dragon Shenron, qui exauce un vœu.",
+      "source": "Wikipédia (fr) — « Son Goku »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-02-3",
+      "categorie": "bd",
+      "niveau": 2,
+      "question": "Comment se nomment les quatre frères bandits, rangés du plus petit au plus grand, qui s'évadent sans cesse dans « Lucky Luke » ?",
+      "reponse": "Les Dalton",
+      "variantes": [
+        "Dalton",
+        "Frères Dalton",
+        "Daltons"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Rapetou",
+          "Les Rapetou",
+          "Bidochon"
+        ]
+      },
+      "explication": "Joe, William, Jack et Averell Dalton sont présentés comme les cousins de vrais hors-la-loi américains, les frères Dalton, déjà mis en scène dans l'album « Hors-la-loi » (1951). Introduits dans « Les Cousins Dalton » (1958), ils deviennent les ennemis favoris de Lucky Luke. Joe, le plus petit, est aussi le plus colérique ; Averell, le plus grand, est le plus naïf et pense surtout à manger.",
+      "anecdote": "Leur mère, la redoutable Ma Dalton, a eu droit à un album portant son nom, en 1971.",
+      "source": "Wikipédia (fr) — « Lucky Luke »",
+      "verification": {
+        "statut": "relue",
+        "note": "Détail sur la mort des vrais Dalton retiré ; source remplacée par l'article principal."
+      }
+    },
+    {
+      "id": "bdm-02-4",
+      "categorie": "bd",
+      "niveau": 2,
+      "question": "En quel colosse vert se transforme le scientifique Bruce Banner lorsqu'il est en colère ?",
+      "reponse": "Hulk",
+      "variantes": [
+        "L'Incroyable Hulk"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Shrek",
+          "La Chose",
+          "Gamora"
+        ]
+      },
+      "explication": "Irradié par des rayons gamma lors de l'essai d'une bombe qu'il a lui-même conçue, Bruce Banner devient Hulk à chaque accès de rage. Créé chez Marvel par Stan Lee et Jack Kirby en 1962, le personnage était gris dans son tout premier numéro : l'imprimeur peinant à obtenir une teinte uniforme, il est passé au vert dès le deuxième. Sa force augmente avec sa fureur.",
+      "anecdote": "Dans la série télévisée de la fin des années 1970, Hulk était incarné par le culturiste Lou Ferrigno, maquillé en vert.",
+      "source": "Wikipédia (fr) — « Hulk »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-02-5",
+      "categorie": "bd",
+      "niveau": 2,
+      "question": "Quel beagle rêveur, qui dort sur le toit de sa niche, est le chien de Charlie Brown ?",
+      "reponse": "Snoopy",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Woodstock",
+          "Odie",
+          "Pluto"
+        ]
+      },
+      "explication": "Snoopy apparaît en octobre 1950, dès les premiers jours du strip « Peanuts ». Doté d'une imagination débordante, il se rêve tour à tour romancier, joueur de tennis ou as de l'aviation de la Grande Guerre, combattant le Baron rouge depuis sa niche transformée en avion. Son meilleur ami est un petit oiseau jaune, Woodstock.",
+      "anecdote": "Le module lunaire d'Apollo 10, en 1969, avait été baptisé Snoopy, et le vaisseau de commande Charlie Brown.",
+      "source": "Wikipédia (fr) — « Snoopy »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-02-6",
+      "categorie": "bd",
+      "niveau": 2,
+      "question": "Quel écolier à la mèche blonde dressée sur la tête lance « Tchô ! » et trouve que tout est « pô juste » ?",
+      "reponse": "Titeuf",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Ducobu",
+          "Kid Paddle",
+          "Le Petit Spirou",
+          "Nicolas"
+        ]
+      },
+      "explication": "Créé au début des années 1990 par le Suisse Zep, de son vrai nom Philippe Chappuis, Titeuf aborde avec humour les questions des enfants sur l'amour, la sexualité ou le divorce, entouré de ses copains Manu et Hugo et de Nadia, dont il est amoureux. Son « Guide du zizi sexuel », paru en 2001 avec Hélène Bruller, a connu un très grand succès en librairie.",
+      "anecdote": "Zep a lui-même réalisé un long métrage d'animation, « Titeuf, le film », sorti en 2011.",
+      "source": "Wikipédia (fr) — « Titeuf »",
+      "verification": {
+        "statut": "relue",
+        "note": "Jugement « classique de l'éducation » remplacé par un fait."
+      }
+    },
+    {
+      "id": "bdm-02-7",
+      "categorie": "bd",
+      "niveau": 2,
+      "question": "Comment s'appelle le petit chien blanc d'Obélix, qui hurle de désespoir quand on abat un arbre ?",
+      "reponse": "Idéfix",
+      "variantes": [
+        "Dogmatix"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Milou",
+          "Rantanplan",
+          "Panoramix"
+        ]
+      },
+      "explication": "Idéfix apparaît dans « Le Tour de Gaule d'Astérix », paru dans Pilote en 1963 : il suit discrètement les héros pendant tout leur périple, et Obélix ne le remarque qu'à la toute fin, avant de l'adopter. Écologiste avant l'heure, il défend les arbres avec passion. Son nom vient de l'expression « idée fixe » ; en anglais, il s'appelle Dogmatix.",
+      "source": "Wikipédia (fr) — « Idéfix »",
+      "verification": {
+        "statut": "relue",
+        "note": "Précision : prépublication dans Pilote en 1963 (album en 1965)."
+      }
+    },
+    {
+      "id": "bdm-02-8",
+      "categorie": "bd",
+      "niveau": 2,
+      "question": "Quel jeune acolyte combat le crime aux côtés de Batman depuis 1940 ?",
+      "reponse": "Robin",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Alfred",
+          "Nightwing",
+          "Batgirl"
+        ]
+      },
+      "explication": "Robin apparaît en 1940 sous les traits de Dick Grayson, jeune acrobate de cirque orphelin recueilli par Bruce Wayne : il donne au héros un confident et attire les jeunes lecteurs. Plusieurs personnages ont ensuite porté le costume, dont Jason Todd, tué en 1988 à l'issue d'un vote des lecteurs par téléphone. Devenu adulte, Dick Grayson prend le nom de Nightwing.",
+      "source": "Wikipédia (fr) — « Batman »",
+      "verification": {
+        "statut": "relue",
+        "note": "Source remplacée par l'article principal."
+      }
+    },
+    {
+      "id": "bdm-03-1",
+      "categorie": "bd",
+      "niveau": 3,
+      "question": "Quel capitaine au juron « Mille millions de mille sabords ! » devient le meilleur ami de Tintin ?",
+      "reponse": "Capitaine Haddock",
+      "variantes": [
+        "Haddock",
+        "Archibald Haddock"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Tournesol",
+          "Nestor",
+          "Allan"
+        ]
+      },
+      "explication": "Le capitaine apparaît dans « Le Crabe aux pinces d'or », publié en 1941 : Tintin le découvre alcoolique et manipulé par son second, Allan, à bord du cargo Karaboudjan. Colérique mais généreux, il est célèbre pour ses injures fleuries, comme « bachi-bouzouk » ou « ectoplasme ». Son prénom, Archibald, n'est révélé que dans « Tintin et les Picaros », en 1976.",
+      "anecdote": "Son nom viendrait du haddock, l'églefin fumé, que l'épouse de l'auteur aurait qualifié un soir de « triste poisson anglais ».",
+      "source": "Wikipédia (fr) — « Capitaine Haddock »",
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote sur l'origine du nom mise au conditionnel."
+      }
+    },
+    {
+      "id": "bdm-03-2",
+      "categorie": "bd",
+      "niveau": 3,
+      "question": "Quel sorcier, accompagné de son chat Azraël, cherche sans cesse à capturer les Schtroumpfs ?",
+      "reponse": "Gargamel",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Gargamelle",
+          "Azraël",
+          "Grand Schtroumpf"
+        ]
+      },
+      "explication": "Sorcier misérable vivant dans une masure délabrée, Gargamel veut capturer les Schtroumpfs, selon les histoires pour les manger ou pour s'en servir dans la fabrication de la pierre philosophale, qui changerait le plomb en or. Il échoue toujours, tout comme son chat Azraël. Pour semer la discorde au village, il fabrique même la Schtroumpfette avec de l'argile.",
+      "source": "Wikipédia (fr) — « Gargamel »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-03-3",
+      "categorie": "bd",
+      "niveau": 3,
+      "question": "Quel employé paresseux et inventeur farfelu multiplie les catastrophes à la rédaction du journal Spirou ?",
+      "reponse": "Gaston Lagaffe",
+      "variantes": [
+        "Gaston"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Fantasio",
+          "Spirou",
+          "Prunelle",
+          "Achille Talon"
+        ]
+      },
+      "explication": "Apparu le 28 février 1957 dans les pages du journal Spirou, d'abord présenté comme un « héros sans emploi », Gaston devient l'employé le plus improductif de la rédaction. Ses inventions explosives, son chat, sa mouette rieuse et ses siestes rendent fous Fantasio puis Prunelle. Son « M'enfin ! » est passé dans le langage courant, tout comme le « Rogntudju ! » que lâche Prunelle.",
+      "source": "Wikipédia (fr) — « Gaston Lagaffe »",
+      "verification": {
+        "statut": "relue",
+        "note": "« Rogntudju ! » est l'exclamation de Prunelle, pas de Gaston : corrigé ; Fantasio ajouté comme premier chef."
+      }
+    },
+    {
+      "id": "bdm-03-4",
+      "categorie": "bd",
+      "niveau": 3,
+      "question": "Quel manga suit Monkey D. Luffy, pirate au corps élastique qui rêve de trouver un trésor légendaire ?",
+      "reponse": "One Piece",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Naruto",
+          "Dragon Ball",
+          "Bleach"
+        ]
+      },
+      "explication": "Lancé au Japon en 1997 par Eiichirō Oda, One Piece raconte les voyages de l'équipage du Chapeau de paille. Luffy doit son corps de caoutchouc à un fruit du démon, qui l'empêche en revanche de nager. En 2022, la série a dépassé 500 millions d'exemplaires imprimés dans le monde, un record pour une bande dessinée réalisée par un seul auteur.",
+      "source": "Wikipédia (fr) — « One Piece »",
+      "verification": {
+        "statut": "relue",
+        "note": "« Publié depuis 1997 » remplacé par « Lancé en 1997 » (non daté)."
+      }
+    },
+    {
+      "id": "bdm-03-5",
+      "categorie": "bd",
+      "niveau": 3,
+      "question": "Quel minerai vert venu de sa planète natale prive Superman de ses forces ?",
+      "reponse": "Kryptonite",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Adamantium",
+          "Vibranium",
+          "Krypton"
+        ]
+      },
+      "explication": "La kryptonite naît en 1943 dans un feuilleton radiophonique consacré à Superman, avant d'entrer dans les comics en 1949. Il s'agit de fragments de Krypton, planète détruite dont le bébé Kal-El a été évacué par ses parents. Les récits en ont inventé plusieurs variétés, comme la rouge, aux effets imprévisibles. Le mot désigne désormais, au figuré, le point faible de quelqu'un.",
+      "source": "Wikipédia (fr) — « Kryptonite »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-03-6",
+      "categorie": "bd",
+      "niveau": 3,
+      "question": "Quel jeune ninja turbulent du village de Konoha rêve de devenir Hokage ?",
+      "reponse": "Naruto",
+      "variantes": [
+        "Naruto Uzumaki"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Sasuke",
+          "Boruto",
+          "Kakashi"
+        ]
+      },
+      "explication": "Publié au Japon de 1999 à 2014, le manga de Masashi Kishimoto suit Naruto Uzumaki, orphelin rejeté par les villageois car il renferme en lui un démon-renard à neuf queues. Avec ses coéquipiers Sasuke et Sakura, il progresse sous la direction de Kakashi. La série compte 72 volumes et s'est vendue à plus de 250 millions d'exemplaires dans le monde.",
+      "anecdote": "Une suite, « Boruto », lancée en 2016, raconte les aventures du fils de Naruto.",
+      "source": "Wikipédia (fr) — « Naruto »",
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote reformulée sans « depuis »."
+      }
+    },
+    {
+      "id": "bdm-03-7",
+      "categorie": "bd",
+      "niveau": 3,
+      "question": "Quel cocker roux est le fidèle compagnon du petit Boule, dans la série de Jean Roba ?",
+      "reponse": "Bill",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Boule",
+          "Caroline",
+          "Milou"
+        ]
+      },
+      "explication": "Boule et Bill naissent en 1959 dans le journal Spirou, sous le crayon du Belge Jean Roba. La série raconte le quotidien tendre et drôle d'une famille : Boule, ses parents, le cocker Bill et la tortue Caroline, dont Bill est très épris. Le chien ne parle pas, mais le lecteur devine ses pensées ; il déteste par-dessus tout le bain.",
+      "source": "Wikipédia (fr) — « Boule et Bill »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-03-8",
+      "categorie": "bd",
+      "niveau": 3,
+      "question": "Quel savant distrait et un peu sourd, inventeur d'une fusée lunaire, accompagne Tintin ?",
+      "reponse": "Professeur Tournesol",
+      "variantes": [
+        "Tournesol",
+        "Tryphon Tournesol",
+        "Calculus"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Haddock",
+          "Mortimer",
+          "Nestor",
+          "Séraphin Lampion"
+        ]
+      },
+      "explication": "Tryphon Tournesol apparaît dans « Le Trésor de Rackham le Rouge », où il propose son sous-marin de poche en forme de requin. Sa surdité, qu'il refuse d'admettre, provoque d'innombrables quiproquos avec le capitaine Haddock. Il se sert d'un pendule pour s'orienter et conçoit la fusée de l'expédition lunaire. Son créateur s'est notamment inspiré du physicien suisse Auguste Piccard.",
+      "anecdote": "En anglais, le professeur s'appelle Cuthbert Calculus.",
+      "source": "Wikipédia (fr) — « Professeur Tournesol »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-04-1",
+      "categorie": "bd",
+      "niveau": 4,
+      "question": "Quel scénariste a créé Astérix en 1959 avec le dessinateur Albert Uderzo ?",
+      "reponse": "René Goscinny",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Albert Uderzo",
+          "Uderzo",
+          "Jean-Yves Ferri",
+          "Morris"
+        ]
+      },
+      "explication": "Né à Paris en 1926 et élevé en Argentine, René Goscinny est l'un des plus grands scénaristes de la BD européenne : il a aussi écrit Lucky Luke et Le Petit Nicolas, illustré par Sempé. Sa mort brutale en 1977, à 51 ans, laisse Uderzo seul aux commandes d'Astérix. Depuis 2013, la série est poursuivie par d'autres auteurs.",
+      "anecdote": "Goscinny et Uderzo se sont rencontrés à Paris en 1951, alors qu'ils travaillaient pour la même agence de presse.",
+      "source": "Wikipédia (fr) — « René Goscinny »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-04-2",
+      "categorie": "bd",
+      "niveau": 4,
+      "question": "Quel éditeur américain de comics publie les aventures de Spider-Man, des X-Men et des Avengers ?",
+      "reponse": "Marvel",
+      "variantes": [
+        "Marvel Comics"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "DC Comics",
+          "DC",
+          "Image Comics",
+          "Dark Horse"
+        ]
+      },
+      "explication": "Longtemps rival de DC, l'éditeur de Superman et de Batman, Marvel a renouvelé les super-héros dans les années 1960 grâce au scénariste Stan Lee et au dessinateur Jack Kirby : des héros faillibles, aux soucis quotidiens, vivant dans un New York bien réel. Racheté par Disney en 2009 pour environ quatre milliards de dollars, il nourrit un univers cinématographique ouvert par « Iron Man » en 2008.",
+      "source": "Wikipédia (fr) — « Marvel Comics »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-04-3",
+      "categorie": "bd",
+      "niveau": 4,
+      "question": "Quel mangaka a créé « Dragon Ball » et « Dr Slump » ?",
+      "reponse": "Akira Toriyama",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Eiichirō Oda",
+          "Osamu Tezuka",
+          "Masashi Kishimoto",
+          "Katsuhiro Otomo"
+        ]
+      },
+      "explication": "Akira Toriyama connaît le succès en 1980 avec « Dr Slump », dont l'héroïne est la petite robot Arale, avant de lancer « Dragon Ball » en 1984. Son dessin rond et dynamique a influencé toute une génération d'auteurs de manga. Il a aussi conçu les personnages de la série de jeux vidéo Dragon Quest. Il est mort en mars 2024, à 68 ans.",
+      "source": "Wikipédia (fr) — « Akira Toriyama »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-04-4",
+      "categorie": "bd",
+      "niveau": 4,
+      "question": "Dans quelle ville de Charente le Festival international de la bande dessinée a-t-il été créé en 1974 ?",
+      "reponse": "Angoulême",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Angers",
+          "Cognac",
+          "Saint-Malo",
+          "Blois"
+        ]
+      },
+      "explication": "Organisé traditionnellement à la fin du mois de janvier, le festival est devenu le principal rendez-vous européen de la bande dessinée. Son Grand Prix récompense l'ensemble de l'œuvre d'un auteur, et le Fauve d'or le meilleur album de l'année. La ville abrite aussi la Cité internationale de la bande dessinée et de l'image, avec un musée et une bibliothèque patrimoniale.",
+      "anecdote": "Le Fauve, mascotte et trophée du festival, a été dessiné par l'auteur Lewis Trondheim.",
+      "source": "Wikipédia (fr) — « Festival international de la bande dessinée d'Angoulême »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-04-5",
+      "categorie": "bd",
+      "niveau": 4,
+      "question": "Quelle cantatrice, surnommée le « Rossignol milanais », poursuit Tintin et le capitaine Haddock de ses vocalises ?",
+      "reponse": "Bianca Castafiore",
+      "variantes": [
+        "Castafiore",
+        "La Castafiore"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Maria Callas",
+          "Irma"
+        ]
+      },
+      "explication": "Apparue dans « Le Sceptre d'Ottokar », la Castafiore chante à tue-tête l'air des bijoux du « Faust » de Gounod, au grand désespoir du capitaine Haddock, qui écorche sans cesse son nom. Elle voyage avec sa camériste Irma et son pianiste, Igor Wagner. L'album « Les Bijoux de la Castafiore » (1963), presque sans action, est entièrement construit autour de sa visite à Moulinsart.",
+      "source": "Wikipédia (fr) — « Bianca Castafiore »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-04-6",
+      "categorie": "bd",
+      "niveau": 4,
+      "question": "Quel grand vizir de Bagdad veut devenir « calife à la place du calife » ?",
+      "reponse": "Iznogoud",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Haroun el-Poussah",
+          "Dilat Laraht",
+          "Aladin"
+        ]
+      },
+      "explication": "Imaginé en 1962 par René Goscinny et le dessinateur Jean Tabary, Iznogoud, dont le nom se prononce comme l'anglais « he's no good », échoue dans toutes ses tentatives pour renverser le débonnaire calife Haroun el-Poussah, avec l'aide de son homme de main Dilat Laraht. Sa réplique est devenue une expression courante pour désigner un ambitieux prêt à tout.",
+      "anecdote": "Le personnage a été incarné au cinéma par Michaël Youn, dans « Iznogoud » (2005).",
+      "source": "Wikipédia (fr) — « Iznogoud »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-04-7",
+      "categorie": "bd",
+      "niveau": 4,
+      "question": "Quel rang la bande dessinée occupe-t-elle dans la classification traditionnelle des arts ?",
+      "reponse": "Neuvième art",
+      "variantes": [
+        "9e art",
+        "Neuvième",
+        "9e",
+        "9"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Septième art",
+          "Huitième art",
+          "Dixième art",
+          "Septième",
+          "Huitième"
+        ]
+      },
+      "explication": "Au début des années 1920, le critique Ricciotto Canudo baptise le cinéma « septième art », après l'architecture, la sculpture, la peinture, la musique, la danse et la poésie. Télévision, radio et photographie se sont ensuite disputé la huitième place. L'expression « neuvième art » est appliquée à la BD en 1964 par le critique Claude Beylie, puis popularisée par une rubrique du journal Spirou.",
+      "source": "Wikipédia (fr) — « Bande dessinée »",
+      "verification": {
+        "statut": "relue",
+        "note": "Explication précisée (liste des six arts de Canudo) ; source remplacée par l'article principal."
+      }
+    },
+    {
+      "id": "bdm-04-8",
+      "categorie": "bd",
+      "niveau": 4,
+      "question": "Dans quel sens se lisent les cases et les pages d'un manga publié au format japonais ?",
+      "reponse": "De droite à gauche",
+      "variantes": [
+        "Droite à gauche",
+        "De droite vers la gauche"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "De gauche à droite",
+          "Gauche à droite"
+        ]
+      },
+      "explication": "Le japonais s'écrit traditionnellement en colonnes verticales, lues de haut en bas et de droite à gauche : un manga s'ouvre donc par ce qui serait, pour un Occidental, la dernière page. Les premiers mangas traduits en France étaient souvent retournés en miroir, si bien que les personnages devenaient gauchers ; les éditeurs ont ensuite adopté le sens de lecture d'origine.",
+      "source": "Wikipédia (fr) — « Manga »",
+      "verification": {
+        "statut": "relue",
+        "note": "Énoncé précisé ; piège « De haut en bas » retiré (en partie juste à l'intérieur des cases)."
+      }
+    },
+    {
+      "id": "bdm-05-1",
+      "categorie": "bd",
+      "niveau": 5,
+      "question": "Quel mot savant, emprunté au grec, désigne la bulle qui contient les paroles des personnages de BD ?",
+      "reponse": "Phylactère",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Cartouche",
+          "Vignette",
+          "Onomatopée",
+          "Récitatif"
+        ]
+      },
+      "explication": "Le mot vient du grec phulaktêrion, « amulette ». Au Moyen Âge, il désigne les banderoles sur lesquelles peintres et enlumineurs inscrivaient les paroles de leurs personnages. La bande dessinée en a hérité : la bulle de dialogue se termine par une pointe dirigée vers celui qui parle, tandis qu'une pensée prend souvent la forme d'un nuage relié au personnage par de petits ronds.",
+      "source": "Wikipédia (fr) — « Phylactère »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-05-2",
+      "categorie": "bd",
+      "niveau": 5,
+      "question": "Quel dessinateur belge a créé les Schtroumpfs en 1958 ?",
+      "reponse": "Peyo",
+      "variantes": [
+        "Pierre Culliford"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Franquin",
+          "André Franquin",
+          "Morris",
+          "Hergé",
+          "Roba"
+        ]
+      },
+      "explication": "Pierre Culliford (1928-1992) tiendrait son pseudonyme de la façon dont un jeune cousin anglais prononçait « Pierrot ». Les Schtroumpfs apparaissent en 1958 dans « La Flûte à six trous », une aventure de Johan et Pirlouit, avant d'obtenir leur propre série. Le mot serait né lors d'un repas où, ne trouvant plus le mot « salière », il aurait demandé à son ami Franquin de lui passer le « schtroumpf ».",
+      "source": "Wikipédia (fr) — « Peyo »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-05-3",
+      "categorie": "bd",
+      "niveau": 5,
+      "question": "Quelle autrice a raconté son enfance en Iran pendant la révolution islamique dans « Persepolis » ?",
+      "reponse": "Marjane Satrapi",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Riad Sattouf",
+          "Zeina Abirached"
+        ]
+      },
+      "explication": "Publié en quatre volumes de 2000 à 2003 par L'Association, « Persepolis » raconte en noir et blanc la jeunesse de Marjane Satrapi à Téhéran, de la chute du chah à la guerre Iran-Irak, puis son exil en Europe. Traduit dans de nombreuses langues, l'ouvrage a été adapté en film d'animation par l'autrice et Vincent Paronnaud, prix du jury au Festival de Cannes en 2007.",
+      "anecdote": "Le film d'animation tiré de « Persepolis » a été nommé à l'Oscar du meilleur film d'animation en 2008.",
+      "source": "Wikipédia (fr) — « Persepolis (bande dessinée) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-05-4",
+      "categorie": "bd",
+      "niveau": 5,
+      "question": "Quel château, propriété du capitaine Haddock, devient la demeure de Tintin et de ses amis ?",
+      "reponse": "Moulinsart",
+      "variantes": [
+        "Château de Moulinsart",
+        "Marlinspike"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Cheverny",
+          "Champignac"
+        ]
+      },
+      "explication": "Le château apparaît dans « Le Secret de la Licorne » et revient au capitaine à la fin du « Trésor de Rackham le Rouge » (1944), grâce à l'argent du professeur Tournesol : il avait appartenu à son ancêtre, le chevalier François de Hadoque. L'auteur s'est inspiré du château de Cheverny, dans le Loir-et-Cher, en supprimant ses deux ailes. Le majordome Nestor y est attaché.",
+      "anecdote": "Son nom inverse celui de Sart-Moulin, un hameau de Braine-l'Alleud, en Belgique.",
+      "source": "Wikipédia (fr) — « Château de Moulinsart »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-05-5",
+      "categorie": "bd",
+      "niveau": 5,
+      "question": "Quel dessinateur américain a créé « Peanuts », la série de Charlie Brown et de son chien ?",
+      "reponse": "Charles M. Schulz",
+      "variantes": [
+        "Charles Schulz",
+        "Charles Monroe Schulz"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Jim Davis",
+          "Bill Watterson",
+          "Walt Disney"
+        ]
+      },
+      "explication": "Charles M. Schulz a dessiné seul « Peanuts » pendant près de cinquante ans, d'octobre 1950 à sa retraite, annoncée fin 1999, soit près de 18 000 strips. Il est mort le 12 février 2000, la veille de la parution de son dernier strip du dimanche. Il n'a jamais aimé le titre « Peanuts », imposé par son agence de presse, qu'il trouvait insignifiant.",
+      "anecdote": "Charlie Brown doit son nom à un collègue de Schulz à l'école de dessin par correspondance où il enseignait.",
+      "source": "Wikipédia (fr) — « Charles M. Schulz »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-05-6",
+      "categorie": "bd",
+      "niveau": 5,
+      "question": "Dans quel manga le lycéen Light Yagami tue-t-il en écrivant le nom de ses victimes dans un cahier ?",
+      "reponse": "Death Note",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Bleach",
+          "Akira",
+          "Tokyo Ghoul"
+        ]
+      },
+      "explication": "Écrit par Tsugumi Ōba et dessiné par Takeshi Obata, « Death Note » paraît au Japon de 2003 à 2006. Le cahier a été laissé tomber sur Terre par Ryuk, un dieu de la mort amateur de pommes. Light, qui veut purger le monde des criminels, est traqué par un détective excentrique désigné par une seule lettre, L. La série a été adaptée en anime, en films et en comédie musicale.",
+      "source": "Wikipédia (fr) — « Death Note »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-05-7",
+      "categorie": "bd",
+      "niveau": 5,
+      "question": "Comment appelle-t-on une page entière de bande dessinée, composée de plusieurs cases ?",
+      "reponse": "Planche",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Strip",
+          "Vignette",
+          "Case",
+          "Feuillet"
+        ]
+      },
+      "explication": "Une planche se compose généralement de trois ou quatre bandes horizontales, appelées strips, elles-mêmes divisées en cases. Les albums de Tintin en couleurs en comptent généralement 62. Les originaux, dessinés à l'encre dans un format plus grand que celui de l'impression, sont devenus des pièces de collection très recherchées, exposées dans les musées et vendues aux enchères.",
+      "source": "Wikipédia (fr) — « Bande dessinée »",
+      "verification": {
+        "statut": "relue",
+        "note": "« généralement » ajouté pour les 62 planches ; source remplacée par l'article principal."
+      }
+    },
+    {
+      "id": "bdm-05-8",
+      "categorie": "bd",
+      "niveau": 5,
+      "question": "Quel terme japonais désigne les mangas destinés en priorité aux jeunes garçons ?",
+      "reponse": "Shōnen",
+      "variantes": [
+        "Shonen",
+        "Shounen"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Shōjo",
+          "Shojo",
+          "Seinen",
+          "Josei",
+          "Kodomo"
+        ]
+      },
+      "explication": "Le shōnen privilégie l'action, l'aventure, l'amitié et le dépassement de soi : Dragon Ball, Naruto et One Piece en sont des exemples emblématiques. Le shōjo vise les adolescentes, le seinen les jeunes hommes adultes et le josei les femmes adultes. Ces catégories correspondent d'abord au public des magazines de prépublication, comme le Shōnen Jump, lancé en 1968.",
+      "source": "Wikipédia (fr) — « Shōnen »",
+      "verification": {
+        "statut": "relue",
+        "note": "Le magazine est lancé en 1968 mais hebdomadaire seulement en 1969 : « Weekly » retiré."
+      }
+    },
+    {
+      "id": "bdm-06-1",
+      "categorie": "bd",
+      "niveau": 6,
+      "question": "Dans quel journal, lancé en octobre 1959, Astérix a-t-il fait sa première apparition ?",
+      "reponse": "Pilote",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Spirou",
+          "Tintin",
+          "Le Journal de Mickey",
+          "Vaillant"
+        ]
+      },
+      "explication": "Le premier numéro de Pilote paraît le 29 octobre 1959 avec les premières planches d'« Astérix le Gaulois ». Fondé notamment par René Goscinny, Albert Uderzo et Jean-Michel Charlier, le journal devient dans les années 1960 le laboratoire de la BD française pour adolescents et adultes, publiant aussi « Blueberry », « Achille Talon » ou « Valérian ».",
+      "source": "Wikipédia (fr) — « Pilote (périodique) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-06-2",
+      "categorie": "bd",
+      "niveau": 6,
+      "question": "Quel mangaka surnommé « le dieu du manga » a créé « Astro Boy » en 1952 ?",
+      "reponse": "Osamu Tezuka",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Akira Toriyama",
+          "Hayao Miyazaki",
+          "Leiji Matsumoto"
+        ]
+      },
+      "explication": "Diplômé de médecine, Osamu Tezuka (1928-1989) a façonné le manga d'après-guerre en s'inspirant du découpage cinématographique et des grands yeux expressifs des dessins animés de Disney. Il a laissé une œuvre immense, d'« Astro Boy » à « Phénix » en passant par « Le Roi Léo ». Il a aussi fondé au début des années 1960 un studio d'animation, Mushi Production.",
+      "anecdote": "Un musée lui est consacré à Takarazuka, la ville de son enfance.",
+      "source": "Wikipédia (fr) — « Osamu Tezuka »",
+      "verification": {
+        "statut": "relue",
+        "note": "Date de fondation de Mushi Production arrondie (studio créé en 1961, nommé ainsi en 1962)."
+      }
+    },
+    {
+      "id": "bdm-06-3",
+      "categorie": "bd",
+      "niveau": 6,
+      "question": "Quel auteur belge a créé la série « Blake et Mortimer » ?",
+      "reponse": "Edgar P. Jacobs",
+      "variantes": [
+        "Edgar Pierre Jacobs",
+        "Edgar-Pierre Jacobs"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Hergé",
+          "Jean Van Hamme",
+          "Yves Sente",
+          "Bob de Moor"
+        ]
+      },
+      "explication": "Ancien chanteur d'opéra, Edgar Pierre Jacobs (1904-1987) a collaboré avec Hergé, notamment pour les décors et la mise en couleurs d'albums de Tintin, avant de lancer sa propre série. Le capitaine Francis Blake, officier du renseignement britannique, et le professeur Philip Mortimer, physicien, y affrontent complots et mystères scientifiques. D'autres auteurs poursuivent la série depuis sa mort.",
+      "source": "Wikipédia (fr) — « Edgar P. Jacobs »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-06-4",
+      "categorie": "bd",
+      "niveau": 6,
+      "question": "Quel roman graphique d'Art Spiegelman représente les Juifs en souris et les nazis en chats ?",
+      "reponse": "Maus",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Mouse",
+          "Persepolis",
+          "Watchmen"
+        ]
+      },
+      "explication": "Art Spiegelman y retrace le témoignage de son père, Vladek, rescapé d'Auschwitz, ainsi que sa propre relation difficile avec lui. Publié en deux volumes en 1986 et 1991, « Maus » reçoit en 1992 un prix Pulitzer spécial, une première pour une bande dessinée. Les Polonais y sont représentés en cochons, les Américains en chiens.",
+      "anecdote": "« Maus » signifie « souris » en allemand.",
+      "source": "Wikipédia (fr) — « Maus »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-06-5",
+      "categorie": "bd",
+      "niveau": 6,
+      "question": "Quel dessinateur belge a créé Lucky Luke en 1946 ?",
+      "reponse": "Morris",
+      "variantes": [
+        "Maurice De Bevere",
+        "Maurice de Bevere"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "René Goscinny",
+          "Goscinny",
+          "Achdé",
+          "Hergé",
+          "Franquin"
+        ]
+      },
+      "explication": "Maurice De Bevere, dit Morris (1923-2001), lance Lucky Luke dans l'Almanach 1947 du journal Spirou, paru à la fin de 1946. À partir de 1955, René Goscinny devient le scénariste de la série et lui apporte son humour parodique, avec les cousins Dalton ou le chien Rantanplan. Depuis la mort de Morris, le dessin est assuré par Achdé.",
+      "anecdote": "Morris et Goscinny se sont rencontrés aux États-Unis, où ils séjournaient tous deux à la fin des années 1940.",
+      "source": "Wikipédia (fr) — « Morris (dessinateur) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-06-6",
+      "categorie": "bd",
+      "niveau": 6,
+      "question": "Quel métal indestructible recouvre le squelette et les griffes de Wolverine, des X-Men ?",
+      "reponse": "Adamantium",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Vibranium",
+          "Kryptonite",
+          "Titane"
+        ]
+      },
+      "explication": "Wolverine, surnommé Logan, apparaît en 1974 dans un épisode de « The Incredible Hulk », avant de rejoindre les X-Men en 1975. Mutant doté d'un pouvoir d'autoguérison, il a subi une expérience secrète, le programme Arme X, qui a soudé l'adamantium à ses os. Au cinéma, il a été incarné par Hugh Jackman de 2000 à 2024.",
+      "anecdote": "Grâce à son pouvoir d'autoguérison, Wolverine vieillit très lentement : ses origines remontent à la fin du XIXe siècle.",
+      "source": "Wikipédia (fr) — « Wolverine »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-06-7",
+      "categorie": "bd",
+      "niveau": 6,
+      "question": "Quel auteur italien a créé le marin aventurier Corto Maltese ?",
+      "reponse": "Hugo Pratt",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Milo Manara",
+          "Guido Crepax",
+          "Moebius"
+        ],
+        "nomSeul": true
+      },
+      "explication": "Corto Maltese apparaît en 1967 dans « La Ballade de la mer salée ». Fils d'une gitane de Séville et d'un marin des Cornouailles, il parcourt le monde au début du XXe siècle, entre romantisme et ironie. Hugo Pratt (1927-1995), qui avait passé une partie de son adolescence en Éthiopie, a nourri ses récits de voyages, d'histoire et de littérature.",
+      "anecdote": "Selon sa légende, Corto Maltese s'est tracé lui-même au rasoir la ligne de chance qui manquait dans sa main.",
+      "source": "Wikipédia (fr) — « Hugo Pratt »",
+      "verification": {
+        "statut": "relue",
+        "note": "Nom seul « Pratt » conservé : pas d'autre Pratt célèbre en bande dessinée (Anthony Pratt relève des jeux)."
+      }
+    },
+    {
+      "id": "bdm-06-8",
+      "categorie": "bd",
+      "niveau": 6,
+      "question": "Quel album de Riad Sattouf, récit de son enfance en Libye et en Syrie, a reçu le Fauve d'or à Angoulême en 2015 ?",
+      "reponse": "L'Arabe du futur",
+      "variantes": [
+        "Arabe du futur"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Persepolis",
+          "Les Cahiers d'Esther",
+          "Pascal Brutal"
+        ]
+      },
+      "explication": "Le premier tome de « L'Arabe du futur », sous-titré « Une jeunesse au Moyen-Orient (1978-1984) », raconte l'enfance de Riad Sattouf entre une mère bretonne et un père syrien fasciné par le panarabisme. La série, achevée en six tomes en 2022, s'est vendue à plusieurs millions d'exemplaires. L'auteur a aussi réalisé des films, comme « Les Beaux Gosses » (2009).",
+      "source": "Wikipédia (fr) — « L'Arabe du futur »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-07-1",
+      "categorie": "bd",
+      "niveau": 7,
+      "question": "Que signifient les lettres « DC », dans le nom de l'éditeur américain DC Comics ?",
+      "reponse": "Detective Comics",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Direct Comics",
+          "Daily Comics",
+          "Dark Comics"
+        ]
+      },
+      "explication": "Detective Comics est un magazine lancé en 1937, dans lequel Batman fait ses débuts en 1939. Son succès a fini par donner son nom à la maison d'édition, qui publiait aussi Superman : DC Comics signifie donc littéralement « Detective Comics Comics ». Propriété du groupe Warner, l'éditeur publie aussi Wonder Woman, Flash et Green Lantern.",
+      "source": "Wikipédia (fr) — « DC Comics »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-07-2",
+      "categorie": "bd",
+      "niveau": 7,
+      "question": "Sous quel pseudonyme Jean Giraud a-t-il signé ses récits de science-fiction, comme « L'Incal » ?",
+      "reponse": "Moebius",
+      "variantes": [
+        "Mœbius",
+        "Möbius"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Gir",
+          "Druillet",
+          "Bilal"
+        ]
+      },
+      "explication": "Jean Giraud (1938-2012) menait deux carrières : sous le nom de Gir, il dessinait le western « Blueberry », écrit par Jean-Michel Charlier ; sous celui de Moebius, il explorait des mondes oniriques, dans « Arzach » ou « L'Incal », écrit par Alejandro Jodorowsky. Cofondateur du magazine Métal hurlant, il a aussi travaillé sur les visuels de films comme « Alien ».",
+      "anecdote": "Son pseudonyme fait référence au ruban de Möbius, surface mathématique qui ne possède qu'une seule face.",
+      "source": "Wikipédia (fr) — « Jean Giraud »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-07-3",
+      "categorie": "bd",
+      "niveau": 7,
+      "question": "Quel colonel, génie du crime, est l'ennemi juré du capitaine Blake et du professeur Mortimer ?",
+      "reponse": "Olrik",
+      "variantes": [
+        "Colonel Olrik"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Rastapopoulos",
+          "Zorglub",
+          "Septimus"
+        ]
+      },
+      "explication": "Aventurier sans scrupule, au service des puissants comme de ses propres intérêts, le colonel Olrik revient dans presque toutes les aventures de Blake et Mortimer. Dans « La Marque jaune » (1956), il est lui-même manipulé par le docteur Septimus. Edgar P. Jacobs, qui posait souvent pour ses personnages, lui aurait prêté ses propres traits.",
+      "source": "Wikipédia (fr) — « Blake et Mortimer »",
+      "verification": {
+        "statut": "relue",
+        "note": "Ressemblance avec Jacobs mise au conditionnel ; source remplacée par l'article de la série."
+      }
+    },
+    {
+      "id": "bdm-07-4",
+      "categorie": "bd",
+      "niveau": 7,
+      "question": "Quel scénariste britannique a écrit « Watchmen » et « V pour Vendetta » ?",
+      "reponse": "Alan Moore",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Neil Gaiman",
+          "Frank Miller",
+          "Dave Gibbons",
+          "Grant Morrison"
+        ]
+      },
+      "explication": "Dessiné par Dave Gibbons et publié en 1986-1987, « Watchmen » imagine des super-héros vieillissants dans une Amérique au bord de la guerre nucléaire. C'est la seule bande dessinée retenue dans la liste des 100 meilleurs romans de langue anglaise établie par le magazine Time en 2005. En conflit avec les éditeurs, Alan Moore a refusé que son nom figure au générique des adaptations au cinéma.",
+      "anecdote": "Le masque de Guy Fawkes porté par le héros de « V pour Vendetta » est devenu un symbole de contestation, repris notamment par le collectif Anonymous.",
+      "source": "Wikipédia (fr) — « Alan Moore »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-07-5",
+      "categorie": "bd",
+      "niveau": 7,
+      "question": "Quel jeune ami chinois de Tintin, sauvé de la noyade dans « Le Lotus bleu », réapparaît dans « Tintin au Tibet » ?",
+      "reponse": "Tchang",
+      "variantes": [
+        "Tchang Tchong-Jen"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Zorrino",
+          "Abdallah",
+          "Wang"
+        ]
+      },
+      "explication": "Tchang est inspiré de Zhang Chongren, étudiant chinois en art que Hergé rencontre à Bruxelles en 1934 et qui l'initie à la culture chinoise. Grâce à lui, « Le Lotus bleu » rompt avec les clichés de l'époque et dénonce l'invasion japonaise de la Mandchourie. Séparés par la guerre et la révolution, les deux amis ne se revoient qu'en 1981, à Bruxelles.",
+      "anecdote": "Les inscriptions chinoises qui décorent les murs du « Lotus bleu », dont des slogans hostiles à l'occupant japonais, ont été calligraphiées par Zhang Chongren lui-même.",
+      "source": "Wikipédia (fr) — « Le Lotus bleu »",
+      "verification": {
+        "statut": "relue",
+        "note": "Source remplacée par l'article de l'album."
+      }
+    },
+    {
+      "id": "bdm-07-6",
+      "categorie": "bd",
+      "niveau": 7,
+      "question": "Quel dessinateur belge a créé en 1952 le Marsupilami, animal à très longue queue qui crie « Houba » ?",
+      "reponse": "André Franquin",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Peyo",
+          "Jijé",
+          "Morris",
+          "Roba"
+        ]
+      },
+      "explication": "Le Marsupilami surgit en 1952 dans « Spirou et les héritiers », une aventure de Spirou et Fantasio. Ce mammifère jaune tacheté de noir vient de la Palombie, un pays imaginaire d'Amérique du Sud. André Franquin (1924-1997), qui avait repris Spirou en 1946 après Jijé, a aussi créé Gaston Lagaffe et signé les sombres « Idées noires ».",
+      "anecdote": "Le Marsupilami se sert de sa queue comme d'un lasso, d'un ressort ou d'un poing.",
+      "source": "Wikipédia (fr) — « Marsupilami »",
+      "verification": {
+        "statut": "relue",
+        "note": "« à la fin de sa carrière » (Idées noires, 1977-1983) retiré ; longueur de la queue retirée de l'anecdote."
+      }
+    },
+    {
+      "id": "bdm-07-7",
+      "categorie": "bd",
+      "niveau": 7,
+      "question": "Quel format de BD numérique né en Corée du Sud se lit en faisant défiler les images verticalement sur un téléphone ?",
+      "reponse": "Webtoon",
+      "variantes": [
+        "Webtoons"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Manhwa",
+          "Manga",
+          "Manhua"
+        ]
+      },
+      "explication": "Le mot combine « web » et « cartoon ». Apparu au début des années 2000 sur les portails internet coréens, le webtoon est pensé pour l'écran : une seule longue bande verticale, souvent en couleurs, publiée chapitre par chapitre. Des plateformes comme Naver Webtoon l'ont diffusé dans le monde entier, et de nombreuses séries ont été adaptées en séries télévisées ou en anime.",
+      "source": "Wikipédia (fr) — « Webtoon »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-07-8",
+      "categorie": "bd",
+      "niveau": 7,
+      "question": "Quel auteur a créé « Le Chat du rabbin », félin qui se met à parler après avoir mangé un perroquet ?",
+      "reponse": "Joann Sfar",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Riad Sattouf",
+          "Lewis Trondheim",
+          "Christophe Blain"
+        ]
+      },
+      "explication": "Publiée à partir de 2002, la série se déroule dans l'Alger des années 1930 : après avoir dévoré le perroquet de la maison, le chat du rabbin acquiert la parole, ment effrontément et réclame sa bar-mitsva. Joann Sfar l'a lui-même porté à l'écran avec Antoine Delesvaux ; le film d'animation a reçu en 2012 le César du meilleur film d'animation.",
+      "source": "Wikipédia (fr) — « Le Chat du rabbin »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-08-1",
+      "categorie": "bd",
+      "niveau": 8,
+      "question": "Dans quel magazine Superman fait-il sa première apparition, en juin 1938 ?",
+      "reponse": "Action Comics",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Detective Comics",
+          "Amazing Fantasy",
+          "Marvel Comics",
+          "Superman"
+        ]
+      },
+      "explication": "Créé par deux jeunes de Cleveland, le scénariste Jerry Siegel et le dessinateur Joe Shuster, Superman fait la couverture du premier numéro d'Action Comics, daté de juin 1938, soulevant une voiture à bout de bras. Ce numéro est devenu la bande dessinée la plus recherchée au monde : un exemplaire bien conservé a été vendu 6 millions de dollars aux enchères en 2024.",
+      "anecdote": "Siegel et Shuster avaient cédé tous les droits du personnage à l'éditeur pour 130 dollars.",
+      "source": "Wikipédia (fr) — « Action Comics »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-08-2",
+      "categorie": "bd",
+      "niveau": 8,
+      "question": "Quel dessinateur a cocréé Spider-Man avec Stan Lee en 1962 ?",
+      "reponse": "Steve Ditko",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Jack Kirby",
+          "John Romita",
+          "Stan Lee",
+          "Todd McFarlane"
+        ]
+      },
+      "explication": "Après une première ébauche de Jack Kirby jugée trop héroïque, Stan Lee confie Spider-Man à Steve Ditko, qui imagine le costume intégral et le masque couvrant tout le visage. Il dessine la série jusqu'en 1966 et cocrée aussi Doctor Strange. Très discret, refusant presque toutes les interviews, il est mort en 2018 à New York, à 90 ans.",
+      "source": "Wikipédia (fr) — « Steve Ditko »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-08-3",
+      "categorie": "bd",
+      "niveau": 8,
+      "question": "Quelle mangaka, autrice de « Ranma ½ » et « Inu-Yasha », a reçu le Grand Prix d'Angoulême en 2019 ?",
+      "reponse": "Rumiko Takahashi",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "nomSeul": false,
+        "pieges": [
+          "Naoko Takeuchi",
+          "Moto Hagio",
+          "Florence Cestac",
+          "Kazuki Takahashi",
+          "Yōichi Takahashi"
+        ]
+      },
+      "explication": "Révélée en 1978 avec « Urusei Yatsura », Rumiko Takahashi a enchaîné les succès : « Maison Ikkoku », puis « Ranma ½ », dont le héros se change en fille au contact de l'eau froide et redevient garçon avec l'eau chaude, et « Inu-Yasha ». Elle compte parmi les autrices de manga les plus vendues, avec plus de 200 millions d'exemplaires. Le Grand Prix couronne l'ensemble d'une œuvre.",
+      "source": "Wikipédia (fr) — « Rumiko Takahashi »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul false (autres mangakas Takahashi : Kazuki, Yōichi)."
+      }
+    },
+    {
+      "id": "bdm-08-4",
+      "categorie": "bd",
+      "niveau": 8,
+      "question": "Quelle BD de Jacques Lob et Jean-Marc Rochette, où des survivants d'une ère glaciaire vivent dans un train, a inspiré « Snowpiercer » ?",
+      "reponse": "Le Transperceneige",
+      "variantes": [
+        "Transperceneige"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Snowpiercer",
+          "Le Train"
+        ]
+      },
+      "explication": "Publié à partir de 1982 dans le magazine (À suivre), « Le Transperceneige » imagine les derniers humains entassés dans un train qui roule sans fin autour d'une Terre gelée : les plus pauvres en queue, les privilégiés en tête. Le cinéaste sud-coréen Bong Joon-ho l'a adapté en 2013, avant une série télévisée. Rochette a ensuite prolongé l'histoire avec d'autres scénaristes.",
+      "source": "Wikipédia (fr) — « Le Transperceneige »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-08-5",
+      "categorie": "bd",
+      "niveau": 8,
+      "question": "Quel dessinateur de Disney a créé l'oncle Picsou en 1947 ?",
+      "reponse": "Carl Barks",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Don Rosa",
+          "Walt Disney",
+          "Floyd Gottfredson"
+        ]
+      },
+      "explication": "Surnommé « l'homme des bons canards » par des lecteurs qui ignoraient son nom, Carl Barks travaillait anonymement pour les comics Disney. Picsou apparaît dans une histoire de Noël de 1947, avant de devenir un héros à part entière, plongeant dans son coffre rempli de pièces d'or. Barks a aussi inventé Gontran, Géo Trouvetou et les Rapetou.",
+      "anecdote": "En anglais, Picsou s'appelle Scrooge McDuck, en référence à l'avare Ebenezer Scrooge du « Conte de Noël » de Dickens.",
+      "source": "Wikipédia (fr) — « Carl Barks »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-08-6",
+      "categorie": "bd",
+      "niveau": 8,
+      "question": "Comment appelle-t-on l'espace blanc qui sépare deux cases sur une planche de BD ?",
+      "reponse": "Gouttière",
+      "variantes": [
+        "Espace intericonique",
+        "Intericonique",
+        "Blanc intericonique"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Marge",
+          "Bande",
+          "Strip",
+          "Bordure"
+        ]
+      },
+      "explication": "Pour le théoricien américain Scott McCloud, c'est dans la gouttière que se joue l'essentiel : le lecteur y imagine ce qui se passe entre deux images, un processus qu'il appelle « closure » dans « L'Art invisible » (1993). Les spécialistes français parlent aussi d'« espace intericonique ». Certains auteurs la suppriment ou la font traverser par un personnage pour créer un effet.",
+      "source": "Scott McCloud, « L'Art invisible »",
+      "verification": {
+        "statut": "relue",
+        "note": "Source remplacée par l'ouvrage de McCloud cité dans l'explication."
+      }
+    },
+    {
+      "id": "bdm-08-7",
+      "categorie": "bd",
+      "niveau": 8,
+      "question": "Quelle autrice a créé l'adolescente Agrippine et croqué la bourgeoisie intellectuelle dans « Les Frustrés » ?",
+      "reponse": "Claire Bretécher",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Florence Cestac",
+          "Marjane Satrapi",
+          "Catherine Meurisse"
+        ]
+      },
+      "explication": "Claire Bretécher (1940-2020) publie « Les Frustrés » dans Le Nouvel Observateur à partir de 1973 et y moque avec férocité la gauche intellectuelle parisienne. Elle a cofondé en 1972 le magazine L'Écho des savanes avec Gotlib et Mandryka. « Agrippine », chronique d'une adolescente aux prises avec sa famille et son époque, paraît à partir de 1988 et lui vaut un nouveau succès.",
+      "source": "Wikipédia (fr) — « Claire Bretécher »",
+      "verification": {
+        "statut": "relue",
+        "note": "Citation de Roland Barthes (formulation et année incertaines) retirée."
+      }
+    },
+    {
+      "id": "bdm-08-8",
+      "categorie": "bd",
+      "niveau": 8,
+      "question": "Quel scénariste belge a créé les séries « Thorgal », « XIII » et « Largo Winch » ?",
+      "reponse": "Jean Van Hamme",
+      "variantes": [
+        "Van Hamme"
+      ],
+      "validation": {
+        "type": "personne",
+        "nom": "Van Hamme",
+        "pieges": [
+          "Grzegorz Rosinski",
+          "William Vance",
+          "Philippe Francq",
+          "Yves Sente"
+        ]
+      },
+      "explication": "Ancien cadre d'entreprise, Jean Van Hamme lance « Thorgal » avec le Polonais Grzegorz Rosinski en 1977, « XIII » avec William Vance en 1984, puis « Largo Winch » en BD avec Philippe Francq en 1990, après en avoir fait le héros de romans. Ses séries comptent parmi les plus vendues de la BD franco-belge. Il a aussi écrit des aventures de Blake et Mortimer.",
+      "source": "Wikipédia (fr) — « Jean Van Hamme »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-09-1",
+      "categorie": "bd",
+      "niveau": 9,
+      "question": "Quel auteur genevois du XIXe siècle est souvent considéré comme l'inventeur de la bande dessinée, avec ses « histoires en estampes » ?",
+      "reponse": "Rodolphe Töpffer",
+      "variantes": [
+        "Rodolphe Toepffer",
+        "Toepffer"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Wilhelm Busch",
+          "Gustave Doré",
+          "Christophe"
+        ]
+      },
+      "explication": "Directeur d'un pensionnat de garçons à Genève, Rodolphe Töpffer (1799-1846) dessine pour ses élèves des récits comiques en images légendées, comme « Histoire de M. Vieux Bois », publiée en 1837. Goethe, à qui il avait montré ses albums, l'encourage à les publier. Töpffer a aussi réfléchi à son art dans un « Essai de physiognomonie », en 1845.",
+      "source": "Wikipédia (fr) — « Rodolphe Töpffer »",
+      "verification": {
+        "statut": "relue",
+        "note": "« souvent » ajouté dans l'énoncé."
+      }
+    },
+    {
+      "id": "bdm-09-2",
+      "categorie": "bd",
+      "niveau": 9,
+      "question": "Quel psychologue américain, associé aux débuts du détecteur de mensonges, a créé Wonder Woman en 1941 ?",
+      "reponse": "William Moulton Marston",
+      "variantes": [
+        "William Marston"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Bob Kane",
+          "Jerry Siegel",
+          "Harry G. Peter"
+        ]
+      },
+      "explication": "Convaincu de la supériorité morale des femmes, William Moulton Marston crée Wonder Woman, princesse amazone, sous le pseudonyme de Charles Moulton, avec le dessinateur Harry G. Peter. Son lasso magique oblige quiconque y est attaché à dire la vérité, clin d'œil aux travaux de son créateur sur la mesure de la pression artérielle pour détecter le mensonge. Elle apparaît fin 1941 dans All Star Comics.",
+      "anecdote": "Marston vivait avec sa femme Elizabeth et sa compagne Olive Byrne, deux femmes qui ont inspiré le personnage.",
+      "source": "Wikipédia (fr) — « William Moulton Marston »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-09-3",
+      "categorie": "bd",
+      "niveau": 9,
+      "question": "Quelle autrice, créatrice des « Déblok », a été en 2000 la première femme à recevoir le Grand Prix d'Angoulême ?",
+      "reponse": "Florence Cestac",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Claire Bretécher",
+          "Rumiko Takahashi",
+          "Julie Doucet"
+        ]
+      },
+      "explication": "Florence Cestac, célèbre pour ses personnages aux gros nez, reprend en 1972 avec Étienne Robial la librairie parisienne Futuropolis, qui devient une maison d'édition exigeante. Son album « Le Démon de midi » (1996), récit drôle d'une femme quittée pour une plus jeune, a été adapté au théâtre puis au cinéma. Avant elle, le palmarès du Grand Prix, créé en 1974, ne comptait que des hommes.",
+      "source": "Wikipédia (fr) — « Florence Cestac »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-09-4",
+      "categorie": "bd",
+      "niveau": 9,
+      "question": "Quelle est la première aventure de Blake et Mortimer, publiée dès le premier numéro du journal Tintin en 1946 ?",
+      "reponse": "Le Secret de l'Espadon",
+      "variantes": [
+        "Secret de l'Espadon",
+        "L'Espadon"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "La Marque jaune",
+          "Le Mystère de la Grande Pyramide",
+          "L'Énigme de l'Atlantide"
+        ]
+      },
+      "explication": "Le journal Tintin, fondé par l'éditeur Raymond Leblanc, paraît le 26 septembre 1946. Edgar P. Jacobs y lance ce récit d'anticipation : une puissance asiatique imaginaire attaque le monde, et la résistance s'organise autour de l'Espadon, un avion révolutionnaire conçu par Mortimer. Publiée jusqu'en 1949, l'histoire est ensuite éditée en albums.",
+      "source": "Wikipédia (fr) — « Le Secret de l'Espadon »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-09-5",
+      "categorie": "bd",
+      "niveau": 9,
+      "question": "Quel dessinateur français a créé le personnage de Spirou en 1938 ?",
+      "reponse": "Rob-Vel",
+      "variantes": [
+        "Robert Velter",
+        "Rob Vel"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Jijé",
+          "Franquin",
+          "Fournier",
+          "Tome"
+        ]
+      },
+      "explication": "Ancien steward sur des paquebots, Robert Velter, dit Rob-Vel, imagine Spirou pour le premier numéro du journal du même nom, lancé par l'éditeur belge Jean Dupuis le 21 avril 1938. Le héros est alors un groom du Moustic Hôtel. Pendant la guerre, Rob-Vel cède le personnage à l'éditeur ; la série est reprise par Jijé, puis par Franquin.",
+      "anecdote": "« Spirou » signifie « écureuil » en wallon, et désigne aussi un enfant espiègle.",
+      "source": "Wikipédia (fr) — « Rob-Vel »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-09-6",
+      "categorie": "bd",
+      "niveau": 9,
+      "question": "Quelle autrice américaine a reçu le Fauve d'or à Angoulême en 2019 pour « Moi, ce que j'aime, c'est les monstres » ?",
+      "reponse": "Emil Ferris",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Alison Bechdel",
+          "Julie Doucet"
+        ]
+      },
+      "explication": "Dessiné au stylo à bille sur les pages d'un cahier à spirale, l'album suit Karen, une fillette de Chicago qui se représente en loup-garou et enquête sur la mort de sa voisine, rescapée de la Shoah, à la fin des années 1960. Emil Ferris l'a créé après avoir été paralysée en 2001 par le virus du Nil occidental : elle a dû réapprendre à tenir un stylo.",
+      "source": "Wikipédia (fr) — « Emil Ferris »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-09-7",
+      "categorie": "bd",
+      "niveau": 9,
+      "question": "Quel chirurgien de génie, exerçant sans licence et au visage balafré, est le héros d'un manga d'Osamu Tezuka ?",
+      "reponse": "Black Jack",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Docteur Tenma",
+          "Astro",
+          "Pinoko"
+        ]
+      },
+      "explication": "Publié de 1973 à 1983, « Black Jack » met à profit la formation médicale de son auteur : chaque chapitre tourne autour d'une opération spectaculaire, souvent facturée une fortune. Le héros, aux cheveux mi-blancs mi-noirs, porte sur le visage une greffe de peau donnée par un ami d'enfance. Il vit avec Pinoko, une petite fille qu'il a reconstituée à partir d'une tumeur.",
+      "source": "Wikipédia (fr) — « Osamu Tezuka »",
+      "verification": {
+        "statut": "relue",
+        "note": "Source remplacée par l'article de l'auteur."
+      }
+    },
+    {
+      "id": "bdm-09-8",
+      "categorie": "bd",
+      "niveau": 9,
+      "question": "Quel mangaka, auteur d'« Akira », a reçu le Grand Prix d'Angoulême en 2015 ?",
+      "reponse": "Katsuhiro Otomo",
+      "variantes": [
+        "Katsuhiro Ōtomo",
+        "Otomo"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Akira Toriyama",
+          "Jirō Taniguchi",
+          "Hayao Miyazaki"
+        ]
+      },
+      "explication": "Publié de 1982 à 1990, « Akira » se déroule dans un Néo-Tokyo reconstruit après une explosion dévastatrice, où des motards adolescents se heurtent à des expériences militaires sur des enfants aux pouvoirs psychiques. Otomo l'a lui-même adapté en film d'animation en 1988, œuvre culte qui a révélé l'animation japonaise pour adultes en Occident. Il est le premier auteur japonais à recevoir le Grand Prix.",
+      "source": "Wikipédia (fr) — « Katsuhiro Ōtomo »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-10-1",
+      "categorie": "bd",
+      "niveau": 10,
+      "question": "Sous quel pseudonyme le savant Georges Colomb a-t-il publié « La Famille Fenouillard » à partir de 1889 ?",
+      "reponse": "Christophe",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Caran d'Ache",
+          "Töpffer",
+          "Benjamin Rabier"
+        ]
+      },
+      "explication": "Botaniste, sous-directeur de laboratoire à la Sorbonne, Georges Colomb (1856-1945) publie dans Le Petit Français illustré les mésaventures d'une famille de petits-bourgeois de province partie découvrir le monde. Il crée ensuite le Sapeur Camember et le Savant Cosinus. Ces histoires en images légendées font de lui l'un des pionniers français de la bande dessinée.",
+      "anecdote": "Son pseudonyme est un clin d'œil à son nom de famille : Christophe Colomb.",
+      "source": "Wikipédia (fr) — « La Famille Fenouillard »",
+      "verification": {
+        "statut": "relue",
+        "note": "Source remplacée par l'article de la série."
+      }
+    },
+    {
+      "id": "bdm-10-2",
+      "categorie": "bd",
+      "niveau": 10,
+      "question": "Quel éditeur d'origine hongroise a lancé « Le Journal de Mickey » en France en 1934 ?",
+      "reponse": "Paul Winkler",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Raymond Leblanc",
+          "Jean Dupuis",
+          "Walt Disney"
+        ]
+      },
+      "explication": "Fondateur de l'agence Opera Mundi, qui diffusait des comics américains dans la presse européenne, Paul Winkler lance Le Journal de Mickey le 21 octobre 1934. Le succès est immédiat et contribue à faire connaître en France la bande dessinée américaine à bulles. Interrompu pendant la guerre, le titre renaît en 1952 dans un format plus petit.",
+      "source": "Wikipédia (fr) — « Le Journal de Mickey »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-10-3",
+      "categorie": "bd",
+      "niveau": 10,
+      "question": "Quel auteur américain de « Jimmy Corrigan » a reçu le Grand Prix d'Angoulême en 2021 ?",
+      "reponse": "Chris Ware",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Daniel Clowes",
+          "Charles Burns",
+          "Art Spiegelman",
+          "Robert Crumb"
+        ]
+      },
+      "explication": "Né en 1967 à Omaha, Chris Ware est réputé pour ses compositions d'une précision d'architecte, ses diagrammes et ses récits sur la solitude. « Jimmy Corrigan, the Smartest Kid on Earth », paru en album en 2000, raconte la rencontre tardive d'un homme effacé avec son père. Il a aussi publié « Building Stories », un coffret de quatorze livrets à lire dans l'ordre de son choix.",
+      "source": "Wikipédia (fr) — « Chris Ware »",
+      "verification": {
+        "statut": "relue",
+        "note": "Prix d'Angoulême 2003 pour « Jimmy Corrigan » (année non certaine) retiré."
+      }
+    },
+    {
+      "id": "bdm-10-4",
+      "categorie": "bd",
+      "niveau": 10,
+      "question": "Sous quel nom l'éditeur Marvel a-t-il été fondé par Martin Goodman en 1939 ?",
+      "reponse": "Timely Comics",
+      "variantes": [
+        "Timely",
+        "Timely Publications"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Atlas Comics",
+          "Atlas",
+          "DC Comics"
+        ]
+      },
+      "explication": "Timely publie en 1939 un « Marvel Comics n° 1 » où apparaissent la Torche humaine et Namor. En 1941, Joe Simon et Jack Kirby y créent Captain America, montré en couverture en train de frapper Hitler, avant même l'entrée en guerre des États-Unis. Dans les années 1950, la maison prend le nom d'Atlas, puis celui de Marvel au début des années 1960.",
+      "source": "Wikipédia (fr) — « Marvel Comics »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-10-5",
+      "categorie": "bd",
+      "niveau": 10,
+      "question": "Quel personnage chauve en chemise de nuit jaune, créé par Richard F. Outcault en 1895, est un pionnier du comic strip ?",
+      "reponse": "Yellow Kid",
+      "variantes": [
+        "The Yellow Kid",
+        "Mickey Dugan"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Little Nemo",
+          "Buster Brown",
+          "Katzenjammer Kids"
+        ]
+      },
+      "explication": "Gamin des taudis new-yorkais de « Hogan's Alley », le Yellow Kid s'exprime par des phrases écrites sur sa chemise. Il devient l'enjeu d'une guerre entre les journaux de Joseph Pulitzer et de William Randolph Hearst, qui se disputent son auteur et publient chacun leur version. Leur rivalité sensationnaliste a donné naissance à l'expression « presse jaune ».",
+      "anecdote": "Outcault a ensuite créé Buster Brown, dont le nom a été repris par une marque de chaussures américaine.",
+      "source": "Wikipédia (fr) — « Richard F. Outcault »",
+      "verification": {
+        "statut": "relue",
+        "note": "Source remplacée par l'article de l'auteur."
+      }
+    },
+    {
+      "id": "bdm-10-6",
+      "categorie": "bd",
+      "niveau": 10,
+      "question": "Quel homme d'affaires irascible ne parvient jamais à signer ses contrats à cause de Gaston Lagaffe ?",
+      "reponse": "Monsieur De Mesmaeker",
+      "variantes": [
+        "De Mesmaeker",
+        "Mesmaeker",
+        "M. De Mesmaeker"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Prunelle",
+          "Longtarin",
+          "Fantasio",
+          "Lebrac"
+        ]
+      },
+      "explication": "Venu signer des contrats avec la rédaction de Spirou, Monsieur De Mesmaeker voit chaque fois la signature réduite à néant par une invention ou une maladresse de Gaston : son exaspération est l'un des ressorts comiques de la série. Le personnage tient son nom de Jidéhem, assistant et ami de Franquin, de son vrai nom Jean De Mesmaeker.",
+      "anecdote": "Le pseudonyme Jidéhem reproduit la prononciation des initiales J. D. M.",
+      "source": "Wikipédia (fr) — « Gaston Lagaffe »",
+      "verification": {
+        "statut": "relue",
+        "note": "Détail incertain sur le père de Jidéhem modèle du personnage retiré ; source remplacée."
+      }
+    },
+    {
+      "id": "bdm-10-7",
+      "categorie": "bd",
+      "niveau": 10,
+      "question": "Quelle marque de whisky écossais le capitaine Haddock réclame-t-il dans les aventures de Tintin ?",
+      "reponse": "Loch Lomond",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Johnnie Walker",
+          "Glenfiddich",
+          "Lagavulin",
+          "Loch Ness"
+        ]
+      },
+      "explication": "Grand amateur d'alcool, le capitaine réclame souvent du Loch Lomond, dont le nom est celui du plus vaste lac d'eau douce de Grande-Bretagne par la superficie. Dans « On a marché sur la Lune », il embarque clandestinement du whisky dans la fusée : en apesanteur, le liquide s'échappe de la bouteille et flotte en boule, qu'il tente d'avaler.",
+      "anecdote": "Une distillerie écossaise bien réelle, installée près du lac, produit un whisky portant ce nom.",
+      "source": "Wikipédia (fr) — « Capitaine Haddock »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "bdm-10-8",
+      "categorie": "bd",
+      "niveau": 10,
+      "question": "Quel dessinateur américain a créé en 1905 « Little Nemo in Slumberland », où un enfant rêve chaque nuit ?",
+      "reponse": "Winsor McCay",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "George Herriman",
+          "Richard F. Outcault",
+          "Lyonel Feininger"
+        ]
+      },
+      "explication": "Publiée chaque dimanche dans le New York Herald, la série suit le petit Nemo dans des rêves fantastiques, avec des mises en page audacieuses en pleine page ; chaque planche se termine par son réveil, souvent au pied de son lit. Pionnier de l'animation, McCay a aussi réalisé en 1914 « Gertie le dinosaure », l'un des premiers dessins animés à donner une personnalité à son héros.",
+      "anecdote": "McCay présentait « Gertie » sur scène, donnant des ordres au dinosaure projeté à l'écran, qui semblait lui obéir.",
+      "source": "Wikipédia (fr) — « Winsor McCay »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    }
+  ]
+}

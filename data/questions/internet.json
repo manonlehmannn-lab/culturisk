@@ -96,6 +96,104 @@
       }
     },
     {
+      "id": "web-01-5",
+      "categorie": "internet",
+      "niveau": 1,
+      "question": "Quelle application de vidéos courtes, version internationale du chinois Douyin, appartient au groupe ByteDance ?",
+      "reponse": "TikTok",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Musical.ly",
+          "Instagram",
+          "Snapchat",
+          "Likee"
+        ]
+      },
+      "explication": "Le groupe pékinois ByteDance lance Douyin en Chine en 2016, puis sa déclinaison internationale, TikTok, l'année suivante. En août 2018, il y fusionne Musical.ly, une application de playback rachetée peu avant, ce qui accélère le succès auprès des adolescents. Son fil « Pour toi », piloté par un algorithme de recommandation, a imposé le format vertical de quelques secondes, repris ensuite par Instagram et YouTube.",
+      "anecdote": "En avril 2024, une loi américaine a sommé ByteDance de céder les activités américaines de TikTok, sous peine d'interdiction aux États-Unis.",
+      "source": "Wikipédia (fr) — « TikTok »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-01-6",
+      "categorie": "internet",
+      "niveau": 1,
+      "question": "Quelle messagerie, au logo de combiné téléphonique dans une bulle verte, Facebook a-t-il rachetée en 2014 ?",
+      "reponse": "WhatsApp",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Telegram",
+          "Signal",
+          "Messenger",
+          "Viber"
+        ]
+      },
+      "explication": "Fondée en 2009 par Jan Koum et Brian Acton, deux anciens ingénieurs de Yahoo, WhatsApp permettait d'échanger des messages par internet plutôt que par SMS payants. Facebook la rachète en février 2014 pour environ 19 milliards de dollars, une somme record pour l'entreprise à l'époque. Depuis 2016, les conversations sont chiffrées de bout en bout : même la société ne peut pas en lire le contenu.",
+      "anecdote": "Le nom joue sur l'expression anglaise « What's up? », c'est-à-dire « Quoi de neuf ? ».",
+      "source": "Wikipédia (fr) — « WhatsApp »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-01-7",
+      "categorie": "internet",
+      "niveau": 1,
+      "question": "Quel agent conversationnel d'OpenAI, ouvert au public en novembre 2022, a popularisé l'intelligence artificielle générative ?",
+      "reponse": "ChatGPT",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Gemini",
+          "Bard",
+          "Copilot",
+          "Mistral"
+        ]
+      },
+      "explication": "Mis en ligne le 30 novembre 2022 par l'entreprise américaine OpenAI, ChatGPT dépasse le million d'utilisateurs en cinq jours, selon son patron Sam Altman. Il repose sur un grand modèle de langage, entraîné sur d'immenses quantités de textes pour prédire la suite la plus probable d'une phrase. Son succès lance une course entre les géants du numérique : Google, Microsoft ou Meta dévoilent rapidement leurs propres assistants.",
+      "source": "Wikipédia (fr) — « ChatGPT »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-01-8",
+      "categorie": "internet",
+      "niveau": 1,
+      "question": "Quel nom désigne la connexion internet sans fil proposée par les box, les gares ou les cafés ?",
+      "reponse": "Wi-Fi",
+      "variantes": [
+        "Wifi",
+        "WLAN"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Bluetooth",
+          "4G",
+          "5G",
+          "Ethernet"
+        ]
+      },
+      "explication": "Le Wi-Fi repose sur une famille de normes techniques, appelée IEEE 802.11, dont la première version date de 1997. Son nom commercial a été inventé en 1999 par l'agence Interbrand, en écho au « hi-fi » des chaînes stéréo. Contrairement à une idée répandue, il ne signifie pas officiellement « Wireless Fidelity ». Ses ondes, notamment autour de 2,4 GHz, sont proches de celles d'un four à micro-ondes.",
+      "anecdote": "En 1942, l'actrice Hedy Lamarr a fait breveter un procédé de saut de fréquence, souvent cité parmi les lointains ancêtres du Wi-Fi et du Bluetooth.",
+      "source": "Wikipédia (fr) — « Wi-Fi »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
       "id": "web-02-1",
       "categorie": "internet",
       "niveau": 2,
@@ -179,6 +277,106 @@
       },
       "explication": "Le clavier AZERTY est une adaptation française du QWERTY, conçu aux États-Unis dans les années 1870 pour les machines à écrire de Christopher Latham Sholes. Chaque pays a ses variantes : la Belgique utilise un AZERTY légèrement différent. En 2019, l'Afnor a publié une nouvelle norme AZERTY qui facilite la saisie des majuscules accentuées, des guillemets français et de nombreux symboles.",
       "source": "Wikipédia (fr) — « AZERTY »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-02-5",
+      "categorie": "internet",
+      "niveau": 2,
+      "question": "Quel navigateur web Google a-t-il lancé en septembre 2008 ?",
+      "reponse": "Chrome",
+      "variantes": [
+        "Google Chrome"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Chromium",
+          "Firefox",
+          "Safari",
+          "Edge"
+        ]
+      },
+      "explication": "Google Chrome sort le 2 septembre 2008 sur Windows, présenté par une bande dessinée de l'auteur américain Scott McCloud. Rapide et dépouillé, il isole chaque onglet dans un processus séparé, pour qu'un plantage n'emporte pas tout le navigateur. Selon le cabinet StatCounter, il devient en 2012 le navigateur le plus utilisé au monde. Son code de base, baptisé Chromium, est un logiciel libre.",
+      "anecdote": "Hors connexion, Chrome affiche un petit dinosaure : appuyer sur la barre d'espace lance un jeu où il saute par-dessus des cactus.",
+      "source": "Wikipédia (fr) — « Google Chrome »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-02-6",
+      "categorie": "internet",
+      "niveau": 2,
+      "question": "Quel mot anglais, élu mot de l'année 2013 par les dictionnaires Oxford, désigne une photo de soi prise au smartphone ?",
+      "reponse": "Selfie",
+      "variantes": [
+        "Égoportrait"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Snap",
+          "Story",
+          "Photobomb"
+        ]
+      },
+      "explication": "Le mot apparaît en 2002 sur un forum australien, où un jeune homme commente la photo de sa lèvre blessée après une soirée arrosée. Son usage explose avec les smartphones équipés d'une caméra frontale : Oxford relève une hausse de 17 000 % de son emploi en un an. Au Québec, l'Office québécois de la langue française recommande l'équivalent « égoportrait ».",
+      "anecdote": "En mars 2014, le selfie de groupe pris par Ellen DeGeneres lors de la cérémonie des Oscars devient le message le plus partagé de l'histoire de Twitter à l'époque.",
+      "source": "Wikipédia (fr) — « Selfie »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-02-7",
+      "categorie": "internet",
+      "niveau": 2,
+      "question": "Quel assistant vocal Apple a-t-il présenté en 2011 avec l'iPhone 4S ?",
+      "reponse": "Siri",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Alexa",
+          "Cortana",
+          "Google Assistant",
+          "Bixby"
+        ]
+      },
+      "explication": "Siri est issu d'un projet de recherche de SRI International, un institut californien, avant de devenir une application indépendante rachetée par Apple en 2010. Intégré à l'iPhone 4S en octobre 2011, il fait découvrir au grand public les commandes vocales sur téléphone. Les concurrents suivent : Google Now en 2012, puis, en 2014, Cortana chez Microsoft et Alexa, l'assistant des enceintes Echo d'Amazon.",
+      "source": "Wikipédia (fr) — « Siri (logiciel) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-02-8",
+      "categorie": "internet",
+      "niveau": 2,
+      "question": "Quel mot anglais désigne les messages publicitaires non sollicités envoyés en masse par courriel ?",
+      "reponse": "Spam",
+      "variantes": [
+        "Pourriel",
+        "Courriel indésirable"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Phishing",
+          "Hameçonnage",
+          "Scam",
+          "Newsletter"
+        ]
+      },
+      "explication": "Le mot vient d'une marque américaine de viande en conserve. Dans un sketch des Monty Python diffusé en 1970, des Vikings chantent « Spam » en boucle jusqu'à couvrir toute conversation, et les internautes ont repris l'image. Le premier envoi massif connu date de 1978 : un employé du constructeur DEC vante de nouveaux ordinateurs auprès de quelque 400 destinataires du réseau ARPANET.",
+      "source": "Wikipédia (fr) — « Spam »",
       "verification": {
         "statut": "relue",
         "note": ""
@@ -277,6 +475,106 @@
       }
     },
     {
+      "id": "web-03-5",
+      "categorie": "internet",
+      "niveau": 3,
+      "question": "Quel système d'exploitation pour smartphones, racheté par Google en 2005, a pour mascotte un petit robot vert ?",
+      "reponse": "Android",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "iOS",
+          "Windows Phone",
+          "Symbian",
+          "Linux"
+        ]
+      },
+      "explication": "La société Android a été fondée en 2003 par Andy Rubin et plusieurs associés. Après son rachat par Google, le premier téléphone qui l'utilise, le HTC Dream, sort en 2008. Jusqu'en 2019, ses versions portaient des noms de desserts classés par ordre alphabétique, de Cupcake à Pie. Fourni gratuitement aux fabricants, il équipe dans les années 2020 la grande majorité des smartphones vendus dans le monde.",
+      "anecdote": "La version 4.4, en 2013, s'appelait KitKat, du nom d'une barre chocolatée, grâce à un accord avec Nestlé.",
+      "source": "Wikipédia (fr) — « Android »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-03-6",
+      "categorie": "internet",
+      "niveau": 3,
+      "question": "Quelle messagerie instantanée de Microsoft, star des années 2000, a fermé en 2013 au profit de Skype ?",
+      "reponse": "MSN Messenger",
+      "variantes": [
+        "MSN",
+        "Windows Live Messenger"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "ICQ",
+          "AIM",
+          "Yahoo Messenger",
+          "Facebook Messenger"
+        ]
+      },
+      "explication": "Lancée en 1999, la messagerie prend le nom de Windows Live Messenger en 2005, mais tout le monde continue de dire « MSN ». Pseudos à rallonge, émoticônes et « wizz », qui faisait trembler la fenêtre du correspondant, rythment les soirées des adolescents. Microsoft, qui avait racheté Skype en 2011, y transfère les utilisateurs en 2013. Skype a fermé à son tour en mai 2025.",
+      "source": "Wikipédia (fr) — « Windows Live Messenger »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-03-7",
+      "categorie": "internet",
+      "niveau": 3,
+      "question": "Dans les sigles « 4G » ou « 5G » de la téléphonie mobile, que désigne la lettre G ?",
+      "reponse": "Génération",
+      "variantes": [
+        "Generation"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Giga",
+          "Gigabit",
+          "Gigahertz",
+          "Global",
+          "GSM"
+        ]
+      },
+      "explication": "Chaque génération de téléphonie mobile marque un saut technique. La 1G, analogique, apparaît dans les années 1980 ; la 2G, avec la norme GSM, numérise les appels et permet les SMS au début des années 1990. La 3G ouvre l'internet mobile, la 4G le rend assez rapide pour la vidéo. En France, les premières offres 5G ont été commercialisées en novembre 2020.",
+      "source": "Wikipédia (fr) — « Téléphonie mobile »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-03-8",
+      "categorie": "internet",
+      "niveau": 3,
+      "question": "En novembre 2020, quelle chanson pour enfants est devenue la vidéo la plus vue de l'histoire de YouTube ?",
+      "reponse": "Baby Shark",
+      "variantes": [
+        "Baby Shark Dance"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Despacito",
+          "Gangnam Style",
+          "Johny Johny Yes Papa"
+        ]
+      },
+      "explication": "Publiée en juin 2016 par Pinkfong, une marque éducative sud-coréenne, la vidéo « Baby Shark Dance » reprend une comptine traditionnelle chantée dans les camps de vacances américains. Ses gestes simples, qui imitent les mâchoires des requins, en font un phénomène mondial. Elle détrône alors « Despacito » et, en janvier 2022, devient la première vidéo de YouTube à dépasser 10 milliards de vues.",
+      "source": "Wikipédia (en) — « Baby Shark »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
       "id": "web-04-1",
       "categorie": "internet",
       "niveau": 4,
@@ -364,6 +662,106 @@
       "explication": "Mis en ligne en juillet 2012, le clip franchit le milliard de vues le 21 décembre 2012, une première sur YouTube. Sa danse du cheval invisible, imitée jusque dans les mariages et les stades, en fait l'un des premiers grands phénomènes mondiaux de la K-pop. La chanson se moque du mode de vie ostentatoire de Gangnam, quartier huppé de Séoul.",
       "anecdote": "En 2014, YouTube a dû modifier son compteur : la vidéo approchait la limite de 2 147 483 647 vues prévue par son code.",
       "source": "Wikipédia (fr) — « Gangnam Style »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-04-5",
+      "categorie": "internet",
+      "niveau": 4,
+      "question": "Quel navigateur de Microsoft, lancé en 1995, a été définitivement retiré en juin 2022 ?",
+      "reponse": "Internet Explorer",
+      "variantes": [
+        "IE",
+        "Microsoft Internet Explorer"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Edge",
+          "Microsoft Edge",
+          "Netscape",
+          "Explorateur"
+        ]
+      },
+      "explication": "Lancé en août 1995 et fourni avec Windows, Internet Explorer remporte la « guerre des navigateurs » contre Netscape et dépasse 90 % de parts de marché au début des années 2000. Cette domination vaut à Microsoft des poursuites pour abus de position dominante, aux États-Unis comme en Europe. Supplanté par Firefox puis Chrome, il est remplacé par Edge en 2015 et cesse d'être pris en charge le 15 juin 2022.",
+      "source": "Wikipédia (fr) — « Internet Explorer »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-04-6",
+      "categorie": "internet",
+      "niveau": 4,
+      "question": "Quel ancien consultant de la NSA a révélé en 2013 l'ampleur de la surveillance de masse menée par les États-Unis ?",
+      "reponse": "Edward Snowden",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Julian Assange",
+          "Assange",
+          "Chelsea Manning",
+          "Manning"
+        ]
+      },
+      "explication": "En juin 2013, Edward Snowden transmet des milliers de documents secrets aux journalistes Glenn Greenwald et Laura Poitras, publiés notamment par The Guardian et The Washington Post. Ils dévoilent des programmes comme PRISM, qui collectait des données auprès des géants d'internet. Inculpé d'espionnage aux États-Unis, il se retrouve bloqué à Moscou, et la Russie lui accorde la nationalité russe en 2022.",
+      "anecdote": "« Citizenfour », le documentaire de Laura Poitras sur leurs rencontres à Hong Kong, a reçu en 2015 l'Oscar du meilleur film documentaire.",
+      "source": "Wikipédia (fr) — « Edward Snowden »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-04-7",
+      "categorie": "internet",
+      "niveau": 4,
+      "question": "Quelle chatte américaine à la mine renfrognée est devenue un mème planétaire à partir de 2012 ?",
+      "reponse": "Grumpy Cat",
+      "variantes": [
+        "Tardar Sauce"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Nyan Cat",
+          "Keyboard Cat",
+          "Garfield"
+        ]
+      },
+      "explication": "Son vrai nom était Tardar Sauce. Son air boudeur venait d'une forme de nanisme et d'une mâchoire inférieure avancée. En septembre 2012, le frère de sa propriétaire publie sa photo sur le site Reddit, et l'animal devient une vedette : livres, publicités, statue de cire au musée Madame Tussauds de San Francisco. Elle est morte en mai 2019, à l'âge de sept ans.",
+      "source": "Wikipédia (fr) — « Grumpy Cat »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-04-8",
+      "categorie": "internet",
+      "niveau": 4,
+      "question": "Quel youtubeur français a organisé en 2022 le GP Explorer, une course automobile entre créateurs de contenu ?",
+      "reponse": "Squeezie",
+      "variantes": [
+        "Lucas Hauchard"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Inoxtag",
+          "Cyprien",
+          "Norman",
+          "Amixem",
+          "Michou"
+        ]
+      },
+      "explication": "De son vrai nom Lucas Hauchard, Squeezie publie ses premières vidéos de jeux vidéo au début des années 2010, avant de devenir l'un des vidéastes les plus suivis de France. En octobre 2022, son GP Explorer réunit des créateurs au volant de Formule 4 sur le circuit Bugatti du Mans. Retransmise en direct sur Twitch, la course dépasse le million de spectateurs simultanés.",
+      "source": "Wikipédia (fr) — « Squeezie »",
       "verification": {
         "statut": "relue",
         "note": ""
@@ -464,6 +862,109 @@
       }
     },
     {
+      "id": "web-05-5",
+      "categorie": "internet",
+      "niveau": 5,
+      "question": "Quel programme de DeepMind a battu le champion sud-coréen de go Lee Sedol en mars 2016 ?",
+      "reponse": "AlphaGo",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Deep Blue",
+          "AlphaZero",
+          "AlphaFold",
+          "Watson"
+        ]
+      },
+      "explication": "Le match se joue à Séoul, et AlphaGo l'emporte par quatre victoires à une. Le go, avec son nombre astronomique de positions possibles, passait pour hors de portée des machines pour encore une décennie. Le programme de cette filiale britannique de Google combinait réseaux de neurones et apprentissage par renforcement. Son 37e coup de la deuxième partie, d'abord jugé absurde par les commentateurs, est resté célèbre.",
+      "anecdote": "Lee Sedol a pris sa retraite en 2019, expliquant que l'intelligence artificielle était devenue une entité impossible à vaincre.",
+      "source": "Wikipédia (fr) — « AlphaGo »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-05-6",
+      "categorie": "internet",
+      "niveau": 5,
+      "question": "Dans le sigle HTTPS des adresses web, que signifie la lettre S ?",
+      "reponse": "Secure",
+      "variantes": [
+        "Sécurisé",
+        "Sécurisée",
+        "Sécurité",
+        "Security"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Server",
+          "Serveur",
+          "SSL",
+          "System",
+          "Socket"
+        ]
+      },
+      "explication": "HTTPS ajoute au protocole HTTP une couche de chiffrement, d'abord SSL puis TLS, qui empêche d'intercepter ou de modifier les échanges entre le navigateur et le site. Netscape l'introduit en 1994 pour sécuriser les paiements en ligne. Longtemps réservé aux banques et aux boutiques, il s'est généralisé : depuis 2018, Chrome signale comme « non sécurisés » les sites restés en simple HTTP.",
+      "source": "Wikipédia (fr) — « HyperText Transfer Protocol Secure »",
+      "verification": {
+        "statut": "relue",
+        "note": "Tranché : « Sécurisé(e) » et « Sécurité » acceptés (la question porte sur le sens de la lettre) ; « Security » ajouté par cohérence."
+      }
+    },
+    {
+      "id": "web-05-7",
+      "categorie": "internet",
+      "niveau": 5,
+      "question": "Quel système d'exploitation libre, annoncé en 1991 par un étudiant finlandais, a pour mascotte un manchot ?",
+      "reponse": "Linux",
+      "variantes": [
+        "GNU/Linux"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Unix",
+          "Minix",
+          "Ubuntu",
+          "Debian"
+        ]
+      },
+      "explication": "Le 25 août 1991, Linus Torvalds, étudiant à l'université d'Helsinki, annonce sur un forum qu'il développe un système « juste pour le loisir », qui ne sera « pas gros et professionnel ». Publié sous licence libre, son noyau a été enrichi par des milliers de contributeurs. Il fait tourner la plupart des serveurs du Web, les smartphones Android et, dès novembre 2017, la totalité des supercalculateurs du classement TOP500.",
+      "anecdote": "Torvalds a raconté avoir choisi un manchot comme mascotte après avoir été mordu par l'un d'eux lors d'une visite dans un zoo australien.",
+      "source": "Wikipédia (fr) — « Linux »",
+      "verification": {
+        "statut": "relue",
+        "note": "TOP500 daté (novembre 2017)."
+      }
+    },
+    {
+      "id": "web-05-8",
+      "categorie": "internet",
+      "niveau": 5,
+      "question": "Quel youtubeur suédois a dépassé 100 millions d'abonnés en août 2019, après un long duel avec la chaîne indienne T-Series ?",
+      "reponse": "PewDiePie",
+      "variantes": [
+        "Felix Kjellberg"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "MrBeast",
+          "Markiplier",
+          "Jacksepticeye"
+        ]
+      },
+      "explication": "Felix Kjellberg ouvre sa chaîne en 2010 et se fait connaître avec des parties commentées de jeux d'horreur. Il devient la chaîne la plus suivie de YouTube en 2013. En 2018 et 2019, ses fans mènent une campagne mondiale, « Subscribe to PewDiePie », pour empêcher la maison de disques T-Series de le dépasser. Le label indien finit par prendre la tête, mais le Suédois atteint 100 millions d'abonnés le 25 août 2019.",
+      "source": "Wikipédia (fr) — « PewDiePie »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
       "id": "web-06-1",
       "categorie": "internet",
       "niveau": 6,
@@ -551,6 +1052,104 @@
       "explication": "Le 31 octobre 2008, un mystérieux Satoshi Nakamoto diffuse un document de neuf pages décrivant une monnaie électronique sans banque ni autorité centrale. Le réseau bitcoin démarre le 3 janvier 2009. Son auteur cesse toute communication publique vers 2011, et son identité réelle n'a jamais été établie avec certitude, malgré de nombreuses enquêtes et revendications.",
       "anecdote": "Le 22 mai 2010, un programmeur a payé deux pizzas 10 000 bitcoins, premier achat connu d'un bien réel avec cette monnaie.",
       "source": "Wikipédia (fr) — « Satoshi Nakamoto »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-06-5",
+      "categorie": "internet",
+      "niveau": 6,
+      "question": "À quel mathématicien britannique renvoie la lettre T du sigle CAPTCHA, ces tests qui vérifient qu'un internaute n'est pas un robot ?",
+      "reponse": "Alan Turing",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Charles Babbage",
+          "Babbage",
+          "John von Neumann",
+          "Von Neumann",
+          "Ada Lovelace",
+          "Tim Berners-Lee"
+        ]
+      },
+      "explication": "CAPTCHA abrège l'anglais « Completely Automated Public Turing test to tell Computers and Humans Apart » : un test de Turing public et automatisé pour distinguer ordinateurs et humains. Le terme est forgé en 2003 à l'université Carnegie Mellon, notamment par Luis von Ahn. En 1950, Alan Turing avait imaginé un « jeu de l'imitation » où un juge doit deviner s'il converse avec une machine. Ici, c'est la machine qui fait passer l'examen.",
+      "source": "Wikipédia (fr) — « CAPTCHA »",
+      "verification": {
+        "statut": "relue",
+        "note": "Remplacée : « CAPTCHA » trop facile pour le niveau 6 ; même sujet, question sur le T de Turing."
+      },
+      "anecdote": "Avec reCAPTCHA, Luis von Ahn a fait déchiffrer aux internautes des mots de livres anciens mal reconnus par les logiciels de numérisation ; Google a racheté le service en 2009."
+    },
+    {
+      "id": "web-06-6",
+      "categorie": "internet",
+      "niveau": 6,
+      "question": "Quel navigateur web, sorti en version 1.0 en novembre 2004, s'est d'abord appelé Phoenix puis Firebird ?",
+      "reponse": "Firefox",
+      "variantes": [
+        "Mozilla Firefox"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Thunderbird",
+          "Netscape",
+          "Mozilla",
+          "Chrome",
+          "Phoenix",
+          "Firebird"
+        ]
+      },
+      "explication": "Issu du code de Netscape, publié en libre accès en 1998, le navigateur de la fondation Mozilla change deux fois de nom pour éviter des conflits avec des marques et des logiciels existants. La version 1.0 sort le 9 novembre 2004. Avec ses onglets, son blocage des fenêtres surgissantes et ses extensions, il est le premier à entamer sérieusement l'hégémonie d'Internet Explorer.",
+      "anecdote": "En anglais, « firefox » est l'un des surnoms du panda roux, même si le logo évoque plutôt un renard.",
+      "source": "Wikipédia (fr) — « Mozilla Firefox »",
+      "verification": {
+        "statut": "relue",
+        "note": "Indice « fondation Mozilla » retiré de l'énoncé (trop facile pour le niveau 6)."
+      }
+    },
+    {
+      "id": "web-06-7",
+      "categorie": "internet",
+      "niveau": 6,
+      "question": "Quel mème de 2013, un shiba inu entouré de phrases en police Comic Sans, a inspiré une cryptomonnaie ?",
+      "reponse": "Doge",
+      "variantes": [
+        "Kabosu"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Dogecoin",
+          "Shiba",
+          "Cheems"
+        ]
+      },
+      "explication": "La chienne s'appelait Kabosu. Sa photo, prise en 2010 par sa maîtresse, une institutrice japonaise, circule sur internet accompagnée de commentaires volontairement maladroits comme « such wow » ou « very amaze ». En décembre 2013, deux ingénieurs créent le dogecoin pour se moquer de la folie des cryptomonnaies. La plaisanterie a atteint en 2021 des dizaines de milliards de dollars de capitalisation. Kabosu est morte en mai 2024.",
+      "source": "Wikipédia (fr) — « Doge (mème) »",
+      "verification": {
+        "statut": "relue",
+        "note": "Tranché : « Kabosu » (la chienne du mème) accepté, « Dogecoin » (la cryptomonnaie inspirée) refusé."
+      }
+    },
+    {
+      "id": "web-06-8",
+      "categorie": "internet",
+      "niveau": 6,
+      "question": "Combien de caractères un SMS classique, sans accents ni emojis, peut-il contenir au maximum ?",
+      "reponse": "160",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 160,
+        "tolerance": 0
+      },
+      "explication": "Au milieu des années 1980, l'ingénieur allemand Friedhelm Hillebrand, en tapant des phrases à la machine à écrire et en étudiant cartes postales et télex, conclut que 160 caractères suffisent à la plupart des messages. Le premier SMS est envoyé le 3 décembre 1992 par un ingénieur britannique : « Merry Christmas ». Twitter a repris l'idée avec sa limite de 140 caractères, laissant place au nom de l'expéditeur.",
+      "anecdote": "Un accent absent de l'alphabet de base ou un emoji fait basculer le message dans un autre codage, qui ramène la limite à 70 caractères.",
+      "source": "Wikipédia (fr) — « Short Message Service »",
       "verification": {
         "statut": "relue",
         "note": ""
@@ -646,6 +1245,107 @@
       "explication": "Publié au Journal officiel en janvier 2013, « mot-dièse » désigne un mot précédé du signe #, qui permet de regrouper les messages portant sur un même sujet. L'usage de ce symbole sur Twitter avait été proposé en août 2007 par le designer américain Chris Messina. Malgré cette recommandation, l'anglicisme est resté largement majoritaire dans l'usage courant en France.",
       "anecdote": "Au Québec, l'Office québécois de la langue française recommande plutôt « mot-clic ».",
       "source": "Wikipédia (fr) — « Hashtag »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-07-5",
+      "categorie": "internet",
+      "niveau": 7,
+      "question": "Quel informaticien américain a lancé en 1983 le projet GNU et le mouvement du logiciel libre ?",
+      "reponse": "Richard Stallman",
+      "variantes": [
+        "RMS"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Linus Torvalds",
+          "Torvalds",
+          "Eric Raymond",
+          "Ken Thompson"
+        ]
+      },
+      "explication": "Programmeur au laboratoire d'intelligence artificielle du MIT, Richard Stallman annonce en septembre 1983 le projet GNU, un système d'exploitation entièrement libre. Son nom est un acronyme récursif : « GNU's Not Unix ». Il fonde en 1985 la Free Software Foundation et rédige la licence GPL, qui garantit à chacun le droit d'utiliser, d'étudier, de modifier et de redistribuer un logiciel.",
+      "anecdote": "En conférence, il lui arrive d'apparaître en « saint IGNUcius », personnage parodique de l'« Église d'Emacs », du nom de son célèbre éditeur de texte.",
+      "source": "Wikipédia (fr) — « Richard Stallman »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-07-6",
+      "categorie": "internet",
+      "niveau": 7,
+      "question": "Quel ver informatique, découvert en 2010, a saboté des centrifugeuses du programme nucléaire iranien ?",
+      "reponse": "Stuxnet",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "WannaCry",
+          "Conficker",
+          "NotPetya",
+          "Flame"
+        ]
+      },
+      "explication": "Repéré en juin 2010 par une petite société de sécurité biélorusse, Stuxnet visait des automates industriels Siemens qui pilotaient les centrifugeuses d'enrichissement d'uranium du site de Natanz. Il modifiait leur vitesse de rotation tout en affichant des valeurs normales aux techniciens. Jamais revendiqué, il est largement attribué aux États-Unis et à Israël, et souvent présenté comme la première véritable cyberarme connue.",
+      "source": "Wikipédia (fr) — « Stuxnet »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-07-7",
+      "categorie": "internet",
+      "niveau": 7,
+      "question": "Devant quels animaux le cofondateur Jawed Karim se filme-t-il dans la toute première vidéo de YouTube, en 2005 ?",
+      "reponse": "Éléphants",
+      "variantes": [
+        "Éléphant"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Girafes",
+          "Lions",
+          "Hippopotames",
+          "Pandas",
+          "Rhinocéros"
+        ]
+      },
+      "explication": "Mise en ligne le 23 avril 2005, la vidéo s'intitule « Me at the zoo » et dure dix-neuf secondes. Filmé au zoo de San Diego, Jawed Karim y remarque simplement que les éléphants ont « de très, très, très longues trompes ». Ce clip banal, resté en ligne sur sa chaîne baptisée « jawed », est devenu un document historique vu des centaines de millions de fois.",
+      "source": "Wikipédia (en) — « Me at the zoo »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-07-8",
+      "categorie": "internet",
+      "niveau": 7,
+      "question": "Quel portail, fondé en 1994 par Jerry Yang et David Filo, s'appelait d'abord « Jerry and David's Guide to the World Wide Web » ?",
+      "reponse": "Yahoo!",
+      "variantes": [
+        "Yahoo"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Lycos",
+          "AltaVista",
+          "Excite",
+          "Google",
+          "Netscape"
+        ]
+      },
+      "explication": "Doctorants à Stanford, Jerry Yang et David Filo classent à la main leurs sites préférés par thèmes dès janvier 1994. Rebaptisé quelques semaines plus tard, leur annuaire devient l'une des grandes portes d'entrée du Web, avec actualités, messagerie et moteur de recherche. Les fondateurs disent avoir aimé ce nom pour son sens d'« individu grossier », tiré des « Voyages de Gulliver », où les Yahoos sont des créatures brutales.",
+      "source": "Wikipédia (fr) — « Yahoo! »",
       "verification": {
         "statut": "relue",
         "note": ""
@@ -748,6 +1448,110 @@
       "verification": {
         "statut": "relue",
         "note": "nomSeul explicite."
+      }
+    },
+    {
+      "id": "web-08-5",
+      "categorie": "internet",
+      "niveau": 8,
+      "question": "Quel navigateur graphique, conçu en 1993 au NCSA de l'université de l'Illinois, a fait connaître le Web au grand public ?",
+      "reponse": "Mosaic",
+      "variantes": [
+        "NCSA Mosaic"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Netscape",
+          "Lynx",
+          "WorldWideWeb",
+          "Mozilla",
+          "ViolaWWW"
+        ]
+      },
+      "explication": "Développé par Marc Andreessen et Eric Bina, Mosaic est l'un des premiers navigateurs à afficher les images au milieu du texte plutôt que dans une fenêtre séparée. Facile à installer sur Windows et Macintosh, il séduit bien au-delà des universités. En 1994, Andreessen part fonder Netscape avec Jim Clark, fondateur de Silicon Graphics, et son Navigator éclipse rapidement Mosaic.",
+      "anecdote": "Chez Netscape, le nom de code « Mozilla », futur nom de la fondation qui édite Firefox, contractait « Mosaic killer » et Godzilla.",
+      "source": "Wikipédia (fr) — « NCSA Mosaic »",
+      "verification": {
+        "statut": "relue",
+        "note": "Jim Clark : fondateur (et non « ancien patron ») de Silicon Graphics."
+      }
+    },
+    {
+      "id": "web-08-6",
+      "categorie": "internet",
+      "niveau": 8,
+      "question": "De quel pays est parti en mai 2000 le ver « ILOVEYOU », qui se propageait par une fausse lettre d'amour envoyée par courriel ?",
+      "reponse": "Philippines",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Indonésie",
+          "Malaisie",
+          "Thaïlande",
+          "Pakistan"
+        ]
+      },
+      "explication": "La pièce jointe du courriel se faisait passer pour un simple fichier texte. Une fois ouverte, elle écrasait des fichiers et s'envoyait à tous les contacts de la victime. En quelques jours, des millions d'ordinateurs sont touchés, jusqu'au Pentagone et au Parlement britannique. L'auteur présumé, l'étudiant Onel de Guzman, n'a pas été poursuivi : aucune loi philippine ne réprimait alors ces actes.",
+      "anecdote": "Retrouvé en 2020 par un journaliste, Onel de Guzman a reconnu avoir écrit le programme pour voler des mots de passe d'accès à internet, qu'il ne pouvait pas payer.",
+      "source": "Wikipédia (fr) — « ILOVEYOU »",
+      "verification": {
+        "statut": "relue",
+        "note": "Ampleur ramenée à « des millions d'ordinateurs » (estimations variables)."
+      }
+    },
+    {
+      "id": "web-08-7",
+      "categorie": "internet",
+      "niveau": 8,
+      "question": "Quelle architecture de réseau de neurones, présentée par des chercheurs de Google en 2017, est le « T » du sigle GPT ?",
+      "reponse": "Transformer",
+      "variantes": [
+        "Transformeur",
+        "Transformers"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Perceptron",
+          "LSTM",
+          "Tensor",
+          "Turing"
+        ]
+      },
+      "explication": "Elle est décrite dans l'article « Attention Is All You Need », publié en juin 2017 par huit chercheurs, pour la plupart employés de Google. Son mécanisme d'attention mesure les liens entre tous les mots d'une phrase à la fois, au lieu de les traiter un par un. D'abord pensée pour la traduction automatique, elle est devenue la base des grands modèles de langage, dont GPT : « Generative Pre-trained Transformer ».",
+      "source": "Wikipédia (en) — « Attention Is All You Need »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-08-8",
+      "categorie": "internet",
+      "niveau": 8,
+      "question": "Quel organisme à but non lucratif, fondé en Californie en 1998, coordonne les noms de domaine d'internet ?",
+      "reponse": "ICANN",
+      "variantes": [
+        "Internet Corporation for Assigned Names and Numbers"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "IANA",
+          "W3C",
+          "IETF",
+          "ISOC",
+          "AFNIC"
+        ],
+        "exact": true
+      },
+      "explication": "L'Internet Corporation for Assigned Names and Numbers supervise l'attribution des adresses IP et la gestion des extensions comme « .com » ou « .fr », confiées à des registres. Longtemps placée sous la tutelle du département américain du Commerce, elle s'en est émancipée en octobre 2016. Son programme d'ouverture de nouvelles extensions, lancé en 2012, a donné naissance à des domaines comme « .paris » ou « .bzh ».",
+      "source": "Wikipédia (fr) — « Internet Corporation for Assigned Names and Numbers »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
       }
     },
     {
@@ -856,6 +1660,105 @@
       }
     },
     {
+      "id": "web-09-5",
+      "categorie": "internet",
+      "niveau": 9,
+      "question": "Quel programme, créé au MIT par Joseph Weizenbaum au milieu des années 1960, imitait un psychothérapeute ?",
+      "reponse": "ELIZA",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "PARRY",
+          "SHRDLU",
+          "Alice",
+          "Siri"
+        ]
+      },
+      "explication": "Écrit entre 1964 et 1966, ELIZA repérait des mots-clés dans les phrases de l'utilisateur et les reformulait en questions, à la manière d'un thérapeute. Son nom vient d'Eliza Doolittle, la fleuriste de la pièce « Pygmalion » de George Bernard Shaw, à qui l'on apprend à bien parler. Weizenbaum fut troublé de voir des utilisateurs, dont sa propre secrétaire, se confier sincèrement à la machine.",
+      "anecdote": "On appelle « effet ELIZA » la tendance à prêter une compréhension ou des émotions humaines à un programme informatique.",
+      "source": "Wikipédia (fr) — « ELIZA »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-09-6",
+      "categorie": "internet",
+      "niveau": 9,
+      "question": "Quel sigle désigne le protocole de discussion en direct créé en 1988 par le Finlandais Jarkko Oikarinen ?",
+      "reponse": "IRC",
+      "variantes": [
+        "Internet Relay Chat"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "ICQ",
+          "ICR",
+          "IRQ",
+          "MSN",
+          "BBS"
+        ],
+        "exact": true
+      },
+      "explication": "Internet Relay Chat naît en août 1988 à l'université d'Oulu, en Finlande. Les utilisateurs s'y retrouvent dans des salons thématiques dont le nom commence par le signe « # ». En 1991, pendant la guerre du Golfe puis lors de la tentative de coup d'État contre Mikhaïl Gorbatchev en URSS, des internautes y relaient les nouvelles en temps réel, parfois plus vite que les médias.",
+      "source": "Wikipédia (fr) — « Internet Relay Chat »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-09-7",
+      "categorie": "internet",
+      "niveau": 9,
+      "question": "Sous quel prénom IBM a-t-il commercialisé en 1994 un téléphone tactile souvent considéré comme le premier smartphone ?",
+      "reponse": "Simon",
+      "variantes": [
+        "IBM Simon",
+        "Simon Personal Communicator"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Newton",
+          "Pilot",
+          "Communicator",
+          "Nokia 9000"
+        ]
+      },
+      "explication": "Vendu aux États-Unis à partir d'août 1994 par l'opérateur BellSouth, le Simon Personal Communicator réunissait téléphone portable, agenda, carnet d'adresses, courriel et fax, avec un écran tactile utilisable au stylet. Il pesait environ un demi-kilo et son autonomie ne dépassait guère une heure de communication. Vendu près de 900 dollars avec abonnement, il a trouvé environ 50 000 acheteurs.",
+      "source": "Wikipédia (en) — « IBM Simon »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-09-8",
+      "categorie": "internet",
+      "niveau": 9,
+      "question": "Sous quel nom le site d'enchères eBay a-t-il été lancé en septembre 1995 par Pierre Omidyar ?",
+      "reponse": "AuctionWeb",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Echo Bay",
+          "Amazon Auctions",
+          "WebAuction"
+        ]
+      },
+      "explication": "Né à Paris de parents iraniens, Pierre Omidyar héberge d'abord son site d'enchères sur le domaine de sa société de conseil, Echo Bay Technology Group. Faute de pouvoir enregistrer echobay.com, déjà pris par une compagnie minière, il opte pour ebay.com, nom qui remplace officiellement AuctionWeb en 1997. Le premier objet vendu fut un pointeur laser cassé, adjugé 14,83 dollars à un collectionneur.",
+      "source": "Wikipédia (fr) — « eBay »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
       "id": "web-10-1",
       "categorie": "internet",
       "niveau": 10,
@@ -944,6 +1847,102 @@
       "verification": {
         "statut": "relue",
         "note": "nomSeul explicite."
+      }
+    },
+    {
+      "id": "web-10-5",
+      "categorie": "internet",
+      "niveau": 10,
+      "question": "Quel réseau de forums de discussion, conçu en 1979 par des étudiants de l'université Duke, a précédé le Web ?",
+      "reponse": "Usenet",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "ARPANET",
+          "BBS",
+          "FidoNet",
+          "BITNET",
+          "IRC"
+        ]
+      },
+      "explication": "Tom Truscott et Jim Ellis imaginent un système d'échange de messages entre ordinateurs Unix reliés par lignes téléphoniques, mis en service en 1980. Les discussions y sont classées en groupes thématiques, comme « comp » pour l'informatique ou « sci » pour les sciences. C'est sur Usenet que Tim Berners-Lee présente publiquement le Web en août 1991, quelques semaines avant que Linus Torvalds n'y annonce Linux.",
+      "source": "Wikipédia (fr) — « Usenet »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-10-6",
+      "categorie": "internet",
+      "niveau": 10,
+      "question": "Quel outil, créé en 1990 à l'université McGill de Montréal, est considéré comme le premier moteur de recherche d'internet ?",
+      "reponse": "Archie",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Gopher",
+          "Veronica",
+          "WAIS",
+          "Jughead",
+          "AltaVista"
+        ]
+      },
+      "explication": "Conçu par l'étudiant Alan Emtage, avec Bill Heelan et Peter Deutsch, Archie parcourait régulièrement les serveurs FTP publics pour dresser la liste des fichiers qu'ils proposaient. Il n'en lisait pas le contenu : il fallait connaître une partie du nom du fichier recherché. Son nom vient du mot anglais « archive », privé de sa lettre v. Le Web n'existait pas encore.",
+      "anecdote": "Ses successeurs ont été baptisés Veronica et Jughead, comme les amis d'Archie dans la célèbre bande dessinée américaine.",
+      "source": "Wikipédia (en) — « Archie (search engine) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-10-7",
+      "categorie": "internet",
+      "niveau": 10,
+      "question": "Quel système de navigation par menus, créé en 1991 à l'université du Minnesota, rivalisa brièvement avec le Web ?",
+      "reponse": "Gopher",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Archie",
+          "Mosaic",
+          "WAIS",
+          "Usenet"
+        ]
+      },
+      "explication": "Gopher présentait les documents sous forme de menus hiérarchiques, simples à parcourir depuis un terminal en mode texte. Il doit son nom à la mascotte de l'université, un petit rongeur, et au jeu de mots « go for », « va chercher ». Son déclin s'accélère en 1993, quand l'université annonce une redevance pour certains usages commerciaux, alors que le CERN laisse le Web libre de droits.",
+      "source": "Wikipédia (fr) — « Gopher »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "web-10-8",
+      "categorie": "internet",
+      "niveau": 10,
+      "question": "Quel réseau de neurones a remporté en 2012 le concours de reconnaissance d'images ImageNet, lançant l'essor de l'apprentissage profond ?",
+      "reponse": "AlexNet",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "LeNet",
+          "AlphaGo",
+          "GoogLeNet",
+          "VGG"
+        ]
+      },
+      "explication": "Conçu à l'université de Toronto par Alex Krizhevsky, Ilya Sutskever et leur directeur Geoffrey Hinton, AlexNet commet environ 15 % d'erreurs au classement final, contre 26 % pour son meilleur rival. Il a été entraîné sur deux cartes graphiques Nvidia destinées aux joueurs, montrant que ces processeurs accéléraient considérablement l'apprentissage. Ce succès a convaincu l'industrie de miser sur les réseaux de neurones profonds.",
+      "anecdote": "Ilya Sutskever a ensuite cofondé OpenAI en 2015, et Geoffrey Hinton a reçu le prix Nobel de physique en 2024.",
+      "source": "Wikipédia (en) — « AlexNet »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
       }
     }
   ]

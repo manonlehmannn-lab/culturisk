@@ -1,0 +1,2022 @@
+{
+  "categorie": "marques",
+  "questions": [
+    {
+      "id": "mar-01-1",
+      "categorie": "marques",
+      "niveau": 1,
+      "question": "Quelle monnaie a remplacé le franc dans les porte-monnaie des Français le 1er janvier 2002 ?",
+      "reponse": "Euro",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Écu",
+          "Nouveau franc",
+          "Dollar",
+          "Mark"
+        ]
+      },
+      "explication": "L'euro existait déjà depuis le 1er janvier 1999, mais seulement pour les virements, les chèques et les marchés financiers. Le 1er janvier 2002, ses pièces et ses billets sont arrivés dans douze pays à la fois. En France, le taux de conversion avait été fixé une fois pour toutes : un euro vaut 6,55957 francs. Le franc a cessé d'avoir cours légal le 17 février 2002.",
+      "anecdote": "Les billets en euros montrent des fenêtres, des portails et des ponts imaginaires, pour ne favoriser aucun pays.",
+      "source": "Wikipédia (fr) — « Euro »",
+      "verification": {
+        "statut": "relue",
+        "note": "Variante « € » retirée (vide après normalisation)."
+      }
+    },
+    {
+      "id": "mar-01-2",
+      "categorie": "marques",
+      "niveau": 1,
+      "question": "Quelle marque de sport a pour logo une virgule stylisée, surnommée le « Swoosh » ?",
+      "reponse": "Nike",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Adidas",
+          "Puma",
+          "Reebok",
+          "Asics"
+        ]
+      },
+      "explication": "L'entreprise est née en 1964 dans l'Oregon sous le nom de Blue Ribbon Sports, fondée par l'athlète Phil Knight et son ancien entraîneur Bill Bowerman. Elle importait d'abord des chaussures japonaises, avant de lancer en 1971 sa propre marque, Nike, du nom de la déesse grecque de la victoire. La société elle-même a pris ce nom en 1978. Le logo évoque le mouvement et l'aile de la déesse.",
+      "anecdote": "Bill Bowerman aurait fabriqué l'une des premières semelles de la marque en coulant du caoutchouc dans le gaufrier de sa cuisine.",
+      "source": "Wikipédia (fr) — « Nike (entreprise) »",
+      "verification": {
+        "statut": "relue",
+        "note": "Nom Nike : marque lancée en 1971, société renommée en 1978."
+      }
+    },
+    {
+      "id": "mar-01-3",
+      "categorie": "marques",
+      "niveau": 1,
+      "question": "Quelle boisson gazeuse a été mise au point en 1886 par un pharmacien d'Atlanta, John Pemberton ?",
+      "reponse": "Coca-Cola",
+      "variantes": [
+        "Coca",
+        "Coke"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Pepsi",
+          "Pepsi-Cola",
+          "Dr Pepper",
+          "Orangina"
+        ]
+      },
+      "explication": "John Pemberton cherchait à vendre un sirop « tonique ». Sa boisson, servie à la fontaine à soda d'une pharmacie d'Atlanta pour cinq cents le verre, doit son nom à deux ingrédients d'origine : la feuille de coca et la noix de kola. L'homme d'affaires Asa Candler rachète ensuite la marque et en fait, dès la fin du XIXe siècle, un produit vendu dans tout le pays.",
+      "source": "Wikipédia (fr) — « Coca-Cola »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-01-4",
+      "categorie": "marques",
+      "niveau": 1,
+      "question": "Quelle chaîne de restauration rapide a pour logo un grand « M » jaune ?",
+      "reponse": "McDonald's",
+      "variantes": [
+        "McDo",
+        "MacDo",
+        "McDonalds",
+        "Mc Donald's"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Burger King",
+          "Quick",
+          "KFC",
+          "Subway"
+        ]
+      },
+      "explication": "Les frères Richard et Maurice McDonald ouvrent leur premier restaurant en 1940 à San Bernardino, en Californie, puis y inventent un service ultra-rapide au menu réduit. Le vendeur de machines à milk-shakes Ray Kroc devient leur franchisé en 1955, puis leur rachète l'entreprise en 1961. Le « M » reprend les deux arches dorées qui ornaient les restaurants de la chaîne dans les années 1950.",
+      "source": "Wikipédia (fr) — « McDonald's »",
+      "verification": {
+        "statut": "relue",
+        "note": "Arches dorées : restaurants des années 1950 plutôt que « premiers restaurants »."
+      }
+    },
+    {
+      "id": "mar-01-5",
+      "categorie": "marques",
+      "niveau": 1,
+      "question": "Quelle marque de sport allemande est reconnaissable à ses trois bandes ?",
+      "reponse": "Adidas",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Puma",
+          "Nike",
+          "Reebok",
+          "Kappa",
+          "Le Coq sportif"
+        ]
+      },
+      "explication": "Le nom associe le surnom et le début du nom de famille de son fondateur, Adolf « Adi » Dassler, cordonnier à Herzogenaurach, en Bavière. Les deux frères Dassler fabriquaient ensemble des chaussures de sport avant de se brouiller : Rudolf fonde Puma en 1948, et Adi enregistre Adidas en 1949, dans la même petite ville.",
+      "anecdote": "Les trois bandes avaient d'abord un rôle technique : renforcer le cuir sur les côtés de la chaussure pour mieux maintenir le pied.",
+      "source": "Wikipédia (fr) — « Adidas »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-01-6",
+      "categorie": "marques",
+      "niveau": 1,
+      "question": "Quelle entreprise informatique californienne a pour logo une pomme croquée ?",
+      "reponse": "Apple",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Microsoft",
+          "Samsung",
+          "BlackBerry",
+          "Apricot",
+          "IBM"
+        ]
+      },
+      "explication": "Apple est fondée le 1er avril 1976, notamment par Steve Jobs et Steve Wozniak, pour vendre l'Apple I, un ordinateur assemblé à la main. Son tout premier logo, une gravure très détaillée, est vite jugé peu lisible. Dès 1977, il est remplacé par une pomme croquée aux bandes arc-en-ciel, dessinée par le graphiste Rob Janoff, puis par une pomme d'une seule couleur à partir de 1998.",
+      "anecdote": "Selon Rob Janoff, la bouchée servait surtout à éviter qu'on confonde la pomme avec une cerise.",
+      "source": "Wikipédia (fr) — « Apple »",
+      "verification": {
+        "statut": "relue",
+        "note": "Logo Newton retiré de l'explication (fait de mar-09-7) ; « tomate » retirée de l'anecdote."
+      }
+    },
+    {
+      "id": "mar-01-7",
+      "categorie": "marques",
+      "niveau": 1,
+      "question": "Quelle monnaie, dont le symbole est « $ », est utilisée aux États-Unis ?",
+      "reponse": "Dollar",
+      "variantes": [
+        "Dollar américain",
+        "Dollar US",
+        "US dollar",
+        "USD"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Euro",
+          "Peso",
+          "Livre",
+          "Dollar canadien",
+          "Cent"
+        ]
+      },
+      "explication": "Le dollar américain se divise en cent cents. Ses billets, tous de la même taille et longtemps imprimés en vert au verso, lui valent le surnom de « billet vert ». C'est la principale monnaie de réserve du monde. D'autres pays ont leur propre dollar, comme le Canada ou l'Australie, tandis que l'Équateur et le Salvador utilisent directement le dollar américain.",
+      "source": "Wikipédia (fr) — « Dollar américain »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-01-8",
+      "categorie": "marques",
+      "niveau": 1,
+      "question": "Quelle pâte à tartiner aux noisettes et au cacao a été lancée en 1964 par l'entreprise italienne Ferrero ?",
+      "reponse": "Nutella",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Nocciolata",
+          "Ferrero Rocher",
+          "Kinder",
+          "Gianduja",
+          "Supercrema"
+        ]
+      },
+      "explication": "Dans le Piémont de l'après-guerre, le cacao est rare et cher. À Alba, le pâtissier Pietro Ferrero l'allonge avec des noisettes, abondantes dans la région, pour créer en 1946 une pâte à découper, le « Giandujot ». La recette devient une crème à tartiner, la « Supercrema », avant d'être rebaptisée Nutella en 1964, d'après le mot anglais « nut », la noix.",
+      "source": "Wikipédia (fr) — « Nutella »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-02-1",
+      "categorie": "marques",
+      "niveau": 2,
+      "question": "Quelle marque italienne de voitures de sport a pour emblème un cheval cabré noir sur fond jaune ?",
+      "reponse": "Ferrari",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Porsche",
+          "Lamborghini",
+          "Maserati",
+          "Mustang",
+          "Alfa Romeo"
+        ]
+      },
+      "explication": "Le cheval cabré ornait l'avion de Francesco Baracca, as italien de l'aviation tué en 1918. En 1923, sa mère suggère à Enzo Ferrari, alors pilote de course, de l'adopter comme porte-bonheur. Le fond jaune est la couleur de Modène, sa ville natale. La première voiture portant le nom Ferrari sort de l'usine de Maranello en 1947.",
+      "anecdote": "Le rouge des Ferrari de course vient de la couleur attribuée à l'Italie dans les premières compétitions automobiles internationales.",
+      "source": "Wikipédia (fr) — « Ferrari »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-02-2",
+      "categorie": "marques",
+      "niveau": 2,
+      "question": "Dans quel pays la monnaie officielle est-elle le yen ?",
+      "reponse": "Japon",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Chine",
+          "Corée du Sud",
+          "Corée",
+          "Taïwan"
+        ]
+      },
+      "explication": "Le yen a été adopté en 1871, pendant l'ère Meiji, pour remplacer un système monétaire complexe hérité des seigneurs féodaux. Son nom signifie « rond » ou « cercle ». Son symbole est ¥ ; la Banque du Japon, fondée en 1882, en est l'institut d'émission. Le yen compte parmi les monnaies les plus échangées au monde, derrière le dollar américain et l'euro.",
+      "source": "Wikipédia (fr) — « Yen »",
+      "verification": {
+        "statut": "relue",
+        "note": "Phrase sur le yuan retirée (réponse de mar-04-6)."
+      }
+    },
+    {
+      "id": "mar-02-3",
+      "categorie": "marques",
+      "niveau": 2,
+      "question": "Quelle entreprise danoise fabrique de petites briques en plastique à emboîter ?",
+      "reponse": "Lego",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Playmobil",
+          "Mega Bloks",
+          "Meccano",
+          "Duplo",
+          "Kapla"
+        ]
+      },
+      "explication": "Le menuisier Ole Kirk Christiansen fonde l'entreprise en 1932 à Billund, au Danemark, pour fabriquer des jouets en bois. Le nom, choisi en 1934, contracte l'expression danoise « leg godt », qui signifie « joue bien ». Les premières briques en plastique apparaissent en 1949, et le système d'emboîtement par tubes, qui les rend compatibles entre elles depuis, est breveté en 1958.",
+      "anecdote": "Le premier parc Legoland a ouvert en 1968 à Billund, tout près de l'usine.",
+      "source": "Wikipédia (fr) — « Lego »",
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote remplacée (redisait l'explication, « aujourd'hui » non daté)."
+      }
+    },
+    {
+      "id": "mar-02-4",
+      "categorie": "marques",
+      "niveau": 2,
+      "question": "Quelle enseigne suédoise vend des meubles en kit, à monter soi-même ?",
+      "reponse": "IKEA",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Conforama",
+          "H&M",
+          "Habitat",
+          "But"
+        ]
+      },
+      "explication": "Ingvar Kamprad fonde son entreprise en 1943, à 17 ans. Le sigle IKEA réunit ses initiales, celle d'Elmtaryd, la ferme familiale, et celle d'Agunnaryd, son village du sud de la Suède. Le premier magasin ouvre en 1958 à Älmhult. Les meubles vendus à plat, dans des cartons, réduisent les frais de transport et de stockage, ce qui permet de baisser les prix.",
+      "anecdote": "Les produits portent des noms suédois choisis selon des règles : lieux de Scandinavie pour les tapis, prénoms pour les chaises, par exemple.",
+      "source": "Wikipédia (fr) — « IKEA »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-02-5",
+      "categorie": "marques",
+      "niveau": 2,
+      "question": "Comment appelle-t-on la hausse générale et durable des prix ?",
+      "reponse": "Inflation",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Déflation",
+          "Désinflation",
+          "Stagflation",
+          "Récession",
+          "Dévaluation"
+        ]
+      },
+      "explication": "En France, l'Insee la mesure grâce à l'indice des prix à la consommation, qui suit l'évolution du prix d'un vaste panier de biens et de services. L'inflation réduit le pouvoir d'achat de la monnaie : avec la même somme, on achète moins. La BCE vise une inflation de 2 % à moyen terme ; dans la zone euro, elle a culminé à 10,6 % sur un an en octobre 2022.",
+      "source": "Wikipédia (fr) — « Inflation »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-02-6",
+      "categorie": "marques",
+      "niveau": 2,
+      "question": "Quelle monnaie est utilisée au Royaume-Uni ?",
+      "reponse": "Livre sterling",
+      "variantes": [
+        "Livre",
+        "Sterling",
+        "Pound",
+        "Pound sterling",
+        "GBP"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Euro",
+          "Shilling",
+          "Penny",
+          "Couronne",
+          "Dollar"
+        ]
+      },
+      "explication": "Souvent présentée comme la plus ancienne monnaie encore en usage, la livre sterling remonte aux royaumes anglo-saxons du haut Moyen Âge. Son symbole, £, vient du L de « libra », la livre romaine. Jusqu'au 15 février 1971, une livre valait 20 shillings de 12 pence chacun, soit 240 pence ; depuis, elle se divise en 100 pence. Le Royaume-Uni n'a jamais adopté l'euro.",
+      "source": "Wikipédia (fr) — « Livre sterling »",
+      "verification": {
+        "statut": "relue",
+        "note": "« souvent présentée comme » la plus ancienne monnaie en usage."
+      }
+    },
+    {
+      "id": "mar-02-7",
+      "categorie": "marques",
+      "niveau": 2,
+      "question": "Quel animal est brodé sur les polos de la marque Lacoste ?",
+      "reponse": "Crocodile",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Alligator",
+          "Caïman",
+          "Lézard",
+          "Serpent",
+          "Coq"
+        ]
+      },
+      "explication": "Le joueur de tennis René Lacoste, l'un des « Mousquetaires » vainqueurs de la Coupe Davis en 1927, est surnommé « le Crocodile ». Selon le récit le plus courant, il viendrait d'une valise en peau de crocodile qu'on lui avait promise s'il gagnait un match, lors d'un séjour aux États-Unis. Son ami Robert George lui dessine l'emblème, qu'il fait broder sur ses vestes. En 1933, il fonde avec André Gillier une entreprise de chemises de sport.",
+      "anecdote": "René Lacoste a aussi déposé plusieurs brevets, dont celui d'une des premières raquettes de tennis en métal, dans les années 1960.",
+      "source": "Wikipédia (fr) — « Lacoste (entreprise) »",
+      "verification": {
+        "statut": "relue",
+        "note": "Origine du surnom reformulée prudemment (légende, versions divergentes)."
+      }
+    },
+    {
+      "id": "mar-02-8",
+      "categorie": "marques",
+      "niveau": 2,
+      "question": "Quel nom donne-t-on aux routes commerciales qui reliaient la Chine au monde méditerranéen dès l'Antiquité ?",
+      "reponse": "Route de la soie",
+      "variantes": [
+        "Routes de la soie"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Route des épices",
+          "Route de l'ambre",
+          "Route de l'encens",
+          "Route du thé"
+        ]
+      },
+      "explication": "L'expression a été forgée en 1877 par le géographe allemand Ferdinand von Richthofen. Pendant des siècles, les caravanes y ont transporté la soie chinoise, mais aussi des épices, du papier, des chevaux ou des pierres précieuses. Les idées et les religions, comme le bouddhisme, circulaient par les mêmes chemins. Marco Polo les emprunta à la fin du XIIIe siècle pour gagner la Chine.",
+      "source": "Wikipédia (fr) — « Route de la soie »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-03-1",
+      "categorie": "marques",
+      "niveau": 3,
+      "question": "Quel constructeur automobile français a pour emblème deux chevrons ?",
+      "reponse": "Citroën",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Peugeot",
+          "Renault",
+          "DS",
+          "Panhard"
+        ]
+      },
+      "explication": "Avant les voitures, André Citroën fabriquait des engrenages à denture en forme de chevrons, un procédé découvert en Pologne au début du XXe siècle. Il en garde le dessin pour sa marque automobile, lancée en 1919 avec la Type A, produite quai de Javel à Paris. Suivront notamment la Traction Avant en 1934, la 2 CV en 1948 et la DS en 1955.",
+      "anecdote": "En 1925, le nom Citroën a illuminé la tour Eiffel en lettres lumineuses géantes, une publicité restée en place jusqu'en 1934.",
+      "source": "Wikipédia (fr) — « Citroën »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-03-2",
+      "categorie": "marques",
+      "niveau": 3,
+      "question": "Que signifie le sigle PIB, utilisé pour mesurer la richesse produite par un pays ?",
+      "reponse": "Produit intérieur brut",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Produit national brut",
+          "Produit industriel brut",
+          "Revenu national brut"
+        ]
+      },
+      "explication": "Le PIB additionne la valeur des biens et des services produits sur un territoire pendant une période donnée, en général une année, sans compter deux fois les consommations intermédiaires. Ce type de mesure a été développé aux États-Unis dans les années 1930 par l'économiste Simon Kuznets, qui prévenait déjà qu'il ne suffisait pas à mesurer le bien-être d'une population.",
+      "source": "Wikipédia (fr) — « Produit intérieur brut »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-03-3",
+      "categorie": "marques",
+      "niveau": 3,
+      "question": "En quelle année le krach du « jeudi noir » a-t-il frappé la Bourse de New York ?",
+      "reponse": "1929",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 1929,
+        "tolerance": 0
+      },
+      "explication": "Le jeudi 24 octobre 1929, la panique s'empare de Wall Street après des années de spéculation, souvent à crédit. Les chutes s'enchaînent les 28 et 29 octobre. Le krach ouvre la Grande Dépression : l'indice Dow Jones perd environ 89 % entre son sommet de septembre 1929 et son point le plus bas, en juillet 1932, et la crise gagne l'Europe.",
+      "anecdote": "Le Dow Jones n'a retrouvé son niveau de septembre 1929 qu'en novembre 1954, un quart de siècle plus tard.",
+      "source": "Wikipédia (fr) — « Krach de 1929 »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-03-4",
+      "categorie": "marques",
+      "niveau": 3,
+      "question": "Quelle marque automobile allemande a pour emblème une étoile à trois branches dans un cercle ?",
+      "reponse": "Mercedes-Benz",
+      "variantes": [
+        "Mercedes"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "BMW",
+          "Audi",
+          "Volkswagen",
+          "Opel",
+          "Porsche"
+        ]
+      },
+      "explication": "L'étoile, déposée en 1909 par la société de Gottlieb Daimler, symbolise la motorisation sur terre, sur mer et dans les airs. Le prénom Mercedes est celui de la fille d'Emil Jellinek, homme d'affaires autrichien et grand client de Daimler, qui fit courir des voitures sous ce nom vers 1900. La fusion de Daimler avec l'entreprise de Carl Benz date de 1926.",
+      "source": "Wikipédia (fr) — « Mercedes-Benz »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-03-5",
+      "categorie": "marques",
+      "niveau": 3,
+      "question": "Comment s'appelle le bonhomme fait de pneus qui sert de mascotte à Michelin ?",
+      "reponse": "Bibendum",
+      "variantes": [
+        "Bib",
+        "Bonhomme Michelin",
+        "Michelin Man"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Michelin"
+        ]
+      },
+      "explication": "Le personnage naît en 1898 sous le crayon du dessinateur O'Galop. Quelques années plus tôt, Édouard Michelin avait remarqué qu'une pile de pneus, avec des bras, ressemblerait à un homme. L'affiche reprend une formule latine du poète Horace, « Nunc est bibendum », « c'est maintenant qu'il faut boire » : le pneu Michelin, disait la réclame, « boit l'obstacle ».",
+      "anecdote": "Il est blanc parce que les pneus de l'époque étaient clairs : le noir de carbone, qui les a rendus noirs, ne s'est généralisé qu'à partir des années 1910.",
+      "source": "Wikipédia (fr) — « Bibendum »",
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote corrigée : Bibendum est toujours blanc ; ajout du piège « Michelin »."
+      }
+    },
+    {
+      "id": "mar-03-6",
+      "categorie": "marques",
+      "niveau": 3,
+      "question": "Quel indice boursier regroupe quarante grandes valeurs cotées à la Bourse de Paris ?",
+      "reponse": "CAC 40",
+      "variantes": [
+        "CAC"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "SBF 120",
+          "DAX",
+          "Dow Jones",
+          "Nasdaq",
+          "Euro Stoxx 50"
+        ]
+      },
+      "explication": "Le sigle CAC signifie « cotation assistée en continu », du nom du système informatique adopté par la Bourse de Paris dans les années 1980. L'indice part d'une base de 1 000 points au 31 décembre 1987. Sa composition est réexaminée régulièrement par un conseil scientifique. Il est calculé par Euronext, l'opérateur qui gère aussi, notamment, les Bourses d'Amsterdam, de Bruxelles et de Lisbonne.",
+      "source": "Wikipédia (fr) — « CAC 40 »",
+      "verification": {
+        "statut": "relue",
+        "note": "Révision de l'indice et liste des Bourses d'Euronext formulées prudemment."
+      }
+    },
+    {
+      "id": "mar-03-7",
+      "categorie": "marques",
+      "niveau": 3,
+      "question": "Quelle boisson énergisante affirme dans son slogan qu'elle « donne des ailes » ?",
+      "reponse": "Red Bull",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Monster",
+          "Burn",
+          "Rockstar",
+          "Gatorade"
+        ]
+      },
+      "explication": "L'Autrichien Dietrich Mateschitz découvre au début des années 1980, en Thaïlande, une boisson tonique locale, le Krating Daeng, dont le nom évoque un bovin sauvage rouge. Il s'associe à son créateur, Chaleo Yoovidhya, pour adapter la recette au goût occidental, et lance Red Bull en Autriche en 1987. La boisson n'a été autorisée à la vente en France qu'en 2008.",
+      "source": "Wikipédia (fr) — « Red Bull »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-03-8",
+      "categorie": "marques",
+      "niveau": 3,
+      "question": "De quel pays est originaire l'enseigne de prêt-à-porter Zara ?",
+      "reponse": "Espagne",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Italie",
+          "Portugal",
+          "Suède",
+          "France",
+          "Grèce"
+        ]
+      },
+      "explication": "Amancio Ortega ouvre la première boutique Zara en 1975 à La Corogne, en Galice, avec son épouse d'alors, Rosalía Mera. L'enseigne a imposé la « mode rapide » : des collections renouvelées en quelques semaines, grâce à une production en partie installée près de l'Espagne. En 2024, elle appartient au groupe Inditex, qui possède aussi Massimo Dutti, Bershka et Pull&Bear.",
+      "anecdote": "La boutique devait s'appeler Zorba, comme le film, mais un bar voisin portait déjà ce nom.",
+      "source": "Wikipédia (fr) — « Zara (entreprise) »",
+      "verification": {
+        "statut": "relue",
+        "note": "Propriété du groupe datée (2024) ; source « Zara (entreprise) »."
+      }
+    },
+    {
+      "id": "mar-04-1",
+      "categorie": "marques",
+      "niveau": 4,
+      "question": "Quel philosophe écossais a publié en 1776 « La Richesse des nations » ?",
+      "reponse": "Adam Smith",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "David Hume",
+          "David Ricardo",
+          "John Stuart Mill",
+          "Adam Ferguson"
+        ]
+      },
+      "explication": "Son titre complet est « Recherches sur la nature et les causes de la richesse des nations ». Adam Smith y décrit la division du travail à partir de l'exemple d'une manufacture d'épingles, et y emploie l'image de la « main invisible » : en poursuivant son intérêt, chacun servirait sans le vouloir l'intérêt général. Il est considéré comme le père de l'économie classique.",
+      "anecdote": "Avant de devenir économiste, il enseignait la philosophie morale à l'université de Glasgow.",
+      "source": "Wikipédia (fr) — « Adam Smith »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-04-2",
+      "categorie": "marques",
+      "niveau": 4,
+      "question": "Dans quelle ville allemande la Banque centrale européenne a-t-elle son siège ?",
+      "reponse": "Francfort",
+      "variantes": [
+        "Francfort-sur-le-Main",
+        "Frankfurt",
+        "Frankfurt am Main"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Francfort-sur-l'Oder",
+          "Berlin",
+          "Bonn",
+          "Munich",
+          "Bruxelles"
+        ]
+      },
+      "explication": "La BCE a été créée le 1er juin 1998, quelques mois avant le lancement de l'euro, dont elle conduit la politique monétaire. Le choix de Francfort, siège de la Bundesbank allemande, rassurait sur sa rigueur. Depuis fin 2014, elle occupe deux tours de verre reliées entre elles, bâties sur le site d'une ancienne halle du marché de gros, dans l'est de la ville.",
+      "source": "Wikipédia (fr) — « Banque centrale européenne »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-04-3",
+      "categorie": "marques",
+      "niveau": 4,
+      "question": "Quelle chaîne de cafés, fondée à Seattle en 1971, a pour logo une sirène ?",
+      "reponse": "Starbucks",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Costa Coffee",
+          "Dunkin'",
+          "Columbus Café",
+          "Tim Hortons"
+        ]
+      },
+      "explication": "Trois amis amateurs de café, Jerry Baldwin, Zev Siegl et Gordon Bowker, ouvrent une boutique de grains torréfiés près du marché de Pike Place, à Seattle. Ils ne servent pas encore de boissons. Howard Schultz, recruté en 1982, s'inspire des bars à expresso de Milan ; il rachète l'entreprise en 1987 et la transforme en chaîne de cafés présente dans le monde entier.",
+      "anecdote": "La sirène à deux queues du logo s'inspire d'une gravure ancienne d'origine nordique, pour rappeler les ports et la mer.",
+      "source": "Wikipédia (fr) — « Starbucks »",
+      "verification": {
+        "statut": "relue",
+        "note": "Origine du nom (Moby Dick) retirée : déjà dans l'anecdote de lit-09-1."
+      }
+    },
+    {
+      "id": "mar-04-4",
+      "categorie": "marques",
+      "niveau": 4,
+      "question": "Comment appelle-t-on couramment un recul du PIB pendant deux trimestres consécutifs ?",
+      "reponse": "Récession",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Dépression",
+          "Déflation",
+          "Stagnation",
+          "Stagflation",
+          "Crise"
+        ]
+      },
+      "explication": "Cette définition est une convention commode, utilisée notamment par les journalistes. Aux États-Unis, c'est un comité d'économistes du NBER, un organisme de recherche privé, qui date officiellement les récessions en tenant compte aussi de l'emploi et des revenus. Lorsqu'un recul de l'activité est très profond et durable, comme dans les années 1930, on parle plutôt de dépression.",
+      "source": "Wikipédia (fr) — « Récession »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-04-5",
+      "categorie": "marques",
+      "niveau": 4,
+      "question": "Quelle marque allemande de bonbons tire son nom de son fondateur, Hans Riegel, et de la ville de Bonn ?",
+      "reponse": "Haribo",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Lutti",
+          "Trolli",
+          "Carambar",
+          "Kréma",
+          "Katjes"
+        ]
+      },
+      "explication": "HA pour Hans, RI pour Riegel, BO pour Bonn : le confiseur crée son entreprise en 1920 dans sa ville. Dès 1922, il invente des oursons en gomme gélifiée inspirés des ours dansants des foires, ancêtres des célèbres « Goldbären ». Son fils, Hans Riegel junior, a dirigé l'entreprise familiale de 1946 à sa mort en 2013 et en a fait une marque mondiale.",
+      "source": "Wikipédia (fr) — « Haribo »",
+      "verification": {
+        "statut": "relue",
+        "note": "Transfert du siège en 2018 et « sac de sucre » retirés (incertains)."
+      }
+    },
+    {
+      "id": "mar-04-6",
+      "categorie": "marques",
+      "niveau": 4,
+      "question": "Comment s'appelle l'unité monétaire de la République populaire de Chine ?",
+      "reponse": "Yuan",
+      "variantes": [
+        "Renminbi",
+        "RMB",
+        "CNY"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Yen",
+          "Won",
+          "Dong",
+          "Dollar de Hong Kong",
+          "Rouble"
+        ]
+      },
+      "explication": "La monnaie chinoise s'appelle officiellement le renminbi, « monnaie du peuple », et son unité de compte est le yuan. Elle est émise depuis 1948 par la Banque populaire de Chine, et le portrait de Mao Zedong orne ses billets. En octobre 2016, le FMI l'a ajoutée au panier de monnaies de ses droits de tirage spéciaux, aux côtés du dollar, de l'euro, du yen et de la livre.",
+      "source": "Wikipédia (fr) — « Renminbi »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-04-7",
+      "categorie": "marques",
+      "niveau": 4,
+      "question": "Selon le classement Forbes publié en avril 2024, quel Français était la personne la plus riche du monde ?",
+      "reponse": "Bernard Arnault",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Françoise Bettencourt Meyers",
+          "François Pinault",
+          "Elon Musk",
+          "Vincent Bolloré",
+          "Xavier Niel"
+        ]
+      },
+      "explication": "Bernard Arnault préside LVMH depuis 1989, deux ans après la fusion de Moët Hennessy et de Louis Vuitton. Il avait fait ses débuts dans le luxe en rachetant en 1984 le groupe Boussac, propriétaire de Christian Dior. Forbes estimait alors sa fortune familiale à 233 milliards de dollars, devant celles d'Elon Musk et de Jeff Bezos.",
+      "source": "Forbes — « The World's Billionaires 2024 »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-04-8",
+      "categorie": "marques",
+      "niveau": 4,
+      "question": "Quelle marque de cosmétiques a pour slogan « Parce que je le vaux bien » ?",
+      "reponse": "L'Oréal",
+      "variantes": [
+        "Loreal",
+        "L'Oréal Paris"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Garnier",
+          "Lancôme",
+          "Maybelline",
+          "Nivea",
+          "Yves Rocher"
+        ]
+      },
+      "explication": "Le slogan est né aux États-Unis en 1971, sous la forme « Because I'm worth it », pour une coloration capillaire de la marque. Il a été écrit par une jeune rédactrice publicitaire, Ilon Specht, qui voulait une femme sûre d'elle plutôt qu'occupée à plaire. L'entreprise avait été fondée en 1909 à Paris par le chimiste Eugène Schueller, inventeur de teintures pour cheveux.",
+      "source": "Wikipédia (fr) — « L'Oréal »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-05-1",
+      "categorie": "marques",
+      "niveau": 5,
+      "question": "Quel économiste britannique a publié en 1936 la « Théorie générale de l'emploi, de l'intérêt et de la monnaie » ?",
+      "reponse": "John Maynard Keynes",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Milton Friedman",
+          "Friedrich Hayek",
+          "Alfred Marshall",
+          "William Beveridge"
+        ]
+      },
+      "explication": "Écrit en pleine Grande Dépression, ce livre soutient que le chômage de masse peut durer si la demande est insuffisante, et que l'État doit alors relancer l'activité, notamment par la dépense publique. Keynes conduit ensuite la délégation britannique à la conférence de Bretton Woods, en 1944. Ses idées ont largement inspiré les politiques économiques des pays occidentaux après la guerre.",
+      "anecdote": "On lui doit la formule « À long terme, nous serons tous morts », écrite en 1923 pour critiquer les raisonnements qui négligent le court terme.",
+      "source": "Wikipédia (fr) — « John Maynard Keynes »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-05-2",
+      "categorie": "marques",
+      "niveau": 5,
+      "question": "Quelle banque d'affaires américaine a fait faillite le 15 septembre 2008 ?",
+      "reponse": "Lehman Brothers",
+      "variantes": [
+        "Lehman"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Bear Stearns",
+          "Merrill Lynch",
+          "Goldman Sachs",
+          "AIG",
+          "Morgan Stanley"
+        ]
+      },
+      "explication": "Très exposée aux crédits immobiliers à risque, les « subprimes », Lehman Brothers n'a trouvé ni repreneur ni aide publique. Avec environ 613 milliards de dollars de dettes, c'est la plus grande faillite de l'histoire des États-Unis. Elle a transformé la crise immobilière en panique financière mondiale. La banque avait été fondée en 1850 à Montgomery, en Alabama, dans le négoce du coton.",
+      "source": "Wikipédia (fr) — « Faillite de Lehman Brothers »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-05-3",
+      "categorie": "marques",
+      "niveau": 5,
+      "question": "Quelle organisation internationale, installée à Genève, a succédé au GATT en 1995 ?",
+      "reponse": "OMC",
+      "variantes": [
+        "Organisation mondiale du commerce",
+        "WTO",
+        "World Trade Organization"
+      ],
+      "validation": {
+        "type": "texte",
+        "exact": true,
+        "pieges": [
+          "FMI",
+          "OCDE",
+          "CNUCED",
+          "ONU",
+          "Banque mondiale",
+          "OMS"
+        ]
+      },
+      "explication": "Le GATT, accord sur les droits de douane signé en 1947, n'était pas une véritable organisation. Les accords de Marrakech, conclus en avril 1994, créent l'Organisation mondiale du commerce, qui commence ses travaux le 1er janvier 1995. Elle fixe les règles du commerce international et arbitre les différends entre États. La Chine y est entrée en décembre 2001.",
+      "anecdote": "Avec l'adhésion des Comores puis du Timor oriental, en août 2024, l'OMC est passée à 166 membres.",
+      "source": "Wikipédia (fr) — « Organisation mondiale du commerce »",
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote reformulée et datée ; piège « OMS » ajouté."
+      }
+    },
+    {
+      "id": "mar-05-4",
+      "categorie": "marques",
+      "niveau": 5,
+      "question": "Quelle maison de luxe parisienne, fondée en 1837, fabriquait à l'origine des harnais pour chevaux ?",
+      "reponse": "Hermès",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Louis Vuitton",
+          "Chanel",
+          "Longchamp",
+          "Dior",
+          "Goyard"
+        ]
+      },
+      "explication": "Thierry Hermès ouvre en 1837 un atelier de harnais près des Grands Boulevards, à Paris, pour une clientèle de cochers et d'aristocrates. La maison s'installe en 1880 au 24, rue du Faubourg-Saint-Honoré, où se trouve encore son magasin historique. Avec le déclin du cheval, elle se tourne vers la maroquinerie et les accessoires ; son premier carré de soie date de 1937.",
+      "anecdote": "Le logo de la maison montre une calèche attelée qui attend son maître, en souvenir de ses débuts de sellier.",
+      "source": "Wikipédia (fr) — « Hermès International »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-05-5",
+      "categorie": "marques",
+      "niveau": 5,
+      "question": "Quel constructeur italien de voitures de sport fabriquait d'abord des tracteurs ?",
+      "reponse": "Lamborghini",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Ferrari",
+          "Maserati",
+          "Pagani",
+          "Fiat",
+          "De Tomaso"
+        ]
+      },
+      "explication": "Après la guerre, Ferruccio Lamborghini fait fortune en construisant des tracteurs à partir de surplus militaires. En 1963, il fonde à Sant'Agata Bolognese une marque de voitures de grand tourisme pour rivaliser avec Ferrari. Passionné de corrida, il place sur son blason un animal de combat, emprunté aussi à son signe astrologique. La marque appartient au groupe Volkswagen, via Audi, depuis 1998.",
+      "anecdote": "Beaucoup de ses modèles portent le nom d'élevages ou de bêtes de corrida célèbres, comme la Miura.",
+      "source": "Wikipédia (fr) — « Lamborghini »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-05-6",
+      "categorie": "marques",
+      "niveau": 5,
+      "question": "Quelle ancienne directrice du FMI est devenue présidente de la Banque centrale européenne en novembre 2019 ?",
+      "reponse": "Christine Lagarde",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Kristalina Georgieva",
+          "Ursula von der Leyen",
+          "Janet Yellen",
+          "Isabel Schnabel"
+        ]
+      },
+      "explication": "Avocate d'affaires, un temps présidente du cabinet américain Baker McKenzie, puis ministre de l'Économie de 2007 à 2011, Christine Lagarde est la première femme à diriger le FMI, de 2011 à 2019. Elle succède ensuite à l'Italien Mario Draghi à la tête de la BCE, pour un mandat de huit ans non renouvelable, et devient là encore la première femme à ce poste.",
+      "anecdote": "Adolescente, elle a fait partie de l'équipe de France de natation synchronisée.",
+      "source": "Wikipédia (fr) — « Christine Lagarde »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-05-7",
+      "categorie": "marques",
+      "niveau": 5,
+      "question": "Quel animal symbolise, en Bourse, un marché orienté à la hausse ?",
+      "reponse": "Taureau",
+      "variantes": [
+        "Bull"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Ours",
+          "Bœuf",
+          "Lion",
+          "Aigle",
+          "Bélier"
+        ]
+      },
+      "explication": "On oppose le taureau, qui frappe de ses cornes de bas en haut, à l'ours, qui abat sa patte de haut en bas et représente la baisse. Les Anglo-Saxons parlent de « bull market » et de « bear market ». Près de Wall Street, une statue de bronze de taureau chargeant, œuvre d'Arturo Di Modica, a été installée sans autorisation en décembre 1989, avant d'être adoptée par la ville.",
+      "source": "Wikipédia (fr) — « Charging Bull »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-05-8",
+      "categorie": "marques",
+      "niveau": 5,
+      "question": "Comment appelle-t-on le taux d'intérêt fixé par une banque centrale pour orienter le crédit dans l'économie ?",
+      "reponse": "Taux directeur",
+      "variantes": [
+        "Taux directeurs",
+        "Taux d'intérêt directeur"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Taux d'usure",
+          "Taux de change",
+          "Taux fixe",
+          "Taux variable",
+          "Taux d'inflation"
+        ]
+      },
+      "explication": "En le relevant, la banque centrale renchérit le crédit et freine l'inflation ; en le baissant, elle soutient l'activité. Face à la flambée des prix, la BCE a relevé ses taux dix fois de suite entre juillet 2022 et septembre 2023 : son taux de dépôt est passé de −0,5 % à 4 %. Elle avait introduit des taux négatifs pour la première fois en 2014.",
+      "source": "Wikipédia (fr) — « Taux directeur »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-06-1",
+      "categorie": "marques",
+      "niveau": 6,
+      "question": "Quelle fleur a fait l'objet d'une célèbre bulle spéculative aux Provinces-Unies, en 1637 ?",
+      "reponse": "Tulipe",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Rose",
+          "Jacinthe",
+          "Narcisse",
+          "Orchidée",
+          "Lys"
+        ]
+      },
+      "explication": "Arrivée d'Orient au XVIe siècle, la fleur devient un objet de luxe aux Pays-Bas. Certains bulbes rares, aux pétales striés, s'échangent à des prix vertigineux, parfois sur de simples promesses de vente. En février 1637, lors d'une vente à Haarlem, les acheteurs se dérobent et les cours s'effondrent. Des historiens, comme Anne Goldgar, estiment que les conséquences économiques de cette « tulipomanie » ont été exagérées.",
+      "source": "Wikipédia (fr) — « Tulipomanie »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-06-2",
+      "categorie": "marques",
+      "niveau": 6,
+      "question": "Quelle compagnie de commerce, fondée en 1602, est souvent présentée comme la première société par actions moderne ?",
+      "reponse": "Compagnie néerlandaise des Indes orientales",
+      "variantes": [
+        "VOC",
+        "Compagnie hollandaise des Indes orientales",
+        "Verenigde Oostindische Compagnie"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Compagnie anglaise des Indes orientales",
+          "Compagnie britannique des Indes orientales",
+          "Compagnie française des Indes orientales",
+          "Compagnie des Indes occidentales",
+          "East India Company"
+        ]
+      },
+      "explication": "Créée par les Provinces-Unies avec le monopole du commerce néerlandais en Asie, la VOC finance ses expéditions en vendant des parts à de nombreux investisseurs, qui peuvent les revendre à la Bourse d'Amsterdam. Elle bat monnaie, signe des traités et entretient une armée. Son quartier général asiatique s'installe à Batavia, l'actuelle Jakarta, en 1619. Endettée, elle est dissoute en 1799.",
+      "source": "Wikipédia (fr) — « Compagnie néerlandaise des Indes orientales »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-06-3",
+      "categorie": "marques",
+      "niveau": 6,
+      "question": "Quelle entreprise, créée en 1665 sous Colbert, a fourni les miroirs de la galerie des Glaces de Versailles ?",
+      "reponse": "Saint-Gobain",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Baccarat",
+          "Daum",
+          "Manufacture des Gobelins",
+          "Murano",
+          "Lalique"
+        ]
+      },
+      "explication": "Colbert crée la Manufacture royale de glaces de miroirs pour concurrencer Venise, qui dominait ce marché de luxe. L'entreprise s'installe en 1692 dans le village de Saint-Gobain, dans l'Aisne, dont elle prend le nom. Elle livre les 357 miroirs de la galerie des Glaces, achevée en 1684. Devenue un géant des matériaux de construction, elle compte parmi les plus anciennes entreprises françaises.",
+      "source": "Wikipédia (fr) — « Saint-Gobain »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-06-4",
+      "categorie": "marques",
+      "niveau": 6,
+      "question": "Quel pays est devenu, le 1er janvier 2023, le vingtième membre de la zone euro ?",
+      "reponse": "Croatie",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Bulgarie",
+          "Slovénie",
+          "Roumanie",
+          "Serbie",
+          "Slovaquie"
+        ]
+      },
+      "explication": "La Croatie a abandonné ce jour-là la kuna, introduite en 1994, au taux de 7,53450 kunas pour un euro. Membre de l'Union européenne depuis juillet 2013, elle est aussi entrée le même 1er janvier 2023 dans l'espace Schengen, ce qui a supprimé les contrôles à ses frontières terrestres avec la Slovénie et la Hongrie.",
+      "anecdote": "Le mot kuna désigne la martre : au Moyen Âge, les peaux de cet animal servaient de monnaie d'échange.",
+      "source": "Wikipédia (fr) — « Zone euro »",
+      "verification": {
+        "statut": "relue",
+        "note": "Phrase sur la Bulgarie (2026) retirée par prudence."
+      }
+    },
+    {
+      "id": "mar-06-5",
+      "categorie": "marques",
+      "niveau": 6,
+      "question": "Quel industriel a fait de la Standard Oil, fondée en 1870, un quasi-monopole du pétrole américain ?",
+      "reponse": "John D. Rockefeller",
+      "variantes": [
+        "John Davison Rockefeller",
+        "John Rockefeller"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Andrew Carnegie",
+          "J. P. Morgan",
+          "Cornelius Vanderbilt",
+          "Henry Flagler",
+          "William Rockefeller"
+        ]
+      },
+      "explication": "Fondée à Cleveland, dans l'Ohio, la Standard Oil contrôle vers 1880 environ 90 % du raffinage aux États-Unis, en rachetant ou en asphyxiant ses concurrents. Accusée de violer la loi antitrust Sherman de 1890, elle est démantelée en 1911 sur décision de la Cour suprême, en 34 sociétés. Plusieurs sont devenues des géants pétroliers, comme Exxon, Mobil ou Chevron.",
+      "anecdote": "Dans sa vieillesse, il avait pris l'habitude de distribuer des pièces de dix cents aux enfants et aux passants.",
+      "source": "Wikipédia (fr) — « Standard Oil »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-06-6",
+      "categorie": "marques",
+      "niveau": 6,
+      "question": "Dans quelle ville a été fondé en 1899 le constructeur automobile Fiat, dont le « T » du sigle rappelle le nom ?",
+      "reponse": "Turin",
+      "variantes": [
+        "Torino"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Milan",
+          "Modène",
+          "Maranello",
+          "Gênes",
+          "Bologne",
+          "Trente"
+        ]
+      },
+      "explication": "Fondée le 11 juillet 1899 par un groupe d'investisseurs dont faisait partie Giovanni Agnelli, la Fabbrica Italiana Automobili Torino tire son sigle de son nom complet. La famille Agnelli en a gardé le contrôle pendant plus d'un siècle. L'usine du Lingotto, achevée en 1923, était célèbre pour sa piste d'essai installée sur le toit. Depuis 2021, la marque appartient au groupe Stellantis, né de la fusion de Fiat Chrysler et de PSA.",
+      "source": "Wikipédia (fr) — « Fiat »",
+      "verification": {
+        "statut": "relue",
+        "note": "Remplacée : Chupa Chups/Dalí doublonnait l'anecdote d'art-02-6."
+      }
+    },
+    {
+      "id": "mar-06-7",
+      "categorie": "marques",
+      "niveau": 6,
+      "question": "Quel escroc d'origine italienne a donné son nom, dans les années 1920, aux montages financiers pyramidaux ?",
+      "reponse": "Charles Ponzi",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Bernard Madoff",
+          "Jérôme Kerviel",
+          "Al Capone",
+          "Carlo Ponti"
+        ]
+      },
+      "explication": "Installé à Boston, Charles Ponzi promet en 1920 de doubler la mise de ses clients en 90 jours, officiellement grâce à des coupons-réponses postaux internationaux achetés à l'étranger. En réalité, il rembourse les premiers investisseurs avec l'argent des suivants. Le système s'écroule en quelques mois. En 2008, Bernard Madoff a été arrêté pour une escroquerie du même type, bien plus vaste.",
+      "source": "Wikipédia (fr) — « Charles Ponzi »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-06-8",
+      "categorie": "marques",
+      "niveau": 6,
+      "question": "Quel concepteur de puces californien, cofondé en 1993 par Jensen Huang, a lancé en 1999 la carte graphique GeForce 256 ?",
+      "reponse": "Nvidia",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "AMD",
+          "ATI",
+          "Intel",
+          "3dfx",
+          "Qualcomm",
+          "Matrox"
+        ]
+      },
+      "explication": "Jensen Huang, Chris Malachowsky et Curtis Priem fondent l'entreprise en 1993. Présentée comme le premier « GPU », ou processeur graphique, la GeForce 256 vise d'abord les joueurs. Ces puces, capables de très nombreux calculs en parallèle, se sont révélées idéales pour entraîner les réseaux de neurones, ce qui a fait de Nvidia, au milieu des années 2020, l'une des entreprises les mieux valorisées au monde.",
+      "source": "Wikipédia (fr) — « Nvidia »",
+      "verification": {
+        "statut": "relue",
+        "note": "Réécrite sans capitalisations de 2025 (non vérifiables) : question sur la GeForce 256."
+      }
+    },
+    {
+      "id": "mar-07-1",
+      "categorie": "marques",
+      "niveau": 7,
+      "question": "Quel financier écossais a fondé à Paris en 1716 une banque dont le « système » s'effondra en 1720 ?",
+      "reponse": "John Law",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Jacques Necker",
+          "Colbert",
+          "Turgot",
+          "Nicolas Fouquet",
+          "Calonne"
+        ]
+      },
+      "explication": "Sous la Régence, John Law propose de redresser les finances du royaume, ruinées par les guerres de Louis XIV, en émettant du papier-monnaie. Sa banque devient Banque royale en 1718 et s'adosse à la Compagnie du Mississippi, dont les actions s'arrachent rue Quincampoix. La bulle éclate en 1720 : ruiné et détesté, Law quitte la France et meurt à Venise en 1729.",
+      "anecdote": "Au plus fort de son succès, en 1720, il fut nommé contrôleur général des finances, quelques mois seulement avant sa chute.",
+      "source": "Wikipédia (fr) — « Système de Law »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-07-2",
+      "categorie": "marques",
+      "niveau": 7,
+      "question": "En quelle année Bonaparte a-t-il créé la Banque de France ?",
+      "reponse": "1800",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 1800,
+        "tolerance": 0
+      },
+      "explication": "Fondée le 18 janvier 1800, sous le Consulat, la Banque de France est d'abord une société privée détenue par des actionnaires. Elle obtient en 1803 le monopole d'émission des billets à Paris, étendu à tout le pays en 1848. Nationalisée en 1945, elle devient indépendante du gouvernement en 1993 et fait partie, depuis le lancement de l'euro en 1999, de l'Eurosystème.",
+      "anecdote": "Son siège parisien occupe l'hôtel de Toulouse, ancien hôtel particulier du XVIIe siècle célèbre pour sa galerie Dorée.",
+      "source": "Wikipédia (fr) — « Banque de France »",
+      "verification": {
+        "statut": "relue",
+        "note": "Eurosystème (1999) au lieu du SEBC."
+      }
+    },
+    {
+      "id": "mar-07-3",
+      "categorie": "marques",
+      "niveau": 7,
+      "question": "Quel économiste britannique a illustré en 1817 les avantages comparatifs avec le vin portugais et le drap anglais ?",
+      "reponse": "David Ricardo",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Adam Smith",
+          "Thomas Malthus",
+          "John Stuart Mill",
+          "Jean-Baptiste Say"
+        ]
+      },
+      "explication": "Dans « Des principes de l'économie politique et de l'impôt », Ricardo montre que deux pays gagnent à échanger même si l'un produit tout plus efficacement que l'autre : chacun doit se spécialiser là où son avantage relatif est le plus grand. Agent de change devenu très riche, puis député, il plaidait pour l'abolition des droits de douane anglais sur le blé.",
+      "source": "Wikipédia (fr) — « David Ricardo »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-07-4",
+      "categorie": "marques",
+      "niveau": 7,
+      "question": "Quelle enseigne a ouvert en 1963 le premier hypermarché de France, à Sainte-Geneviève-des-Bois ?",
+      "reponse": "Carrefour",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Leclerc",
+          "Auchan",
+          "Mammouth",
+          "Casino",
+          "Intermarché"
+        ]
+      },
+      "explication": "L'entreprise est fondée en 1959 par les familles Fournier et Defforey. Son premier supermarché, ouvert en 1960 à Annecy, se trouvait à un carrefour, d'où le nom de l'enseigne. Le magasin de Sainte-Geneviève-des-Bois, dans l'Essonne, réunit sous un même toit alimentation et produits divers, avec un grand parking : il lance en France le modèle de l'hypermarché en périphérie des villes.",
+      "source": "Wikipédia (fr) — « Carrefour (entreprise) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-07-5",
+      "categorie": "marques",
+      "niveau": 7,
+      "question": "Quelle entreprise finlandaise, célèbre pour ses téléphones portables, est née en 1865 comme fabrique de pâte à papier ?",
+      "reponse": "Nokia",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Ericsson",
+          "Motorola",
+          "Siemens",
+          "Alcatel",
+          "Sagem"
+        ]
+      },
+      "explication": "L'ingénieur Fredrik Idestam ouvre une usine de pâte à papier dans le sud de la Finlande ; l'entreprise tire son nom de la ville de Nokia, où il installe une deuxième usine. Après une fusion en 1967 avec des sociétés de caoutchouc et de câbles, le groupe se tourne vers l'électronique. Numéro un mondial du téléphone portable de 1998 à 2011, il cède cette activité à Microsoft en 2014.",
+      "anecdote": "Avant les téléphones, le groupe fabriquait aussi des bottes et des pneus en caoutchouc.",
+      "source": "Wikipédia (fr) — « Nokia »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-07-6",
+      "categorie": "marques",
+      "niveau": 7,
+      "question": "Quelle économiste française a reçu le prix Nobel d'économie 2019 avec Abhijit Banerjee et Michael Kremer ?",
+      "reponse": "Esther Duflo",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Elinor Ostrom",
+          "Claudia Goldin",
+          "Laurence Boone",
+          "Christine Lagarde"
+        ]
+      },
+      "explication": "Professeure au MIT, Esther Duflo est récompensée pour ses travaux sur la lutte contre la pauvreté, fondés sur des expériences de terrain qui comparent, par tirage au sort, des groupes bénéficiant ou non d'une mesure. À 46 ans, elle est alors la plus jeune lauréate de ce prix, et la deuxième femme à le recevoir après l'Américaine Elinor Ostrom, en 2009.",
+      "anecdote": "Elle partage le prix avec son mari, Abhijit Banerjee, avec qui elle a cofondé en 2003 le laboratoire J-PAL.",
+      "source": "Wikipédia (fr) — « Esther Duflo »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-07-7",
+      "categorie": "marques",
+      "niveau": 7,
+      "question": "Quel hebdomadaire britannique publie depuis 1986 l'« indice Big Mac », qui compare le pouvoir d'achat des monnaies ?",
+      "reponse": "The Economist",
+      "variantes": [
+        "Economist"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Financial Times",
+          "The Wall Street Journal",
+          "The Times",
+          "Forbes",
+          "The Guardian"
+        ]
+      },
+      "explication": "Imaginé en 1986 par la journaliste Pam Woodall comme une façon ludique d'expliquer la parité de pouvoir d'achat, l'indice compare le prix d'un même hamburger, vendu presque partout dans le monde, converti en dollars. Si un Big Mac coûte plus cher dans un pays qu'aux États-Unis, sa monnaie serait surévaluée. Le sandwich lui-même a été créé en 1967 par un franchisé de McDonald's en Pennsylvanie.",
+      "source": "Wikipédia (fr) — « Indice Big Mac »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-07-8",
+      "categorie": "marques",
+      "niveau": 7,
+      "question": "Quel jour de la semaine est tombé le krach boursier du 19 octobre 1987 ?",
+      "reponse": "Lundi",
+      "variantes": [
+        "Lundi noir"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Mardi",
+          "Mercredi",
+          "Jeudi",
+          "Vendredi",
+          "Jeudi noir"
+        ]
+      },
+      "explication": "Ce « lundi noir », l'indice Dow Jones perd 22,6 % en une seule séance, sa plus forte chute en pourcentage sur une journée. Les programmes informatiques de vente automatique, censés protéger les portefeuilles, ont amplifié la panique, qui gagne aussi Londres, Tokyo et Paris. Grâce notamment aux injections de liquidités de la Réserve fédérale, l'économie américaine a pourtant évité la récession.",
+      "source": "Wikipédia (fr) — « Krach d'octobre 1987 »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-08-1",
+      "categorie": "marques",
+      "niveau": 8,
+      "question": "Dans quelle ville Hans Wilsdorf a-t-il fondé en 1905 l'entreprise qui deviendra Rolex ?",
+      "reponse": "Londres",
+      "variantes": [
+        "London"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Genève",
+          "Bienne",
+          "Zurich",
+          "Berlin",
+          "La Chaux-de-Fonds"
+        ]
+      },
+      "explication": "L'Allemand Hans Wilsdorf crée à Londres, avec son beau-frère Alfred Davis, la société Wilsdorf & Davis, qui importe des mouvements suisses et les monte dans des boîtiers anglais. Le nom Rolex est déposé en 1908. Après la Première Guerre mondiale, les taxes britanniques poussent l'entreprise à s'installer à Genève, en 1919. Sa montre étanche Oyster est présentée en 1926.",
+      "anecdote": "En 1927, la nageuse Mercedes Gleitze traversa la Manche avec une Oyster au poignet, ce qui servit de démonstration publicitaire.",
+      "source": "Wikipédia (fr) — « Rolex »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-08-2",
+      "categorie": "marques",
+      "niveau": 8,
+      "question": "Quel pionnier de l'automobile a traduit son propre nom en latin pour baptiser la marque Audi ?",
+      "reponse": "August Horch",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Ferdinand Porsche",
+          "Carl Benz",
+          "Gottlieb Daimler",
+          "Wilhelm Maybach"
+        ]
+      },
+      "explication": "En 1909, August Horch quitte la société Horch qu'il avait fondée et n'a plus le droit d'utiliser son nom. Le fils d'un associé, qui apprenait le latin, propose « audi », l'impératif du verbe « écouter », comme l'allemand « horch ! ». Les quatre anneaux du logo rappellent la fusion, en 1932, d'Audi, DKW, Horch et Wanderer au sein d'Auto Union.",
+      "source": "Wikipédia (fr) — « Audi »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-08-3",
+      "categorie": "marques",
+      "niveau": 8,
+      "question": "De quelle grosse pièce d'argent, frappée en Bohême au XVIe siècle, le mot « dollar » est-il dérivé ?",
+      "reponse": "Thaler",
+      "variantes": [
+        "Taler",
+        "Joachimsthaler"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Florin",
+          "Ducat",
+          "Peso",
+          "Doublon",
+          "Piastre"
+        ]
+      },
+      "explication": "Le nom vient de Joachimsthal, aujourd'hui Jáchymov en Tchéquie, dont les mines d'argent permettent de frapper, à partir des années 1510, des pièces appelées « joachimsthaler », puis simplement « thaler ». Le mot passe en néerlandais sous la forme « daalder » et en anglais sous celle de « dollar ». Les États-Unis l'adoptent pour leur monnaie en 1792, en s'inspirant des pièces espagnoles qui circulaient dans les colonies.",
+      "source": "Wikipédia (fr) — « Thaler »",
+      "verification": {
+        "statut": "relue",
+        "note": "Variante « Daalder » retirée (pièce néerlandaise dérivée) ; date de première frappe assouplie."
+      }
+    },
+    {
+      "id": "mar-08-4",
+      "categorie": "marques",
+      "niveau": 8,
+      "question": "Quel homme d'affaires britannique a fondé en 1888 la société diamantaire De Beers ?",
+      "reponse": "Cecil Rhodes",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Ernest Oppenheimer",
+          "Barney Barnato",
+          "Alfred Beit",
+          "Nathan Rothschild"
+        ]
+      },
+      "explication": "Arrivé en Afrique australe pour raisons de santé, Cecil Rhodes rachète une à une les concessions des mines de Kimberley, avec l'appui financier des Rothschild. La société tire son nom d'une ferme appartenant aux frères De Beer, sur laquelle des diamants avaient été découverts. De Beers a longtemps contrôlé l'essentiel du commerce mondial des diamants bruts au XXe siècle.",
+      "anecdote": "Les anciennes Rhodésie du Nord et du Sud, aujourd'hui la Zambie et le Zimbabwe, portaient son nom.",
+      "source": "Wikipédia (fr) — « De Beers »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-08-5",
+      "categorie": "marques",
+      "niveau": 8,
+      "question": "Dans quel type d'établissement londonien est né, à la fin du XVIIe siècle, le marché de l'assurance Lloyd's ?",
+      "reponse": "Café",
+      "variantes": [
+        "Coffee house",
+        "Coffee-house",
+        "Maison de café",
+        "Coffeehouse"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Taverne",
+          "Pub",
+          "Auberge",
+          "Club",
+          "Banque"
+        ]
+      },
+      "explication": "À la fin du XVIIe siècle, le café d'Edward Lloyd, dans la City de Londres, attire armateurs, capitaines et marchands, qui y échangent les nouvelles des navires. Des particuliers fortunés y acceptent d'assurer les cargaisons en signant au bas du contrat, d'où le terme anglais « underwriter ». Lloyd's est devenu un grand marché mondial de l'assurance et de la réassurance.",
+      "anecdote": "La cloche de la frégate Lutine, naufragée en 1799, y était sonnée pour annoncer la perte ou le retour d'un navire.",
+      "source": "Wikipédia (fr) — « Lloyd's of London »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-08-6",
+      "categorie": "marques",
+      "niveau": 8,
+      "question": "Quel économiste américain a donné son nom à la courbe résumée par l'adage « trop d'impôt tue l'impôt » ?",
+      "reponse": "Arthur Laffer",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Milton Friedman",
+          "Robert Mundell",
+          "Jude Wanniski",
+          "Paul Volcker"
+        ]
+      },
+      "explication": "Selon le récit le plus répandu, Arthur Laffer aurait tracé sa courbe en 1974 sur une serviette, dans un restaurant de Washington, devant des collaborateurs du président Ford, dont Donald Rumsfeld et Dick Cheney. L'idée : au-delà d'un certain taux, l'impôt décourage l'activité et finit par rapporter moins. Elle a inspiré les baisses d'impôts de Ronald Reagan dans les années 1980.",
+      "source": "Wikipédia (fr) — « Courbe de Laffer »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-08-7",
+      "categorie": "marques",
+      "niveau": 8,
+      "question": "Quel salaire minimum français le SMIC a-t-il remplacé en 1970 ?",
+      "reponse": "SMIG",
+      "variantes": [
+        "Salaire minimum interprofessionnel garanti"
+      ],
+      "validation": {
+        "type": "texte",
+        "exact": true,
+        "pieges": [
+          "SMAG",
+          "RMI",
+          "SMG",
+          "RSA"
+        ]
+      },
+      "explication": "Le salaire minimum interprofessionnel garanti, créé en 1950, était indexé sur les prix : il protégeait le pouvoir d'achat sans suivre l'enrichissement du pays. Le salaire minimum interprofessionnel de croissance, instauré en 1970, tient compte aussi de l'évolution des salaires. Entre-temps, Mai 68 et les accords de Grenelle avaient relevé le salaire minimum d'environ 35 %.",
+      "source": "Wikipédia (fr) — « Salaire minimum interprofessionnel de croissance »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-08-8",
+      "categorie": "marques",
+      "niveau": 8,
+      "question": "Dans quelle ville flamande les marchands se réunissaient-ils devant la maison des Van der Beurse, à l'origine du mot « bourse » ?",
+      "reponse": "Bruges",
+      "variantes": [
+        "Brugge"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Anvers",
+          "Gand",
+          "Amsterdam",
+          "Bruxelles",
+          "Ypres"
+        ]
+      },
+      "explication": "Du XIIIe au XVe siècle, Bruges est l'un des grands carrefours commerciaux d'Europe, fréquenté par les marchands italiens et par ceux de la Hanse. Ils se retrouvent sur une place, devant l'hôtel de la famille Van der Beurse, pour négocier marchandises et lettres de change. Le nom passe à ce type de marché ; Anvers construit en 1531 le premier bâtiment conçu pour abriter une Bourse.",
+      "source": "CNRTL — « Bourse » (étymologie)",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-09-1",
+      "categorie": "marques",
+      "niveau": 9,
+      "question": "Quelle famille de banquiers d'Augsbourg a financé l'élection de Charles Quint à l'Empire, en 1519 ?",
+      "reponse": "Fugger",
+      "variantes": [
+        "Les Fugger"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Welser",
+          "Médicis",
+          "Rothschild",
+          "Bardi",
+          "Höchstetter"
+        ]
+      },
+      "explication": "Pour l'emporter face à François Ier, Charles Quint doit acheter les voix des princes électeurs. Jacob Fugger, dit « le Riche », lui avance l'essentiel des sommes nécessaires, plus de 500 000 florins, devant les Welser et des banquiers italiens. Sa fortune reposait sur le commerce et sur les mines d'argent et de cuivre du Tyrol et de Hongrie.",
+      "anecdote": "La Fuggerei, cité sociale fondée par Jacob Fugger à Augsbourg en 1516, est toujours habitée ; le loyer annuel y reste de 0,88 euro.",
+      "source": "Wikipédia (fr) — « Jacob Fugger »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-09-2",
+      "categorie": "marques",
+      "niveau": 9,
+      "question": "Quel marchand anglais du XVIe siècle a donné son nom à la loi « la mauvaise monnaie chasse la bonne » ?",
+      "reponse": "Thomas Gresham",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Nicolas Oresme",
+          "Nicolas Copernic",
+          "Thomas Mun",
+          "William Petty"
+        ]
+      },
+      "explication": "Agent financier de la couronne, Thomas Gresham conseille Élisabeth Ire et fonde le Royal Exchange, première bourse de commerce de Londres. Le principe qui porte son nom veut que, si deux monnaies ont la même valeur légale, on garde la meilleure, plus riche en métal, et l'on dépense la moins bonne. L'expression « loi de Gresham » a été forgée en 1858 par l'économiste Henry Dunning Macleod.",
+      "anecdote": "Le phénomène avait déjà été décrit avant lui, notamment par Nicolas Oresme au XIVe siècle et par Copernic au XVIe.",
+      "source": "Wikipédia (fr) — « Loi de Gresham »",
+      "verification": {
+        "statut": "relue",
+        "note": "Royal Exchange : bourse de commerce, pas « la Bourse de Londres »."
+      }
+    },
+    {
+      "id": "mar-09-3",
+      "categorie": "marques",
+      "niveau": 9,
+      "question": "Quel médecin de Madame de Pompadour, chef de file des physiocrates, a publié le « Tableau économique » en 1758 ?",
+      "reponse": "François Quesnay",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Turgot",
+          "Vincent de Gournay",
+          "Mirabeau",
+          "Dupont de Nemours",
+          "Richard Cantillon"
+        ]
+      },
+      "explication": "Installé à Versailles, François Quesnay représente l'économie comme un circuit où les richesses circulent entre les classes sociales, à la manière du sang dans le corps. Pour les physiocrates, seule l'agriculture crée un véritable surplus, le « produit net ». Ils défendent la liberté du commerce des grains. Adam Smith, qui le rencontra lors de son séjour en France, l'estimait beaucoup.",
+      "anecdote": "Le mot physiocratie signifie « gouvernement de la nature ».",
+      "source": "Wikipédia (fr) — « François Quesnay »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-09-4",
+      "categorie": "marques",
+      "niveau": 9,
+      "question": "Quelle banque centrale a créé en 1968 le prix de sciences économiques dit « Nobel d'économie » ?",
+      "reponse": "Banque de Suède",
+      "variantes": [
+        "Sveriges Riksbank",
+        "Riksbank",
+        "Banque centrale de Suède",
+        "Banque royale de Suède"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Banque de Norvège",
+          "Banque d'Angleterre",
+          "Banque du Danemark",
+          "Fondation Nobel"
+        ]
+      },
+      "explication": "La Riksbank, fondée en 1668 et considérée comme la plus ancienne banque centrale encore en activité, a créé ce prix pour fêter ses trois cents ans. Il ne figure pas dans le testament d'Alfred Nobel : son nom officiel est « prix de la Banque de Suède en sciences économiques en mémoire d'Alfred Nobel ». Décerné pour la première fois en 1969, il est attribué par l'Académie royale des sciences de Suède.",
+      "source": "Wikipédia (fr) — « Prix de la Banque de Suède en sciences économiques en mémoire d'Alfred Nobel »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-09-5",
+      "categorie": "marques",
+      "niveau": 9,
+      "question": "Quel associé de John Pemberton a trouvé le nom Coca-Cola et dessiné son logo en écriture cursive ?",
+      "reponse": "Frank Robinson",
+      "variantes": [
+        "Frank Mason Robinson"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Asa Candler",
+          "Caleb Bradham",
+          "Robert Woodruff",
+          "Charles Robinson"
+        ]
+      },
+      "explication": "Comptable et associé du pharmacien d'Atlanta, Frank Mason Robinson estimait que deux C majuscules feraient bon effet dans les réclames. Il calligraphie lui-même le nom en écriture « spencérienne », un style alors enseigné aux employés pour la correspondance commerciale. Ce lettrage, presque inchangé depuis la fin du XIXe siècle, est devenu l'un des logos les plus reconnus au monde.",
+      "source": "Wikipédia (fr) — « Coca-Cola »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-09-6",
+      "categorie": "marques",
+      "niveau": 9,
+      "question": "La dévaluation de quelle monnaie a déclenché la crise financière asiatique, en juillet 1997 ?",
+      "reponse": "Baht",
+      "variantes": [
+        "Baht thaïlandais"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Won",
+          "Ringgit",
+          "Roupie indonésienne",
+          "Roupiah",
+          "Yen",
+          "Dong"
+        ]
+      },
+      "explication": "Le 2 juillet 1997, la Thaïlande, à court de réserves face à la spéculation, cesse de défendre l'arrimage de sa monnaie au dollar. Le baht s'effondre, et la panique gagne l'Indonésie, la Corée du Sud ou la Malaisie, dont les entreprises étaient lourdement endettées en devises étrangères. Le FMI accorde de vastes prêts, assortis de plans d'austérité très contestés.",
+      "source": "Wikipédia (fr) — « Crise économique asiatique »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-09-7",
+      "categorie": "marques",
+      "niveau": 9,
+      "question": "Quel troisième cofondateur d'Apple, en 1976, a revendu ses parts au bout de douze jours ?",
+      "reponse": "Ronald Wayne",
+      "variantes": [
+        "Ron Wayne"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Mike Markkula",
+          "Steve Wozniak",
+          "Steve Jobs",
+          "Rod Holt",
+          "John Sculley"
+        ]
+      },
+      "explication": "Plus âgé que Steve Jobs et Steve Wozniak, Ronald Wayne détenait 10 % de la jeune société. Craignant d'être tenu responsable de ses éventuelles dettes, il revend sa part pour 800 dollars. Il avait rédigé le contrat d'association et dessiné le tout premier logo de l'entreprise, une gravure représentant Isaac Newton assis sous un arbre.",
+      "source": "Wikipédia (fr) — « Ronald Wayne »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-09-8",
+      "categorie": "marques",
+      "niveau": 9,
+      "question": "Quel haut fonctionnaire français a conçu la TVA, instaurée en France en 1954 ?",
+      "reponse": "Maurice Lauré",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Edgar Faure",
+          "Joseph Caillaux",
+          "Antoine Pinay",
+          "Wilhelm von Siemens"
+        ]
+      },
+      "explication": "Inspecteur des finances et directeur adjoint de la Direction générale des impôts, Maurice Lauré imagine un impôt qui ne frappe, à chaque étape de production, que la valeur ajoutée, ce qui évite les taxes en cascade. Instaurée par une loi du 10 avril 1954, la taxe sur la valeur ajoutée est étendue au commerce de détail en 1968, puis adoptée par la plupart des pays du monde.",
+      "source": "Wikipédia (fr) — « Maurice Lauré »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-10-1",
+      "categorie": "marques",
+      "niveau": 10,
+      "question": "Quel économiste américain a forgé l'expression « consommation ostentatoire » en 1899 ?",
+      "reponse": "Thorstein Veblen",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "John Kenneth Galbraith",
+          "Werner Sombart",
+          "Pierre Bourdieu",
+          "Max Weber"
+        ]
+      },
+      "explication": "Dans « Théorie de la classe de loisir », Thorstein Veblen, fils d'immigrés norvégiens, décrit des riches qui achètent avant tout pour afficher leur rang social. Il a donné son nom aux « biens Veblen », dont la demande augmente avec le prix, à rebours de la loi habituelle : certains produits de luxe se vendent mieux parce qu'ils sont chers.",
+      "source": "Wikipédia (fr) — « Thorstein Veblen »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-10-2",
+      "categorie": "marques",
+      "niveau": 10,
+      "question": "Sous quel arbre vingt-quatre courtiers auraient-ils signé en 1792 l'accord fondateur de la Bourse de New York ?",
+      "reponse": "Platane",
+      "variantes": [
+        "Buttonwood",
+        "Platane d'Occident"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Sycomore",
+          "Chêne",
+          "Orme",
+          "Érable",
+          "Tilleul"
+        ]
+      },
+      "explication": "Le « Buttonwood Agreement », signé le 17 mai 1792, tient son nom anglais d'un platane d'Occident qui se dressait au 68, Wall Street, où les courtiers avaient l'habitude de se retrouver. Ils s'y engagent à ne traiter qu'entre eux et à prélever une commission minimale. L'organisation prend en 1817 le nom de New York Stock & Exchange Board.",
+      "source": "Wikipédia (fr) — « New York Stock Exchange »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-10-3",
+      "categorie": "marques",
+      "niveau": 10,
+      "question": "Combien de sociétés composaient l'indice Dow Jones lors de sa création, en 1896 ?",
+      "reponse": "12",
+      "variantes": [
+        "Douze"
+      ],
+      "validation": {
+        "type": "nombre",
+        "valeur": 12,
+        "tolerance": 0
+      },
+      "explication": "Charles Dow publie le premier Dow Jones Industrial Average le 26 mai 1896, en faisant simplement la moyenne des cours de douze grandes sociétés industrielles. L'indice passe à vingt valeurs en 1916, puis à trente en 1928, nombre qui n'a plus changé depuis. General Electric, seule rescapée durable de la liste d'origine, en a été retirée en 2018.",
+      "source": "Wikipédia (fr) — « Dow Jones Industrial Average »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-10-4",
+      "categorie": "marques",
+      "niveau": 10,
+      "question": "Quel économiste néo-zélandais a mis en évidence en 1958 une relation inverse entre chômage et hausse des salaires ?",
+      "reponse": "Bill Phillips",
+      "variantes": [
+        "A. W. Phillips",
+        "Alban William Phillips",
+        "William Phillips"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Arthur Okun",
+          "Paul Samuelson",
+          "Robert Solow",
+          "Milton Friedman"
+        ]
+      },
+      "explication": "À la London School of Economics, Phillips étudie les données britanniques de 1861 à 1957 : moins il y a de chômage, plus les salaires augmentent vite. Sa courbe, réinterprétée comme un arbitrage entre inflation et chômage, guide les politiques économiques des années 1960, avant d'être contredite par la stagflation des années 1970.",
+      "anecdote": "En 1949, il avait construit le MONIAC, une machine hydraulique où de l'eau colorée simulait la circulation de l'argent dans l'économie.",
+      "source": "Wikipédia (fr) — « Courbe de Phillips »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-10-5",
+      "categorie": "marques",
+      "niveau": 10,
+      "question": "Quel économiste soviétique a décrit en 1925 des cycles économiques longs d'environ cinquante ans ?",
+      "reponse": "Nikolaï Kondratiev",
+      "variantes": [
+        "Kondratieff",
+        "Nicolas Kondratieff",
+        "Nikolai Kondratiev",
+        "Nikolaï Kondratieff"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Clément Juglar",
+          "Joseph Kitchin",
+          "Simon Kuznets",
+          "Joseph Schumpeter"
+        ]
+      },
+      "explication": "Directeur de l'Institut de conjoncture de Moscou, Nikolaï Kondratiev étudie les prix, les taux d'intérêt et la production des pays industrialisés depuis la fin du XVIIIe siècle, et y repère de longues phases d'expansion puis de déclin. Jugé trop indulgent envers le capitalisme, il est arrêté en 1930, puis fusillé en 1938. Schumpeter a ensuite donné son nom à ces cycles.",
+      "source": "Wikipédia (fr) — « Nikolaï Kondratiev »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-10-6",
+      "categorie": "marques",
+      "niveau": 10,
+      "question": "Quelle loi douanière américaine de 1930, portant le nom de deux parlementaires, a relevé les droits sur plus de 20 000 produits ?",
+      "reponse": "Smoot-Hawley",
+      "variantes": [
+        "Hawley-Smoot",
+        "Loi Smoot-Hawley",
+        "Tariff Act of 1930",
+        "Smoot-Hawley Tariff Act"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Fordney-McCumber",
+          "Glass-Steagall",
+          "Sherman",
+          "McKinley"
+        ]
+      },
+      "explication": "Proposée par le sénateur Reed Smoot et le représentant Willis Hawley, la loi est signée en juin 1930 par le président Herbert Hoover, malgré une pétition de plus de mille économistes qui l'appelaient à y renoncer. Les partenaires des États-Unis ripostent par leurs propres taxes, et le commerce mondial s'effondre au début des années 1930, ce qui aggrave la Grande Dépression.",
+      "source": "Encyclopædia Britannica — « Smoot-Hawley Tariff Act »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-10-7",
+      "categorie": "marques",
+      "niveau": 10,
+      "question": "Quelle étudiante en graphisme a dessiné en 1971, pour 35 dollars, le logo « Swoosh » de Nike ?",
+      "reponse": "Carolyn Davidson",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Rob Janoff",
+          "Paula Scher",
+          "Phil Knight",
+          "Bill Bowerman"
+        ]
+      },
+      "explication": "Étudiante à l'université d'État de Portland, Carolyn Davidson y croise Phil Knight, qui enseigne la comptabilité et lui commande un logo évoquant le mouvement. Knight n'était pas convaincu par son dessin, mais le temps manquait avant la production des premières chaussures. En 1983, l'entreprise lui offre une bague en or ornée du Swoosh et sertie d'un diamant, ainsi que des actions.",
+      "source": "Wikipédia (fr) — « Nike (entreprise) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mar-10-8",
+      "categorie": "marques",
+      "niveau": 10,
+      "question": "Quel économiste norvégien a partagé avec Jan Tinbergen le premier prix Nobel d'économie, en 1969 ?",
+      "reponse": "Ragnar Frisch",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Trygve Haavelmo",
+          "Gunnar Myrdal",
+          "Simon Kuznets",
+          "Paul Samuelson"
+        ]
+      },
+      "explication": "Professeur à l'université d'Oslo, Ragnar Frisch a forgé le mot « économétrie », qui désigne l'application des mathématiques et des statistiques à l'économie, et cofondé en 1930 la Société d'économétrie. On lui attribue aussi la distinction entre analyse microéconomique et macroéconomique. Le Néerlandais Jan Tinbergen et lui ont été récompensés pour leurs modèles dynamiques de l'économie.",
+      "source": "Wikipédia (fr) — « Ragnar Frisch »",
+      "verification": {
+        "statut": "relue",
+        "note": "Micro/macro formulé prudemment ; « forgé » le mot économétrie."
+      }
+    }
+  ]
+}

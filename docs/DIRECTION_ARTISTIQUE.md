@@ -44,6 +44,18 @@ une carte question claire comme un carton d'animateur.
 | Internet et culture web | cyan électrique `#2fe0f0` | curseur |
 | Religions et mythologies | indigo `#6f7bff` | soleil rayonnant |
 | Art et culture générale | orange chaleureux `#ff8a3d` | palette |
+| Gastronomie | corail `#ff7a6b` | fourchette et couteau |
+| Langue française | parchemin `#efd9a7` | plume |
+| Animaux | ocre fauve `#e0b04a` | empreinte |
+| BD et mangas | rose bonbon `#ff9ed2` | bulle |
+| Jeux vidéo et de société | vert arcade `#c6f432` | dé |
+| Inventions et techniques | acier `#9fb3c8` | ampoule |
+| Télévision et médias | fuchsia néon `#e879f9` | poste de télévision |
+| Marques et économie | vert-de-gris `#4fd1c5` | étiquette |
+
+Les 10 premiers sont les thèmes « classiques » : sélection par défaut et segments du logo.
+Les joueurs choisissent les thèmes de leur partie (3 au minimum, 18 au maximum) dans une grille
+de pastilles aux couleurs des thèmes ; au-delà de 10 thèmes, le tableau compact passe sur deux rangées.
 
 Chaque couleur a une « encre » sombre associée pour le texte posé dessus (contraste élevé).
 Les couleurs servent aux lignes du tableau, aux échelles, aux capsules de thème, au bouton « Jouer »,
@@ -115,3 +127,7 @@ sur fond de studio avec rayons. Lisible à 29 px comme à 1024 px.
 | Interception réussie | Fin de tour | Fin de partie |
 |---|---|---|
 | ![](captures/steal-ok.png) | ![](captures/turn.png) | ![](captures/over.png) |
+
+| Choix des thèmes | Partie à 18 thèmes |
+|---|---|
+| ![](captures/setup.png) | ![](captures/plateau-18.png) |

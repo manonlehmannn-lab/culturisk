@@ -94,6 +94,108 @@
       }
     },
     {
+      "id": "mus-01-5",
+      "categorie": "musique",
+      "niveau": 1,
+      "question": "Quel chanteur américain, surnommé « le King », a chanté « Love Me Tender » et « Jailhouse Rock » ?",
+      "reponse": "Elvis Presley",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Michael Jackson",
+          "Johnny Cash",
+          "Chuck Berry",
+          "Jerry Lee Lewis",
+          "Buddy Holly"
+        ],
+        "nomSeul": true,
+        "prenomSeul": true
+      },
+      "explication": "Né en 1935 à Tupelo, dans le Mississippi, Elvis Presley enregistre ses premiers titres en 1954 chez Sun Records, à Memphis. Son mélange de country et de rhythm and blues, et ses déhanchements jugés scandaleux par une partie de l'Amérique, font de lui la première grande star du rock'n'roll. Il meurt le 16 août 1977 dans sa propriété de Graceland, à 42 ans.",
+      "anecdote": "Il avait un frère jumeau, Jesse Garon, mort à la naissance.",
+      "source": "Wikipédia (fr) — « Elvis Presley »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-01-6",
+      "categorie": "musique",
+      "niveau": 1,
+      "question": "Combien de notes différentes compte la gamme de do majeur, sans répéter le do aigu ?",
+      "reponse": "7",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 7,
+        "tolerance": 0
+      },
+      "explication": "Do, ré, mi, fa, sol, la, si : la gamme compte sept notes, et la huitième ramène au do, une octave plus haut. Le mot « octave » vient d'ailleurs du latin octavus, « huitième ». Sur un piano, la gamme de do majeur se joue sur les seules touches blanches. En ajoutant les touches noires, on obtient la gamme chromatique, qui compte douze notes séparées par des demi-tons.",
+      "source": "Wikipédia (fr) — « Gamme majeure »",
+      "verification": {
+        "statut": "relue",
+        "note": "Étymologie d'« octave » précisée (octavus) ; gamme chromatique reformulée."
+      }
+    },
+    {
+      "id": "mus-01-7",
+      "categorie": "musique",
+      "niveau": 1,
+      "question": "Quel rockeur français, surnommé « l'idole des jeunes », est mort en décembre 2017 ?",
+      "reponse": "Johnny Hallyday",
+      "variantes": [
+        "Jean-Philippe Smet"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "David Hallyday",
+          "Eddy Mitchell",
+          "Michel Sardou",
+          "Jacques Dutronc",
+          "Michel Polnareff"
+        ],
+        "nomSeul": false,
+        "prenomSeul": true
+      },
+      "explication": "Né Jean-Philippe Smet à Paris en 1943, il enregistre son premier disque en 1960 et impose le rock'n'roll en France. Sa carrière, longue de près de six décennies, est jalonnée de succès comme « Que je t'aime » en 1969 ou « Allumer le feu » en 1998. Le 9 décembre 2017, une foule immense lui rend hommage sur les Champs-Élysées, suivie d'une cérémonie à l'église de la Madeleine.",
+      "source": "Wikipédia (fr) — « Johnny Hallyday »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul passé à false (David Hallyday, chanteur) ; « Johnny » seul reste accepté."
+      }
+    },
+    {
+      "id": "mus-01-8",
+      "categorie": "musique",
+      "niveau": 1,
+      "question": "Quelle chanteuse américaine a connu un succès mondial en 1984 avec « Like a Virgin » ?",
+      "reponse": "Madonna",
+      "variantes": [
+        "Madonna Ciccone",
+        "Madonna Louise Ciccone"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Cyndi Lauper",
+          "Kylie Minogue",
+          "Britney Spears",
+          "Lady Gaga",
+          "Whitney Houston"
+        ]
+      },
+      "explication": "Née en 1958 dans le Michigan, Madonna Louise Ciccone tente sa chance à New York à la fin des années 1970. Produit par Nile Rodgers, « Like a Virgin » reste six semaines numéro un aux États-Unis. En septembre 1984, elle l'interprète en robe de mariée lors de la première cérémonie des MTV Video Music Awards. Suivront « Papa Don't Preach », « Vogue » ou « Hung Up ».",
+      "anecdote": "Le 4 mai 2024, elle a donné un concert gratuit sur la plage de Copacabana, à Rio de Janeiro, devant environ 1,6 million de personnes selon les organisateurs.",
+      "source": "Wikipédia (fr) — « Madonna »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
       "id": "mus-02-1",
       "categorie": "musique",
       "niveau": 2,
@@ -195,6 +297,101 @@
       }
     },
     {
+      "id": "mus-02-5",
+      "categorie": "musique",
+      "niveau": 2,
+      "question": "Quel duo français, qui se produisait casqué comme des robots, a sorti « Get Lucky » en 2013 ?",
+      "reponse": "Daft Punk",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Justice",
+          "Air",
+          "Cassius",
+          "The Chemical Brothers"
+        ]
+      },
+      "explication": "Formé à Paris au début des années 1990 par Thomas Bangalter et Guy-Manuel de Homem-Christo, Daft Punk devient l'emblème de la « French Touch » avec « Around the World » en 1997. « Get Lucky », chanté par Pharrell Williams avec Nile Rodgers à la guitare, est tiré de « Random Access Memories », Grammy de l'album de l'année en 2014. Le duo annonce sa séparation en février 2021.",
+      "anecdote": "Leur nom vient d'une critique britannique qui avait qualifié de « daft punky thrash » la musique de leur premier groupe, Darlin'.",
+      "source": "Wikipédia (fr) — « Daft Punk »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-02-6",
+      "categorie": "musique",
+      "niveau": 2,
+      "question": "Quel instrument de la famille des cuivres change de note grâce à une coulisse ?",
+      "reponse": "trombone",
+      "variantes": [
+        "trombone à coulisse"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "trompette",
+          "tuba",
+          "cor",
+          "saxophone",
+          "clairon"
+        ]
+      },
+      "explication": "En allongeant ou en raccourcissant la coulisse, le tromboniste modifie la longueur du tube, donc la hauteur du son ; il peut même glisser d'une note à l'autre, c'est le glissando. Apparu au XVe siècle sous le nom de saqueboute, l'instrument fait une entrée remarquée dans la symphonie avec la Cinquième de Beethoven, créée en 1808. Il est aussi l'un des piliers des fanfares et du jazz.",
+      "source": "Wikipédia (fr) — « Trombone »",
+      "verification": {
+        "statut": "relue",
+        "note": "Formulation sur l'entrée du trombone dans la symphonie nuancée."
+      }
+    },
+    {
+      "id": "mus-02-7",
+      "categorie": "musique",
+      "niveau": 2,
+      "question": "Quelle chanteuse américaine a donné « The Eras Tour », tournée record achevée en décembre 2024 ?",
+      "reponse": "Taylor Swift",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Beyoncé",
+          "Katy Perry",
+          "Ariana Grande",
+          "Billie Eilish",
+          "Selena Gomez"
+        ]
+      },
+      "explication": "Lancé en mars 2023 aux États-Unis et achevé le 8 décembre 2024 à Vancouver, « The Eras Tour » compte 149 concerts sur cinq continents. C'est la première tournée de l'histoire à dépasser les deux milliards de dollars de recettes. Chaque soir, Taylor Swift y revisitait ses différentes « ères », de ses débuts country en 2006 jusqu'à l'album « The Tortured Poets Department », sorti en 2024.",
+      "anecdote": "En juillet 2023, à Seattle, les sauts et les cris du public ont provoqué des secousses enregistrées par les sismologues, aussitôt surnommées le « Swift Quake ».",
+      "source": "Wikipédia (fr) — « The Eras Tour »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-02-8",
+      "categorie": "musique",
+      "niveau": 2,
+      "question": "Combien de lignes horizontales compte une portée musicale ?",
+      "reponse": "5",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 5,
+        "tolerance": 0
+      },
+      "explication": "Les notes s'écrivent sur les cinq lignes de la portée ou dans les quatre interlignes qui les séparent : plus une note est placée haut, plus elle est aiguë. La clé, dessinée au début, fixe le nom des notes ; en clé de sol, la deuxième ligne en partant du bas porte le sol. Pour les notes trop graves ou trop aiguës, on ajoute de courtes lignes supplémentaires.",
+      "anecdote": "Le chant grégorien s'écrit encore sur une portée de quatre lignes, héritée du Moyen Âge.",
+      "source": "Wikipédia (fr) — « Portée (musique) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
       "id": "mus-03-1",
       "categorie": "musique",
       "niveau": 3,
@@ -283,6 +480,109 @@
       "verification": {
         "statut": "relue",
         "note": ""
+      }
+    },
+    {
+      "id": "mus-03-5",
+      "categorie": "musique",
+      "niveau": 3,
+      "question": "Quel compositeur français a écrit le « Boléro », créé à l'Opéra de Paris en 1928 ?",
+      "reponse": "Maurice Ravel",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Claude Debussy",
+          "Debussy",
+          "Erik Satie",
+          "Camille Saint-Saëns",
+          "Georges Bizet"
+        ]
+      },
+      "explication": "Commandé par la danseuse Ida Rubinstein, le « Boléro » est créé comme musique de ballet le 22 novembre 1928. Pendant environ un quart d'heure, deux mélodies se répètent inlassablement sur un rythme obstiné de caisse claire, tandis que l'orchestre enfle jusqu'à l'explosion finale. Ravel en parlait avec ironie comme d'une pièce « vide de musique », un pur exercice d'orchestration, qui devint pourtant son œuvre la plus célèbre.",
+      "anecdote": "Pendant la Première Guerre mondiale, Ravel s'est engagé comme conducteur de camions militaires, notamment près de Verdun.",
+      "source": "Wikipédia (fr) — « Boléro (Ravel) »",
+      "verification": {
+        "statut": "relue",
+        "note": "Citation de Ravel rétablie (« vide de musique »)."
+      }
+    },
+    {
+      "id": "mus-03-6",
+      "categorie": "musique",
+      "niveau": 3,
+      "question": "Quelle chanteuse britannique a sorti l'album « 21 » en 2011, porté par « Rolling in the Deep » ?",
+      "reponse": "Adele",
+      "variantes": [
+        "Adele Adkins",
+        "Adele Laurie Blue Adkins"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Amy Winehouse",
+          "Duffy",
+          "Lana Del Rey",
+          "Dua Lipa",
+          "Lily Allen"
+        ]
+      },
+      "explication": "Née à Londres en 1988, Adele baptise ses albums d'après l'âge qu'elle avait en les écrivant : « 19 », « 21 », « 25 » puis « 30 ». Porté aussi par la ballade « Someone Like You », « 21 » remporte en 2012 six Grammy Awards, dont celui de l'album de l'année. L'année suivante, sa chanson « Skyfall », écrite pour le film de James Bond, reçoit l'Oscar de la meilleure chanson originale.",
+      "source": "Wikipédia (fr) — « Adele »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-03-7",
+      "categorie": "musique",
+      "niveau": 3,
+      "question": "Quel chanteur belge a sorti « Papaoutai » et « Formidable » en 2013 ?",
+      "reponse": "Stromae",
+      "variantes": [
+        "Paul Van Haver"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Angèle",
+          "Maître Gims",
+          "Jacques Brel",
+          "Orelsan",
+          "Arno"
+        ]
+      },
+      "explication": "Paul Van Haver, né à Bruxelles en 1985, a formé son pseudonyme en inversant les syllabes de « maestro ». Révélé en 2009 par « Alors on danse », il triomphe en 2013 avec l'album « Racine carrée ». « Papaoutai » évoque l'absence d'un père : le sien, rwandais, a été tué pendant le génocide de 1994. Après une longue pause, il revient en 2022 avec l'album « Multitude ».",
+      "source": "Wikipédia (fr) — « Stromae »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-03-8",
+      "categorie": "musique",
+      "niveau": 3,
+      "question": "Quel trompettiste et chanteur de jazz, surnommé « Satchmo », a enregistré « What a Wonderful World » ?",
+      "reponse": "Louis Armstrong",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Miles Davis",
+          "Dizzy Gillespie",
+          "Duke Ellington",
+          "Ray Charles",
+          "Nat King Cole"
+        ],
+        "nomSeul": true
+      },
+      "explication": "Né en 1901 à La Nouvelle-Orléans, Louis Armstrong apprend le cornet dans un foyer pour jeunes délinquants. Dans les années 1920, il révolutionne le jazz en imposant l'improvisation en solo et le chant « scat », fait d'onomatopées. Enregistrée en 1967, « What a Wonderful World » est numéro un au Royaume-Uni en 1968, puis connaît une seconde vie en 1987 grâce au film « Good Morning, Vietnam ».",
+      "source": "Wikipédia (fr) — « Louis Armstrong »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul: true explicite (homonymes célèbres hors du domaine musical : Neil Armstrong, Benjamin Franklin)."
       }
     },
     {
@@ -382,6 +682,109 @@
       "verification": {
         "statut": "relue",
         "note": ""
+      }
+    },
+    {
+      "id": "mus-04-5",
+      "categorie": "musique",
+      "niveau": 4,
+      "question": "Quel chanteur belge a écrit et créé « Ne me quitte pas » en 1959 ?",
+      "reponse": "Jacques Brel",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Georges Brassens",
+          "Charles Aznavour",
+          "Léo Ferré",
+          "Stromae",
+          "Gilbert Bécaud"
+        ]
+      },
+      "explication": "Né à Bruxelles en 1929, Jacques Brel s'installe à Paris en 1953 et s'impose avec des chansons d'une intensité rare, comme « Amsterdam » ou « Le Plat Pays ». En 1967, au sommet de sa gloire, il fait ses adieux à la scène pour se consacrer au cinéma, puis à l'aviation et à la navigation. Il meurt en 1978 et repose à Hiva Oa, aux Marquises, non loin du peintre Gauguin.",
+      "anecdote": "Nina Simone l'a enregistrée en français ; adaptée en anglais sous le titre « If You Go Away », la chanson a aussi été reprise par Frank Sinatra.",
+      "source": "Wikipédia (fr) — « Jacques Brel »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-04-6",
+      "categorie": "musique",
+      "niveau": 4,
+      "question": "Quel compositeur allemand a dédié six concertos au margrave de Brandebourg en 1721 ?",
+      "reponse": "Jean-Sébastien Bach",
+      "variantes": [
+        "Johann Sebastian Bach"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Haendel",
+          "Georg Friedrich Haendel",
+          "Telemann",
+          "Georg Philipp Telemann",
+          "Carl Philipp Emanuel Bach"
+        ],
+        "nomSeul": false
+      },
+      "explication": "Bach est alors maître de chapelle à la cour de Köthen. Il adresse ses concertos au margrave Christian Ludwig de Brandebourg, peut-être dans l'espoir d'obtenir un nouveau poste. Chacun réunit une combinaison différente de solistes, de la trompette aiguë du deuxième aux violes de gambe du sixième. Mort à Leipzig en 1750, Bach a laissé plus de mille œuvres répertoriées.",
+      "anecdote": "Le premier mouvement du Concerto n° 2 figure sur le disque d'or embarqué en 1977 à bord des sondes Voyager.",
+      "source": "Wikipédia (fr) — « Concertos brandebourgeois »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul passé à false (C. P. E. Bach parmi les pièges) ; hypothèse du poste gardée au conditionnel."
+      }
+    },
+    {
+      "id": "mus-04-7",
+      "categorie": "musique",
+      "niveau": 4,
+      "question": "Quel groupe de Seattle a popularisé le grunge avec « Smells Like Teen Spirit » en 1991 ?",
+      "reponse": "Nirvana",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Pearl Jam",
+          "Soundgarden",
+          "Alice in Chains",
+          "Foo Fighters"
+        ]
+      },
+      "explication": "Mené par le chanteur et guitariste Kurt Cobain, Nirvana sort l'album « Nevermind » en septembre 1991. Contre toute attente, celui-ci détrône « Dangerous » de Michael Jackson en tête des ventes américaines en janvier 1992. Le grunge, mélange de punk et de hard rock aux guitares saturées, envahit alors les radios. Kurt Cobain se suicide en avril 1994, à 27 ans.",
+      "anecdote": "Le batteur du groupe, Dave Grohl, a ensuite fondé les Foo Fighters.",
+      "source": "Wikipédia (fr) — « Nirvana (groupe) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-04-8",
+      "categorie": "musique",
+      "niveau": 4,
+      "question": "Quelle chanteuse, surnommée la « reine de la soul », a fait de « Respect » un hymne en 1967 ?",
+      "reponse": "Aretha Franklin",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Tina Turner",
+          "Diana Ross",
+          "Nina Simone",
+          "Whitney Houston",
+          "Etta James"
+        ],
+        "nomSeul": true
+      },
+      "explication": "Écrite et enregistrée en 1965 par Otis Redding, « Respect » devient dans la voix d'Aretha Franklin un hymne du mouvement des droits civiques et du féminisme, avec son célèbre refrain épelé. Fille d'un pasteur baptiste de Détroit, la chanteuse a fait ses débuts dans le gospel. En 1987, elle devient la première femme admise au Rock and Roll Hall of Fame.",
+      "anecdote": "En janvier 2009, elle a chanté lors de la cérémonie d'investiture de Barack Obama, coiffée d'un chapeau à grand nœud resté célèbre.",
+      "source": "Wikipédia (fr) — « Aretha Franklin »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul: true explicite (homonymes célèbres hors du domaine musical : Benjamin et Rosalind Franklin)."
       }
     },
     {
@@ -488,6 +891,114 @@
       }
     },
     {
+      "id": "mus-05-5",
+      "categorie": "musique",
+      "niveau": 5,
+      "question": "Quel groupe britannique a sorti l'album « The Dark Side of the Moon » en 1973 ?",
+      "reponse": "Pink Floyd",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Led Zeppelin",
+          "Genesis",
+          "Yes",
+          "Deep Purple",
+          "The Who"
+        ]
+      },
+      "explication": "Enregistré aux studios d'Abbey Road, à Londres, l'album aborde la folie, l'argent et le temps qui passe, avec des titres comme « Money » et « Time ». Sa pochette, un prisme décomposant un rayon de lumière, est devenue emblématique. Il est resté plus de quatorze ans d'affilée, de 1973 à 1988, dans le classement américain des meilleures ventes d'albums, un record de longévité.",
+      "anecdote": "L'expression, reprise dans la chanson « Brain Damage », évoque la folie, un thème lié au fondateur du groupe, Syd Barrett, écarté en 1968 après de graves troubles psychiques.",
+      "source": "Wikipédia (fr) — « The Dark Side of the Moon »",
+      "verification": {
+        "statut": "relue",
+        "note": "Chiffre de 741 semaines (736 selon d'autres décomptes) remplacé par « plus de quatorze ans » ; anecdote sur le titre reformulée prudemment."
+      }
+    },
+    {
+      "id": "mus-05-6",
+      "categorie": "musique",
+      "niveau": 5,
+      "question": "Quel compositeur allemand a fait bâtir à Bayreuth un théâtre consacré à ses propres opéras ?",
+      "reponse": "Richard Wagner",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Richard Strauss",
+          "Siegfried Wagner",
+          "Johannes Brahms",
+          "Franz Liszt",
+          "Carl Maria von Weber"
+        ],
+        "nomSeul": false
+      },
+      "explication": "Soutenu par le roi Louis II de Bavière, Richard Wagner fait construire le Festspielhaus de Bayreuth, inauguré en 1876 avec la première intégrale de « L'Anneau du Nibelung », une tétralogie d'environ quinze heures. La fosse d'orchestre, en partie couverte, dissimule les musiciens au public. Le festival, organisé chaque été, reste consacré à ses œuvres ; en 2024, il était dirigé par son arrière-petite-fille Katharina Wagner.",
+      "source": "Wikipédia (fr) — « Festival de Bayreuth »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul passé à false (Siegfried Wagner, compositeur, parmi les pièges)."
+      }
+    },
+    {
+      "id": "mus-05-7",
+      "categorie": "musique",
+      "niveau": 5,
+      "question": "Quel genre musical, né dans la région d'Oran, a été popularisé par Khaled et Cheb Mami ?",
+      "reponse": "raï",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "exact": true,
+        "pieges": [
+          "chaâbi",
+          "gnaoua",
+          "malouf",
+          "rap",
+          "rock"
+        ]
+      },
+      "explication": "Le raï naît dans la première moitié du XXe siècle dans l'ouest de l'Algérie, chanté par des cheikhs et des cheikhas qui évoquent l'amour, l'alcool ou la misère. Dans les années 1980, de jeunes chanteurs surnommés « chebs » le modernisent avec synthétiseurs et boîtes à rythmes. Khaled triomphe en 1992 avec « Didi », puis en 1996 avec « Aïcha », écrite par Jean-Jacques Goldman. L'UNESCO l'a inscrit au patrimoine immatériel en 2022.",
+      "anecdote": "Le mot « raï » signifie « opinion » ou « point de vue » en arabe ; les chanteurs l'emploient comme une interjection, répétée au fil des couplets.",
+      "source": "Wikipédia (fr) — « Raï »",
+      "verification": {
+        "statut": "relue",
+        "note": "Datation des origines du raï assouplie."
+      }
+    },
+    {
+      "id": "mus-05-8",
+      "categorie": "musique",
+      "niveau": 5,
+      "question": "Quel rappeur, auteur de « California Love », a été tué par balles à Las Vegas en septembre 1996 ?",
+      "reponse": "Tupac Shakur",
+      "variantes": [
+        "2Pac",
+        "Tupac Amaru Shakur",
+        "Makaveli"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "The Notorious B.I.G.",
+          "Notorious BIG",
+          "Biggie",
+          "Dr. Dre",
+          "Snoop Dogg",
+          "Ice Cube",
+          "Eazy-E"
+        ],
+        "prenomSeul": true
+      },
+      "explication": "Né à New York en 1971, Tupac Shakur s'installe en Californie et devient la vedette du label Death Row. « California Love », enregistré avec Dr. Dre, sort en 1995. Le 7 septembre 1996, il est blessé par balles dans une voiture après un combat de boxe de Mike Tyson ; il meurt six jours plus tard, à 25 ans. Sa rivalité avec Notorious B.I.G., tué en 1997, a marqué le rap américain.",
+      "anecdote": "En septembre 2023, soit vingt-sept ans après les faits, la justice du Nevada a inculpé un homme, Duane « Keffe D » Davis, pour ce meurtre.",
+      "source": "Wikipédia (fr) — « Tupac Shakur »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
       "id": "mus-06-1",
       "categorie": "musique",
       "niveau": 6,
@@ -588,6 +1099,110 @@
       }
     },
     {
+      "id": "mus-06-5",
+      "categorie": "musique",
+      "niveau": 6,
+      "question": "Quel compositeur américain a créé « Rhapsody in Blue » à New York en 1924, en jouant lui-même la partie de piano ?",
+      "reponse": "George Gershwin",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Ira Gershwin",
+          "Leonard Bernstein",
+          "Aaron Copland",
+          "Cole Porter",
+          "Irving Berlin"
+        ],
+        "nomSeul": false
+      },
+      "explication": "Écrite en quelques semaines pour le chef d'orchestre Paul Whiteman, « Rhapsody in Blue » est créée le 12 février 1924 à l'Aeolian Hall. Elle mêle jazz et tradition symphonique, et s'ouvre sur un célèbre glissando de clarinette. George Gershwin signera aussi l'opéra « Porgy and Bess » en 1935, avant de mourir d'une tumeur au cerveau en 1937, à seulement 38 ans.",
+      "anecdote": "Pressé par le temps, Gershwin a laissé l'orchestration de la partition à l'arrangeur de Whiteman, Ferde Grofé.",
+      "source": "Wikipédia (fr) — « Rhapsody in Blue »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul passé à false (Ira Gershwin parmi les pièges)."
+      }
+    },
+    {
+      "id": "mus-06-6",
+      "categorie": "musique",
+      "niveau": 6,
+      "question": "Quel rappeur a sorti en 1991 l'album « Qui sème le vent récolte le tempo » ?",
+      "reponse": "MC Solaar",
+      "variantes": [
+        "Solaar",
+        "Claude M'Barali"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Oxmo Puccino",
+          "Doc Gynéco",
+          "Akhenaton",
+          "Booba",
+          "Kool Shen"
+        ]
+      },
+      "explication": "Né à Dakar en 1969 de parents tchadiens, Claude M'Barali grandit en région parisienne. Avec ses jeux de mots, ses références littéraires et son phrasé posé, il fait entrer le rap français dans les hit-parades grâce à « Bouge de là » et « Caroline ». Il confirme en 1994 avec l'album « Prose combat », qui contient notamment « Nouveau Western ».",
+      "anecdote": "« Nouveau Western » s'appuie sur un échantillon de « Bonnie and Clyde », la chanson de Serge Gainsbourg et Brigitte Bardot.",
+      "source": "Wikipédia (fr) — « MC Solaar »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-06-7",
+      "categorie": "musique",
+      "niveau": 6,
+      "question": "Quel groupe de rock italien a remporté l'Eurovision 2021 avec « Zitti e buoni » ?",
+      "reponse": "Måneskin",
+      "variantes": [
+        "Maneskin"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Il Volo",
+          "Mahmood",
+          "Lordi",
+          "Gigliola Cinquetti"
+        ]
+      },
+      "explication": "Formé à Rome en 2016 et révélé l'année suivante par l'émission « X Factor », Måneskin remporte le festival de Sanremo, puis l'Eurovision, le 22 mai 2021 à Rotterdam. C'est la troisième victoire de l'Italie, après celles de 1964 et 1990. Cette année-là, la France termine deuxième avec Barbara Pravi et sa chanson « Voilà ». Le nom du groupe signifie « clair de lune » en danois.",
+      "source": "Wikipédia (fr) — « Måneskin »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-06-8",
+      "categorie": "musique",
+      "niveau": 6,
+      "question": "Quel chanteur de la Motown a sorti en 1971 l'album engagé « What's Going On » ?",
+      "reponse": "Marvin Gaye",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Stevie Wonder",
+          "Smokey Robinson",
+          "Otis Redding",
+          "Al Green",
+          "Curtis Mayfield"
+        ]
+      },
+      "explication": "Marqué par la guerre du Vietnam, que lui raconte son frère revenu du front, et par les violences policières, Marvin Gaye conçoit un album sur l'état de l'Amérique. Berry Gordy, patron de la Motown, juge d'abord la chanson-titre trop politique pour se vendre, mais elle devient un immense succès. Le 1er avril 1984, à la veille de ses 45 ans, le chanteur est tué par son père.",
+      "anecdote": "En 2020, le magazine Rolling Stone a placé « What's Going On » en tête de son classement des 500 meilleurs albums de tous les temps.",
+      "source": "Wikipédia (fr) — « What's Going On (album) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
       "id": "mus-07-1",
       "categorie": "musique",
       "niveau": 7,
@@ -676,6 +1291,111 @@
       "explication": "Commandé par le khédive Ismaïl Pacha, « Aida » est créé le 24 décembre 1871 à l'Opéra khédivial du Caire, sur un argument de l'égyptologue français Auguste Mariette. L'opéra raconte l'amour impossible entre une esclave éthiopienne et le général égyptien Radamès. Sa marche triomphale, jouée par de longues trompettes droites, compte parmi les pages les plus célèbres de Verdi.",
       "anecdote": "Contrairement à une idée répandue, l'œuvre n'a pas été écrite pour l'inauguration du canal de Suez, en 1869.",
       "source": "Wikipédia (fr) — « Aida »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-07-5",
+      "categorie": "musique",
+      "niveau": 7,
+      "question": "Quel violoniste virtuose italien a composé les 24 Caprices pour violon seul ?",
+      "reponse": "Niccolò Paganini",
+      "variantes": [
+        "Nicolo Paganini"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Vivaldi",
+          "Arcangelo Corelli",
+          "Giuseppe Tartini",
+          "Pietro Locatelli",
+          "Franz Liszt"
+        ]
+      },
+      "explication": "Né à Gênes en 1782, Niccolò Paganini fascine l'Europe par une technique inédite : doubles cordes, harmoniques, pizzicati de la main gauche. Sa silhouette émaciée et son jeu stupéfiant nourrissent la rumeur d'un pacte avec le diable. Publiés en 1820, ses Caprices ont inspiré Liszt, Schumann, Brahms et Rachmaninov, dont la « Rhapsodie sur un thème de Paganini » date de 1934.",
+      "anecdote": "Son violon préféré, un Guarneri qu'il surnommait « il Cannone » pour sa puissance, est conservé par la ville de Gênes.",
+      "source": "Wikipédia (fr) — « Niccolò Paganini »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-07-6",
+      "categorie": "musique",
+      "niveau": 7,
+      "question": "Quel écrivain et trompettiste a écrit la chanson antimilitariste « Le Déserteur » en 1954 ?",
+      "reponse": "Boris Vian",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Georges Brassens",
+          "Serge Gainsbourg",
+          "Léo Ferré",
+          "Jacques Prévert",
+          "Mouloudji"
+        ]
+      },
+      "explication": "La chanson prend la forme d'une lettre adressée à « Monsieur le Président », à qui le narrateur annonce qu'il refuse de partir à la guerre. Créée par Mouloudji en mai 1954, au moment de la chute de Diên Biên Phu, elle est longtemps écartée des radios, notamment pendant la guerre d'Algérie. Passionné de jazz, Boris Vian est aussi l'auteur du roman « L'Écume des jours ».",
+      "anecdote": "Il est mort en 1959, à 39 ans, pendant la projection privée de l'adaptation au cinéma de son roman « J'irai cracher sur vos tombes ».",
+      "source": "Wikipédia (fr) — « Le Déserteur (chanson) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-07-7",
+      "categorie": "musique",
+      "niveau": 7,
+      "question": "Quel compositeur brésilien a écrit la musique de « Garota de Ipanema » (« The Girl from Ipanema ») ?",
+      "reponse": "Antônio Carlos Jobim",
+      "variantes": [
+        "Tom Jobim",
+        "Antonio Carlos Jobim"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "João Gilberto",
+          "Vinicius de Moraes",
+          "Stan Getz",
+          "Caetano Veloso",
+          "Gilberto Gil"
+        ]
+      },
+      "explication": "Composée en 1962 sur des paroles du poète Vinicius de Moraes, la chanson s'inspire d'une jeune fille qui passait devant un café proche de la plage d'Ipanema, à Rio de Janeiro. Sa version enregistrée avec Stan Getz, João Gilberto et Astrud Gilberto remporte en 1965 le Grammy de l'enregistrement de l'année et fait connaître la bossa nova dans le monde entier.",
+      "anecdote": "L'aéroport international de Rio de Janeiro porte le nom de Tom Jobim, mort en 1994.",
+      "source": "Wikipédia (fr) — « The Girl from Ipanema »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-07-8",
+      "categorie": "musique",
+      "niveau": 7,
+      "question": "Dans quelle ville américaine la musique techno est-elle née au milieu des années 1980 ?",
+      "reponse": "Détroit",
+      "variantes": [
+        "Detroit"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Chicago",
+          "New York",
+          "Berlin",
+          "Memphis"
+        ]
+      },
+      "explication": "Trois amis de lycée de Belleville, près de Détroit, Juan Atkins, Derrick May et Kevin Saunderson, surnommés le « Belleville Three », inventent une musique électronique inspirée de Kraftwerk et du funk, sur fond de déclin industriel de la capitale de l'automobile. Cousine de la house, née à la même époque à Chicago, la techno gagne l'Europe et notamment Berlin, après la chute du Mur.",
+      "source": "Wikipédia (fr) — « Techno de Détroit »",
       "verification": {
         "statut": "relue",
         "note": ""
@@ -788,6 +1508,111 @@
       }
     },
     {
+      "id": "mus-08-5",
+      "categorie": "musique",
+      "niveau": 8,
+      "question": "Quel compositeur baroque français a écrit l'opéra-ballet « Les Indes galantes », créé en 1735 ?",
+      "reponse": "Jean-Philippe Rameau",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Lully",
+          "Jean-Baptiste Lully",
+          "François Couperin",
+          "Marc-Antoine Charpentier",
+          "André Campra"
+        ]
+      },
+      "explication": "Dans sa version définitive, l'opéra-ballet enchaîne des entrées exotiques situées en Turquie, au Pérou, en Perse et en Amérique du Nord. Rameau n'aborde la scène lyrique qu'à 50 ans, avec « Hippolyte et Aricie » en 1733 ; il était déjà célèbre comme théoricien, grâce à son « Traité de l'harmonie » paru en 1722. En 2019, l'Opéra Bastille en a présenté une version mêlant krump et hip-hop.",
+      "source": "Wikipédia (fr) — « Les Indes galantes »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-08-6",
+      "categorie": "musique",
+      "niveau": 8,
+      "question": "Quel saxophoniste surnommé « Bird » a été l'un des créateurs du bebop ?",
+      "reponse": "Charlie Parker",
+      "variantes": [
+        "Charles Parker"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Dizzy Gillespie",
+          "John Coltrane",
+          "Sonny Rollins",
+          "Lester Young",
+          "Thelonious Monk"
+        ]
+      },
+      "explication": "Né à Kansas City en 1920, Charlie Parker invente avec le trompettiste Dizzy Gillespie, au milieu des années 1940 à New York, le bebop : un jazz rapide et virtuose, aux harmonies complexes, fait pour être écouté plutôt que dansé. Rongé par l'héroïne et l'alcool, il meurt en 1955, à seulement 34 ans. Clint Eastwood lui a consacré le film « Bird » en 1988.",
+      "anecdote": "Le célèbre club de jazz new-yorkais Birdland, ouvert en 1949, a été baptisé en son honneur.",
+      "source": "Wikipédia (fr) — « Charlie Parker »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-08-7",
+      "categorie": "musique",
+      "niveau": 8,
+      "question": "Quel genre jamaïcain, au rythme rapide et sautillant, a précédé le rocksteady puis le reggae ?",
+      "reponse": "ska",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "exact": true,
+        "pieges": [
+          "rocksteady",
+          "dub",
+          "dancehall",
+          "calypso",
+          "mento"
+        ]
+      },
+      "explication": "Le ska apparaît en Jamaïque à la fin des années 1950 en mêlant le mento local au rhythm and blues américain, avec une guitare qui accentue les contretemps. Il accompagne l'indépendance de l'île, en 1962. Vers 1966, le tempo ralentit pour donner le rocksteady, puis le reggae. À la fin des années 1970, des groupes anglais comme The Specials ou Madness le remettent à la mode.",
+      "anecdote": "Les musiciens des Skatalites ont accompagné à Kingston les premiers enregistrements des Wailers de Bob Marley, dont « Simmer Down ».",
+      "source": "Wikipédia (fr) — « Ska »",
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote corrigée : « Simmer Down » (fin 1963) précède la formation officielle des Skatalites (1964)."
+      }
+    },
+    {
+      "id": "mus-08-8",
+      "categorie": "musique",
+      "niveau": 8,
+      "question": "Quel instrument électronique, inventé en Russie vers 1920, se joue sans être touché, les mains près de deux antennes ?",
+      "reponse": "thérémine",
+      "variantes": [
+        "theremin",
+        "thérémin",
+        "thereminvox"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "ondes Martenot",
+          "synthétiseur",
+          "Moog",
+          "orgue Hammond"
+        ]
+      },
+      "explication": "Mis au point par le physicien Lev Termen, connu en Occident sous le nom de Léon Theremin, l'instrument réagit à la position des mains : l'une règle la hauteur du son, l'autre son volume. Son timbre ondulant et irréel a souvent servi à évoquer l'étrange dans les films de science-fiction des années 1950, comme « Le jour où la Terre s'arrêta », sorti en 1951.",
+      "anecdote": "Revenu en URSS en 1938, Termen fut arrêté puis contraint de travailler pour les services secrets ; il conçut notamment un micro espion caché dans une reproduction du sceau des États-Unis, offerte à l'ambassadeur américain.",
+      "source": "Wikipédia (fr) — « Thérémine »",
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote précisée (micro caché dans une reproduction du grand sceau des États-Unis offerte à l'ambassadeur)."
+      }
+    },
+    {
       "id": "mus-09-1",
       "categorie": "musique",
       "niveau": 9,
@@ -887,6 +1712,114 @@
       "verification": {
         "statut": "relue",
         "note": ""
+      }
+    },
+    {
+      "id": "mus-09-5",
+      "categorie": "musique",
+      "niveau": 9,
+      "question": "Quel compositeur italien a créé à Mantoue, en 1607, l'opéra « L'Orfeo » ?",
+      "reponse": "Claudio Monteverdi",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Jacopo Peri",
+          "Giulio Caccini",
+          "Francesco Cavalli",
+          "Palestrina",
+          "Gluck"
+        ]
+      },
+      "explication": "Donné en février 1607 à la cour des Gonzague, « L'Orfeo » raconte la descente d'Orphée aux Enfers pour ramener Eurydice. S'il n'est pas le premier opéra de l'histoire, c'est le plus ancien encore régulièrement joué, grâce à la richesse de son orchestre et à sa force dramatique. Devenu maître de chapelle de Saint-Marc à Venise en 1613, Monteverdi y écrira « Le Couronnement de Poppée ».",
+      "anecdote": "Le premier opéra connu, « Dafne » de Jacopo Peri, donné à Florence vers 1598, est presque entièrement perdu.",
+      "source": "Wikipédia (fr) — « L'Orfeo »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-09-6",
+      "categorie": "musique",
+      "niveau": 9,
+      "question": "Quelle chanteuse d'origine russe a composé à Londres, en 1941, la mélodie du « Chant des partisans » ?",
+      "reponse": "Anna Marly",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Germaine Sablon",
+          "Joseph Kessel",
+          "Maurice Druon",
+          "Édith Piaf",
+          "Juliette Gréco"
+        ]
+      },
+      "explication": "Réfugiée à Londres, Anna Marly écrit d'abord cet air sur des paroles russes. En 1943, Joseph Kessel et son neveu Maurice Druon en tirent la version française, qui devient l'hymne de la Résistance. Sifflée, la mélodie sert d'indicatif à une émission de la BBC destinée à la France occupée. Née à Petrograd en 1917, la chanteuse avait fui la Russie révolutionnaire avec sa famille.",
+      "source": "Wikipédia (fr) — « Le Chant des partisans »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-09-7",
+      "categorie": "musique",
+      "niveau": 9,
+      "question": "Quel mode correspond à la gamme jouée de ré à ré sur les seules touches blanches du piano ?",
+      "reponse": "dorien",
+      "variantes": [
+        "mode dorien",
+        "mode de ré"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "phrygien",
+          "lydien",
+          "mixolydien",
+          "éolien",
+          "ionien",
+          "locrien"
+        ]
+      },
+      "explication": "Joués sur les touches blanches, les modes changent selon la note de départ : ionien sur do, dorien sur ré, phrygien sur mi, et ainsi de suite. Ces noms, empruntés aux Grecs par les théoriciens médiévaux, désignent des échelles de couleur différente. Le dorien sonne mineur, avec une sixte majeure. Le jazz modal l'a remis à l'honneur : « So What », de Miles Davis, repose sur le dorien de ré.",
+      "source": "Wikipédia (fr) — « Mode (musique) »",
+      "verification": {
+        "statut": "relue",
+        "note": "Variante « mode de ré » ajoutée ; source remplacée par l'article principal."
+      }
+    },
+    {
+      "id": "mus-09-8",
+      "categorie": "musique",
+      "niveau": 9,
+      "question": "Quel musicien nigérian, saxophoniste et militant, est considéré comme le créateur de l'afrobeat ?",
+      "reponse": "Fela Kuti",
+      "variantes": [
+        "Fela",
+        "Fela Anikulapo Kuti",
+        "Fela Ransome-Kuti"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Femi Kuti",
+          "Seun Kuti",
+          "King Sunny Adé",
+          "Manu Dibango",
+          "Tony Allen"
+        ],
+        "nomSeul": false,
+        "prenomSeul": true
+      },
+      "explication": "Dans les années 1970, Fela Kuti mêle highlife, jazz et funk dans des morceaux souvent longs de plus de dix minutes, aux paroles virulentes contre la corruption et les militaires au pouvoir. En 1977, peu après son album « Zombie », qui tourne l'armée en dérision, des soldats saccagent sa communauté de Lagos, la « Kalakuta Republic ». Il meurt en 1997 ; ses fils Femi et Seun perpétuent l'afrobeat.",
+      "anecdote": "Sa mère, Funmilayo Ransome-Kuti, grande militante des droits des femmes, fut jetée par une fenêtre lors de ce raid ; elle mourut de ses blessures en 1978.",
+      "source": "Wikipédia (fr) — « Fela Kuti »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul passé à false (Femi et Seun Kuti) ; « Fela » seul reste accepté."
       }
     },
     {
@@ -993,6 +1926,108 @@
       "explication": "Publiée en 1567, la « Missa Papae Marcelli » rend hommage à Marcel II, pape pendant à peine trois semaines en 1555. Son écriture claire, qui laisse entendre le texte malgré la polyphonie, a nourri une légende : elle aurait convaincu le concile de Trente de ne pas bannir la musique polyphonique des églises. Le compositeur tire son nom de sa ville natale, près de Rome.",
       "anecdote": "En 1917, le compositeur allemand Hans Pfitzner a fait de cette légende le sujet d'un opéra intitulé « Palestrina ».",
       "source": "Wikipédia (fr) — « Giovanni Pierluigi da Palestrina »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-10-5",
+      "categorie": "musique",
+      "niveau": 10,
+      "question": "Quel claveciniste français a composé « Les Barricades mystérieuses », publiées en 1717 ?",
+      "reponse": "François Couperin",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Louis Couperin",
+          "Jean-Philippe Rameau",
+          "Rameau",
+          "Marin Marais",
+          "Jean-Henri d'Anglebert"
+        ],
+        "nomSeul": false
+      },
+      "explication": "Surnommé « Couperin le Grand » pour le distinguer des autres musiciens de sa famille, François Couperin est organiste de l'église Saint-Gervais, à Paris, et musicien de la cour de Louis XIV. Il publie quatre livres de pièces de clavecin, regroupées en « ordres », et un traité, « L'Art de toucher le clavecin », en 1716. Le titre énigmatique des « Barricades mystérieuses » intrigue encore les musicologues.",
+      "anecdote": "Son oncle Louis Couperin, mort en 1661, avait déjà occupé la tribune de Saint-Gervais, que la famille a tenue pendant près de deux siècles.",
+      "source": "Wikipédia (fr) — « François Couperin »",
+      "verification": {
+        "statut": "relue",
+        "note": "nomSeul passé à false (Louis Couperin parmi les pièges)."
+      }
+    },
+    {
+      "id": "mus-10-6",
+      "categorie": "musique",
+      "niveau": 10,
+      "question": "Quel ingénieur de la radio française a inventé la musique concrète avec l'« Étude aux chemins de fer », en 1948 ?",
+      "reponse": "Pierre Schaeffer",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Pierre Henry",
+          "Pierre Boulez",
+          "Edgard Varèse",
+          "Iannis Xenakis",
+          "Jean-Michel Jarre"
+        ]
+      },
+      "explication": "Au studio d'essai de la Radiodiffusion française, Pierre Schaeffer compose à partir de bruits enregistrés, ici des locomotives, qu'il manipule sur disques : boucles, ralentis, sons à l'envers. Avec Pierre Henry, il signe en 1950 la « Symphonie pour un homme seul ». Le Groupe de recherches musicales, qu'il fonde en 1958, accueillera notamment le jeune Jean-Michel Jarre.",
+      "source": "Wikipédia (fr) — « Pierre Schaeffer »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-10-7",
+      "categorie": "musique",
+      "niveau": 10,
+      "question": "Quel compositeur français a écrit « Le Marteau sans maître », sur des poèmes de René Char, créé en 1955 ?",
+      "reponse": "Pierre Boulez",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Olivier Messiaen",
+          "Henri Dutilleux",
+          "Pierre Schaeffer",
+          "Karlheinz Stockhausen",
+          "Iannis Xenakis"
+        ]
+      },
+      "explication": "Créée en juin 1955 à Baden-Baden, l'œuvre associe une voix d'alto à six instruments, dont la guitare, le vibraphone et le xylorimba, des timbres inspirés des musiques extra-européennes. Élève de Messiaen, Pierre Boulez fut aussi un grand chef d'orchestre et le fondateur de l'Ircam, ouvert à Paris en 1977. En 1976, il dirige à Bayreuth le « Ring » du centenaire, mis en scène par Patrice Chéreau.",
+      "source": "Wikipédia (fr) — « Le Marteau sans maître »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "mus-10-8",
+      "categorie": "musique",
+      "niveau": 10,
+      "question": "Quel label de jazz new-yorkais, fondé en 1939 par Alfred Lion, a enregistré Thelonious Monk et Art Blakey ?",
+      "reponse": "Blue Note",
+      "variantes": [
+        "Blue Note Records"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Verve",
+          "Impulse!",
+          "Prestige",
+          "Riverside",
+          "Columbia",
+          "Atlantic"
+        ]
+      },
+      "explication": "Émigré allemand passionné de jazz, Alfred Lion est rejoint peu après la fondation par son ami d'enfance Francis Wolff, qui photographie les séances. Blue Note devient l'emblème du hard bop des années 1950 et 1960, grâce au son de l'ingénieur Rudy Van Gelder et aux pochettes graphiques de Reid Miles. Le label connaît un nouveau triomphe en 2002 avec « Come Away with Me », premier album de Norah Jones.",
+      "anecdote": "Art Blakey y a enregistré en 1958 l'album « Moanin' », avec ses Jazz Messengers.",
+      "source": "Wikipédia (fr) — « Blue Note Records »",
       "verification": {
         "statut": "relue",
         "note": ""

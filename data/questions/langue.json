@@ -1,0 +1,1800 @@
+{
+  "categorie": "langue",
+  "questions": [
+    {
+      "id": "lan-01-1",
+      "categorie": "langue",
+      "niveau": 1,
+      "question": "En verlan, de quel mot « ouf » est-il l'inversion ?",
+      "reponse": "Fou",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Flou",
+          "Foule"
+        ]
+      },
+      "explication": "« Ouf » s'obtient en inversant les sons de « fou » : f-ou devient ou-f. Très répandu à l'oral, notamment grâce au rap, le mot a même pris un sens positif : « un truc de ouf » désigne quelque chose d'incroyable, et « c'est ouf ! » marque l'étonnement. Le verlan a aussi donné « meuf » pour « femme » ou « keuf » pour « flic ».",
+      "source": "Wikipédia (fr) — « Verlan »",
+      "verification": {
+        "statut": "relue",
+        "note": "Datation « années 2000 » retirée de l'explication."
+      }
+    },
+    {
+      "id": "lan-01-2",
+      "categorie": "langue",
+      "niveau": 1,
+      "question": "Combien de lettres compte l'alphabet français ?",
+      "reponse": "26",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 26,
+        "tolerance": 0
+      },
+      "explication": "L'alphabet français compte 26 lettres : six voyelles (a, e, i, o, u, y) et vingt consonnes. Il reprend l'alphabet latin, complété au fil des siècles. Le j et le v, longtemps simples variantes du i et du u, n'ont été vraiment séparés qu'à partir du XVIe siècle, et le Dictionnaire de l'Académie ne les a distingués qu'en 1762. Les lettres accentuées ne sont pas comptées à part.",
+      "anecdote": "Les ligatures « œ » et « æ », comme dans « cœur » ou « ex æquo », ne sont pas non plus considérées comme des lettres distinctes.",
+      "source": "Wikipédia (fr) — « Alphabet français »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-01-3",
+      "categorie": "langue",
+      "niveau": 1,
+      "question": "Quels animaux devront avoir des dents, selon l'expression qui désigne une chose qui n'arrivera jamais ?",
+      "reponse": "Poules",
+      "variantes": [
+        "Poule"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Canards",
+          "Oies"
+        ]
+      },
+      "explication": "« Quand les poules auront des dents » repousse une chose à un avenir qui ne viendra pas : les oiseaux actuels n'ont pas de dents, mais un bec corné. L'image est pourtant moins absurde qu'il n'y paraît, puisque certains oiseaux fossiles, comme l'archéoptéryx, en possédaient. Les anglophones disent, eux, « when pigs fly », « quand les cochons voleront ».",
+      "source": "Wiktionnaire — « quand les poules auront des dents »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-01-4",
+      "categorie": "langue",
+      "niveau": 1,
+      "question": "Comment appelle-t-on un mot de sens opposé à un autre, comme « grand » et « petit » ?",
+      "reponse": "Antonyme",
+      "variantes": [
+        "Contraire"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Synonyme",
+          "Homonyme",
+          "Homophone"
+        ]
+      },
+      "explication": "Un antonyme exprime le sens inverse d'un autre mot : chaud et froid, ouvrir et fermer, jour et nuit. Le terme vient du grec anti, « contre », et onoma, « nom ». À l'inverse, un synonyme a un sens proche. Un même mot peut avoir plusieurs antonymes selon le contexte : le contraire de « vieux » est « jeune » pour une personne, mais « neuf » pour un objet.",
+      "source": "Wikipédia (fr) — « Antonymie »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-01-5",
+      "categorie": "langue",
+      "niveau": 1,
+      "question": "Quel est le pluriel du mot « œil » ?",
+      "reponse": "Yeux",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Œils",
+          "Oeils"
+        ]
+      },
+      "explication": "Le pluriel « yeux » est l'un des plus irréguliers du français : il résulte de l'évolution phonétique du latin oculos au fil des siècles. La forme « œils » existe pourtant, mais seulement dans des noms composés, comme les « œils-de-bœuf », ces petites fenêtres rondes ou ovales, ou les « œils-de-perdrix », de petits cors douloureux entre les orteils.",
+      "source": "Wiktionnaire — « œil »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-01-6",
+      "categorie": "langue",
+      "niveau": 1,
+      "question": "Comment s'appelle le signe ' qui remplace une voyelle supprimée, comme dans « l'arbre » ?",
+      "reponse": "Apostrophe",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Accent aigu",
+          "Virgule",
+          "Guillemet"
+        ]
+      },
+      "explication": "L'apostrophe marque l'élision : la voyelle finale d'un petit mot comme « le », « je » ou « que » disparaît devant un mot qui commence par une voyelle. On écrit ainsi « j'aime » ou « qu'il vienne ». Son nom vient du grec apostrophos, « qui se détourne ». En typographie soignée, elle prend la forme d'une petite virgule surélevée plutôt que d'un trait droit.",
+      "source": "Wikipédia (fr) — « Apostrophe (typographie) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-01-7",
+      "categorie": "langue",
+      "niveau": 1,
+      "question": "De quelle langue ancienne le français descend-il principalement ?",
+      "reponse": "Latin",
+      "variantes": [
+        "Latin populaire",
+        "Latin vulgaire",
+        "Bas latin"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Grec",
+          "Gaulois"
+        ]
+      },
+      "explication": "Le français est une langue romane : il est issu du latin parlé en Gaule après la conquête romaine, au Ier siècle av. J.-C. Ce latin populaire a ensuite été transformé par l'influence du gaulois et, surtout, de la langue germanique des Francs, qui ont donné leur nom au pays. L'espagnol, l'italien, le portugais et le roumain sont ses proches cousins.",
+      "anecdote": "Le gaulois a laissé peu de mots en français, mais des mots très concrets : « chêne », « bouleau », « charrue » ou « mouton ».",
+      "source": "Wikipédia (fr) — « Histoire du français »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-01-8",
+      "categorie": "langue",
+      "niveau": 1,
+      "question": "Comment appelle-t-on un mot qui imite un bruit, comme « boum » ou « miaou » ?",
+      "reponse": "Onomatopée",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Onomastique"
+        ]
+      },
+      "explication": "Le mot vient du grec onomatopoiia, « création de noms ». Les onomatopées varient d'une langue à l'autre : le coq fait « cocorico » en français, mais « cock-a-doodle-doo » en anglais et « kikeriki » en allemand. Certaines ont donné naissance à des mots courants, comme « chuchoter », « ronronner », « tic-tac » ou « glouglou ».",
+      "source": "Wikipédia (fr) — « Onomatopée »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-02-1",
+      "categorie": "langue",
+      "niveau": 2,
+      "question": "Comment appelle-t-on un mot qui se lit de la même façon dans les deux sens, comme « kayak » ou « radar » ?",
+      "reponse": "Palindrome",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Anagramme",
+          "Pangramme"
+        ]
+      },
+      "explication": "Le mot palindrome vient du grec palin, « en sens inverse », et dromos, « course ». Le français en compte beaucoup de courts : été, elle, non, rotor, sexes. Le jeu s'étend aussi aux phrases, en ignorant espaces et accents, comme « Engage le jeu que je le gagne ». En 1969, Georges Perec a même composé un « Grand Palindrome » de plus de mille mots.",
+      "anecdote": "Les noms de lieux s'y prêtent aussi : Laval, en Mayenne, se lit de la même façon dans les deux sens.",
+      "source": "Wikipédia (fr) — « Palindrome »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-02-2",
+      "categorie": "langue",
+      "niveau": 2,
+      "question": "Comment dit-on « quatre-vingt-dix » en Belgique et en Suisse romande ?",
+      "reponse": "Nonante",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Huitante",
+          "Octante",
+          "Septante"
+        ]
+      },
+      "explication": "Belges et Suisses romands disent « septante » pour 70 et « nonante » pour 90, des formes régulières héritées du latin septuaginta et nonaginta. En France, l'habitude de compter par vingt, attestée dès le Moyen Âge, a fini par l'emporter : l'hôpital parisien des Quinze-Vingts, fondé par Saint Louis, devait ainsi accueillir trois cents aveugles.",
+      "source": "Wikipédia (fr) — « Nombres en français »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-02-3",
+      "categorie": "langue",
+      "niveau": 2,
+      "question": "Comment s'appelle le signe @ utilisé dans les adresses électroniques ?",
+      "reponse": "Arobase",
+      "variantes": [
+        "Arrobe",
+        "Arobas",
+        "Arrobase"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Esperluette",
+          "Astérisque"
+        ]
+      },
+      "explication": "Bien avant l'informatique, ce signe servait aux marchands : en Espagne et au Portugal, il notait l'arroba, une unité de poids dont le nom vient de l'arabe ar-rub', « le quart ». Il a été repris par les premiers concepteurs de la messagerie électronique, au début des années 1970, pour séparer le nom de l'utilisateur de celui de la machine qui l'héberge.",
+      "anecdote": "Les Italiens l'appellent « chiocciola », l'escargot, et les Néerlandais « apenstaartje », la petite queue de singe.",
+      "source": "Wikipédia (fr) — « Arobase »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-02-4",
+      "categorie": "langue",
+      "niveau": 2,
+      "question": "Quel est le féminin de « canard » ?",
+      "reponse": "Cane",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Canne",
+          "Canarde"
+        ]
+      },
+      "explication": "La femelle du canard est la cane, avec un seul n, à ne pas confondre avec la canne du promeneur. Ses petits sont les canetons. Comme elle, beaucoup de femelles d'animaux portent un nom de la même famille que le mâle, mais certains couples n'ont aucun lien apparent : le jars et l'oie, le bouc et la chèvre, ou encore le verrat et la truie.",
+      "source": "Wiktionnaire — « cane »",
+      "verification": {
+        "statut": "relue",
+        "note": "Exemples laie et hase retirés de l'explication (réponses de ani-05-3 et ani-07-5)."
+      }
+    },
+    {
+      "id": "lan-02-5",
+      "categorie": "langue",
+      "niveau": 2,
+      "question": "Comment appelle-t-on un mot formé des lettres d'un autre dans un ordre différent, comme « chien » et « niche » ?",
+      "reponse": "Anagramme",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Palindrome",
+          "Pangramme",
+          "Acrostiche"
+        ]
+      },
+      "explication": "L'anagramme est un jeu ancien, prisé des poètes et des amateurs de pseudonymes : Rabelais a signé ses premiers livres « Alcofribas Nasier », anagramme de François Rabelais. Le mot vient du grec ana, « en arrière », et gramma, « lettre ». Certaines paires sont amusantes, comme « aimer » et « Marie », ou « ironique » et « onirique ».",
+      "source": "Wikipédia (fr) — « Anagramme »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-02-6",
+      "categorie": "langue",
+      "niveau": 2,
+      "question": "À quel temps est conjugué le verbe dans « je chanterai demain » ?",
+      "reponse": "Futur simple",
+      "variantes": [
+        "Futur",
+        "Futur de l'indicatif"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Conditionnel",
+          "Futur antérieur",
+          "Futur proche"
+        ]
+      },
+      "explication": "Le futur simple se forme le plus souvent sur l'infinitif, auquel on ajoute les terminaisons -ai, -as, -a, -ons, -ez, -ont, qui viennent du verbe avoir. En latin populaire, « cantare habeo » signifiait à peu près « j'ai à chanter ». À l'oral, il est souvent concurrencé par le futur proche : « je vais chanter ». Attention à ne pas le confondre avec le conditionnel « je chanterais ».",
+      "source": "Wikipédia (fr) — « Futur simple »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-02-7",
+      "categorie": "langue",
+      "niveau": 2,
+      "question": "De quel mot « chelou » est-il le verlan ?",
+      "reponse": "Louche",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Chou",
+          "Loucher"
+        ]
+      },
+      "explication": "En verlan, on inverse les syllabes : « lou-che » devient « che-lou ». Le mot qualifie quelque chose de bizarre ou de suspect, exactement comme « louche ». Il s'emploie surtout à l'oral, chez les jeunes comme chez leurs parents. D'autres mots de verlan ont suivi le même chemin vers la langue courante, comme « relou » pour « lourd » ou « zarbi » pour « bizarre ».",
+      "source": "Wiktionnaire — « chelou »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-02-8",
+      "categorie": "langue",
+      "niveau": 2,
+      "question": "Comment s'appelle l'accent en forme de petit chapeau, comme sur « forêt » ?",
+      "reponse": "Accent circonflexe",
+      "variantes": [
+        "Circonflexe"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Tréma",
+          "Accent grave",
+          "Tilde"
+        ]
+      },
+      "explication": "L'accent circonflexe marque souvent la disparition d'une lettre, généralement un s, que l'on retrouve dans des mots de la même famille : forêt et forestier, hôpital et hospitalier, fête et festival. Il s'est généralisé avec la troisième édition du Dictionnaire de l'Académie, en 1740. Depuis les rectifications de 1990, il peut disparaître sur le i et le u, sauf exceptions.",
+      "anecdote": "Il permet de distinguer des homonymes : « sur » et « sûr », « du » et « dû », « mur » et « mûr ».",
+      "source": "Wikipédia (fr) — « Accent circonflexe en français »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-03-1",
+      "categorie": "langue",
+      "niveau": 3,
+      "question": "Quel animal donne son nom aux larmes hypocrites de celui qui feint le chagrin ?",
+      "reponse": "Crocodile",
+      "variantes": [
+        "Crocodiles"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Alligator",
+          "Caïman"
+        ]
+      },
+      "explication": "« Verser des larmes de crocodile », c'est feindre une peine que l'on n'éprouve pas. L'expression repose sur une croyance très ancienne, reprise par les bestiaires et les récits de voyageurs du Moyen Âge : le crocodile pleurerait en dévorant sa proie, ou gémirait pour l'attirer. L'image existe aussi en anglais, « crocodile tears », et dans bien d'autres langues européennes.",
+      "source": "Wiktionnaire — « larmes de crocodile »",
+      "verification": {
+        "statut": "relue",
+        "note": "Remplacée : « poser un lapin » trop facile pour le niveau 3 et origine discutée ; nouvelle question sur les larmes de crocodile."
+      },
+      "anecdote": "Des zoologistes ont observé que des caïmans et des alligators larmoient parfois en mangeant : un simple réflexe, sans aucun rapport avec une émotion."
+    },
+    {
+      "id": "lan-03-2",
+      "categorie": "langue",
+      "niveau": 3,
+      "question": "Quelle figure de style exagère volontairement, comme dans « je meurs de faim » ?",
+      "reponse": "Hyperbole",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Litote",
+          "Euphémisme",
+          "Métaphore"
+        ]
+      },
+      "explication": "L'hyperbole grossit la réalité pour frapper les esprits : « je te l'ai dit mille fois », « un bruit à réveiller les morts ». Son nom vient du grec huperbolê, « action de lancer au-delà ». Très présente dans le langage familier, la publicité et l'épopée, elle sert à marquer l'émotion. En mathématiques, le même mot désigne une courbe, avec la même idée de dépassement.",
+      "source": "Wikipédia (fr) — « Hyperbole (rhétorique) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-03-3",
+      "categorie": "langue",
+      "niveau": 3,
+      "question": "Quel éditeur de dictionnaires a pour devise « Je sème à tout vent » ?",
+      "reponse": "Larousse",
+      "variantes": [
+        "Éditions Larousse",
+        "Pierre Larousse"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Robert",
+          "Hachette",
+          "Littré"
+        ]
+      },
+      "explication": "La devise, illustrée par une semeuse soufflant sur une fleur de pissenlit, résume l'ambition de Pierre Larousse : répandre le savoir. Ce pédagogue fonde sa maison d'édition en 1852 avec Augustin Boyer, puis lance le Grand Dictionnaire universel du XIXe siècle. Le Petit Larousse illustré, né en 1905, paraît chaque année dans une édition enrichie de mots nouveaux.",
+      "source": "Wikipédia (fr) — « Éditions Larousse »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-03-4",
+      "categorie": "langue",
+      "niveau": 3,
+      "question": "Quelle province canadienne a le français pour seule langue officielle ?",
+      "reponse": "Québec",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Nouveau-Brunswick",
+          "Ontario",
+          "Montréal"
+        ]
+      },
+      "explication": "Le Québec a fait du français sa seule langue officielle en 1974, puis a renforcé ce statut avec la Charte de la langue française, dite « loi 101 », adoptée en 1977. Ce texte encadre l'usage du français au travail, dans le commerce, l'affichage et l'enseignement. Le reste du Canada est majoritairement anglophone, même si le pays est officiellement bilingue au niveau fédéral.",
+      "source": "Wikipédia (fr) — « Charte de la langue française »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-03-5",
+      "categorie": "langue",
+      "niveau": 3,
+      "question": "De quelle expression le mot « verlan » est-il lui-même l'inversion ?",
+      "reponse": "L'envers",
+      "variantes": [
+        "À l'envers",
+        "Envers"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Revers",
+          "Inverse"
+        ]
+      },
+      "explication": "Le verlan inverse les syllabes d'un mot, et son nom en donne l'exemple : « l'envers », prononcé « lan-ver », devient « ver-lan ». Le procédé est ancien, mais il s'est surtout répandu à partir des années 1970 dans les banlieues. La chanson « Laisse béton » de Renaud (1977) et le film « Les Ripoux » (1984), dont le titre vient de « pourris », l'ont fait connaître du grand public.",
+      "anecdote": "Certains mots ont été « reverlanisés » : « arabe » a donné « beur », puis « rebeu ».",
+      "source": "Wikipédia (fr) — « Verlan »",
+      "verification": {
+        "statut": "relue",
+        "note": "Explication nuancée (procédé plus ancien que les années 1970) ; anecdote remplacée par un exemple plus établi (beur/rebeu)."
+      }
+    },
+    {
+      "id": "lan-03-6",
+      "categorie": "langue",
+      "niveau": 3,
+      "question": "Quel défaut de style consiste à répéter inutilement une idée, comme dans « monter en haut » ?",
+      "reponse": "Pléonasme",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Oxymore",
+          "Hyperbole"
+        ]
+      },
+      "explication": "Le pléonasme ajoute un mot dont le sens est déjà contenu dans un autre : « descendre en bas », « prévoir à l'avance », « sortir dehors ». Il est fautif quand il est involontaire, mais peut servir d'effet de style pour insister, comme dans « je l'ai vu de mes propres yeux ». Le mot vient du grec pleonasmos, « excès, surabondance ».",
+      "source": "Wikipédia (fr) — « Pléonasme »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-03-7",
+      "categorie": "langue",
+      "niveau": 3,
+      "question": "Combien de membres compte l'Académie française lorsque tous ses fauteuils sont occupés ?",
+      "reponse": "40",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 40,
+        "tolerance": 0
+      },
+      "explication": "Les statuts de l'Académie, fondée en 1635, fixent à quarante le nombre de ses membres. Chaque fauteuil est numéroté. Lorsqu'un académicien meurt, son siège est déclaré vacant et ses pairs élisent un successeur, qui doit prononcer l'éloge de son prédécesseur lors de sa réception. Certains fauteuils restent ainsi vacants plusieurs mois, faute de candidat élu.",
+      "anecdote": "On parle du « 41e fauteuil » pour désigner les grands écrivains jamais élus, comme Molière, Balzac ou Zola.",
+      "source": "Wikipédia (fr) — « Académie française »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-03-8",
+      "categorie": "langue",
+      "niveau": 3,
+      "question": "Quel mot, créé au Québec, désigne en français un e-mail ?",
+      "reponse": "Courriel",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Mél",
+          "Mail"
+        ]
+      },
+      "explication": "« Courriel », contraction de « courrier électronique », s'est imposé au Québec dans les années 1990, avec la recommandation de l'Office de la langue française. La France l'a adopté officiellement en 2003, par une publication au Journal officiel. L'abréviation « mél. », elle, ne s'emploie que devant une adresse, comme « tél. » devant un numéro.",
+      "source": "Wiktionnaire — « courriel »",
+      "verification": {
+        "statut": "relue",
+        "note": "Datation de la création formulée plus prudemment."
+      }
+    },
+    {
+      "id": "lan-04-1",
+      "categorie": "langue",
+      "niveau": 4,
+      "question": "De quelle langue vient le mot « robot » ?",
+      "reponse": "Tchèque",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Russe",
+          "Polonais",
+          "Slovaque"
+        ]
+      },
+      "explication": "Le mot apparaît en 1920 dans R.U.R., une pièce de l'écrivain tchèque Karel Čapek qui met en scène des ouvriers artificiels se révoltant contre les humains. Il dérive de « robota », qui désigne en tchèque le travail pénible, la corvée. Selon Karel Čapek lui-même, c'est son frère, le peintre Josef Čapek, qui lui avait suggéré ce terme.",
+      "source": "Wikipédia (fr) — « R.U.R. »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-04-2",
+      "categorie": "langue",
+      "niveau": 4,
+      "question": "Combien de lettres compte le mot « anticonstitutionnellement » ?",
+      "reponse": "25",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 25,
+        "tolerance": 0
+      },
+      "explication": "Longtemps présenté comme le plus long mot de la langue française, « anticonstitutionnellement » compte 25 lettres et signifie « d'une manière contraire à la Constitution ». D'autres mots, plus rares, le dépassent pourtant, comme « intergouvernementalisations », avec 27 lettres. Les noms de molécules chimiques peuvent être bien plus longs encore, mais ils ne figurent pas dans les dictionnaires d'usage courant.",
+      "source": "Wikipédia (fr) — « Anticonstitutionnellement »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-04-3",
+      "categorie": "langue",
+      "niveau": 4,
+      "question": "Quel préfet de la Seine a imposé en 1883 des récipients à ordures qui portent désormais son nom ?",
+      "reponse": "Eugène Poubelle",
+      "variantes": [],
+      "validation": {
+        "type": "personne"
+      },
+      "explication": "Par un arrêté de novembre 1883, le préfet Eugène Poubelle oblige les propriétaires parisiens à fournir à leurs locataires des récipients pour les ordures ménagères, avec déjà un début de tri entre déchets putrescibles, papiers et débris de verre ou de vaisselle. Les Parisiens, mécontents, parlent vite des « boîtes Poubelle », et le nom du préfet devient un nom commun.",
+      "source": "Wikipédia (fr) — « Eugène Poubelle »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-04-4",
+      "categorie": "langue",
+      "niveau": 4,
+      "question": "Quelle figure de style réunit deux mots de sens opposés, comme « obscure clarté » ?",
+      "reponse": "Oxymore",
+      "variantes": [
+        "Oxymoron"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Antithèse",
+          "Antonyme",
+          "Pléonasme"
+        ]
+      },
+      "explication": "L'oxymore rapproche deux termes contradictoires pour créer une image saisissante. « Cette obscure clarté qui tombe des étoiles » est un vers du Cid de Corneille (1637). D'autres sont passés dans la langue courante : « un silence assourdissant », « une douce violence ». Le mot vient du grec oxus, « aigu », et môros, « sot » : il forme donc lui-même une alliance de contraires.",
+      "source": "Wikipédia (fr) — « Oxymore »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-04-5",
+      "categorie": "langue",
+      "niveau": 4,
+      "question": "Comment s'appelle le signe ~ placé sur le n de l'espagnol « señor » ?",
+      "reponse": "Tilde",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Tréma",
+          "Cédille",
+          "Circonflexe"
+        ]
+      },
+      "explication": "En espagnol, le tilde transforme le n en ñ, prononcé comme « gn » dans « montagne ». Ce signe est né chez les copistes médiévaux, qui traçaient un petit trait au-dessus d'une lettre pour abréger un n ou un m qui la suivait, afin d'économiser le parchemin. En portugais, il sert à nasaliser les voyelles, comme dans « São Paulo ».",
+      "source": "Wikipédia (fr) — « Tilde »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-04-6",
+      "categorie": "langue",
+      "niveau": 4,
+      "question": "Quel surnom donne-t-on aux membres de l'Académie française ?",
+      "reponse": "Les Immortels",
+      "variantes": [
+        "Immortel"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Sages",
+          "Académiciens"
+        ]
+      },
+      "explication": "Le surnom vient de la devise « À l'immortalité », inscrite sur le sceau que Richelieu donna à l'Académie. Elle ne visait pas les membres eux-mêmes, mais la langue française qu'ils avaient pour mission de servir. Le surnom fait souvent sourire, puisque les académiciens meurent comme tout le monde ; il souligne surtout que leur élection vaut pour la vie entière.",
+      "anecdote": "Les académiciens portent en séance solennelle un habit brodé de feuilles d'olivier vertes, d'où son nom d'« habit vert ».",
+      "source": "Wikipédia (fr) — « Académie française »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-04-7",
+      "categorie": "langue",
+      "niveau": 4,
+      "question": "Quel nom d'animal de six lettres est souvent cité comme le plus court mot français contenant les voyelles a, e, i, o et u ?",
+      "reponse": "Oiseau",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Oiseaux"
+        ]
+      },
+      "explication": "Avec six lettres, « oiseau » est souvent cité comme le plus court mot français contenant les cinq voyelles a, e, i, o et u, avec une seule consonne, le s. Sa prononciation n'en garde pourtant presque rien : on entend « wazo ». Le mot vient du latin populaire aucellus, contraction de avicellus, « petit oiseau », lui-même dérivé de avis.",
+      "source": "Wiktionnaire — « oiseau »",
+      "verification": {
+        "statut": "relue",
+        "note": "Énoncé reformulé prudemment (« souvent cité ») pour le record."
+      }
+    },
+    {
+      "id": "lan-04-8",
+      "categorie": "langue",
+      "niveau": 4,
+      "question": "Avec « vous », comment conjugue-t-on le verbe « dire » au présent de l'indicatif ?",
+      "reponse": "Dites",
+      "variantes": [
+        "Vous dites"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Disez"
+        ]
+      },
+      "explication": "« Vous dites », comme « vous faites » et « vous êtes », fait partie des rares formes en -tes au lieu de -ez. Seuls « dire » et « redire » la conservent : on écrit « vous contredisez », « vous interdisez », « vous médisez » et « vous prédisez ». Ces exceptions s'expliquent par l'évolution directe des formes latines dicitis, facitis et estis.",
+      "source": "Wiktionnaire — « dire »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-05-1",
+      "categorie": "langue",
+      "niveau": 5,
+      "question": "Vers quelle ville le général Joffre a-t-il éloigné, en 1914, des généraux jugés incompétents ?",
+      "reponse": "Limoges",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Limousin",
+          "Bordeaux"
+        ]
+      },
+      "explication": "Au début de la Première Guerre mondiale, Joseph Joffre, commandant en chef, relève des dizaines de généraux jugés défaillants. Plutôt que de les sanctionner publiquement, il les met à la disposition de la 12e région militaire, dont le siège est à Limoges, loin du front. De là vient le verbe « limoger », qui signifie démettre quelqu'un de ses fonctions, en particulier un haut responsable.",
+      "source": "Wikipédia (fr) — « Limogeage »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-05-2",
+      "categorie": "langue",
+      "niveau": 5,
+      "question": "Quelle figure de style répète une consonne, comme dans « Pour qui sont ces serpents qui sifflent sur vos têtes ? » ?",
+      "reponse": "Allitération",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Assonance",
+          "Anaphore",
+          "Onomatopée"
+        ]
+      },
+      "explication": "Ce vers de Racine, dans Andromaque (1667), répète le son « s » pour faire entendre le sifflement des serpents qu'Oreste, devenu fou, croit voir autour de lui. L'allitération répète une consonne, alors que l'assonance répète un son de voyelle. Le procédé abonde aussi dans les slogans et les virelangues, car il rend une formule plus facile à retenir.",
+      "source": "Wikipédia (fr) — « Allitération »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-05-3",
+      "categorie": "langue",
+      "niveau": 5,
+      "question": "De quelle langue vient le mot « toubib », qui désigne familièrement un médecin ?",
+      "reponse": "Arabe",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Turc",
+          "Berbère",
+          "Persan"
+        ]
+      },
+      "explication": "« Toubib » vient de l'arabe d'Algérie tbib, issu de l'arabe classique ṭabīb, « médecin ». Le mot est entré dans le français familier au XIXe siècle, par l'intermédiaire des soldats français présents en Algérie. D'autres mots d'argot ont suivi le même chemin, comme « bled », de bilad, « pays », ou « chouïa », « un peu ».",
+      "source": "Wiktionnaire — « toubib »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-05-4",
+      "categorie": "langue",
+      "niveau": 5,
+      "question": "Comment appelle-t-on le signe « & », qui signifie « et » ?",
+      "reponse": "Esperluette",
+      "variantes": [
+        "Perluète",
+        "Perluette",
+        "Et commercial"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Arobase",
+          "Astérisque"
+        ]
+      },
+      "explication": "L'esperluette est une ligature des lettres e et t, qui forment le mot latin « et » ; on les distingue encore nettement dans certaines polices de caractères. En anglais, elle a longtemps été récitée par les écoliers comme une lettre supplémentaire à la fin de l'alphabet, et son nom, « ampersand », vient de la formule « and per se and ».",
+      "source": "Wikipédia (fr) — « Esperluette »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-05-5",
+      "categorie": "langue",
+      "niveau": 5,
+      "question": "Quelle figure dit moins pour suggérer plus, comme « ce n'est pas mauvais » pour « c'est très bon » ?",
+      "reponse": "Litote",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Euphémisme",
+          "Hyperbole",
+          "Antiphrase"
+        ]
+      },
+      "explication": "La litote atténue l'expression pour mieux faire entendre une idée forte, souvent grâce à une négation : « il n'est pas bête » signifie qu'il est intelligent. Le mot vient du grec litotês, « simplicité ». Elle se distingue de l'euphémisme, qui adoucit une réalité pénible ou choquante, comme « il nous a quittés » pour « il est mort ».",
+      "source": "Wikipédia (fr) — « Litote »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-05-6",
+      "categorie": "langue",
+      "niveau": 5,
+      "question": "Comment appelle-t-on le « h » de « haricot », qui empêche la liaison et l'élision ?",
+      "reponse": "H aspiré",
+      "variantes": [
+        "Aspiré"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "H muet"
+        ]
+      },
+      "explication": "On dit « les / haricots » sans liaison et « le haricot » sans apostrophe, car le h est aspiré, même s'il ne se prononce plus. On le trouve surtout dans des mots d'origine germanique, comme « hache », « haine » ou « honte ». À l'inverse, le h muet, hérité le plus souvent du latin, laisse passer liaison et élision : « l'homme », « les hôtels ».",
+      "source": "Wikipédia (fr) — « H aspiré »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-05-7",
+      "categorie": "langue",
+      "niveau": 5,
+      "question": "De quelle couleur était la toge des candidats aux élections dans la Rome antique, d'où le mot « candidat » ?",
+      "reponse": "Blanc",
+      "variantes": [
+        "Blanche"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Pourpre",
+          "Rouge"
+        ]
+      },
+      "explication": "Le latin candidatus signifie « vêtu de blanc », de candidus, « d'un blanc éclatant ». À Rome, ceux qui briguaient une magistrature portaient une toge blanchie à la craie, la toga candida, pour se faire remarquer et afficher la pureté de leurs intentions. Le même adjectif latin a donné « candide », qui qualifie une personne pure et naïve, et « candeur ».",
+      "source": "Wiktionnaire — « candidat »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-05-8",
+      "categorie": "langue",
+      "niveau": 5,
+      "question": "Quel jour de mars célèbre-t-on la Journée internationale de la Francophonie ?",
+      "reponse": "20 mars",
+      "variantes": [
+        "20",
+        "Vingt mars",
+        "Vingt"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "21 mars",
+          "18 mars"
+        ]
+      },
+      "explication": "La date commémore la signature, le 20 mars 1970 à Niamey, au Niger, du traité créant l'Agence de coopération culturelle et technique, ancêtre de l'Organisation internationale de la Francophonie. Le mot « francophonie » est plus ancien : le géographe Onésime Reclus l'a employé dès 1880 pour désigner l'ensemble des personnes et des pays parlant français.",
+      "source": "Wikipédia (fr) — « Journée internationale de la francophonie »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-06-1",
+      "categorie": "langue",
+      "niveau": 6,
+      "question": "Quel maréchal, tué à Pavie en 1525, a donné son nom à une vérité d'évidence ?",
+      "reponse": "La Palice",
+      "variantes": [
+        "La Palisse",
+        "Jacques de La Palice",
+        "Jacques de Chabannes"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Bayard"
+        ]
+      },
+      "explication": "Après la mort de Jacques de Chabannes, seigneur de La Palice, ses soldats auraient chanté : « S'il n'était pas mort, il ferait encore envie », pour saluer sa vaillance. Selon l'explication la plus répandue, le vers, mal lu, est devenu « il serait encore en vie », une évidence comique. Au XVIIIe siècle, Bernard de La Monnoye en a tiré une chanson aux couplets niais qui a fixé le sens de « lapalissade ».",
+      "source": "Wikipédia (fr) — « Jacques de La Palice »",
+      "verification": {
+        "statut": "relue",
+        "note": "Origine présentée comme l'explication la plus répandue."
+      }
+    },
+    {
+      "id": "lan-06-2",
+      "categorie": "langue",
+      "niveau": 6,
+      "question": "Quel mot le latiniste Jacques Perret a-t-il proposé à IBM en 1955 pour traduire « computer » ?",
+      "reponse": "Ordinateur",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Calculateur",
+          "Computeur"
+        ]
+      },
+      "explication": "En 1955, IBM France cherche un nom pour ses nouvelles machines électroniques. Consulté, le professeur Jacques Perret propose dans une lettre du 16 avril le mot « ordinateur », emprunté au vocabulaire religieux, où il qualifiait Dieu qui met de l'ordre dans le monde. Le mot s'est imposé dans toute la langue, et l'espagnol d'Espagne l'a imité avec « ordenador ».",
+      "source": "Wikipédia (fr) — « Ordinateur »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-06-3",
+      "categorie": "langue",
+      "niveau": 6,
+      "question": "Quel jeu de langage le Canard enchaîné pratique-t-il dans sa rubrique « Sur l'album de la comtesse » ?",
+      "reponse": "Contrepèterie",
+      "variantes": [
+        "Contrepet",
+        "Contrepets",
+        "Contrepèteries"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Calembour",
+          "Anagramme",
+          "Charade"
+        ]
+      },
+      "explication": "La contrepèterie consiste à intervertir des sons dans une phrase anodine pour en faire surgir une autre, souvent grivoise, que le lecteur doit découvrir seul. Rabelais en proposait déjà une dans Pantagruel (1532), avec « femme folle à la messe ». Fidèle à la tradition, l'hebdomadaire satirique n'en donne jamais la solution, laissant chacun la trouver.",
+      "source": "Wikipédia (fr) — « Contrepèterie »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-06-4",
+      "categorie": "langue",
+      "niveau": 6,
+      "question": "Quel temps, formé avec l'auxiliaire conjugué au passé simple, apparaît dans « quand il eut fini » ?",
+      "reponse": "Passé antérieur",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Plus-que-parfait",
+          "Passé composé",
+          "Futur antérieur"
+        ]
+      },
+      "explication": "Le passé antérieur se forme avec l'auxiliaire avoir ou être conjugué au passé simple, suivi du participe passé : « il eut fini », « elles furent parties ». Il exprime une action achevée juste avant une autre action au passé simple, souvent après « quand », « dès que » ou « lorsque ». Réservé à l'écrit soutenu, il a presque disparu de la langue parlée.",
+      "source": "Wikipédia (fr) — « Passé antérieur »",
+      "verification": {
+        "statut": "relue",
+        "note": "Énoncé clarifié (« correspond au passé simple » était ambigu)."
+      }
+    },
+    {
+      "id": "lan-06-5",
+      "categorie": "langue",
+      "niveau": 6,
+      "question": "Quel seigneur a donné son nom à un coup imprévu porté au jarret lors d'un duel, en 1547 ?",
+      "reponse": "Jarnac",
+      "variantes": [
+        "Guy Chabot de Jarnac",
+        "Guy de Jarnac",
+        "Chabot"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "La Châtaigneraie"
+        ]
+      },
+      "explication": "Le 10 juillet 1547, devant le roi Henri II, Guy Chabot de Jarnac affronte en duel judiciaire François de Vivonne, seigneur de La Châtaigneraie, réputé redoutable. Contre toute attente, Jarnac lui tranche le jarret d'un revers d'épée. Le coup était régulier, mais si inattendu qu'un « coup de Jarnac » a fini par désigner une attaque habile, puis déloyale.",
+      "anecdote": "Blessé, La Châtaigneraie aurait refusé les soins et mourut peu après. Ce combat est souvent présenté comme le dernier duel judiciaire autorisé par un roi de France.",
+      "source": "Wikipédia (fr) — « Coup de Jarnac »",
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote formulée prudemment (refus des soins, « dernier duel judiciaire »)."
+      }
+    },
+    {
+      "id": "lan-06-6",
+      "categorie": "langue",
+      "niveau": 6,
+      "question": "Quel est le seul mot de la langue française qui porte un « u » accent grave ?",
+      "reponse": "Où",
+      "variantes": [],
+      "validation": {
+        "type": "texte"
+      },
+      "explication": "L'accent grave de « où » ne change pas la prononciation : il distingue l'adverbe ou le pronom de lieu de la conjonction « ou », qui marque une alternative. Ce mot unique dispose pourtant de sa propre touche sur le clavier français, le « ù ». Une astuce permet de les distinguer : si l'on peut remplacer le mot par « ou bien », il ne prend pas d'accent.",
+      "source": "Wikipédia (fr) — « Ù »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-06-7",
+      "categorie": "langue",
+      "niveau": 6,
+      "question": "Quel mot désigne le nombre 80 dans les cantons suisses de Vaud, du Valais et de Fribourg ?",
+      "reponse": "Huitante",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Octante",
+          "Nonante",
+          "Quatre-vingts"
+        ]
+      },
+      "explication": "Contrairement aux Belges, qui disent « quatre-vingts », plusieurs cantons romands emploient « huitante », alors que Genève, Neuchâtel ou le Jura préfèrent « quatre-vingts ». La forme « octante », plus proche du latin octoginta, a existé en ancien français et dans certaines régions, mais elle n'est plus guère en usage. Les dictionnaires la mentionnent comme vieillie ou régionale.",
+      "source": "Wikipédia (fr) — « Nombres en français »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-06-8",
+      "categorie": "langue",
+      "niveau": 6,
+      "question": "Quel poète sénégalais fut, en 1983, le premier Africain élu à l'Académie française ?",
+      "reponse": "Léopold Sédar Senghor",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Aimé Césaire",
+          "Abdou Diouf"
+        ],
+        "nom": "Senghor"
+      },
+      "explication": "Agrégé de grammaire et chantre de la négritude avec Aimé Césaire, Léopold Sédar Senghor fut le premier président du Sénégal indépendant, de 1960 à 1980. Élu à l'Académie française le 2 juin 1983, il y défendit l'idée d'une langue française partagée par tous les peuples qui la parlent. Il compte aussi parmi les pères fondateurs de la Francophonie institutionnelle.",
+      "source": "Wikipédia (fr) — « Léopold Sédar Senghor »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-07-1",
+      "categorie": "langue",
+      "niveau": 7,
+      "question": "Quel personnage du roman « Cléopâtre » de La Calprenède a inspiré une expression sur la fierté ?",
+      "reponse": "Artaban",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Artaxerxès"
+        ]
+      },
+      "explication": "Gautier de Costes de La Calprenède publie au milieu du XVIIe siècle « Cléopâtre », un long roman héroïque en plusieurs volumes. Artaban, guerrier d'une fierté hautaine, y brave rois et dangers. Le succès du livre fait passer son nom dans la langue : être « fier comme Artaban », c'est être très, voire trop, fier de soi. Le roman, lui, est tombé dans l'oubli.",
+      "source": "Wikipédia (fr) — « Gautier de Costes de La Calprenède »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-07-2",
+      "categorie": "langue",
+      "niveau": 7,
+      "question": "Quel texte de 842, rédigé en langue romane et en langue germanique, est tenu pour le plus ancien texte en français ?",
+      "reponse": "Serments de Strasbourg",
+      "variantes": [
+        "Serment de Strasbourg"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Cantilène de sainte Eulalie",
+          "Chanson de Roland"
+        ]
+      },
+      "explication": "Le 14 février 842, Louis le Germanique et Charles le Chauve, petits-fils de Charlemagne, s'allient contre leur frère Lothaire. Pour être compris des soldats, chacun prête serment dans la langue de l'armée de l'autre : en roman, ancêtre du français, et en tudesque. Le texte nous est parvenu grâce à l'historien Nithard, lui aussi petit-fils de Charlemagne.",
+      "source": "Wikipédia (fr) — « Serments de Strasbourg »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-07-3",
+      "categorie": "langue",
+      "niveau": 7,
+      "question": "Comment appelle-t-on une phrase contenant toutes les lettres de l'alphabet, comme « Portez ce vieux whisky au juge blond qui fume » ?",
+      "reponse": "Pangramme",
+      "variantes": [
+        "Pangram"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Palindrome",
+          "Anagramme",
+          "Lipogramme"
+        ]
+      },
+      "explication": "Les pangrammes servent notamment à tester les claviers et à présenter les polices de caractères, puisqu'ils affichent toutes les lettres d'un coup. Celui-ci est l'un des plus connus en français. Le mot vient du grec pan, « tout », et gramma, « lettre ». En anglais, le plus célèbre est « The quick brown fox jumps over the lazy dog ».",
+      "source": "Wikipédia (fr) — « Pangramme »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-07-4",
+      "categorie": "langue",
+      "niveau": 7,
+      "question": "Quelle historienne fut, en 1999, la première femme secrétaire perpétuel de l'Académie française ?",
+      "reponse": "Hélène Carrère d'Encausse",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Marguerite Yourcenar"
+        ],
+        "nom": "Carrère d'Encausse"
+      },
+      "explication": "Spécialiste de la Russie et de l'URSS, Hélène Carrère d'Encausse est élue à l'Académie française en 1990, puis secrétaire perpétuel en 1999 : elle tenait à ce titre au masculin. Elle dirige les travaux de la Compagnie, dont le dictionnaire, jusqu'à sa mort en août 2023. L'écrivain franco-libanais Amin Maalouf lui succède en septembre 2023.",
+      "source": "Wikipédia (fr) — « Hélène Carrère d'Encausse »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-07-5",
+      "categorie": "langue",
+      "niveau": 7,
+      "question": "Quel verbe de neuf lettres, signifiant « revenir sans cesse sur une idée », est un palindrome ?",
+      "reponse": "Ressasser",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Rabâcher",
+          "Ressasse"
+        ]
+      },
+      "explication": "« Ressasser » se lit de la même façon dans les deux sens et il est souvent cité comme le plus long palindrome d'usage courant en un seul mot. À l'origine, le verbe signifiait « repasser au sas », c'est-à-dire tamiser une seconde fois la farine. Le sens figuré de revenir sans cesse sur les mêmes pensées ou les mêmes paroles en découle.",
+      "source": "Wiktionnaire — « ressasser »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-07-6",
+      "categorie": "langue",
+      "niveau": 7,
+      "question": "De quelle farce du XVe siècle vient l'expression « revenons à nos moutons » ?",
+      "reponse": "La Farce de maître Pathelin",
+      "variantes": [
+        "Maître Pathelin",
+        "Pathelin",
+        "Farce de maître Pierre Pathelin"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Le Roman de Renart"
+        ]
+      },
+      "explication": "Dans cette farce anonyme écrite vers 1460, un drapier poursuit en justice son berger, qui lui a volé des moutons, et reconnaît dans l'avocat de celui-ci, Pathelin, l'escroc qui lui a soutiré une pièce de drap. Il mélange sans cesse les deux affaires, si bien que le juge le rappelle à l'ordre en l'invitant à revenir « à ces moutons ».",
+      "anecdote": "Conseillé par Pathelin, le berger ne répond au juge que par « bée », puis sert la même réponse à l'avocat venu réclamer ses honoraires.",
+      "source": "Wikipédia (fr) — « La Farce de maître Pathelin »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-07-7",
+      "categorie": "langue",
+      "niveau": 7,
+      "question": "Quel argot insère la syllabe « av » dans les mots, transformant « gros » en « gravos » ?",
+      "reponse": "Javanais",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Verlan",
+          "Louchébem",
+          "Largonji"
+        ]
+      },
+      "explication": "Le javanais glisse « av » entre la consonne et la voyelle de chaque syllabe : « bonjour » devient « bavonjavour ». Apparu au XIXe siècle, il permettait de parler devant des non-initiés sans être compris, à la manière d'un code. Le procédé a surtout survécu comme jeu, mais quelques mots en sont restés dans la langue familière, comme « gravos », pour une personne corpulente.",
+      "source": "Wikipédia (fr) — « Javanais (argot) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-07-8",
+      "categorie": "langue",
+      "niveau": 7,
+      "question": "Quelle est la seule province canadienne officiellement bilingue, français et anglais ?",
+      "reponse": "Nouveau-Brunswick",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Québec",
+          "Ontario",
+          "Manitoba"
+        ]
+      },
+      "explication": "Le Nouveau-Brunswick a adopté sa loi sur les langues officielles en 1969, et l'égalité du français et de l'anglais y est garantie par la Charte canadienne des droits et libertés de 1982. Environ un tiers de ses habitants sont francophones, pour la plupart des Acadiens, descendants des colons français installés dans la région dès le XVIIe siècle.",
+      "source": "Wikipédia (fr) — « Nouveau-Brunswick »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-08-1",
+      "categorie": "langue",
+      "niveau": 8,
+      "question": "Dans l'expression « avoir maille à partir », que signifie le verbe « partir » ?",
+      "reponse": "Partager",
+      "variantes": [
+        "Diviser",
+        "Répartir"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Quitter",
+          "S'en aller"
+        ]
+      },
+      "explication": "En ancien français, « partir » signifiait « partager », sens conservé dans « répartir ». La maille était la plus petite pièce de monnaie, valant un demi-denier. Avoir maille à partir avec quelqu'un, c'était donc devoir partager avec lui une pièce impossible à diviser : une dispute assurée. L'expression désigne désormais tout différend avec une personne.",
+      "anecdote": "La même pièce se retrouve dans « n'avoir ni sou ni maille », c'est-à-dire être sans le moindre argent.",
+      "source": "Wiktionnaire — « avoir maille à partir »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-08-2",
+      "categorie": "langue",
+      "niveau": 8,
+      "question": "En quelle année a paru la première édition du Dictionnaire de l'Académie française ?",
+      "reponse": "1694",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 1694,
+        "tolerance": 0
+      },
+      "explication": "Chargée dès sa fondation de donner des règles à la langue, l'Académie met près de soixante ans à achever son dictionnaire, présenté à Louis XIV en 1694. Cette première édition ne suit pas un ordre strictement alphabétique : elle regroupe les mots par familles, autour de leur racine. La deuxième édition, en 1718, adopte l'ordre alphabétique, plus commode.",
+      "anecdote": "Antoine Furetière, exclu de la Compagnie en 1685 pour avoir préparé un dictionnaire concurrent, la devança : son Dictionnaire universel parut, à titre posthume, en 1690.",
+      "source": "Wikipédia (fr) — « Dictionnaire de l'Académie française »",
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote précisée (Dictionnaire universel posthume)."
+      }
+    },
+    {
+      "id": "lan-08-3",
+      "categorie": "langue",
+      "niveau": 8,
+      "question": "Quel argot des bouchers parisiens a donné le mot « loufoque », à partir de « fou » ?",
+      "reponse": "Louchébem",
+      "variantes": [
+        "Loucherbem",
+        "Louchebem"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Javanais",
+          "Verlan"
+        ]
+      },
+      "explication": "Le louchébem remplace la première consonne d'un mot par un « l », la rejette à la fin et ajoute un suffixe : « boucher » devient « louchébem », « fou » devient « loufoque ». Né au XIXe siècle chez les bouchers parisiens, il leur permettait de parler sans être compris des clients. C'est une variante du largonji, et « loufoque » est ensuite passé dans la langue courante.",
+      "source": "Wikipédia (fr) — « Louchébem »",
+      "verification": {
+        "statut": "relue",
+        "note": "Piège « Largonji » retiré (le louchébem en est une variante) ; détail sur la Villette retiré."
+      }
+    },
+    {
+      "id": "lan-08-4",
+      "categorie": "langue",
+      "niveau": 8,
+      "question": "Comment appelle-t-on l'odeur caractéristique de la terre après la pluie ?",
+      "reponse": "Pétrichor",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Géosmine"
+        ]
+      },
+      "explication": "Le mot a été forgé en 1964 par deux chercheurs australiens, Isabel Joy Bear et Richard Thomas, dans un article de la revue Nature. Il associe le grec petra, « pierre », et ichor, le fluide qui coulait dans les veines des dieux. L'odeur provient notamment d'huiles végétales et de la géosmine, une molécule produite par des bactéries du sol.",
+      "anecdote": "Le nez humain détecte la géosmine à des concentrations extrêmement faibles, de l'ordre de quelques milliardièmes de gramme par litre.",
+      "source": "Wikipédia (fr) — « Pétrichor »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-08-5",
+      "categorie": "langue",
+      "niveau": 8,
+      "question": "Quel est le participe passé du verbe « absoudre », au masculin singulier ?",
+      "reponse": "Absous",
+      "variantes": [
+        "Absout"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Absolu",
+          "Absoudu"
+        ]
+      },
+      "explication": "On écrit traditionnellement « absous » au masculin et « absoute » au féminin, comme « dissous » et « dissoute ». Cette irrégularité a conduit les rectifications de l'orthographe de 1990 à recommander « absout » et « dissout », plus cohérents avec le féminin ; les deux graphies sont admises. Le verbe vient du latin absolvere, qui a aussi donné « absolu » et « absolution ».",
+      "source": "Wiktionnaire — « absoudre »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-08-6",
+      "categorie": "langue",
+      "niveau": 8,
+      "question": "Quel philosophe a nommé « esprit de l'escalier » la repartie qui vient trop tard ?",
+      "reponse": "Denis Diderot",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Voltaire",
+          "Jean-Jacques Rousseau"
+        ]
+      },
+      "explication": "Dans le « Paradoxe sur le comédien », Diderot raconte qu'une remarque l'avait tant troublé qu'il n'avait rien su répondre, et que ses idées ne lui revenaient qu'« au bas de l'escalier ». L'expression désigne la réplique parfaite qui vient à l'esprit une fois la conversation terminée. L'anglais l'emprunte souvent telle quelle, ou la traduit par « staircase wit ».",
+      "source": "Wikipédia (fr) — « Esprit de l'escalier »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-08-7",
+      "categorie": "langue",
+      "niveau": 8,
+      "question": "Quel lexicographe a publié entre 1863 et 1872 un célèbre « Dictionnaire de la langue française » ?",
+      "reponse": "Émile Littré",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Pierre Larousse",
+          "Paul Robert"
+        ]
+      },
+      "explication": "Formé à la médecine et disciple d'Auguste Comte, Émile Littré consacre plus de vingt ans à son dictionnaire. Il y illustre chaque sens par des citations d'auteurs et retrace l'histoire des mots depuis l'ancien français. Élu à l'Académie française en 1871, il reste l'un des grands lexicographes du XIXe siècle : on parle encore de « consulter le Littré ».",
+      "source": "Wikipédia (fr) — « Dictionnaire de la langue française (Littré) »",
+      "verification": {
+        "statut": "relue",
+        "note": "« Médecin de formation » nuancé (études de médecine sans doctorat)."
+      }
+    },
+    {
+      "id": "lan-08-8",
+      "categorie": "langue",
+      "niveau": 8,
+      "question": "Quelle figure reprend des termes en ordre inverse, comme « manger pour vivre et non vivre pour manger » ?",
+      "reponse": "Chiasme",
+      "variantes": [
+        "Antimétabole"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Zeugme",
+          "Anaphore",
+          "Antithèse"
+        ]
+      },
+      "explication": "Le chiasme dispose deux groupes de mots en miroir, selon le schéma A-B puis B-A. Son nom vient de la lettre grecque chi, en forme de X, qui figure ce croisement. La formule citée vient de L'Avare de Molière (1668) : Harpagon, ravi de cette maxime d'économie, veut la faire graver en lettres d'or sur sa cheminée.",
+      "source": "Wikipédia (fr) — « Chiasme »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-09-1",
+      "categorie": "langue",
+      "niveau": 9,
+      "question": "Quel peuple d'Italie a fait passer une armée romaine sous les « fourches caudines » en 321 av. J.-C. ?",
+      "reponse": "Samnites",
+      "variantes": [
+        "Samnite"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Étrusques",
+          "Sabins",
+          "Gaulois"
+        ]
+      },
+      "explication": "Lors de la deuxième guerre samnite, l'armée romaine se laisse enfermer dans un défilé près de Caudium. Pour sauver leur vie, les soldats doivent se rendre et passer, désarmés, sous un joug formé de lances, symbole de soumission. Depuis, « passer sous les fourches caudines » signifie subir des conditions humiliantes imposées par plus fort que soi.",
+      "source": "Wikipédia (fr) — « Bataille des Fourches Caudines »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-09-2",
+      "categorie": "langue",
+      "niveau": 9,
+      "question": "Quelle figure rattache à un même mot deux termes de nature différente, comme « vêtu de probité candide et de lin blanc » ?",
+      "reponse": "Zeugme",
+      "variantes": [
+        "Zeugma",
+        "Attelage"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Chiasme",
+          "Hypallage",
+          "Oxymore"
+        ]
+      },
+      "explication": "Ce vers de Victor Hugo, tiré de « Booz endormi » (La Légende des siècles, 1859), rattache au mot « vêtu » un terme abstrait, la probité, et un terme concret, le lin. Le zeugme, du grec zeugma, « joug », crée ainsi un effet de surprise, souvent humoristique, comme dans « il prit son chapeau et congé ».",
+      "source": "Wikipédia (fr) — « Zeugma »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-09-3",
+      "categorie": "langue",
+      "niveau": 9,
+      "question": "Comment appelle-t-on un collectionneur d'étiquettes de fromage ?",
+      "reponse": "Tyrosémiophile",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Fromagophile",
+          "Philatéliste"
+        ]
+      },
+      "explication": "Le mot assemble trois racines grecques : turos, « fromage », sêmeion, « signe », et philos, « qui aime ». Les étiquettes de camembert, popularisées par l'apparition des boîtes en bois à la fin du XIXe siècle, sont les plus recherchées. Des clubs de tyrosémiophiles échangent des pièces rares, comme le font les philatélistes avec les timbres.",
+      "source": "Wikipédia (fr) — « Tyrosémiophilie »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-09-4",
+      "categorie": "langue",
+      "niveau": 9,
+      "question": "Quel mot de l'ancien français, désignant une petite bourse, a donné l'anglais « budget » ?",
+      "reponse": "Bougette",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Bourse",
+          "Bouge"
+        ]
+      },
+      "explication": "La bougette, diminutif de « bouge », sac de cuir, désignait une petite bourse. Passé en anglais, le mot a fini par désigner la sacoche où le chancelier de l'Échiquier gardait les comptes de l'État, puis ces comptes eux-mêmes. Le français l'a repris à l'anglais au XVIIIe siècle avec ce sens financier : un véritable aller-retour entre les deux langues.",
+      "source": "CNRTL (TLFi) — « budget »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-09-5",
+      "categorie": "langue",
+      "niveau": 9,
+      "question": "Comment appelle-t-on une liaison fautive en « z », comme dans « quatre-z-enfants » ?",
+      "reponse": "Velours",
+      "variantes": [
+        "Pataquès"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Cuir",
+          "Liaison"
+        ]
+      },
+      "explication": "Le velours ajoute à tort un son « z » entre deux mots. Son équivalent avec un « t », comme dans « il va-t-à Paris », s'appelle un cuir. Le terme « pataquès » désigne plus largement toute faute de liaison. À l'inverse, certaines liaisons sont obligatoires, comme dans « les enfants » ou « ils ont », et d'autres interdites, comme après « et ».",
+      "source": "Wikipédia (fr) — « Liaison en français »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-09-6",
+      "categorie": "langue",
+      "niveau": 9,
+      "question": "Quel signe de ponctuation l'écrivain Alcanter de Brahm a-t-il proposé en 1899 pour signaler le second degré ?",
+      "reponse": "Point d'ironie",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Point d'exclamation",
+          "Point-virgule",
+          "Guillemets"
+        ]
+      },
+      "explication": "Dans « L'Ostensoir des ironies » (1899), Alcanter de Brahm imagine un signe proche d'un point d'interrogation retourné, destiné à prévenir le lecteur qu'une phrase ne doit pas être prise au pied de la lettre. L'invention n'a jamais pris. Hervé Bazin en a proposé une autre version en 1966, avec d'autres nouveaux signes, dans son essai « Plumons l'oiseau ».",
+      "source": "Wikipédia (fr) — « Point d'ironie »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-09-7",
+      "categorie": "langue",
+      "niveau": 9,
+      "question": "De quel verbe défectif vient la formule « ci-gît », gravée sur les tombes ?",
+      "reponse": "Gésir",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Gîter",
+          "Gisant"
+        ]
+      },
+      "explication": "« Gésir », du latin jacere, « être étendu », ne s'emploie plus qu'à quelques formes, notamment au présent (je gis, il gît, nous gisons), à l'imparfait (je gisais) et au participe présent. « Ci-gît » signifie donc « ici repose ». Le même verbe a donné « gisant », la sculpture funéraire représentant le défunt allongé, et « gisement ».",
+      "source": "Wiktionnaire — « gésir »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-09-8",
+      "categorie": "langue",
+      "niveau": 9,
+      "question": "En quelle année l'Académie française a-t-elle achevé la neuvième édition de son dictionnaire ?",
+      "reponse": "2024",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 2024,
+        "tolerance": 0
+      },
+      "explication": "Commencée au milieu des années 1980, la neuvième édition du Dictionnaire de l'Académie française a été achevée en 2024, près de quarante ans plus tard. Elle compte plus de 50 000 mots, nettement plus que la huitième édition, parue en 1935, et en intègre des milliers de nouveaux. L'ouvrage achevé a été présenté au président de la République en novembre 2024.",
+      "source": "Wikipédia (fr) — « Dictionnaire de l'Académie française »",
+      "verification": {
+        "statut": "relue",
+        "note": "Chiffres précis du nombre de mots (53 000 / 35 000) remplacés par un ordre de grandeur."
+      }
+    },
+    {
+      "id": "lan-10-1",
+      "categorie": "langue",
+      "niveau": 10,
+      "question": "Quelle figure attribue à un mot ce qui convient à un autre, comme « ils allaient obscurs sous la nuit solitaire » ?",
+      "reponse": "Hypallage",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Zeugme",
+          "Chiasme",
+          "Métonymie"
+        ]
+      },
+      "explication": "Ce vers traduit l'Énéide de Virgile (« Ibant obscuri sola sub nocte »), lorsque Énée et la Sibylle descendent aux Enfers, au chant VI. Logiquement, ce sont eux qui sont seuls et la nuit qui est obscure, mais le poète échange les adjectifs. L'hypallage, du grec « échange », déplace ainsi un qualificatif vers un mot voisin pour créer une image plus forte.",
+      "source": "Wikipédia (fr) — « Hypallage »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-10-2",
+      "categorie": "langue",
+      "niveau": 10,
+      "question": "Quel nom imagé porte en français le signe typographique ¶ ?",
+      "reponse": "Pied-de-mouche",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Esperluette",
+          "Patte-de-mouche"
+        ]
+      },
+      "explication": "Les copistes médiévaux traçaient ce signe, souvent à l'encre rouge, pour marquer le début d'une nouvelle idée dans un texte écrit d'un seul tenant. Sa forme dérive d'un C barré, initiale du latin capitulum, « chapitre ». Il est surtout connu des utilisateurs de traitement de texte, qui l'affichent pour repérer les marques de fin de paragraphe.",
+      "source": "Wikipédia (fr) — « Pied-de-mouche »",
+      "verification": {
+        "statut": "relue",
+        "note": "Variante « Pilcrow » retirée : la question demande le nom français."
+      }
+    },
+    {
+      "id": "lan-10-3",
+      "categorie": "langue",
+      "niveau": 10,
+      "question": "De quelle langue aborigène, notée par l'équipage de James Cook en 1770, vient le mot « kangourou » ?",
+      "reponse": "Guugu Yimithirr",
+      "variantes": [
+        "Guugu Yimidhirr",
+        "Gugu Yimithirr",
+        "Guguyimidjir"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Pitjantjatjara",
+          "Warlpiri"
+        ]
+      },
+      "explication": "En 1770, l'Endeavour de James Cook doit être réparé sur la côte nord-est de l'Australie, près de l'actuelle Cooktown. L'équipage y relève le mot « gangurru », qui désigne en guugu yimithirr une grande espèce de kangourou. Une légende tenace prétend que « kangourou » signifierait « je ne comprends pas » : le linguiste John Haviland a confirmé la véritable origine dans les années 1970.",
+      "source": "Wikipédia (fr) — « Guugu Yimithirr »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-10-4",
+      "categorie": "langue",
+      "niveau": 10,
+      "question": "Quel ordre de chevalerie, créé par Henri III, avait pour insigne un ruban bleu, d'où le mot « cordon-bleu » ?",
+      "reponse": "Ordre du Saint-Esprit",
+      "variantes": [
+        "Saint-Esprit"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Ordre de Saint-Michel",
+          "Toison d'or",
+          "Ordre de la Jarretière"
+        ]
+      },
+      "explication": "Fondé par Henri III le 31 décembre 1578, l'ordre du Saint-Esprit était le plus prestigieux de la monarchie française. Ses chevaliers portaient leur croix suspendue à un large ruban de soie bleu céleste, d'où leur surnom de « cordons bleus ». Par plaisanterie, l'expression a ensuite désigné une personne excellente dans son domaine, puis, plus particulièrement, une très bonne cuisinière.",
+      "source": "Wikipédia (fr) — « Ordre du Saint-Esprit »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-10-5",
+      "categorie": "langue",
+      "niveau": 10,
+      "question": "Comment appelle-t-on deux vers qui se prononcent de la même façon, comme « Gall, amant de la reine… » et « Galamment de l'arène… » ?",
+      "reponse": "Holorimes",
+      "variantes": [
+        "Holorime",
+        "Vers holorimes",
+        "Rime holorime"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Rimes riches",
+          "Calembour",
+          "Contrepèterie"
+        ]
+      },
+      "explication": "Le distique complet dit : « Gall, amant de la reine, alla, tour magnanime, / Galamment de l'arène à la Tour Magne, à Nîmes. » Souvent attribué à Victor Hugo, il serait plutôt de Marc Monnier. Dans des vers holorimes, tous les sons se répètent d'un vers à l'autre, et pas seulement la fin : c'est la rime poussée à l'extrême. Alphonse Allais s'en est fait une spécialité.",
+      "source": "Wikipédia (fr) — « Holorime »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-10-6",
+      "categorie": "langue",
+      "niveau": 10,
+      "question": "Quel terme d'anatomie désigne la zone lisse du front située entre les deux sourcils ?",
+      "reponse": "Glabelle",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Philtrum",
+          "Tempe"
+        ]
+      },
+      "explication": "Le mot vient du latin glabellus, « sans poils », diminutif de glaber, qui a aussi donné « glabre » : cette zone du front, entre les sourcils, est habituellement dépourvue de poils. En anatomie, la glabelle sert de point de repère pour les mesures du crâne. Les rides verticales qui s'y creusent sont appelées familièrement « rides du lion ».",
+      "source": "Wikipédia (fr) — « Glabelle »",
+      "verification": {
+        "statut": "relue",
+        "note": "Énoncé précisé (« terme d'anatomie ») : « entre-sourcils » aurait aussi convenu."
+      }
+    },
+    {
+      "id": "lan-10-7",
+      "categorie": "langue",
+      "niveau": 10,
+      "question": "De quelle langue de l'Inde vient, par l'intermédiaire de l'anglais, le mot « shampooing » ?",
+      "reponse": "Hindi",
+      "variantes": [
+        "Hindoustani"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Sanskrit",
+          "Tamoul",
+          "Bengali"
+        ]
+      },
+      "explication": "Le mot vient du hindi chāmpo, impératif du verbe chāmpnā, « presser, masser ». Les Britanniques de l'Inde coloniale l'ont rapporté au sens de massage, avant qu'il ne désigne le lavage des cheveux, puis le produit lui-même. Au début du XIXe siècle, l'entrepreneur indien Sake Dean Mahomed popularisa à Brighton des bains de vapeur accompagnés de massages « shampooing ».",
+      "anecdote": "Le français a gardé la terminaison en « -ing », alors que l'anglais nomme le produit « shampoo ».",
+      "source": "Wikipédia (fr) — « Shampoing »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "lan-10-8",
+      "categorie": "langue",
+      "niveau": 10,
+      "question": "De quelle langue vient le mot « boulevard », qui désignait d'abord un rempart ?",
+      "reponse": "Néerlandais",
+      "variantes": [
+        "Moyen néerlandais",
+        "Flamand",
+        "Hollandais"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Allemand",
+          "Italien",
+          "Anglais"
+        ]
+      },
+      "explication": "« Boulevard » vient du moyen néerlandais bolwerc, « ouvrage de madriers », qui désignait un rempart. Quand Louis XIV fit raser l'enceinte de Paris, à partir de 1670, son emplacement fut transformé en larges promenades plantées d'arbres : les premiers boulevards parisiens. Le mot a alors pris le sens de grande voie urbaine, souvent bordée d'arbres.",
+      "source": "CNRTL (TLFi) — « boulevard »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    }
+  ]
+}

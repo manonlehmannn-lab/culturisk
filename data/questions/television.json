@@ -1,0 +1,1911 @@
+{
+  "categorie": "television",
+  "questions": [
+    {
+      "id": "tel-01-1",
+      "categorie": "television",
+      "niveau": 1,
+      "question": "Quelle petite exploratrice de dessin animé voyage avec son singe Babouche et son sac à dos parlant ?",
+      "reponse": "Dora",
+      "variantes": [
+        "Dora l'exploratrice",
+        "Dora the Explorer"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Diego",
+          "Babouche",
+          "Chipeur"
+        ]
+      },
+      "explication": "Créée par Chris Gifford, Valerie Walsh et Eric Weiner, la série apparaît en 2000 sur la chaîne américaine Nickelodeon. Dora s'adresse directement aux jeunes téléspectateurs, qui doivent l'aider à trouver son chemin grâce à la Carte. Aux États-Unis, elle glisse des mots d'espagnol dans ses aventures ; dans la version française, ce sont des mots d'anglais qu'elle apprend aux enfants.",
+      "anecdote": "Son ennemi, le renard Chipeur, est arrêté par la formule répétée trois fois : « Chipeur, arrête de chiper ! »",
+      "source": "Wikipédia (fr) — « Dora l'exploratrice »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-01-2",
+      "categorie": "television",
+      "niveau": 1,
+      "question": "Dans quel jeu télévisé les candidats affrontent-ils des épreuves dans un fort en mer, sous l'œil du père Fouras ?",
+      "reponse": "Fort Boyard",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Koh-Lanta",
+          "Fort Louvois"
+        ]
+      },
+      "explication": "Conçu par Jacques Antoine, le jeu est diffusé pour la première fois en 1990 sur Antenne 2. Il se déroule dans un fort bâti au XIXe siècle entre l'île d'Aix et l'île d'Oléron, en Charente-Maritime, pour protéger l'arsenal de Rochefort. Les équipes y gagnent des clés et des indices avant de tenter de récupérer les boyards, pièces d'or gardées par des tigres.",
+      "anecdote": "Le format a été vendu dans de nombreux pays : les équipes étrangères viennent tourner leur propre version dans le même fort, avec les mêmes décors.",
+      "source": "Wikipédia (fr) — « Fort Boyard (jeu télévisé) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-01-3",
+      "categorie": "television",
+      "niveau": 1,
+      "question": "Quel animateur a présenté le jeu « Qui veut gagner des millions ? » sur TF1 à partir de 2000 ?",
+      "reponse": "Jean-Pierre Foucault",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Jean-Luc Reichmann",
+          "Julien Lepers",
+          "Nagui"
+        ]
+      },
+      "explication": "Le jeu adapte « Who Wants to Be a Millionaire? », créé en 1998 sur la chaîne britannique ITV. Le candidat doit répondre à quinze questions de difficulté croissante et peut s'aider de jokers : le 50-50, l'appel à un ami et l'avis du public. Jean-Pierre Foucault, déjà connu pour « Sacrée Soirée » à la fin des années 1980, devient le visage de la version française.",
+      "anecdote": "La réponse rituelle des candidats, « C'est mon dernier mot, Jean-Pierre », est entrée dans le langage courant.",
+      "source": "Wikipédia (fr) — « Qui veut gagner des millions ? »",
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote reformulée (expression consacrée) ; piège Camille Combal remplacé par Nagui."
+      }
+    },
+    {
+      "id": "tel-01-4",
+      "categorie": "television",
+      "niveau": 1,
+      "question": "Quel personnage de dessin animé, une éponge de mer jaune, vit dans un ananas au fond de l'océan ?",
+      "reponse": "Bob l'éponge",
+      "variantes": [
+        "SpongeBob",
+        "SpongeBob SquarePants",
+        "Bob l'éponge carrée"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Patrick",
+          "Carlo"
+        ]
+      },
+      "explication": "Créé par Stephen Hillenburg, ancien professeur de biologie marine, Bob l'éponge apparaît en 1999 sur la chaîne américaine Nickelodeon. Il travaille comme cuisinier au Crabe Croustillant, où il prépare des pâtés de crabe, et vit à Bikini Bottom avec son escargot Gary. Son meilleur ami est Patrick, une étoile de mer. La série est devenue l'un des plus grands succès de la chaîne.",
+      "anecdote": "Le nom de sa ville évoque l'atoll de Bikini, dans le Pacifique, où les États-Unis ont mené des essais nucléaires à partir de 1946.",
+      "source": "Wikipédia (fr) — « Bob l'éponge »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-01-5",
+      "categorie": "television",
+      "niveau": 1,
+      "question": "Dans quel télé-crochet de TF1, lancé en 2012, les coachs se retournent-ils dans leur fauteuil s'ils aiment une voix ?",
+      "reponse": "The Voice",
+      "variantes": [
+        "The Voice France",
+        "The Voice : la plus belle voix"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Star Academy",
+          "Nouvelle Star",
+          "La France a un incroyable talent"
+        ]
+      },
+      "explication": "Le programme adapte « The Voice of Holland », créé en 2010 aux Pays-Bas par le producteur John de Mol. Sa première saison française démarre en février 2012. Lors des auditions à l'aveugle, les coachs, assis dos à la scène, n'entendent que la voix du candidat et appuient sur un bouton pour faire pivoter leur fauteuil rouge. Si plusieurs se retournent, c'est le chanteur qui choisit son coach.",
+      "anecdote": "Le concept repose sur une idée simple : juger la voix sans être influencé par l'apparence, l'âge ou l'allure du candidat.",
+      "source": "Wikipédia (fr) — « The Voice : la plus belle voix »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-01-6",
+      "categorie": "television",
+      "niveau": 1,
+      "question": "Quelle petite cochonne de dessin animé britannique adore sauter dans les flaques de boue ?",
+      "reponse": "Peppa Pig",
+      "variantes": [
+        "Peppa",
+        "Peppa le cochon"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "George",
+          "Miss Piggy"
+        ]
+      },
+      "explication": "Créée par Neville Astley et Mark Baker, la série apparaît en 2004 sur la chaîne britannique Channel 5. Chaque épisode, d'environ cinq minutes, raconte une petite scène du quotidien de Peppa, de son petit frère George et de leurs parents, Papa Pig et Maman Pig. Ses dessins très simples et son humour doux en ont fait l'un des programmes préscolaires les plus vendus au monde.",
+      "source": "Wikipédia (fr) — « Peppa Pig »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-01-7",
+      "categorie": "television",
+      "niveau": 1,
+      "question": "Quel dogue allemand peureux résout des mystères avec Sammy, Fred, Daphné et Véra ?",
+      "reponse": "Scooby-Doo",
+      "variantes": [
+        "Scooby"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Scrappy-Doo",
+          "Pluto",
+          "Snoopy"
+        ]
+      },
+      "explication": "Le chien apparaît le 13 septembre 1969 sur la chaîne américaine CBS dans « Scooby-Doo, où es-tu ? ». Avec ses amis de Mystère et Cie, il parcourt le pays à bord d'un fourgon bariolé et enquête sur des fantômes qui se révèlent toujours être des escrocs déguisés, démasqués à la fin de l'épisode. Gourmand et froussard, il ne retrouve son courage qu'en échange de biscuits.",
+      "anecdote": "Son nom viendrait des onomatopées « scooby-dooby-doo » chantées par Frank Sinatra dans « Strangers in the Night ».",
+      "source": "Wikipédia (fr) — « Scooby-Doo »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-01-8",
+      "categorie": "television",
+      "niveau": 1,
+      "question": "Quel animateur a lancé l'émission « Touche pas à mon poste ! » sur France 4 en 2010 ?",
+      "reponse": "Cyril Hanouna",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Yann Barthès",
+          "Arthur",
+          "Christophe Dechavanne"
+        ]
+      },
+      "explication": "D'abord consacrée à l'actualité de la télévision, l'émission démarre en avril 2010 sur France 4, puis passe en 2012 sur D8, rebaptisée C8 en 2016. Entouré de chroniqueurs, Cyril Hanouna en fait un talk-show quotidien très suivi par les jeunes, mais aussi souvent sanctionné par le régulateur. Fin février 2025, C8 cesse d'émettre sur la TNT, l'Arcom n'ayant pas renouvelé son autorisation.",
+      "source": "Wikipédia (fr) — « Touche pas à mon poste ! »",
+      "verification": {
+        "statut": "relue",
+        "note": "Fin de C8 sur la TNT précisée (non-renouvellement par l'Arcom, fin février 2025)."
+      }
+    },
+    {
+      "id": "tel-02-1",
+      "categorie": "television",
+      "niveau": 2,
+      "question": "Quel journaliste a présenté le journal de 13 heures de TF1 de 1988 à 2020 ?",
+      "reponse": "Jean-Pierre Pernaut",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Patrick Poivre d'Arvor",
+          "Jean-Pierre Foucault",
+          "Jean-Pierre Elkabbach"
+        ]
+      },
+      "explication": "Jean-Pierre Pernaut prend les commandes du journal de 13 heures le 22 février 1988 et le présente jusqu'au 18 décembre 2020, soit près de 33 ans. Il en fait un rendez-vous tourné vers les régions, l'artisanat et les traditions, suivi chaque jour par plusieurs millions de téléspectateurs. Marie-Sophie Lacarrau lui succède en janvier 2021. Il meurt en mars 2022.",
+      "source": "Wikipédia (fr) — « Jean-Pierre Pernaut »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-02-2",
+      "categorie": "television",
+      "niveau": 2,
+      "question": "Quel ours en peluche rendait visite aux enfants dans « Bonne nuit les petits », à partir de 1962 ?",
+      "reponse": "Nounours",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Casimir",
+          "Pimprenelle",
+          "Babar"
+        ]
+      },
+      "explication": "Créée par Claude Laydu, l'émission est diffusée pour la première fois en décembre 1962 sur la RTF. Chaque soir, Nounours descend de son nuage par une échelle pour retrouver Nicolas et Pimprenelle avant le coucher, puis repart tandis que le Marchand de sable répand son sable. Ces quelques minutes de marionnettes ont accompagné l'endormissement de plusieurs générations d'enfants français.",
+      "source": "Wikipédia (fr) — « Bonne nuit les petits »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-02-3",
+      "categorie": "television",
+      "niveau": 2,
+      "question": "Quel jeu d'aventure de TF1, adapté du format « Survivor », réunit depuis 2001 des naufragés volontaires sur une île ?",
+      "reponse": "Koh-Lanta",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Pékin Express",
+          "Fort Boyard"
+        ]
+      },
+      "explication": "Le concept est né en Suède en 1997 sous le nom d'« Expedition Robinson », imaginé par le producteur britannique Charlie Parsons. En France, la première saison est tournée en 2001 sur l'île thaïlandaise de Ko Lanta, qui a donné son nom au jeu. Épreuves de confort et d'immunité, conseils et éliminations par vote rythment ces séjours en pleine nature.",
+      "anecdote": "Le totem d'immunité, remporté lors des épreuves, protège son détenteur de l'élimination au conseil suivant.",
+      "source": "Wikipédia (fr) — « Koh-Lanta »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-02-4",
+      "categorie": "television",
+      "niveau": 2,
+      "question": "Dans quel jeu de France 2, animé par Nagui dès 2007, les candidats doivent-ils poursuivre sans erreur le texte d'une chanson quand la musique s'arrête ?",
+      "reponse": "N'oubliez pas les paroles !",
+      "variantes": [
+        "N'oubliez pas les paroles",
+        "NOPLP"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Taratata",
+          "Tout le monde veut prendre sa place",
+          "Fa si la chanter"
+        ]
+      },
+      "explication": "Adapté de l'américain « Don't Forget the Lyrics! », le jeu démarre sur France 2 en 2007. Accompagnés par des musiciens présents sur le plateau, les candidats chantent des tubes de variété ; quand la musique s'interrompt, ils doivent retrouver mot pour mot la suite des paroles. Les meilleurs, appelés « maestros », reviennent d'une émission à l'autre tant qu'ils gagnent, et certains ont remporté de très grosses sommes.",
+      "anecdote": "",
+      "source": "Wikipédia (fr) — « N'oubliez pas les paroles ! »",
+      "verification": {
+        "statut": "relue",
+        "note": "Remplacée : les Teletubbies relèvent de la série jeunesse de fiction (hors périmètre du thème)."
+      }
+    },
+    {
+      "id": "tel-02-5",
+      "categorie": "television",
+      "niveau": 2,
+      "question": "Qui a présenté le journal de 20 heures de TF1 pendant plus de vingt ans, d'août 1987 à juillet 2008 ?",
+      "reponse": "Patrick Poivre d'Arvor",
+      "variantes": [
+        "PPDA",
+        "Poivre d'Arvor"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Jean-Pierre Pernaut",
+          "Gilles Bouleau",
+          "Claire Chazal"
+        ],
+        "nom": "Poivre d'Arvor"
+      },
+      "explication": "Patrick Poivre d'Arvor avait déjà présenté le 20 heures d'Antenne 2 à partir de 1976. Recruté par TF1 après la privatisation de la chaîne, il y devient pendant deux décennies le visage de l'information, interviewant chefs d'État et personnalités. Écarté en 2008, il est remplacé par Laurence Ferrari. Parallèlement, il a publié de nombreux romans et animé des émissions littéraires.",
+      "source": "Wikipédia (fr) — « Patrick Poivre d'Arvor »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-02-6",
+      "categorie": "television",
+      "niveau": 2,
+      "question": "Quel quotidien sportif français, fondé en 1946, a succédé au journal « L'Auto » ?",
+      "reponse": "L'Équipe",
+      "variantes": [
+        "Equipe"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "France Football",
+          "Le Parisien",
+          "Le Sport"
+        ]
+      },
+      "explication": "Le quotidien « L'Auto », dirigé par Henri Desgrange, est interdit à la Libération pour avoir paru sous l'Occupation. Jacques Goddet lance alors « L'Équipe », dont le premier numéro sort le 28 février 1946. Le nouveau titre reprend l'organisation du Tour de France et devient, avec ses unes souvent spectaculaires, le grand quotidien du sport en France.",
+      "anecdote": "Le magazine « France Football », du même groupe, a créé en 1956 le Ballon d'or, qui récompense le meilleur footballeur de l'année.",
+      "source": "Wikipédia (fr) — « L'Équipe »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-02-7",
+      "categorie": "television",
+      "niveau": 2,
+      "question": "Quel jeu de TF1, présenté par Jean-Luc Reichmann à partir de 2010, fait deviner une « étoile mystérieuse » ?",
+      "reponse": "Les Douze Coups de midi",
+      "variantes": [
+        "Les 12 Coups de midi",
+        "Douze Coups de midi",
+        "12 Coups de midi"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Les Z'amours",
+          "Tout le monde veut prendre sa place"
+        ]
+      },
+      "explication": "Diffusé juste avant le journal de 13 heures, le jeu oppose chaque jour des candidats sur des questions de culture générale. Le vainqueur, appelé « Maître de midi », revient le lendemain tant qu'il n'est pas battu, et certains champions ont enchaîné plus d'une centaine de victoires. L'étoile mystérieuse, une personnalité cachée sous un décor, se dévoile un peu plus chaque jour.",
+      "anecdote": "Jean-Luc Reichmann était déjà connu pour avoir animé « Les Z'amours » sur France 2, jeu qui interroge des couples sur leur vie commune.",
+      "source": "Wikipédia (fr) — « Les Douze Coups de midi »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-02-8",
+      "categorie": "television",
+      "niveau": 2,
+      "question": "Quel animateur a présenté la première saison de « Star Academy », lancée sur TF1 en octobre 2001 ?",
+      "reponse": "Nikos Aliagas",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Benjamin Castaldi",
+          "Nagui",
+          "Arthur"
+        ]
+      },
+      "explication": "Adaptée du format espagnol « Operación Triunfo », la Star Academy enferme de jeunes chanteurs dans un château où ils suivent des cours, tout en étant filmés en permanence. Chaque semaine, un prime en direct les fait chanter avec des vedettes, et le public élimine des candidats. La première saison est remportée en janvier 2002 par Jenifer. L'émission revient sur TF1 en 2022, toujours avec Nikos Aliagas.",
+      "anecdote": "Né à Paris de parents grecs, Nikos Aliagas a d'abord été journaliste pour Euronews, la chaîne d'information européenne.",
+      "source": "Wikipédia (fr) — « Star Academy (France) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-03-1",
+      "categorie": "television",
+      "niveau": 3,
+      "question": "Quel animateur a présenté « Questions pour un champion » dès son lancement sur FR3, en 1988 ?",
+      "reponse": "Julien Lepers",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Samuel Étienne",
+          "Jean-Pierre Foucault"
+        ]
+      },
+      "explication": "Adapté du jeu britannique « Going for Gold », « Questions pour un champion » démarre en 1988 sur FR3. Julien Lepers l'anime pendant plus de vingt-cinq ans, avec ses manches « Neuf points gagnants », « Quatre à la suite » et « Face à face ». Écarté par France 3, il est remplacé en 2016 par Samuel Étienne. Le jeu a aussi donné naissance à des clubs de passionnés.",
+      "anecdote": "Avant « Questions pour un champion », Julien Lepers a composé des chansons, dont « Pour le plaisir », succès d'Herbert Léonard au début des années 1980.",
+      "source": "Wikipédia (fr) — « Questions pour un champion »",
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote : date de « Pour le plaisir » rendue prudente."
+      }
+    },
+    {
+      "id": "tel-03-2",
+      "categorie": "television",
+      "niveau": 3,
+      "question": "Quel hebdomadaire satirique français, paru pour la première fois en 1915, porte le nom d'un palmipède ?",
+      "reponse": "Le Canard enchaîné",
+      "variantes": [
+        "Canard enchaîné"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Charlie Hebdo",
+          "Hara-Kiri"
+        ]
+      },
+      "explication": "Fondé en septembre 1915 par Maurice et Jeanne Maréchal, le journal moque d'abord la censure et le « bourrage de crâne » de la Grande Guerre. Il paraît le mercredi, mêle dessins, calembours et révélations, et ne publie aucune publicité, se finançant par ses ventes. Ses enquêtes ont pesé sur plusieurs affaires, comme celle des diamants de Bokassa, révélée en 1979.",
+      "anecdote": "Son titre fait un clin d'œil à « L'Homme enchaîné », le journal de Clemenceau, et au mot « canard », qui désignait déjà un journal en argot.",
+      "source": "Wikipédia (fr) — « Le Canard enchaîné »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-03-3",
+      "categorie": "television",
+      "niveau": 3,
+      "question": "Quelle chaîne, lancée le 4 novembre 1984, fut la première chaîne de télévision payante française ?",
+      "reponse": "Canal+",
+      "variantes": [
+        "Canal Plus"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "La Cinq",
+          "TF1",
+          "M6"
+        ]
+      },
+      "explication": "Portée par André Rousselet, proche de François Mitterrand, et adossée à l'agence Havas, Canal+ diffuse l'essentiel de ses programmes en crypté, visibles grâce à un décodeur loué aux abonnés. Elle mise sur le cinéma récent, le football et un ton impertinent, avec des émissions comme « Nulle part ailleurs ». Ses plages en clair servent de vitrine pour attirer de nouveaux abonnés.",
+      "source": "Wikipédia (fr) — « Canal+ »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-03-4",
+      "categorie": "television",
+      "niveau": 3,
+      "question": "Quelle émission jeunesse de TF1, diffusée de 1987 à 1997, a popularisé « Dragon Ball » et « Les Chevaliers du Zodiaque » ?",
+      "reponse": "Club Dorothée",
+      "variantes": [
+        "Le Club Dorothée"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Récré A2",
+          "L'Île aux enfants"
+        ]
+      },
+      "explication": "Après avoir animé « Récré A2 » sur Antenne 2, Dorothée rejoint TF1 en 1987, peu après la privatisation de la chaîne. Produit par AB Productions, le Club Dorothée occupe des heures entières les mercredis et pendant les vacances, mêlant chansons, jeux, sitcoms et nombreux dessins animés japonais. Critiqué pour la violence de certains programmes, il s'arrête en août 1997.",
+      "anecdote": "Dorothée, de son vrai nom Frédérique Hoschedé, a aussi mené une carrière de chanteuse, avec des succès comme « Hou ! La menteuse ».",
+      "source": "Wikipédia (fr) — « Club Dorothée »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-03-5",
+      "categorie": "television",
+      "niveau": 3,
+      "question": "Quelle émission de M6, lancée en avril 2001, est considérée comme la première téléréalité française ?",
+      "reponse": "Loft Story",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Secret Story",
+          "Star Academy",
+          "Big Brother"
+        ]
+      },
+      "explication": "Adapté du néerlandais « Big Brother », lancé en 1999 par la société Endemol, « Loft Story » enferme une dizaine de jeunes célibataires dans un appartement truffé de caméras à La Plaine-Saint-Denis. Présenté par Benjamin Castaldi, le programme suscite un énorme débat sur le voyeurisme et des audiences record pour M6. Loana et Christophe en sortent vainqueurs en juillet 2001.",
+      "anecdote": "",
+      "source": "Wikipédia (fr) — « Loft Story (France) »",
+      "verification": {
+        "statut": "relue",
+        "note": "Anecdote incertaine (militants ouvrant les portes du loft) retirée."
+      }
+    },
+    {
+      "id": "tel-03-6",
+      "categorie": "television",
+      "niveau": 3,
+      "question": "Quel animateur a lancé l'émission dominicale « Vivement dimanche » sur France 2 en 1998 ?",
+      "reponse": "Michel Drucker",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Jacques Martin",
+          "Patrick Sébastien",
+          "Laurent Ruquier"
+        ]
+      },
+      "explication": "Entré à l'ORTF en 1964 comme journaliste sportif, Michel Drucker devient l'un des animateurs de variétés les plus populaires de France. Après « Champs-Élysées », grand rendez-vous du samedi soir sur Antenne 2 dans les années 1980, il s'installe le dimanche après-midi sur France 2 avec « Vivement dimanche », tourné au studio Gabriel, à deux pas des Champs-Élysées.",
+      "source": "Wikipédia (fr) — « Michel Drucker »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-03-7",
+      "categorie": "television",
+      "niveau": 3,
+      "question": "Quelle émission satirique de marionnettes en latex, lancée sur Canal+ en 1988, s'est arrêtée en 2018 ?",
+      "reponse": "Les Guignols de l'info",
+      "variantes": [
+        "Les Guignols",
+        "Guignols de l'info",
+        "Les Arènes de l'info"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Le Bébête Show",
+          "Spitting Image"
+        ]
+      },
+      "explication": "Inspirée du britannique « Spitting Image », l'émission démarre en 1988 sous le nom « Les Arènes de l'info », avant de devenir « Les Guignols de l'info » en 1990. Chaque soir, un faux journal parodie l'actualité, et les caricatures de personnalités politiques, comme celle de Jacques Chirac, ont pesé sur leur image publique. Après une forte baisse d'audience, l'émission disparaît en 2018.",
+      "source": "Wikipédia (fr) — « Les Guignols de l'info »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-03-8",
+      "categorie": "television",
+      "niveau": 3,
+      "question": "Quelles récompenses américaines de la télévision prennent la forme d'une femme ailée tenant un atome ?",
+      "reponse": "Emmy Awards",
+      "variantes": [
+        "Emmy",
+        "Emmys",
+        "Emmy Award"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Golden Globes",
+          "Grammy Awards",
+          "Oscars"
+        ]
+      },
+      "explication": "Créés par l'Académie de la télévision, les Emmy Awards sont remis pour la première fois en janvier 1949, à Hollywood. La statuette, dessinée par l'ingénieur Louis McManus, représente une muse ailée, symbole de l'art, brandissant un atome, symbole de la science. Ils sont souvent comparés aux Oscars du cinéma et aux Grammy Awards de la musique.",
+      "anecdote": "Leur nom vient de « Immy », surnom donné au tube « image orthicon » utilisé dans les premières caméras de télévision.",
+      "source": "Wikipédia (fr) — « Emmy Awards »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-04-1",
+      "categorie": "television",
+      "niveau": 4,
+      "question": "Quel quotidien du soir Hubert Beuve-Méry a-t-il fondé à Paris en décembre 1944 ?",
+      "reponse": "Le Monde",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Le Figaro",
+          "Le Temps",
+          "Libération",
+          "France-Soir"
+        ]
+      },
+      "explication": "Le premier numéro paraît le 18 décembre 1944, daté du lendemain. Souhaité par le général de Gaulle, qui voulait un quotidien de référence après la Libération, le journal s'installe dans les locaux du « Temps », dont la parution avait été interdite. Hubert Beuve-Méry, qui signe parfois ses éditoriaux « Sirius », le dirige jusqu'en 1969 et lui impose un style austère et exigeant.",
+      "source": "Wikipédia (fr) — « Le Monde »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-04-2",
+      "categorie": "television",
+      "niveau": 4,
+      "question": "Quel hebdomadaire, relancé en 1949 par Jean Prouvost, a pour devise « Le poids des mots, le choc des photos » ?",
+      "reponse": "Paris Match",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "L'Express",
+          "Point de vue",
+          "Le Point"
+        ]
+      },
+      "explication": "Jean Prouvost, déjà propriétaire de « Paris-Soir » et de « Marie Claire », transforme en mars 1949 l'ancien hebdomadaire sportif « Match » en magazine d'actualité illustré, sur le modèle de l'américain « Life ». Les grands reportages photographiques font son succès : guerres, têtes couronnées, vedettes. Sa devise, adoptée plus tard, résume cette alliance entre le texte et l'image.",
+      "source": "Wikipédia (fr) — « Paris Match »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-04-3",
+      "categorie": "television",
+      "niveau": 4,
+      "question": "Quel quotidien a révélé le scandale du Watergate grâce aux enquêtes de Bob Woodward et Carl Bernstein ?",
+      "reponse": "The Washington Post",
+      "variantes": [
+        "Washington Post"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "The New York Times",
+          "Washington Times"
+        ]
+      },
+      "explication": "Tout part d'un cambriolage au siège du Parti démocrate, dans l'immeuble du Watergate, en juin 1972. Les deux jeunes reporters remontent la piste jusqu'à l'entourage du président Richard Nixon, aidés par un informateur anonyme surnommé « Gorge profonde ». Le journal reçoit le prix Pulitzer du service public en 1973, et Nixon démissionne le 9 août 1974, menacé de destitution.",
+      "anecdote": "L'identité de « Gorge profonde » est restée secrète jusqu'en 2005 : il s'agissait de Mark Felt, numéro deux du FBI à l'époque des faits.",
+      "source": "Wikipédia (fr) — « Scandale du Watergate »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-04-4",
+      "categorie": "television",
+      "niveau": 4,
+      "question": "Quelle agence de presse mondiale a été créée à Paris en 1944, sur les bases de l'ancienne agence Havas ?",
+      "reponse": "Agence France-Presse",
+      "variantes": [
+        "AFP"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Reuters",
+          "Associated Press"
+        ]
+      },
+      "explication": "Fondée par Charles-Louis Havas en 1835, l'agence Havas passe pour la plus ancienne agence de presse du monde. Sous l'Occupation, sa branche information devient l'Office français d'information, contrôlé par Vichy. En août 1944, à la Libération de Paris, des journalistes résistants s'emparent de ses locaux et créent l'Agence France-Presse, dont l'indépendance est garantie par un statut voté en 1957.",
+      "source": "Wikipédia (fr) — « Agence France-Presse »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-04-5",
+      "categorie": "television",
+      "niveau": 4,
+      "question": "Quel animateur a créé en 1987 le magazine d'aventures « Ushuaïa » sur TF1 ?",
+      "reponse": "Nicolas Hulot",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Yann Arthus-Bertrand",
+          "Frédéric Lopez"
+        ]
+      },
+      "explication": "« Ushuaïa, le magazine de l'extrême » emmène les téléspectateurs dans des paysages spectaculaires, entre exploits sportifs et découvertes de la nature. Le titre reprend le nom d'une ville argentine de la Terre de Feu, à l'extrême sud du continent. Nicolas Hulot crée ensuite une fondation pour la nature, puis devient ministre de la Transition écologique de 2017 à 2018.",
+      "anecdote": "Il a annoncé sa démission du gouvernement en direct, lors d'une interview à la radio sur France Inter, en août 2018.",
+      "source": "Wikipédia (fr) — « Ushuaïa, le magazine de l'extrême »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-04-6",
+      "categorie": "television",
+      "niveau": 4,
+      "question": "Quel quotidien, fondé en 1826, est en 2024 le doyen des quotidiens nationaux français encore publiés ?",
+      "reponse": "Le Figaro",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Le Monde",
+          "La Croix",
+          "Le Petit Journal"
+        ]
+      },
+      "explication": "D'abord hebdomadaire satirique, le journal devient quotidien en 1866 sous la direction d'Hippolyte de Villemessant. Il emprunte son titre au valet de Beaumarchais et sa devise à la même pièce : « Sans la liberté de blâmer, il n'est point d'éloge flatteur ». Ancré à droite, il appartient depuis 2004 au groupe industriel Dassault.",
+      "anecdote": "Le 20 février 1909, il publie à la une le « Manifeste du futurisme » de l'Italien Filippo Tommaso Marinetti.",
+      "source": "Wikipédia (fr) — « Le Figaro »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-04-7",
+      "categorie": "television",
+      "niveau": 4,
+      "question": "Quel roman de H. G. Wells Orson Welles a-t-il adapté à la radio en 1938, sous forme de faux flashs d'information ?",
+      "reponse": "La Guerre des mondes",
+      "variantes": [
+        "The War of the Worlds"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "La Machine à explorer le temps",
+          "L'Homme invisible"
+        ]
+      },
+      "explication": "Le 30 octobre 1938, veille d'Halloween, la troupe du Mercury Theatre diffuse sur la radio CBS une adaptation où des bulletins d'information interrompent un programme musical pour décrire l'arrivée de Martiens dans le New Jersey. Certains auditeurs prennent l'émission pour un vrai reportage. La presse amplifie ensuite l'ampleur de la panique, que les historiens jugent limitée.",
+      "anecdote": "En 1949, une adaptation diffusée à Quito, en Équateur, provoqua une émeute au cours de laquelle le bâtiment de la radio fut incendié.",
+      "source": "Wikipédia (fr) — « La Guerre des mondes (émission de radio) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-04-8",
+      "categorie": "television",
+      "niveau": 4,
+      "question": "Quel réseau de radio, fondé en 1981 par Jean-Paul Baudecroux, tire son nom de « Nouvelle Radio Jeune » ?",
+      "reponse": "NRJ",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "RTL2",
+          "Skyrock",
+          "Fun Radio"
+        ],
+        "exact": true
+      },
+      "explication": "NRJ naît dans la foulée de l'élection de François Mitterrand, qui met fin au monopole public : une loi de novembre 1981 autorise les radios libres privées. Fondée par Jean-Paul Baudecroux avec Max Guazzini, la station parisienne mise sur les tubes et un ton jeune, et profite de l'autorisation de la publicité en 1984 pour devenir un réseau national puis un groupe de médias.",
+      "anecdote": "Lu à voix haute, le sigle sonne comme le mot « énergie ».",
+      "source": "Wikipédia (fr) — « NRJ »",
+      "verification": {
+        "statut": "relue",
+        "note": "Variante « Énergie » retirée (ce n'est pas le nom de la radio) ; anecdote non spéculative."
+      }
+    },
+    {
+      "id": "tel-05-1",
+      "categorie": "television",
+      "niveau": 5,
+      "question": "Quel homme d'affaires américain a fondé en 1980 CNN, première chaîne de télévision d'information en continu ?",
+      "reponse": "Ted Turner",
+      "variantes": [
+        "Robert Edward Turner"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Rupert Murdoch",
+          "Roger Ailes"
+        ]
+      },
+      "explication": "Lancée le 1er juin 1980 depuis Atlanta, CNN diffuse des informations vingt-quatre heures sur vingt-quatre, un pari jugé alors risqué. Sa notoriété explose en janvier 1991, pendant la guerre du Golfe : ses envoyés restés dans un hôtel de Bagdad racontent en direct les bombardements, suivis par le monde entier. On parle depuis d'« effet CNN » pour désigner l'influence des images en direct sur l'opinion et les décisions politiques.",
+      "anecdote": "En 1997, Ted Turner a annoncé un don d'un milliard de dollars pour soutenir les actions des Nations unies.",
+      "source": "Wikipédia (fr) — « Cable News Network »",
+      "verification": {
+        "statut": "relue",
+        "note": "Définition de l'« effet CNN » précisée."
+      }
+    },
+    {
+      "id": "tel-05-2",
+      "categorie": "television",
+      "niveau": 5,
+      "question": "Quel patron de presse américain d'origine hongroise a légué sa fortune pour créer des prix décernés depuis 1917 ?",
+      "reponse": "Joseph Pulitzer",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "William Randolph Hearst"
+        ]
+      },
+      "explication": "Né en Hongrie en 1847, Joseph Pulitzer émigre aux États-Unis et s'engage dans l'armée de l'Union pendant la guerre de Sécession. Il fait fortune avec le « New York World », racheté en 1883, qui mêle enquêtes, campagnes et faits divers. Il lègue à l'université Columbia de quoi ouvrir une école de journalisme, inaugurée en 1912, et fonder des prix annuels, qui récompensent aujourd'hui le journalisme, les lettres et la musique.",
+      "anecdote": "En 1885, son journal lance une souscription populaire qui permet de financer le piédestal de la statue de la Liberté.",
+      "source": "Wikipédia (fr) — « Joseph Pulitzer »",
+      "verification": {
+        "statut": "relue",
+        "note": "Explication : le prix de musique n'existait pas à l'origine (formulation corrigée)."
+      }
+    },
+    {
+      "id": "tel-05-3",
+      "categorie": "television",
+      "niveau": 5,
+      "question": "Quel animateur a lancé en 1962 le jeu « Intervilles », où des villes rivales s'affrontaient face à des vachettes ?",
+      "reponse": "Guy Lux",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Léon Zitrone",
+          "Jacques Martin"
+        ]
+      },
+      "explication": "« Intervilles » oppose deux villes dans des épreuves sportives et burlesques, dont les célèbres passages devant des vachettes lâchées dans l'arène. Guy Lux l'anime avec Léon Zitrone et Simone Garnier, dans une ambiance de joutes bon enfant. Le jeu connaît de nombreuses reprises sur plusieurs chaînes et inspire « Jeux sans frontières », sa déclinaison européenne lancée en 1965.",
+      "anecdote": "Guy Lux a aussi animé à la fin des années 1960 « Le Schmilblic », jeu que Coluche a parodié dans un sketch resté célèbre.",
+      "source": "Wikipédia (fr) — « Intervilles »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-05-4",
+      "categorie": "television",
+      "niveau": 5,
+      "question": "Quelle chaîne d'information en continu, filiale du groupe TF1, a été lancée le 24 juin 1994 ?",
+      "reponse": "LCI",
+      "variantes": [
+        "La Chaîne Info"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "BFM TV",
+          "franceinfo",
+          "CNews",
+          "i-Télé",
+          "LCP"
+        ],
+        "exact": true
+      },
+      "explication": "Lancée par le groupe TF1 sur le câble et le satellite, LCI, pour « La Chaîne Info », est la première chaîne française d'information en continu. Longtemps réservée aux abonnés, elle devient gratuite sur la TNT en 2016. Elle a dû affronter la concurrence d'i-Télé, lancée par Canal+ en 1999 et devenue CNews en 2017, puis celle de BFM TV, apparue en 2005 avec l'arrivée de la télévision numérique terrestre.",
+      "source": "Wikipédia (fr) — « LCI »",
+      "verification": {
+        "statut": "relue",
+        "note": "Remplacée : la victoire de Céline Dion pour la Suisse figure déjà dans l'explication de mus-02-4."
+      },
+      "anecdote": ""
+    },
+    {
+      "id": "tel-05-5",
+      "categorie": "television",
+      "niveau": 5,
+      "question": "Quelle émission littéraire Bernard Pivot a-t-il animée en direct sur Antenne 2 de 1975 à 1990 ?",
+      "reponse": "Apostrophes",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Bouillon de culture",
+          "Lectures pour tous",
+          "La Grande Librairie"
+        ]
+      },
+      "explication": "Diffusée le vendredi soir du 10 janvier 1975 au 22 juin 1990, l'émission réunit chaque semaine plusieurs auteurs autour d'un thème. Un passage à « Apostrophes » peut faire exploser les ventes d'un livre. Pivot y reçoit Nabokov, Soljenitsyne, Marguerite Duras ou Patrick Modiano. Il enchaîne ensuite avec « Bouillon de culture », jusqu'en 2001.",
+      "anecdote": "En 1978, l'écrivain américain Charles Bukowski, visiblement ivre, quitte le plateau en direct après avoir perturbé l'émission.",
+      "source": "Wikipédia (fr) — « Apostrophes »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-05-6",
+      "categorie": "television",
+      "niveau": 5,
+      "question": "Quelle famille préhistorique de Bedrock fut, en 1960, la première série d'animation diffusée en soirée aux États-Unis ?",
+      "reponse": "Les Pierrafeu",
+      "variantes": [
+        "The Flintstones",
+        "Flintstones",
+        "Pierrafeu"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Les Simpson",
+          "Les Jetson"
+        ]
+      },
+      "explication": "Produite par le studio Hanna-Barbera, la série démarre le 30 septembre 1960 sur ABC, en première partie de soirée, pour un public familial. Fred, sa femme et leurs voisins vivent à l'âge de pierre, mais avec des équivalents de voitures, de téléphones ou d'électroménager. Le dessin animé parodie la vie de banlieue américaine et s'inspire de la comédie « The Honeymooners ».",
+      "anecdote": "Le cri de joie de Fred, « Yabba Dabba Doo ! », est devenu l'une des répliques les plus célèbres du dessin animé.",
+      "source": "Wikipédia (fr) — « Les Pierrafeu »",
+      "verification": {
+        "statut": "relue",
+        "note": "Prénoms anglais des personnages retirés (noms différents en version française)."
+      }
+    },
+    {
+      "id": "tel-05-7",
+      "categorie": "television",
+      "niveau": 5,
+      "question": "Quel candidat a lancé à François Mitterrand « Vous n'avez pas le monopole du cœur » lors du débat télévisé de 1974 ?",
+      "reponse": "Valéry Giscard d'Estaing",
+      "variantes": [
+        "Giscard",
+        "VGE",
+        "Giscard d'Estaing"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Jacques Chirac",
+          "Jacques Chaban-Delmas"
+        ],
+        "nom": "Giscard d'Estaing"
+      },
+      "explication": "Le 10 mai 1974, entre les deux tours de l'élection présidentielle, les deux finalistes s'affrontent lors du premier débat télévisé de ce type en France. La phrase de Valéry Giscard d'Estaing, qui reproche à son rival de prétendre au monopole de la générosité, marque les esprits. Il est élu le 19 mai avec environ 50,8 % des voix, l'un des écarts les plus serrés de la Ve République.",
+      "anecdote": "Les deux hommes se retrouvent en 1981 pour un nouveau débat, cette fois remporté dans les urnes par François Mitterrand.",
+      "source": "Wikipédia (fr) — « Élection présidentielle française de 1974 »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-05-8",
+      "categorie": "television",
+      "niveau": 5,
+      "question": "Dans quel émirat la chaîne d'information Al Jazeera a-t-elle été lancée en 1996 ?",
+      "reponse": "Qatar",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Émirats arabes unis",
+          "Dubaï",
+          "Bahreïn",
+          "Koweït"
+        ]
+      },
+      "explication": "Lancée le 1er novembre 1996 à Doha avec le soutien financier de l'émir Hamad ben Khalifa Al Thani, Al Jazeera recrute de nombreux journalistes venus du service arabe de la BBC. Son ton libre, inédit dans le monde arabe, et ses débats contradictoires bousculent les régimes voisins. Elle acquiert une notoriété mondiale après 2001, en diffusant notamment des messages d'Oussama ben Laden.",
+      "anecdote": "Son nom signifie « l'île » ou « la péninsule » en arabe, allusion à la péninsule Arabique.",
+      "source": "Wikipédia (fr) — « Al Jazeera »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-06-1",
+      "categorie": "television",
+      "niveau": 6,
+      "question": "Quel office public de radio et de télévision, créé en 1964, a été éclaté en sept sociétés au 1er janvier 1975 ?",
+      "reponse": "ORTF",
+      "variantes": [
+        "Office de radiodiffusion-télévision française"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "RTF"
+        ],
+        "exact": true
+      },
+      "explication": "L'Office de radiodiffusion-télévision française succède en 1964 à la RTF. Il gère les chaînes de télévision et les radios publiques, sous une forte tutelle de l'État. Après Mai 68, puis sous la présidence de Valéry Giscard d'Estaing, une loi d'août 1974 le démantèle en sept sociétés : TF1, Antenne 2, FR3, Radio France, la SFP, TDF et l'INA, chargé des archives.",
+      "source": "Wikipédia (fr) — « Office de radiodiffusion-télévision française »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-06-2",
+      "categorie": "television",
+      "niveau": 6,
+      "question": "Quelle chaîne privée française, lancée en 1986 avec Silvio Berlusconi, a cessé d'émettre en avril 1992 ?",
+      "reponse": "La Cinq",
+      "variantes": [
+        "Cinq"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "TV6",
+          "M6",
+          "La Cinquième",
+          "France 5"
+        ]
+      },
+      "explication": "Lancée le 20 février 1986, La Cinq est l'une des premières chaînes privées gratuites de France, confiée par le gouvernement de Laurent Fabius à Jérôme Seydoux et Silvio Berlusconi. Elle reprend la recette des télévisions commerciales italiennes : jeux, variétés, films et séries. Reprise ensuite par Robert Hersant puis par le groupe Hachette, elle accumule les déficits et s'éteint le 12 avril 1992.",
+      "anecdote": "Son canal a ensuite été partagé entre Arte, le soir, et La Cinquième, chaîne éducative lancée en 1994, en journée.",
+      "source": "Wikipédia (fr) — « La Cinq »",
+      "verification": {
+        "statut": "relue",
+        "note": "Erreur du vérificateur corrigée : le piège « La Cinquième » se normalisait comme la réponse (ordinal = 5) ; retiré. Variantes « 5 » et « La 5 » retirées : elles faisaient accepter « La Cinquième », une autre chaîne."
+      }
+    },
+    {
+      "id": "tel-06-3",
+      "categorie": "television",
+      "niveau": 6,
+      "question": "Quel grand reporter, mort en 1932 dans l'incendie d'un paquebot, a donné son nom à un prestigieux prix de journalisme ?",
+      "reponse": "Albert Londres",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Joseph Kessel",
+          "Henri de Monfreid"
+        ]
+      },
+      "explication": "Dans les années 1920, Albert Londres enquête sur le bagne de Guyane, les asiles psychiatriques ou les coureurs du Tour de France. Son reportage « Au bagne », paru en 1923, contribue à la fermeture du bagne. Il meurt en mai 1932 dans l'incendie du paquebot Georges-Philippar, au large d'Aden. Sa fille Florise crée l'année suivante le prix, qui distingue chaque année de jeunes reporters.",
+      "anecdote": "Sa devise est restée célèbre : « Notre métier n'est pas de faire plaisir, non plus de faire du tort, il est de porter la plume dans la plaie. »",
+      "source": "Wikipédia (fr) — « Albert Londres »",
+      "verification": {
+        "statut": "relue",
+        "note": "Cause de la mort harmonisée avec l'énoncé (incendie du paquebot)."
+      }
+    },
+    {
+      "id": "tel-06-4",
+      "categorie": "television",
+      "niveau": 6,
+      "question": "Quel poète a écrit les vers diffusés par Radio Londres pour annoncer aux résistants le débarquement de juin 1944 ?",
+      "reponse": "Paul Verlaine",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Arthur Rimbaud",
+          "Victor Hugo",
+          "Charles Baudelaire"
+        ]
+      },
+      "explication": "Parmi les « messages personnels » de la BBC figurent les premiers vers de « Chanson d'automne », tirée des « Poèmes saturniens » de 1866. « Les sanglots longs des violons de l'automne » prévient certains réseaux de résistance que l'invasion approche ; la suite, diffusée le 5 juin 1944 au soir, annonce qu'elle est imminente et déclenche des sabotages, notamment contre les voies ferrées.",
+      "anecdote": "Ces messages volontairement absurdes, comme « Jean a de longues moustaches », permettaient de transmettre des consignes codées sans alerter l'occupant.",
+      "source": "Wikipédia (fr) — « Chanson d'automne »",
+      "verification": {
+        "statut": "relue",
+        "note": "Formulation du message du 5 juin rendue plus exacte."
+      }
+    },
+    {
+      "id": "tel-06-5",
+      "categorie": "television",
+      "niveau": 6,
+      "question": "Quelle chaîne a remplacé la chaîne musicale TV6 le 1er mars 1987 ?",
+      "reponse": "M6",
+      "variantes": [
+        "Métropole Télévision"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "La Cinq",
+          "TV6",
+          "Canal+"
+        ],
+        "exact": true
+      },
+      "explication": "Lancée en 1986, TV6, chaîne consacrée à la musique, perd son autorisation après l'alternance politique de 1986. Le canal est attribué à Métropole Télévision, portée par la CLT, maison mère de RTL, et la Lyonnaise des eaux. M6 démarre le 1er mars 1987 avec beaucoup de clips et de séries, et se présente longtemps comme « la petite chaîne qui monte ».",
+      "source": "Wikipédia (fr) — « M6 »",
+      "verification": {
+        "statut": "relue",
+        "note": "Variante « Métropole 6 » (non attestée) retirée."
+      }
+    },
+    {
+      "id": "tel-06-6",
+      "categorie": "television",
+      "niveau": 6,
+      "question": "Quelles créatures absurdes et obstinées, qui pompaient sans relâche, Jacques Rouxel a-t-il créées pour l'ORTF en 1968 ?",
+      "reponse": "Les Shadoks",
+      "variantes": [
+        "Shadoks",
+        "Shadok"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Les Gibis",
+          "Les Barbapapa"
+        ]
+      },
+      "explication": "Diffusés à partir du 29 avril 1968, les Shadoks sont des oiseaux grossièrement dessinés, au vocabulaire limité à quatre mots, qui pompent sans cesse et échouent toujours. Leurs ennemis, les Gibis, sont intelligents et coiffés d'un chapeau melon. Racontée par la voix pince-sans-rire de Claude Piéplu, la série divise la France entre admirateurs et indignés.",
+      "anecdote": "L'une de leurs devises : « Il vaut mieux pomper même s'il ne se passe rien que risquer qu'il se passe quelque chose de pire en ne pompant pas. »",
+      "source": "Wikipédia (fr) — « Les Shadoks »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-06-7",
+      "categorie": "television",
+      "niveau": 6,
+      "question": "Quel hebdomadaire Françoise Giroud et Jean-Jacques Servan-Schreiber ont-ils fondé en 1953 ?",
+      "reponse": "L'Express",
+      "variantes": [
+        "Express"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Le Nouvel Observateur",
+          "Le Point",
+          "Paris Match"
+        ]
+      },
+      "explication": "Né en mai 1953 comme supplément du quotidien économique « Les Échos », « L'Express » soutient Pierre Mendès France et s'oppose à la guerre d'Algérie, publiant des signatures comme Albert Camus ou François Mauriac. En 1964, il adopte la formule d'un newsmagazine à l'américaine. Françoise Giroud devient en 1974 la première secrétaire d'État à la Condition féminine.",
+      "source": "Wikipédia (fr) — « L'Express »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-06-8",
+      "categorie": "television",
+      "niveau": 6,
+      "question": "Quel futur président du Conseil, éditorialiste de « L'Aurore », a trouvé le titre de « J'accuse… ! », la lettre d'Émile Zola parue en 1898 ?",
+      "reponse": "Georges Clemenceau",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Jean Jaurès",
+          "Léon Blum",
+          "Jules Ferry"
+        ]
+      },
+      "explication": "Le 13 janvier 1898, « L'Aurore » publie à la une la lettre ouverte d'Émile Zola au président Félix Faure, qui accuse nommément des officiers d'avoir fait condamner à tort le capitaine Dreyfus. C'est Georges Clemenceau qui propose le titre. Battu aux législatives de 1893, il s'était alors consacré au journalisme ; il revient ensuite au pouvoir et dirige le gouvernement à la fin de la Grande Guerre.",
+      "anecdote": "Avant « L'Aurore », Zola avait défendu Dreyfus dans « Le Figaro », qui avait renoncé à publier ses articles face au mécontentement de ses lecteurs.",
+      "source": "Wikipédia (fr) — « J'accuse…! »",
+      "verification": {
+        "statut": "relue",
+        "note": "Remplacée : le journal (L'Aurore) est déjà donné dans l'explication de lit-05-4 ; question sur l'auteur du titre ; tirage incertain retiré."
+      }
+    },
+    {
+      "id": "tel-07-1",
+      "categorie": "television",
+      "niveau": 7,
+      "question": "Quel journal satirique, interdit en 1970 après une une sur la mort du général de Gaulle, renaît sous le nom de « Charlie Hebdo » ?",
+      "reponse": "Hara-Kiri",
+      "variantes": [
+        "Hara-Kiri Hebdo",
+        "L'Hebdo Hara-Kiri"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Le Canard enchaîné",
+          "L'Os à moelle"
+        ]
+      },
+      "explication": "Fondé en 1960 par François Cavanna et Georges Bernier, alias le professeur Choron, « Hara-Kiri » se proclame « journal bête et méchant ». En novembre 1970, sa version hebdomadaire titre « Bal tragique à Colombey : 1 mort », allusion à l'incendie d'une discothèque qui avait fait 146 victimes quelques jours plus tôt. Le ministère de l'Intérieur l'interdit ; l'équipe lance aussitôt « Charlie Hebdo ».",
+      "anecdote": "Le titre « Charlie » renvoyait à « Charlie Mensuel », revue de bande dessinée nommée d'après Charlie Brown, et, malicieusement, à Charles de Gaulle.",
+      "source": "Wikipédia (fr) — « Hara-Kiri (journal) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-07-2",
+      "categorie": "television",
+      "niveau": 7,
+      "question": "Quelle radio pirate, lancée en mars 1964 par l'Irlandais Ronan O'Rahilly, diffusait de la pop depuis un navire au large de l'Angleterre ?",
+      "reponse": "Radio Caroline",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Radio London",
+          "Radio Luxembourg"
+        ]
+      },
+      "explication": "Émettant depuis les eaux internationales, Radio Caroline contourne le monopole de la BBC. Elle diffuse en continu la pop et le rock que la radio publique programme peu, et séduit des millions de jeunes auditeurs. D'autres stations l'imitent, comme Radio London. Une loi de 1967 interdit de soutenir ces stations, mais Caroline continue d'émettre par intermittence pendant des décennies.",
+      "anecdote": "La BBC réplique en septembre 1967 en créant Radio 1, sa station pop, qui recrute plusieurs animateurs venus des radios pirates.",
+      "source": "Wikipédia (fr) — « Radio Caroline »",
+      "verification": {
+        "statut": "relue",
+        "note": "Énoncé précisé : Radio London émettait aussi d'un navire dès fin 1964 (réponse non unique)."
+      }
+    },
+    {
+      "id": "tel-07-3",
+      "categorie": "television",
+      "niveau": 7,
+      "question": "Quel présentateur de CBS a annoncé en direct, ému, la mort du président Kennedy le 22 novembre 1963 ?",
+      "reponse": "Walter Cronkite",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Edward R. Murrow",
+          "Dan Rather"
+        ]
+      },
+      "explication": "Présentateur du « CBS Evening News » de 1962 à 1981, Walter Cronkite ôte ses lunettes et regarde l'horloge en annonçant que le président est mort à 13 heures, heure de Dallas. Surnommé « l'homme le plus digne de confiance d'Amérique », il pèse aussi sur l'opinion en 1968, lorsqu'il juge à son retour du Viêt Nam que la guerre s'enlise.",
+      "anecdote": "Il concluait chaque journal par la formule « And that's the way it is », « Et c'est ainsi que vont les choses ».",
+      "source": "Wikipédia (fr) — « Walter Cronkite »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-07-4",
+      "categorie": "television",
+      "niveau": 7,
+      "question": "Quel organisme, fondé en 1950 et basé à Genève, organise le concours Eurovision de la chanson ?",
+      "reponse": "Union européenne de radio-télévision",
+      "variantes": [
+        "UER",
+        "EBU",
+        "European Broadcasting Union",
+        "Union européenne de radiodiffusion"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Union européenne",
+          "Conseil de l'Europe",
+          "UEFA"
+        ]
+      },
+      "explication": "L'Union européenne de radio-télévision réunit des diffuseurs publics, surtout européens. Son réseau d'échange de programmes, baptisé Eurovision, permet dès les années 1950 de retransmettre un même direct dans plusieurs pays. Le concours de la chanson en est l'émanation : chaque année, une télévision membre le produit, le plus souvent celle du pays vainqueur de l'édition précédente.",
+      "anecdote": "Ses membres ne dépendent pas de l'Union européenne : Israël y adhère, et l'Australie, membre associé, participe au concours depuis 2015.",
+      "source": "Wikipédia (fr) — « Union européenne de radio-télévision »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-07-5",
+      "categorie": "television",
+      "niveau": 7,
+      "question": "Quelle journaliste américaine s'est fait interner en 1887 dans un asile de New York pour en dénoncer les conditions de vie ?",
+      "reponse": "Nellie Bly",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Elizabeth Bisland",
+          "Ida Tarbell"
+        ]
+      },
+      "explication": "De son vrai nom Elizabeth Cochran, Nellie Bly simule la folie pour être admise à l'asile pour femmes de Blackwell's Island. Son reportage pour le « New York World », publié ensuite sous le titre « Dix jours dans un asile », révèle la nourriture avariée, le froid et les brutalités, et entraîne une hausse du budget consacré aux malades. Elle devient une pionnière du journalisme d'infiltration.",
+      "anecdote": "Deux ans plus tard, elle boucle un tour du monde en 72 jours, plus vite que le Phileas Fogg de Jules Verne.",
+      "source": "Wikipédia (fr) — « Nellie Bly »",
+      "verification": {
+        "statut": "relue",
+        "note": "Modifiée : le tour du monde de Nellie Bly figure déjà dans l'explication de lit-05-1 ; question sur l'asile."
+      }
+    },
+    {
+      "id": "tel-07-6",
+      "categorie": "television",
+      "niveau": 7,
+      "question": "En décembre 1997, un épisode de quelle série animée japonaise a provoqué des malaises chez des centaines d'enfants à cause de flashs lumineux ?",
+      "reponse": "Pokémon",
+      "variantes": [
+        "Pokemon"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Dragon Ball",
+          "Digimon",
+          "Sailor Moon"
+        ]
+      },
+      "explication": "Le 16 décembre 1997, l'épisode « Electric Soldier Porygon », diffusé par TV Tokyo, montre une explosion accompagnée d'une succession rapide de flashs rouges et bleus. Des centaines de jeunes téléspectateurs souffrent de crises d'épilepsie photosensible, de nausées ou de troubles de la vue et sont conduits à l'hôpital. La série est suspendue quatre mois, et des règles sur les clignotements sont adoptées.",
+      "anecdote": "Le Pokémon Porygon, pourtant innocent, n'est plus jamais réapparu en vedette dans le dessin animé.",
+      "source": "Wikipédia (fr) — « Pokémon (série télévisée d'animation) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-07-7",
+      "categorie": "television",
+      "niveau": 7,
+      "question": "Quel tabloïd britannique, propriété de Rupert Murdoch, a fermé en juillet 2011 après un scandale d'écoutes téléphoniques ?",
+      "reponse": "News of the World",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "The Sun",
+          "Daily Mirror",
+          "Daily Mail"
+        ]
+      },
+      "explication": "Fondé en 1843, le journal dominical était l'un des plus vendus du monde anglophone. Racheté en 1969 par Rupert Murdoch, il est rattrapé par des révélations sur le piratage des messageries de célébrités, de responsables politiques et de victimes de crimes, dont une adolescente assassinée. Face au scandale, son dernier numéro paraît le 10 juillet 2011, après 168 ans d'existence.",
+      "anecdote": "Sa dernière une titrait simplement « Thank you & goodbye », « Merci et au revoir ».",
+      "source": "Wikipédia (fr) — « News of the World »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-07-8",
+      "categorie": "television",
+      "niveau": 7,
+      "question": "Quel aliment un célèbre poisson d'avril de la BBC montrait-il récolté sur des arbres, en Suisse, en 1957 ?",
+      "reponse": "Spaghettis",
+      "variantes": [
+        "Spaghetti",
+        "Arbre à spaghettis",
+        "Arbres à spaghettis"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Macaronis",
+          "Tagliatelles",
+          "Penne"
+        ]
+      },
+      "explication": "Le 1er avril 1957, le magazine d'actualité « Panorama » diffuse un court reportage sur la récolte des spaghettis dans le Tessin, où des paysannes cueillent les pâtes suspendues aux branches. La voix grave et respectée du journaliste Richard Dimbleby rend la scène crédible. À une époque où les spaghettis restent un mets exotique au Royaume-Uni, de nombreux téléspectateurs y croient.",
+      "anecdote": "Des téléspectateurs ont demandé comment faire pousser leur propre arbre ; la BBC leur aurait conseillé de planter un brin de spaghetti dans une boîte de sauce tomate.",
+      "source": "Wikipédia (fr) — « Arbre à spaghettis »",
+      "verification": {
+        "statut": "relue",
+        "note": "Énoncé durci pour le niveau 7 (le mot « pâtes » donnait la réponse)."
+      }
+    },
+    {
+      "id": "tel-08-1",
+      "categorie": "television",
+      "niveau": 8,
+      "question": "Quel journaliste a présenté le premier journal télévisé français, le 29 juin 1949 ?",
+      "reponse": "Pierre Sabbagh",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Pierre Tchernia",
+          "Léon Zitrone",
+          "Roger Gicquel"
+        ]
+      },
+      "explication": "Le premier « Journal télévisé » de la RTF est lancé à une époque où très peu de foyers possèdent un téléviseur. Les reportages sont tournés sur pellicule, puis développés et montés avant l'antenne. Pierre Sabbagh, entouré notamment de Pierre Tchernia, invente un format qui deviendra un rituel quotidien. Il crée plus tard « Au théâtre ce soir », diffusé à partir de 1966.",
+      "source": "Wikipédia (fr) — « Pierre Sabbagh »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-08-2",
+      "categorie": "television",
+      "niveau": 8,
+      "question": "Quel magazine de grands reportages, lancé en 1959 par Pierre Lazareff, emprunte son titre au jargon de la presse écrite ?",
+      "reponse": "Cinq colonnes à la une",
+      "variantes": [
+        "5 colonnes à la une"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Envoyé spécial",
+          "Zone interdite"
+        ]
+      },
+      "explication": "Diffusé environ une fois par mois de janvier 1959 à mai 1968, le magazine est conçu par Pierre Lazareff, Pierre Desgraupes, Pierre Dumayet et Igor Barrère. Il invente le grand reportage télévisé à la française : guerre d'Algérie, portraits, enquêtes sociales. Son titre désigne, dans un journal, une nouvelle assez importante pour occuper toute la largeur de la première page.",
+      "anecdote": "Pierre Desgraupes et Pierre Dumayet animaient aussi « Lectures pour tous », magazine littéraire lancé en 1953.",
+      "source": "Wikipédia (fr) — « Cinq colonnes à la une »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-08-3",
+      "categorie": "television",
+      "niveau": 8,
+      "question": "Quel photographe a reçu le prix Pulitzer 1945 pour son image de soldats hissant le drapeau américain à Iwo Jima ?",
+      "reponse": "Joe Rosenthal",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Robert Capa",
+          "Eddie Adams"
+        ]
+      },
+      "explication": "Le 23 février 1945, sur le mont Suribachi, Joe Rosenthal, photographe de l'Associated Press, saisit six hommes plantant un second drapeau, plus grand que le premier. Publiée deux jours plus tard dans de nombreux journaux américains, l'image devient le symbole de la guerre du Pacifique. Elle a inspiré le mémorial du Corps des Marines, érigé à Arlington, près de Washington.",
+      "anecdote": "Il a longtemps dû démentir avoir fait poser les soldats : une autre photo, posée celle-là, prise juste après, avait semé la confusion.",
+      "source": "Wikipédia (fr) — « Raising the Flag on Iwo Jima »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-08-4",
+      "categorie": "television",
+      "niveau": 8,
+      "question": "Quel producteur a créé en 1978 la série animée éducative « Il était une fois… l'Homme », avec le savant Maestro ?",
+      "reponse": "Albert Barillé",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Christophe Izard",
+          "Jean Chalopin"
+        ]
+      },
+      "explication": "Producteur et scénariste, Albert Barillé fonde le studio Procidis et lance avec « Il était une fois… l'Homme » une série qui retrace l'histoire de l'humanité, de la préhistoire au XXe siècle. Le succès entraîne d'autres volets, dont « Il était une fois… la Vie » en 1987, qui explore le corps humain. On y retrouve à chaque fois les mêmes personnages, comme Maestro, le vieux sage barbu.",
+      "anecdote": "Le générique de la première série s'ouvre sur la Toccata et fugue en ré mineur attribuée à Jean-Sébastien Bach.",
+      "source": "Wikipédia (fr) — « Il était une fois… l'Homme »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-08-5",
+      "categorie": "television",
+      "niveau": 8,
+      "question": "Quel hebdomadaire allemand, dirigé par Rudolf Augstein, a provoqué en 1962 une crise politique après un article sur l'armée ?",
+      "reponse": "Der Spiegel",
+      "variantes": [
+        "Spiegel",
+        "Le Spiegel"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Die Zeit",
+          "Stern",
+          "Bild"
+        ]
+      },
+      "explication": "Fondé en 1947 à Hanovre, sous l'occupation britannique, puis installé à Hambourg, « Der Spiegel » publie en octobre 1962 un article jugeant la Bundeswehr peu préparée à une attaque. La police perquisitionne la rédaction et Rudolf Augstein passe plus de trois mois en détention. L'affaire, vécue comme une atteinte à la liberté de la presse, pousse le ministre de la Défense Franz Josef Strauss à quitter son poste.",
+      "source": "Wikipédia (fr) — « Affaire du Spiegel »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-08-6",
+      "categorie": "television",
+      "niveau": 8,
+      "question": "Quel magazine d'information de CBS, lancé en 1968, s'ouvre sur le tic-tac d'un chronomètre ?",
+      "reponse": "60 Minutes",
+      "variantes": [
+        "Sixty Minutes",
+        "Soixante minutes"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "20/20",
+          "Dateline",
+          "Face the Nation"
+        ]
+      },
+      "explication": "Créé par le producteur Don Hewitt, le magazine démarre le 24 septembre 1968. Il propose chaque semaine plusieurs enquêtes et portraits, portés par des journalistes vedettes comme Mike Wallace, connu pour ses interviews offensives. Son mélange de reportage d'investigation et de récit a servi de modèle à de nombreux magazines télévisés, et l'émission reste longtemps parmi les plus regardées aux États-Unis.",
+      "source": "Wikipédia (en) — « 60 Minutes »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-08-7",
+      "categorie": "television",
+      "niveau": 8,
+      "question": "Quelle marque de fromage a diffusé la première publicité de marque de la télévision française, le 1er octobre 1968 ?",
+      "reponse": "Boursin",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "La Vache qui rit",
+          "Kiri",
+          "Babybel"
+        ]
+      },
+      "explication": "Jusque-là, la télévision publique ne diffusait que des messages collectifs, vantant par exemple un type de produit sans citer de marque. Le 1er octobre 1968, l'ORTF ouvre ses écrans aux annonceurs et Boursin, fromage normand créé en 1957 par François Boursin, est la première marque à apparaître. Son slogan « Du pain, du vin, du Boursin » restera longtemps associé au produit.",
+      "source": "Wikipédia (fr) — « Boursin »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-08-8",
+      "categorie": "television",
+      "niveau": 8,
+      "question": "Quelle agence de presse un émigré allemand a-t-il fondée à Londres en 1851, après avoir transmis des cours de Bourse par pigeons voyageurs ?",
+      "reponse": "Reuters",
+      "variantes": [
+        "Agence Reuters",
+        "Thomson Reuters"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Associated Press",
+          "Agence France-Presse",
+          "Havas",
+          "Bloomberg"
+        ]
+      },
+      "explication": "En 1850, Paul Julius Reuter comble par des pigeons voyageurs le trou qui sépare encore les lignes télégraphiques d'Aix-la-Chapelle et de Bruxelles. Installé à Londres l'année suivante, près de la Bourse, il profite du câble sous-marin posé sous la Manche pour transmettre rapidement les cours entre places financières. L'agence s'ouvre ensuite à l'actualité générale et fusionne en 2008 avec le groupe canadien Thomson.",
+      "source": "Wikipédia (fr) — « Reuters »",
+      "verification": {
+        "statut": "relue",
+        "note": "Remplacée : « pionnier italien de la radio » donnait Marconi (trop facile au niveau 8, même réponse que inv-03-2)."
+      },
+      "anecdote": "En 1865, l'agence est la première à annoncer en Europe l'assassinat d'Abraham Lincoln."
+    },
+    {
+      "id": "tel-09-1",
+      "categorie": "television",
+      "niveau": 9,
+      "question": "Quel journaliste de CBS a démonté les méthodes du sénateur McCarthy dans son émission « See It Now », en mars 1954 ?",
+      "reponse": "Edward R. Murrow",
+      "variantes": [
+        "Edward Murrow",
+        "Ed Murrow"
+      ],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Walter Cronkite",
+          "Fred Friendly"
+        ]
+      },
+      "explication": "Le 9 mars 1954, Edward R. Murrow consacre un numéro de « See It Now » au sénateur Joseph McCarthy, en s'appuyant surtout sur ses propres discours pour en souligner les contradictions. L'émission contribue au déclin du chasseur de communistes, censuré par le Sénat en décembre 1954. Murrow s'était d'abord fait connaître par ses reportages radiophoniques depuis Londres sous le Blitz.",
+      "anecdote": "Il terminait ses émissions par « Good night, and good luck », titre du film que George Clooney lui a consacré en 2005.",
+      "source": "Wikipédia (fr) — « Edward R. Murrow »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-09-2",
+      "categorie": "television",
+      "niveau": 9,
+      "question": "Quelle agence de presse a été fondée à New York en 1846 par des quotidiens qui partageaient les nouvelles de la guerre contre le Mexique ?",
+      "reponse": "Associated Press",
+      "variantes": [
+        "AP",
+        "The Associated Press"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "United Press",
+          "Reuters",
+          "AFP",
+          "Agence France-Presse"
+        ]
+      },
+      "explication": "Cinq quotidiens new-yorkais s'associent pour financer ensemble l'acheminement des nouvelles du front mexicain, plutôt que de se livrer une concurrence coûteuse. Organisée en coopérative appartenant à ses journaux membres, l'Associated Press devient l'une des plus grandes agences du monde. Ses reporters et photographes ont reçu de nombreux prix Pulitzer, notamment pour la photographie de guerre.",
+      "anecdote": "Son manuel de rédaction, l'« AP Stylebook », sert de référence à de nombreuses rédactions américaines.",
+      "source": "Encyclopædia Britannica — « Associated Press »",
+      "verification": {
+        "statut": "relue",
+        "note": "Pièges AFP ajoutés (proches de « AP » à l'écrit)."
+      }
+    },
+    {
+      "id": "tel-09-3",
+      "categorie": "television",
+      "niveau": 9,
+      "question": "Quel producteur a créé en 1965 le jeu « Le Mot le plus long », devenu ensuite « Des chiffres et des lettres » ?",
+      "reponse": "Armand Jammot",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Jacques Antoine",
+          "Guy Lux",
+          "Patrice Laffont"
+        ]
+      },
+      "explication": "Le jeu, qui consiste d'abord à former le mot le plus long possible avec des lettres tirées au hasard, prend son nom définitif en 1972 avec l'ajout de l'épreuve « Le compte est bon ». Il devient l'un des jeux les plus durables de la télévision française. Armand Jammot a aussi produit « Les Dossiers de l'écran », où un film servait de point de départ à un débat.",
+      "anecdote": "Le jeu a été adapté au Royaume-Uni sous le nom de « Countdown », premier programme diffusé par Channel 4 lors de son lancement en 1982.",
+      "source": "Wikipédia (fr) — « Des chiffres et des lettres »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-09-4",
+      "categorie": "television",
+      "niveau": 9,
+      "question": "Quel photographe sud-africain a reçu le Pulitzer 1994 pour l'image d'un enfant soudanais affamé guetté par un vautour ?",
+      "reponse": "Kevin Carter",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Joao Silva",
+          "Steve McCurry"
+        ]
+      },
+      "explication": "Prise en mars 1993 au Soudan, alors frappé par la famine, la photo est publiée par le « New York Times ». Elle suscite une immense émotion, mais aussi des critiques : beaucoup reprochent au photographe de ne pas avoir secouru l'enfant. Membre du « Bang-Bang Club », qui couvrait les violences en Afrique du Sud, Kevin Carter met fin à ses jours en juillet 1994, quelques mois après son prix.",
+      "anecdote": "Longtemps présenté comme une fillette, l'enfant était un garçon, Kong Nyong, qui avait survécu à la famine, selon une enquête journalistique publiée en 2011.",
+      "source": "Wikipédia (fr) — « Kevin Carter »",
+      "verification": {
+        "statut": "relue",
+        "note": "Sujet sensible : formulation sobre ; anecdote vérifiée et resserrée."
+      }
+    },
+    {
+      "id": "tel-09-5",
+      "categorie": "television",
+      "niveau": 9,
+      "question": "Quel animateur a présenté le « Jeu des 1 000 francs » sur France Inter de 1965 à 1995 ?",
+      "reponse": "Lucien Jeunesse",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Louis Bozon",
+          "Nicolas Stoufflet"
+        ]
+      },
+      "explication": "Créé en 1958, ce jeu radiophonique se déplace de ville en ville : des candidats répondent à des questions envoyées par les auditeurs, devant un public local. La formule « banco » permet de tenter une question plus difficile, puis le « super banco ». Lucien Jeunesse l'anime pendant trente ans. Le passage à l'euro le transforme en « Jeu des 1 000 euros » en 2002.",
+      "anecdote": "Louis Bozon, puis Nicolas Stoufflet, ont succédé à Lucien Jeunesse, perpétuant l'un des plus anciens jeux de la radio française.",
+      "source": "Wikipédia (fr) — « Le Jeu des 1 000 euros »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-09-6",
+      "categorie": "television",
+      "niveau": 9,
+      "question": "Sous quel nom la radio libre parisienne de Pierre Bellanger émettait-elle avant de devenir Skyrock en 1986 ?",
+      "reponse": "La Voix du Lézard",
+      "variantes": [
+        "Voix du Lézard"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Radio Nova",
+          "Fun Radio",
+          "Radio Carbone 14"
+        ]
+      },
+      "explication": "Née de la libéralisation des ondes au début des années 1980, la Voix du Lézard devient Skyrock en 1986 sous l'impulsion de Pierre Bellanger. La station mise d'abord sur le rock, comme son nouveau nom l'indique, puis se tourne dans les années 1990 vers le rap et le hip-hop, dont elle devient l'une des principales vitrines en France, avec des émissions de libre antenne nocturnes.",
+      "source": "Wikipédia (fr) — « Skyrock »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-09-7",
+      "categorie": "television",
+      "niveau": 9,
+      "question": "Quel quotidien populaire vendu un sou, lancé en 1863 par Moïse Millaud, a dépassé le million d'exemplaires ?",
+      "reponse": "Le Petit Journal",
+      "variantes": [
+        "Petit Journal"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Le Petit Parisien",
+          "Le Matin",
+          "Le Figaro"
+        ]
+      },
+      "explication": "Vendu cinq centimes, soit un sou, sans contenu politique pour échapper au droit de timbre, le journal mise sur les faits divers et les feuilletons. Grâce à la rotative et au chemin de fer, il touche toute la France et dépasse le million d'exemplaires vers 1890. Son supplément illustré en couleurs devient célèbre pour ses unes spectaculaires.",
+      "anecdote": "Le titre a été repris en 2004 pour une rubrique satirique de « Canal+ », devenue ensuite une émission à part entière.",
+      "source": "Wikipédia (fr) — « Le Petit Journal (quotidien) »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-09-8",
+      "categorie": "television",
+      "niveau": 9,
+      "question": "Quel surnom familial, évoquant une parente, les Britanniques donnent-ils à la BBC ?",
+      "reponse": "Auntie",
+      "variantes": [
+        "Auntie Beeb",
+        "Tante",
+        "Tantine"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Granny",
+          "Mummy",
+          "Nanny"
+        ]
+      },
+      "explication": "Le surnom de « tante » se moque gentiment du ton jugé paternaliste de la BBC, comme celui d'une vieille parente persuadée de savoir ce qui est bon pour vous. Société privée fondée en 1922, la British Broadcasting Company devient en 1927, par charte royale, un organisme public : la British Broadcasting Corporation. Son premier directeur général, John Reith, lui fixe pour mission d'informer, d'éduquer et de divertir.",
+      "anecdote": "La BBC est financée principalement par une redevance que paient les foyers britanniques équipés pour regarder la télévision en direct.",
+      "source": "Wikipédia (fr) — « British Broadcasting Corporation »",
+      "verification": {
+        "statut": "relue",
+        "note": "Explication corrigée : Company (1922) puis Corporation (1927)."
+      }
+    },
+    {
+      "id": "tel-10-1",
+      "categorie": "television",
+      "niveau": 10,
+      "question": "Quel ministre des PTT a inauguré la première émission officielle de télévision en France, en avril 1935 ?",
+      "reponse": "Georges Mandel",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Georges Clemenceau",
+          "Léon Blum"
+        ]
+      },
+      "explication": "Le 26 avril 1935, depuis un studio du ministère des Postes, Télégraphes et Téléphones à Paris, Radio-PTT Vision diffuse une émission officielle avec l'actrice de la Comédie-Française Béatrice Bretty. Très peu de récepteurs peuvent alors la capter. Ancien collaborateur de Clemenceau, Georges Mandel s'oppose ensuite à l'armistice de 1940 ; il sera assassiné par la Milice en juillet 1944.",
+      "anecdote": "L'émetteur de télévision est installé dès la fin de 1935 au sommet de la tour Eiffel, qui sert d'antenne depuis le début du siècle.",
+      "source": "Wikipédia (fr) — « Georges Mandel »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-10-2",
+      "categorie": "television",
+      "niveau": 10,
+      "question": "Quelle marque de montres a diffusé la première publicité télévisée officielle, à New York en juillet 1941 ?",
+      "reponse": "Bulova",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Rolex",
+          "Timex",
+          "Omega"
+        ]
+      },
+      "explication": "Le 1er juillet 1941, jour où la publicité commerciale est autorisée à la télévision américaine, la station new-yorkaise WNBT diffuse avant un match de baseball des Brooklyn Dodgers un spot de quelques secondes : une horloge de la marque sur une carte des États-Unis, avec le slogan « America runs on Bulova time ». L'annonceur n'aurait payé que quelques dollars.",
+      "source": "Wikipédia (en) — « Bulova »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-10-3",
+      "categorie": "television",
+      "niveau": 10,
+      "question": "Dans quelle ville Johann Carolus a-t-il publié en 1605 la « Relation », souvent considérée comme le premier journal imprimé ?",
+      "reponse": "Strasbourg",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Mayence",
+          "Anvers",
+          "Augsbourg",
+          "Bâle"
+        ]
+      },
+      "explication": "Libraire et imprimeur, Johann Carolus vendait des nouvelles recopiées à la main. En 1605, il demande au conseil de la ville, alors dans le Saint-Empire, le droit de les imprimer pour gagner du temps : naît ainsi une feuille hebdomadaire, la « Relation ». L'Association mondiale des journaux la reconnaît comme le premier journal au sens moderne : périodique, imprimé et ouvert à l'actualité générale.",
+      "anecdote": "En France, il faut attendre 1631 pour que Théophraste Renaudot lance « La Gazette », avec le soutien de Richelieu.",
+      "source": "Wikipédia (en) — « Relation aller Fürnemmen und gedenckwürdigen Historien »",
+      "verification": {
+        "statut": "relue",
+        "note": "Source remplacée par l'article consacré au journal."
+      }
+    },
+    {
+      "id": "tel-10-4",
+      "categorie": "television",
+      "niveau": 10,
+      "question": "Quel architecte a conçu la Maison de la Radio, édifice circulaire inauguré à Paris en 1963 ?",
+      "reponse": "Henry Bernard",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Jean Prouvé",
+          "Auguste Perret",
+          "Bernard Zehrfuss"
+        ]
+      },
+      "explication": "Inaugurée par le général de Gaulle le 14 décembre 1963, la Maison de la Radio regroupe en bord de Seine, dans le 16e arrondissement, des services jusque-là dispersés. Son anneau d'environ 500 mètres de circonférence entoure une tour centrale destinée aux archives. Le bâtiment abrite Radio France et ses studios, dont un auditorium ouvert en 2014 lors d'une vaste rénovation.",
+      "anecdote": "Henry Bernard, lauréat du grand prix de Rome, a aussi dessiné le Palais de l'Europe de Strasbourg, siège du Conseil de l'Europe.",
+      "source": "Wikipédia (fr) — « Maison de la Radio »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-10-5",
+      "categorie": "television",
+      "niveau": 10,
+      "question": "Sous quel nom le quotidien londonien The Times a-t-il été fondé en 1785 ?",
+      "reponse": "The Daily Universal Register",
+      "variantes": [
+        "Daily Universal Register",
+        "Universal Register"
+      ],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "The London Gazette",
+          "The Daily Courant",
+          "The Morning Post"
+        ]
+      },
+      "explication": "Le journal est lancé le 1er janvier 1785 par l'homme d'affaires John Walter, qui voulait aussi promouvoir un procédé d'impression. Trois ans plus tard, le 1er janvier 1788, il prend le titre de « The Times ». Au XIXe siècle, il devient le quotidien de référence de l'establishment britannique, surnommé « The Thunderer », le tonnerre, pour la vigueur de ses éditoriaux.",
+      "anecdote": "La police de caractères Times New Roman a été créée pour ce journal au début des années 1930.",
+      "source": "Wikipédia (fr) — « The Times »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-10-6",
+      "categorie": "television",
+      "niveau": 10,
+      "question": "Quel chanteur norvégien a terminé dernier, sans aucun point, à l'Eurovision 1978 organisée à Paris ?",
+      "reponse": "Jahn Teigen",
+      "variantes": [],
+      "validation": {
+        "type": "personne",
+        "pieges": [
+          "Alexander Rybak",
+          "Åse Kleveland"
+        ]
+      },
+      "explication": "Avec « Mil etter mil », Jahn Teigen termine la soirée du 22 avril 1978 sans le moindre point, une humiliation devenue légendaire, et alimente la réputation de la Norvège, souvent classée dernière. Sa prestation excentrique, ponctuée de sauts sur scène, le rend pourtant très populaire chez lui : la chanson devient un succès en Norvège. Le concours est remporté cette année-là par Israël.",
+      "anecdote": "Le concours se tenait à Paris parce que la France l'avait remporté l'année précédente avec Marie Myriam.",
+      "source": "Wikipédia (fr) — « Jahn Teigen »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-10-7",
+      "categorie": "television",
+      "niveau": 10,
+      "question": "Quelle station, lancée en novembre 1922 par la Société française radio-électrique, fut la première radio privée française ?",
+      "reponse": "Radiola",
+      "variantes": [],
+      "validation": {
+        "type": "texte",
+        "pieges": [
+          "Radio-Paris",
+          "Radio Tour Eiffel",
+          "Radio-PTT"
+        ]
+      },
+      "explication": "Fondée à l'initiative de l'industriel Émile Girardeau, Radiola diffuse des concerts, des informations et des causeries depuis la région parisienne. Son présentateur, Marcel Laporte, se fait appeler « Radiolo » et passe pour le premier speaker de la radio française. La station prend le nom de Radio-Paris en 1924, avant d'être rachetée par l'État en 1933.",
+      "source": "Wikipédia (fr) — « Radio-Paris »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    },
+    {
+      "id": "tel-10-8",
+      "categorie": "television",
+      "niveau": 10,
+      "question": "Combien de lignes comptait le standard de télévision « haute définition » adopté par la France en 1948 ?",
+      "reponse": "819",
+      "variantes": [],
+      "validation": {
+        "type": "nombre",
+        "valeur": 819,
+        "tolerance": 0
+      },
+      "explication": "Fixé par un arrêté de novembre 1948 signé par François Mitterrand, alors secrétaire d'État à l'Information, ce standard offre une image bien plus fine que les 405 lignes britanniques. Mais il impose des récepteurs spécifiques et occupe beaucoup de bande passante. La deuxième chaîne, lancée en 1964, adopte donc le standard européen de 625 lignes, que la première chaîne rejoint ensuite.",
+      "source": "Wikipédia (fr) — « 819 lignes »",
+      "verification": {
+        "statut": "relue",
+        "note": ""
+      }
+    }
+  ]
+}

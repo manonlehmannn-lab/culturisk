@@ -8,10 +8,10 @@
 //   reveal  → question définitivement résolue : réponse + « Le saviez-vous ? » ;
 //   turnEnd → résumé du tour, puis la main passe à l'autre équipe.
 
-import { CATEGORY_IDS, LEVELS, pointsFor } from './categories.js';
+import { CATEGORY_IDS, CLASSIQUES, MIN_CATEGORIES, LEVELS, pointsFor } from './categories.js';
 import { validate } from './validation.js';
 
-export const SCHEMA = 1;
+export const SCHEMA = 2; // 2 : thèmes choisis par partie (state.categories)
 
 const clone = (o) => JSON.parse(JSON.stringify(o));
 const other = (team) => 1 - team;
@@ -19,10 +19,10 @@ const other = (team) => 1 - team;
 // ------------------------------------------------------------------ création
 
 // Tire une question par thème et par niveau, en évitant celles déjà vues dans les parties précédentes.
-function drawQuestions(bank, seen, rng) {
+function drawQuestions(bank, categories, seen, rng) {
   const seenSet = new Set(seen);
   const draw = {};
-  for (const cat of CATEGORY_IDS) {
+  for (const cat of categories) {
     draw[cat] = bank.grid[cat].map((ids) => {
       if (!ids.length) return null;
       const fresh = ids.filter((id) => !seenSet.has(id));
@@ -37,8 +37,12 @@ export function createGame(config, bank, { seen = [], rng = Math.random, now = D
   const names = (config.teams || []).map((t, i) => String(t || '').trim() || `Équipe ${i + 1}`);
   if (names.length !== 2) throw new Error('Il faut deux équipes.');
   const starter = config.starter === 1 ? 1 : 0;
+  // Thèmes de la partie, dans l'ordre officiel ; les 10 classiques par défaut.
+  const wanted = new Set(config.categories || CLASSIQUES);
+  const categories = CATEGORY_IDS.filter((cat) => wanted.has(cat) && bank.grid[cat].some((ids) => ids.length));
+  if (categories.length < MIN_CATEGORIES) throw new Error(`Choisissez au moins ${MIN_CATEGORIES} thèmes.`);
   const board = {};
-  for (const cat of CATEGORY_IDS) board[cat] = [];
+  for (const cat of categories) board[cat] = [];
   return {
     schema: SCHEMA,
     id: `p${now.toString(36)}`,
@@ -48,13 +52,21 @@ export function createGame(config, bank, { seen = [], rng = Math.random, now = D
     manche: 1,
     starter,
     active: starter,
+    categories,
     board,
-    draw: drawQuestions(bank, seen, rng),
+    draw: drawQuestions(bank, categories, seen, rng),
     turn: freshTurn(starter),
     step: { kind: 'choose' },
     history: [],
     arbitrages: [],
   };
+}
+
+// Reprise d'une partie sauvegardée par une version précédente de l'application.
+export function upgrade(state) {
+  if (!state || !state.step) return null;
+  if (state.schema === 1) return { ...state, schema: SCHEMA, categories: CLASSIQUES.slice() };
+  return state.schema === SCHEMA && Array.isArray(state.categories) ? state : null;
 }
 
 function freshTurn(team) {
@@ -65,11 +77,11 @@ function freshTurn(team) {
 
 export const nextLevel = (state, cat) => state.board[cat].length + 1;
 export const exhausted = (state, cat) => nextLevel(state, cat) > LEVELS || !state.draw[cat][nextLevel(state, cat) - 1];
-export const boardDone = (state) => CATEGORY_IDS.every((cat) => exhausted(state, cat));
+export const boardDone = (state) => state.categories.every((cat) => exhausted(state, cat));
 
 // Thèmes jouables par l'équipe active : ni épuisés, ni quittés pendant ce tour.
 export function available(state) {
-  return CATEGORY_IDS.filter((cat) => !exhausted(state, cat) && !state.turn.left.includes(cat));
+  return state.categories.filter((cat) => !exhausted(state, cat) && !state.turn.left.includes(cat));
 }
 
 export const questionOf = (state, bank) => (state.step.qid ? bank.byId.get(state.step.qid) : null);
@@ -222,7 +234,7 @@ export function standings(state) {
 // Récapitulatif de fin de partie : points par thème et par équipe, interceptions, plus haut niveau réussi.
 export function recap(state) {
   const perCat = {};
-  for (const cat of CATEGORY_IDS) perCat[cat] = { points: [0, 0], played: state.board[cat].length };
+  for (const cat of state.categories) perCat[cat] = { points: [0, 0], played: state.board[cat].length };
   const steals = [0, 0];
   const best = [null, null];
   for (const h of state.history) {
@@ -234,7 +246,7 @@ export function recap(state) {
   }
   const favorite = [0, 1].map((t) => {
     let top = null;
-    for (const cat of CATEGORY_IDS) {
+    for (const cat of state.categories) {
       const p = perCat[cat].points[t];
       if (p > 0 && (!top || p > top.points)) top = { cat, points: p };
     }
